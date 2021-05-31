@@ -231,10 +231,6 @@ features:
         content: "Get Thumbnails of the Document Pages & Work with Multi-page TIFF files"
       
       # feature loop
-      - icon: "fas fa-fill-drip"
-        content: "Assign Access Rights to Users for Allowed Annotation Actions"
-
-      # feature loop
       - icon: "fas fa-file-excel"
         content: "Fetch all Annotation of a Document with a Single Function Call"
 
@@ -270,11 +266,7 @@ features:
       # more_feature_loop
       - title: "Configurable Data Object Properties"
         content: |
-          GroupDocs.Annotation for Java API consists of an extensive collection of data objects with configurable properties, used in data storage. These properties include, Annotation (coordinates, dimensions, type, color, frame style, background color etc.), Annotation Collaborator (ID, document, access rights etc.), Annotation Reply (reply, parent annotation, GUID, message, time etc.), Document (GUID, name, owner, type, access rights etc.), User (ID, nick, email, password, photo etc.).
-
-      # more_feature_loop
-      - title: "User Rights Access Management"
-        content: "GroupDocs.Annotation for Java API empowers you to easily manage user rights for accessing annotations. You can assign or revoke user access rights by configuring properties, such as View, Annotate, Download, Export, Delete etc."
+          GroupDocs.Annotation for Java API consists of an extensive collection of data objects with configurable properties, used in data storage. These properties include, Annotation (coordinates, dimensions, type, color, frame style, background color etc.), Annotation Collaborator (ID, document etc.), Annotation Reply (reply, parent annotation, GUID, message, time etc.), Document (GUID, name, owner, type etc.), User (ID, nick, email, password, photo etc.).
 
 ############################# Support ############################
 support:

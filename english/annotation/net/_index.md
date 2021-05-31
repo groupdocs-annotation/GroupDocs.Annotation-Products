@@ -282,13 +282,14 @@ features:
           // Add annotation to list
           annotations.Add(textAnnotation);
           // Get input file stream
-          Stream inputFile = new FileStream("D:/input.pdf", FileMode.Open, FileAccess.ReadWrite);
+          Stream inputFile = new FileStream("D:/input.pdf", FileMode.Open, File
+          .ReadWrite);
           // Export annotation and save output file
           CommonUtilities.SaveOutputDocument(inputFile, annotations, DocumentType.Pdf);
           ```
       # more_feature_loop
       - title: "Properties used in Data Storage"
-        content: "GroupDocs.Annotation for .NET API provides a comprehensive set of data objects with properties, used in data storage. You can work with Annotation (coordinates, dimensions, type, color, frame style, background color etc.), Annotation Collaborator (ID, document, access rights etc.), Annotation Reply (reply, parent annotation, GUID, message, time etc.), Document (GUID, name, owner, type, access rights etc.), User (ID, nick, email, password, photo etc.).‎"
+        content: "GroupDocs.Annotation for .NET API provides a comprehensive set of data objects with properties, used in data storage. You can work with Annotation (coordinates, dimensions, type, color, frame style, background color etc.), Annotation Collaborator (ID, document etc.), Annotation Reply (reply, parent annotation, GUID, message, time etc.), Document (GUID, name, owner, type rights etc.), User (ID, nick, email, password, photo etc.).‎"
 
 ############################# Support ############################
 support:

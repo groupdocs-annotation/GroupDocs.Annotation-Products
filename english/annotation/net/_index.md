@@ -178,10 +178,6 @@ features:
         content: "Metered License – Controlled Billing by Paying According to API Usage"
       
       # feature loop
-      - icon: "fas fa-file-powerpoint"
-        content: "Assign User Access Rights to Restrict Annotation Activities on Document"
-
-      # feature loop
       - icon: "fas fa-code"
         content: "Single Function Call to Fetch All Annotations of a Document"
 
@@ -293,10 +289,6 @@ features:
       # more_feature_loop
       - title: "Properties used in Data Storage"
         content: "GroupDocs.Annotation for .NET API provides a comprehensive set of data objects with properties, used in data storage. You can work with Annotation (coordinates, dimensions, type, color, frame style, background color etc.), Annotation Collaborator (ID, document, access rights etc.), Annotation Reply (reply, parent annotation, GUID, message, time etc.), Document (GUID, name, owner, type, access rights etc.), User (ID, nick, email, password, photo etc.).‎"
-
-      # more_feature_loop
-      - title: "Access Rights Management"
-        content: "GroupDocs.Annotation for .NET API offers easy way to manage access rights of annotations. The properties that you can assign or revoke include View, Annotate, Download, Export, Delete etc."
 
 ############################# Support ############################
 support:

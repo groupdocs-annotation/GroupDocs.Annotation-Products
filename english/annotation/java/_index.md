@@ -79,10 +79,8 @@ overview:
             * Add Annotations
             * Export Annotations
             * Import Annotations
-            * User Management
             * Reply Based Comments
             * Annotation Compatibility
-            * Abstract Storage
       
       ## TAB TWO ##
       tab_two:
@@ -97,7 +95,7 @@ overview:
               content: |
                 * **Word**: DOC, DOCX, DOCM, DOT, DOTX, DOTM, RTF
                 * **Excel**: XLS, XLSX, XLSB, XLSM
-                * **PowerPoint**: PPT, PPTX, PPTM, POTX, POTM, PPS, PPSX, PPSM
+                * **PowerPoint**: PPT, PPTX, PPS, PPSX
                 * **Outlook**: EML, EMLX
                 * **Visio**: VSS, VST, VSD, VSDX
 
@@ -223,10 +221,6 @@ features:
         content: "Fetch Document Information & Images for Visio Diagrams, such as VSS & VSD"
 
       # feature loop
-      - icon: "fas fa-lock"
-        content: "Perform Annotation Management (Add, Modify & Delete Annotations) Tasks using Data Storage"
-
-      # feature loop
       - icon: "fas fa-file-code"
         content: "Get Thumbnails of the Document Pages & Work with Multi-page TIFF files"
       
@@ -261,12 +255,6 @@ features:
       # feature loop
       - icon: "fab fa-uncharted"
         content: "Display Distance Annotation Captions for Excel, PowerPoint and Diagrams"
-
-    more_feature:
-      # more_feature_loop
-      - title: "Configurable Data Object Properties"
-        content: |
-          GroupDocs.Annotation for Java API consists of an extensive collection of data objects with configurable properties, used in data storage. These properties include, Annotation (coordinates, dimensions, type, color, frame style, background color etc.), Annotation Collaborator (ID, document etc.), Annotation Reply (reply, parent annotation, GUID, message, time etc.), Document (GUID, name, owner, type etc.), User (ID, nick, email, password, photo etc.).
 
 ############################# Support ############################
 support:

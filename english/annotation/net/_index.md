@@ -76,11 +76,9 @@ overview:
           content: |
             * Add Annotations
             * Export Annotations
-            * Import Annotations
-            * User Management
+            * Import Annotations            
             * Reply Based Comments
             * Annotation Compatibility
-            * Abstract Storage
       
       ## TAB TWO ##
       tab_two:
@@ -93,10 +91,10 @@ overview:
             # table loop
             - title: "Microsoft Office Formats"
               content: |
-                * **Microsoft Word**: DOC, DOCX, DOCM, DOT, DOTX, RTF
+                * **Microsoft Word**: DOC, DOCX, DOCM, DOT, DOTX, DOTM, RTF 
                 * **Microsoft Excel**: XLS, XLSX, XLSM, XLSB, CSV
-                * **Microsoft PowerPoint**: PPT, PPTX, PPTM, POTX, POTM, PPSM, PPS, PPSX
-                * **Microsoft Visio**: VSD, VSS, VSDX, VST
+                * **Microsoft PowerPoint**: PPT, PPTX, PPS, PPSX
+                * **Microsoft Visio**: VSD, VSS, VSDX, VST, VSDM, VSSX, VSTM
 
         right:
           enable: true
@@ -105,13 +103,12 @@ overview:
             - title: "Other Formats"
               content: |
                 * **Portable**: PDF (PDF/A-1a, PDF/A-1b, PDF/A-2a)
-                * **OpenDocument**: OTP, ODT, OTT, ODS, ODP
-                * **Images**: BMP, GIF, JPG, JPEG, PNG, TIFF
+                * **OpenDocument**: ODT, ODS, ODP
+                * **Images**: BMP, TIF, JPG, JPEG, PNG, TIFF
                 * **AutoCAD**: CAD, DWG, DXF
                 * **Metafiles**: EMF, WMF
-                * **Email**: EML, EMLX, MSG
+                * **Email**: EML, EMLX
                 * **Web**: HTM, HTML
-                * **Others**: DICOM, DjVu
 
       ## TAB THREE ##
       tab_three:
@@ -167,11 +164,11 @@ features:
     feature:
       # feature loop
       - icon: "fas fa-copy"
-        content: "Add, Edit & Remove Annotations and Replies in Data Storage"
+        content: "Add, Edit & Remove Annotations and Replies"
 
       # feature loop
       - icon: "fas fa-eye"
-        content: "Export Annotations from Data Storage to Document"
+        content: "Export Annotations to Document"
 
       # feature loop
       - icon: "fas fa-bolt"
@@ -192,10 +189,6 @@ features:
       # feature loop
       - icon: "fas fa-comment-slash"
         content: "Set Background Color of an Annotation or Remove all the Annotations from Document‎"
-
-      # feature loop
-      - icon: "fas fa-location-arrow"
-        content: "Storage Independence via your own Data Storage or Default Inner “XML” Storage"
 
       # feature loop
       - icon: "fas fa-border-all"
@@ -265,6 +258,10 @@ features:
       - icon: "fab fa-uncharted"
         content: "Add Text Horizontal Alignment for Text Field"
 
+      # feature loop
+      - icon: "fab fa-uncharted"
+        content: "Get information about document text lines (text, width, height, indents)"
+
     more_feature:
       # more_feature_loop
       - title: "Support for Multiple Types of Annotation"
@@ -287,9 +284,6 @@ features:
           // Export annotation and save output file
           CommonUtilities.SaveOutputDocument(inputFile, annotations, DocumentType.Pdf);
           ```
-      # more_feature_loop
-      - title: "Properties used in Data Storage"
-        content: "GroupDocs.Annotation for .NET API provides a comprehensive set of data objects with properties, used in data storage. You can work with Annotation (coordinates, dimensions, type, color, frame style, background color etc.), Annotation Collaborator (ID, document etc.), Annotation Reply (reply, parent annotation, GUID, message, time etc.), Document (GUID, name, owner, type rights etc.), User (ID, nick, email, password, photo etc.).‎"
 
 ############################# Support ############################
 support:

@@ -133,7 +133,7 @@ about_formats:
           content: |
             {{cad}}
 
-          link: "/{{cad_url}}"
+          link: "/{{cad_url}}/"
 
 ############################# More Formats ############################
 more_formats:
@@ -144,187 +144,187 @@ more_formats:
     format: 
         # format loop
         - name: "Edit Annotation in PDF"
-          link: "https://products.groupdocs.com/annotation/net/edit/pdf"
+          link: "https://products.groupdocs.com/annotation/net/edit/pdf/"
           description: "Adobe Portable Document Format"
 
         # format loop
         - name: "Edit Annotation in DOC"
-          link: "https://products.groupdocs.com/annotation/net/edit/doc"
+          link: "https://products.groupdocs.com/annotation/net/edit/doc/"
           description: "Microsoft Word Document"
 
         # format loop
         - name: "Edit Annotation in DOCM"
-          link: "https://products.groupdocs.com/annotation/net/edit/docm"
+          link: "https://products.groupdocs.com/annotation/net/edit/docm/"
           description: "Microsoft Word Macro-Enabled Document"
 
         # format loop
         - name: "Edit Annotation in DOCX"
-          link: "https://products.groupdocs.com/annotation/net/edit/docx"
+          link: "https://products.groupdocs.com/annotation/net/edit/docx/"
           description: "Microsoft Word Open XML Document"
 
         # format loop
         - name: "Edit Annotation in DOT"
-          link: "https://products.groupdocs.com/annotation/net/edit/dot"
+          link: "https://products.groupdocs.com/annotation/net/edit/dot/"
           description: "Microsoft Word Document Template"
 
         # format loop
         - name: "Edit Annotation in DOTX"
-          link: "https://products.groupdocs.com/annotation/net/edit/dotx"
+          link: "https://products.groupdocs.com/annotation/net/edit/dotx/"
           description: "Word Open XML Document Template"
 
         # format loop
         - name: "Edit Annotation in DOTM"
-          link: "https://products.groupdocs.com/annotation/net/edit/dotm"
+          link: "https://products.groupdocs.com/annotation/net/edit/dotm/"
           description: "Microsoft Word Macro-Enabled Template"
 
         # format loop
         - name: "Edit Annotation in RTF"
-          link: "https://products.groupdocs.com/annotation/net/edit/rtf"
+          link: "https://products.groupdocs.com/annotation/net/edit/rtf/"
           description: "Rich Text Document"
 
         # format loop
         - name: "Edit Annotation in ODT"
-          link: "https://products.groupdocs.com/annotation/net/edit/odt"
+          link: "https://products.groupdocs.com/annotation/net/edit/odt/"
           description: "Open Document Text"
 
         # format loop
         - name: "Edit Annotation in XLS"
-          link: "https://products.groupdocs.com/annotation/net/edit/xls"
+          link: "https://products.groupdocs.com/annotation/net/edit/xls/"
           description: "Microsoft Excel Binary File Format"
 
         # format loop
         - name: "Edit Annotation in XLSX"
-          link: "https://products.groupdocs.com/annotation/net/edit/xlsx"
+          link: "https://products.groupdocs.com/annotation/net/edit/xlsx/"
           description: "Microsoft Excel Open XML Spreadsheet"
 
         # format loop
         - name: "Edit Annotation in XLSM"
-          link: "https://products.groupdocs.com/annotation/net/edit/xlsm"
+          link: "https://products.groupdocs.com/annotation/net/edit/xlsm/"
           description: "Microsoft Excel Macro-Enabled Spreadsheet"
 
         # format loop
         - name: "Edit Annotation in XLSB"
-          link: "https://products.groupdocs.com/annotation/net/edit/xlsb"
+          link: "https://products.groupdocs.com/annotation/net/edit/xlsb/"
           description: "Microsoft Excel Binary Worksheet"
 
         # format loop
         - name: "Edit Annotation in ODS"
-          link: "https://products.groupdocs.com/annotation/net/edit/ods"
+          link: "https://products.groupdocs.com/annotation/net/edit/ods/"
           description: "Open Document Spreadsheet"
 
         # format loop
         - name: "Edit Annotation in PPT"
-          link: "https://products.groupdocs.com/annotation/net/edit/ppt"
+          link: "https://products.groupdocs.com/annotation/net/edit/ppt/"
           description: "PowerPoint Presentation"
 
         # format loop
         - name: "Edit Annotation in PPTX"
-          link: "https://products.groupdocs.com/annotation/net/edit/pptx"
+          link: "https://products.groupdocs.com/annotation/net/edit/pptx/"
           description: "PowerPoint Open XML Presentation"
 
         # format loop
         - name: "Edit Annotation in PPSX"
-          link: "https://products.groupdocs.com/annotation/net/edit/ppsx"
+          link: "https://products.groupdocs.com/annotation/net/edit/ppsx/"
           description: "PowerPoint Open XML Slide Show"
 
         # format loop
         - name: "Edit Annotation in POTM"
-          link: "https://products.groupdocs.com/annotation/net/edit/potm"
+          link: "https://products.groupdocs.com/annotation/net/edit/potm/"
           description: "Microsoft PowerPoint Template"
 
         # format loop
         - name: "Edit Annotation in PPTM"
-          link: "https://products.groupdocs.com/annotation/net/edit/pptm"
+          link: "https://products.groupdocs.com/annotation/net/edit/pptm/"
           description: "Microsoft PowerPoint Presentation"
 
         # format loop
         - name: "Edit Annotation in PPS"
-          link: "https://products.groupdocs.com/annotation/net/edit/pps"
+          link: "https://products.groupdocs.com/annotation/net/edit/pps/"
           description: "Microsoft PowerPoint 97-2003 Slide Show"
 
         # format loop
         - name: "Edit Annotation in ODP"
-          link: "https://products.groupdocs.com/annotation/net/edit/odp"
+          link: "https://products.groupdocs.com/annotation/net/edit/odp/"
           description: "OpenDocument Presentation"
 
         # format loop
         - name: "Edit Annotation in HTML"
-          link: "https://products.groupdocs.com/annotation/net/edit/html"
+          link: "https://products.groupdocs.com/annotation/net/edit/html/"
           description: "HyperText Markup Language"
 
         # format loop
         - name: "Edit Annotation in TIFF"
-          link: "https://products.groupdocs.com/annotation/net/edit/tiff"
+          link: "https://products.groupdocs.com/annotation/net/edit/tiff/"
           description: "Tagged Image File Format"
 
         # format loop
         - name: "Edit Annotation in JPEG"
-          link: "https://products.groupdocs.com/annotation/net/edit/jpeg"
+          link: "https://products.groupdocs.com/annotation/net/edit/jpeg/"
           description: "JPEG Image"
 
         # format loop
         - name: "Edit Annotation in PNG"
-          link: "https://products.groupdocs.com/annotation/net/edit/png"
+          link: "https://products.groupdocs.com/annotation/net/edit/png/"
           description: "Portable Network Graphic"
 
         # format loop
         - name: "Edit Annotation in BMP"
-          link: "https://products.groupdocs.com/annotation/net/edit/bmp"
+          link: "https://products.groupdocs.com/annotation/net/edit/bmp/"
           description: "Bitmap File Format"
 
         # format loop
         - name: "Edit Annotation in EML"
-          link: "https://products.groupdocs.com/annotation/net/edit/eml"
+          link: "https://products.groupdocs.com/annotation/net/edit/eml/"
           description: "E-mail Message"
 
         # format loop
         - name: "Edit Annotation in MSG"
-          link: "https://products.groupdocs.com/annotation/net/edit/msg"
+          link: "https://products.groupdocs.com/annotation/net/edit/msg/"
           description: "Microsoft Outlook E-mail Message"
 
         # format loop
         - name: "Edit Annotation in VSD"
-          link: "https://products.groupdocs.com/annotation/net/edit/vsd"
+          link: "https://products.groupdocs.com/annotation/net/edit/vsd/"
           description: "Microsoft Visio 2003-2010 Drawing"
 
         # format loop
         - name: "Edit Annotation in VSDX"
-          link: "https://products.groupdocs.com/annotation/net/edit/vsdx"
+          link: "https://products.groupdocs.com/annotation/net/edit/vsdx/"
           description: "Microsoft Visio Drawing"
 
         # format loop
         - name: "Edit Annotation in VSS"
-          link: "https://products.groupdocs.com/annotation/net/edit/vss"
+          link: "https://products.groupdocs.com/annotation/net/edit/vss/"
           description: "Microsoft Visio 2003-2010 Stencil"
 
         # format loop
         - name: "Edit Annotation in VST"
-          link: "https://products.groupdocs.com/annotation/net/edit/vst"
+          link: "https://products.groupdocs.com/annotation/net/edit/vst/"
           description: "Microsoft Visio 2013 Stencil"
 
         # format loop
         - name: "Edit Annotation in DWG"
-          link: "https://products.groupdocs.com/annotation/net/edit/dwg"
+          link: "https://products.groupdocs.com/annotation/net/edit/dwg/"
           description: "Autodesk Design Data Formats"
 
         # format loop
         - name: "Edit Annotation in DXF"
-          link: "https://products.groupdocs.com/annotation/net/edit/dxf"
+          link: "https://products.groupdocs.com/annotation/net/edit/dxf/"
           description: "AutoCAD Drawing Interchange"
 
         # format loop
         - name: "Edit Annotation in DCM"
-          link: "https://products.groupdocs.com/annotation/net/edit/dcm"
+          link: "https://products.groupdocs.com/annotation/net/edit/dcm/"
           description: "Digital Imaging and Communications in Medicine"
 
         # format loop
         - name: "Edit Annotation in WMF"
-          link: "https://products.groupdocs.com/annotation/net/edit/wmf"
+          link: "https://products.groupdocs.com/annotation/net/edit/wmf/"
           description: "Windows Metafile"
 
         # format loop
         - name: "Edit Annotation in EMF"
-          link: "https://products.groupdocs.com/annotation/net/edit/emf"
+          link: "https://products.groupdocs.com/annotation/net/edit/emf/"
           description: "Enhanced Metafile Format"
 
 

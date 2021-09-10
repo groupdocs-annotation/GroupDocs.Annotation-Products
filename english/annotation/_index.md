@@ -19,11 +19,11 @@ apis:
   api:
     # api loop
     - title: "GroupDocs.Annotation On Premise APIs Include"
-      link: "/annotation"
+      link: "/annotation/"
       label: "View All On Premise APIs"
       api_product:
         # api_product loop
-        - link: "/annotation/net"
+        - link: "/annotation/net/"
           img_alt: "GroupDocs.Annotation for .NET"
           image: "https://www.groupdocs.cloud/templates/groupdocs/images/product-logos/groupdocs-annotation-net.png"
           product: "GroupDocs.Annotation for"
@@ -31,7 +31,7 @@ apis:
           content: "Native .NET API to efficiently add, edit or delete annotations from documents and images. Supports working with all popular annotation types."
 
         # api_product loop
-        - link: "/annotation/java"
+        - link: "/annotation/java/"
           img_alt: "GroupDocs.Annotation for Java"
           image: "https://www.groupdocs.cloud/templates/groupdocs/images/product-logos/groupdocs-annotation-java.png"
           product: "GroupDocs.Annotation for"

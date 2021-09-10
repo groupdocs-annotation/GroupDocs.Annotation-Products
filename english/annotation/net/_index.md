@@ -300,7 +300,7 @@ solutions:
           image: "https://www.groupdocs.cloud/templates/groupdocs/images/product-logos/groupdocs-annotation-java.png"
           product: "GroupDocs.Annotation"
           platform: "Java"
-          link: "/annotation/java"
+          link: "/annotation/java/"
 
 ############################# Back to top ###############################
 back_to_top:

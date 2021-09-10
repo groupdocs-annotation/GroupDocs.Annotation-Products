@@ -138,7 +138,7 @@ about_formats:
           content: |
             {{cad}}
 
-          link: "/{{cad_url}}"
+          link: "/{{cad_url}}/"
 
 ############################# More Formats ############################
 more_formats:
@@ -149,187 +149,187 @@ more_formats:
     format: 
         # format loop
         - name: "Add Annotation to PDF"
-          link: "https://products.groupdocs.com/annotation/net/add/pdf"
+          link: "https://products.groupdocs.com/annotation/net/add/pdf/"
           description: "Adobe Portable Document Format"
 
         # format loop
         - name: "Add Annotation to DOC"
-          link: "https://products.groupdocs.com/annotation/net/add/doc"
+          link: "https://products.groupdocs.com/annotation/net/add/doc/"
           description: "Microsoft Word Document"
 
         # format loop
         - name: "Add Annotation to DOCM"
-          link: "https://products.groupdocs.com/annotation/net/add/docm"
+          link: "https://products.groupdocs.com/annotation/net/add/docm/"
           description: "Microsoft Word Macro-Enabled Document"
 
         # format loop
         - name: "Add Annotation to DOCX"
-          link: "https://products.groupdocs.com/annotation/net/add/docx"
+          link: "https://products.groupdocs.com/annotation/net/add/docx/"
           description: "Microsoft Word Open XML Document"
 
         # format loop
         - name: "Add Annotation to DOT"
-          link: "https://products.groupdocs.com/annotation/net/add/dot"
+          link: "https://products.groupdocs.com/annotation/net/add/dot/"
           description: "Microsoft Word Document Template"
 
         # format loop
         - name: "Add Annotation to DOTX"
-          link: "https://products.groupdocs.com/annotation/net/add/dotx"
+          link: "https://products.groupdocs.com/annotation/net/add/dotx/"
           description: "Word Open XML Document Template"
 
         # format loop
         - name: "Add Annotation to DOTM"
-          link: "https://products.groupdocs.com/annotation/net/add/dotm"
+          link: "https://products.groupdocs.com/annotation/net/add/dotm/"
           description: "Microsoft Word Macro-Enabled Template"
 
         # format loop
         - name: "Add Annotation to RTF"
-          link: "https://products.groupdocs.com/annotation/net/add/rtf"
+          link: "https://products.groupdocs.com/annotation/net/add/rtf/"
           description: "Rich Text Document"
 
         # format loop
         - name: "Add Annotation to ODT"
-          link: "https://products.groupdocs.com/annotation/net/add/odt"
+          link: "https://products.groupdocs.com/annotation/net/add/odt/"
           description: "Open Document Text"
 
         # format loop
         - name: "Add Annotation to XLS"
-          link: "https://products.groupdocs.com/annotation/net/add/xls"
+          link: "https://products.groupdocs.com/annotation/net/add/xls/"
           description: "Microsoft Excel Binary File Format"
 
         # format loop
         - name: "Add Annotation to XLSX"
-          link: "https://products.groupdocs.com/annotation/net/add/xlsx"
+          link: "https://products.groupdocs.com/annotation/net/add/xlsx/"
           description: "Microsoft Excel Open XML Spreadsheet"
 
         # format loop
         - name: "Add Annotation to XLSM"
-          link: "https://products.groupdocs.com/annotation/net/add/xlsm"
+          link: "https://products.groupdocs.com/annotation/net/add/xlsm/"
           description: "Microsoft Excel Macro-Enabled Spreadsheet"
 
         # format loop
         - name: "Add Annotation to XLSB"
-          link: "https://products.groupdocs.com/annotation/net/add/xlsb"
+          link: "https://products.groupdocs.com/annotation/net/add/xlsb/"
           description: "Microsoft Excel Binary Worksheet"
 
         # format loop
         - name: "Add Annotation to ODS"
-          link: "https://products.groupdocs.com/annotation/net/add/ods"
+          link: "https://products.groupdocs.com/annotation/net/add/ods/"
           description: "Open Document Spreadsheet"
 
         # format loop
         - name: "Add Annotation to PPT"
-          link: "https://products.groupdocs.com/annotation/net/add/ppt"
+          link: "https://products.groupdocs.com/annotation/net/add/ppt/"
           description: "PowerPoint Presentation"
 
         # format loop
         - name: "Add Annotation to PPTX"
-          link: "https://products.groupdocs.com/annotation/net/add/pptx"
+          link: "https://products.groupdocs.com/annotation/net/add/pptx/"
           description: "PowerPoint Open XML Presentation"
 
         # format loop
         - name: "Add Annotation to PPSX"
-          link: "https://products.groupdocs.com/annotation/net/add/ppsx"
+          link: "https://products.groupdocs.com/annotation/net/add/ppsx/"
           description: "PowerPoint Open XML Slide Show"
 
         # format loop
         - name: "Add Annotation to POTM"
-          link: "https://products.groupdocs.com/annotation/net/add/potm"
+          link: "https://products.groupdocs.com/annotation/net/add/potm/"
           description: "Microsoft PowerPoint Template"
 
         # format loop
         - name: "Add Annotation to PPTM"
-          link: "https://products.groupdocs.com/annotation/net/add/pptm"
+          link: "https://products.groupdocs.com/annotation/net/add/pptm/"
           description: "Microsoft PowerPoint Presentation"
 
         # format loop
         - name: "Add Annotation to PPS"
-          link: "https://products.groupdocs.com/annotation/net/add/pps"
+          link: "https://products.groupdocs.com/annotation/net/add/pps/"
           description: "Microsoft PowerPoint 97-2003 Slide Show"
 
         # format loop
         - name: "Add Annotation to ODP"
-          link: "https://products.groupdocs.com/annotation/net/add/odp"
+          link: "https://products.groupdocs.com/annotation/net/add/odp/"
           description: "OpenDocument Presentation"
 
         # format loop
         - name: "Add Annotation to HTML"
-          link: "https://products.groupdocs.com/annotation/net/add/html"
+          link: "https://products.groupdocs.com/annotation/net/add/html/"
           description: "HyperText Markup Language"
 
         # format loop
         - name: "Add Annotation to TIFF"
-          link: "https://products.groupdocs.com/annotation/net/add/tiff"
+          link: "https://products.groupdocs.com/annotation/net/add/tiff/"
           description: "Tagged Image File Format"
 
         # format loop
         - name: "Add Annotation to JPEG"
-          link: "https://products.groupdocs.com/annotation/net/add/jpeg"
+          link: "https://products.groupdocs.com/annotation/net/add/jpeg/"
           description: "JPEG Image"
 
         # format loop
         - name: "Add Annotation to PNG"
-          link: "https://products.groupdocs.com/annotation/net/add/png"
+          link: "https://products.groupdocs.com/annotation/net/add/png/"
           description: "Portable Network Graphic"
 
         # format loop
         - name: "Add Annotation to BMP"
-          link: "https://products.groupdocs.com/annotation/net/add/bmp"
+          link: "https://products.groupdocs.com/annotation/net/add/bmp/"
           description: "Bitmap File Format"
 
         # format loop
         - name: "Add Annotation to EML"
-          link: "https://products.groupdocs.com/annotation/net/add/eml"
+          link: "https://products.groupdocs.com/annotation/net/add/eml/"
           description: "E-mail Message"
 
         # format loop
         - name: "Add Annotation to MSG"
-          link: "https://products.groupdocs.com/annotation/net/add/msg"
+          link: "https://products.groupdocs.com/annotation/net/add/msg/"
           description: "Microsoft Outlook E-mail Message"
 
         # format loop
         - name: "Add Annotation to VSD"
-          link: "https://products.groupdocs.com/annotation/net/add/vsd"
+          link: "https://products.groupdocs.com/annotation/net/add/vsd/"
           description: "Microsoft Visio 2003-2010 Drawing"
 
         # format loop
         - name: "Add Annotation to VSDX"
-          link: "https://products.groupdocs.com/annotation/net/add/vsdx"
+          link: "https://products.groupdocs.com/annotation/net/add/vsdx/"
           description: "Microsoft Visio Drawing"
 
         # format loop
         - name: "Add Annotation to VSS"
-          link: "https://products.groupdocs.com/annotation/net/add/vss"
+          link: "https://products.groupdocs.com/annotation/net/add/vss/"
           description: "Microsoft Visio 2003-2010 Stencil"
 
         # format loop
         - name: "Add Annotation to VST"
-          link: "https://products.groupdocs.com/annotation/net/add/vst"
+          link: "https://products.groupdocs.com/annotation/net/add/vst/"
           description: "Microsoft Visio 2013 Stencil"
 
         # format loop
         - name: "Add Annotation to DWG"
-          link: "https://products.groupdocs.com/annotation/net/add/dwg"
+          link: "https://products.groupdocs.com/annotation/net/add/dwg/"
           description: "Autodesk Design Data Formats"
 
         # format loop
         - name: "Add Annotation to DXF"
-          link: "https://products.groupdocs.com/annotation/net/add/dxf"
+          link: "https://products.groupdocs.com/annotation/net/add/dxf/"
           description: "AutoCAD Drawing Interchange"
 
         # format loop
         - name: "Add Annotation to DCM"
-          link: "https://products.groupdocs.com/annotation/net/add/dcm"
+          link: "https://products.groupdocs.com/annotation/net/add/dcm/"
           description: "Digital Imaging and Communications in Medicine"
 
         # format loop
         - name: "Add Annotation to WMF"
-          link: "https://products.groupdocs.com/annotation/net/add/wmf"
+          link: "https://products.groupdocs.com/annotation/net/add/wmf/"
           description: "Windows Metafile"
 
         # format loop
         - name: "Add Annotation to EMF"
-          link: "https://products.groupdocs.com/annotation/net/add/emf"
+          link: "https://products.groupdocs.com/annotation/net/add/emf/"
           description: "Enhanced Metafile Format"
 
 

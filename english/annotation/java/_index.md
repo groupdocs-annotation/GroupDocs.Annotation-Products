@@ -271,7 +271,7 @@ solutions:
           image: "https://www.groupdocs.cloud/templates/groupdocs/images/product-logos/groupdocs-annotation-net.png"
           product: "GroupDocs.Annotation"
           platform: ".NET"
-          link: "/annotation/net"
+          link: "/annotation/net/"
 
 ############################# Back to top ###############################
 back_to_top:

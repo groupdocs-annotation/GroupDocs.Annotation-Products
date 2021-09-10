@@ -136,7 +136,7 @@ about_formats:
           content: |
             {{cad}}
 
-          link: "/{{cad_url}}"
+          link: "/{{cad_url}}/"
 
 ############################# More Formats ############################
 more_formats:
@@ -147,187 +147,187 @@ more_formats:
     format: 
         # format loop
         - name: "Remove Annotation from PDF"
-          link: "https://products.groupdocs.com/annotation/net/remove/pdf"
+          link: "https://products.groupdocs.com/annotation/net/remove/pdf/"
           description: "Adobe Portable Document Format"
 
         # format loop
         - name: "Remove Annotation from DOC"
-          link: "https://products.groupdocs.com/annotation/net/remove/doc"
+          link: "https://products.groupdocs.com/annotation/net/remove/doc/"
           description: "Microsoft Word Document"
 
         # format loop
         - name: "Remove Annotation from DOCM"
-          link: "https://products.groupdocs.com/annotation/net/remove/docm"
+          link: "https://products.groupdocs.com/annotation/net/remove/docm/"
           description: "Microsoft Word Macro-Enabled Document"
 
         # format loop
         - name: "Remove Annotation from DOCX"
-          link: "https://products.groupdocs.com/annotation/net/remove/docx"
+          link: "https://products.groupdocs.com/annotation/net/remove/docx/"
           description: "Microsoft Word Open XML Document"
 
         # format loop
         - name: "Remove Annotation from DOT"
-          link: "https://products.groupdocs.com/annotation/net/remove/dot"
+          link: "https://products.groupdocs.com/annotation/net/remove/dot/"
           description: "Microsoft Word Document Template"
 
         # format loop
         - name: "Remove Annotation from DOTX"
-          link: "https://products.groupdocs.com/annotation/net/remove/dotx"
+          link: "https://products.groupdocs.com/annotation/net/remove/dotx/"
           description: "Word Open XML Document Template"
 
         # format loop
         - name: "Remove Annotation from DOTM"
-          link: "https://products.groupdocs.com/annotation/net/remove/dotm"
+          link: "https://products.groupdocs.com/annotation/net/remove/dotm/"
           description: "Microsoft Word Macro-Enabled Template"
 
         # format loop
         - name: "Remove Annotation from RTF"
-          link: "https://products.groupdocs.com/annotation/net/remove/rtf"
+          link: "https://products.groupdocs.com/annotation/net/remove/rtf/"
           description: "Rich Text Document"
 
         # format loop
         - name: "Remove Annotation from ODT"
-          link: "https://products.groupdocs.com/annotation/net/remove/odt"
+          link: "https://products.groupdocs.com/annotation/net/remove/odt/"
           description: "Open Document Text"
 
         # format loop
         - name: "Remove Annotation from XLS"
-          link: "https://products.groupdocs.com/annotation/net/remove/xls"
+          link: "https://products.groupdocs.com/annotation/net/remove/xls/"
           description: "Microsoft Excel Binary File Format"
 
         # format loop
         - name: "Remove Annotation from XLSX"
-          link: "https://products.groupdocs.com/annotation/net/remove/xlsx"
+          link: "https://products.groupdocs.com/annotation/net/remove/xlsx/"
           description: "Microsoft Excel Open XML Spreadsheet"
 
         # format loop
         - name: "Remove Annotation from XLSM"
-          link: "https://products.groupdocs.com/annotation/net/remove/xlsm"
+          link: "https://products.groupdocs.com/annotation/net/remove/xlsm/"
           description: "Microsoft Excel Macro-Enabled Spreadsheet"
 
         # format loop
         - name: "Remove Annotation from XLSB"
-          link: "https://products.groupdocs.com/annotation/net/remove/xlsb"
+          link: "https://products.groupdocs.com/annotation/net/remove/xlsb/"
           description: "Microsoft Excel Binary Worksheet"
 
         # format loop
         - name: "Remove Annotation from ODS"
-          link: "https://products.groupdocs.com/annotation/net/remove/ods"
+          link: "https://products.groupdocs.com/annotation/net/remove/ods/"
           description: "Open Document Spreadsheet"
 
         # format loop
         - name: "Remove Annotation from PPT"
-          link: "https://products.groupdocs.com/annotation/net/remove/ppt"
+          link: "https://products.groupdocs.com/annotation/net/remove/ppt/"
           description: "PowerPoint Presentation"
 
         # format loop
         - name: "Remove Annotation from PPTX"
-          link: "https://products.groupdocs.com/annotation/net/remove/pptx"
+          link: "https://products.groupdocs.com/annotation/net/remove/pptx/"
           description: "PowerPoint Open XML Presentation"
 
         # format loop
         - name: "Remove Annotation from PPSX"
-          link: "https://products.groupdocs.com/annotation/net/remove/ppsx"
+          link: "https://products.groupdocs.com/annotation/net/remove/ppsx/"
           description: "PowerPoint Open XML Slide Show"
 
         # format loop
         - name: "Remove Annotation from POTM"
-          link: "https://products.groupdocs.com/annotation/net/remove/potm"
+          link: "https://products.groupdocs.com/annotation/net/remove/potm/"
           description: "Microsoft PowerPoint Template"
 
         # format loop
         - name: "Remove Annotation from PPTM"
-          link: "https://products.groupdocs.com/annotation/net/remove/pptm"
+          link: "https://products.groupdocs.com/annotation/net/remove/pptm/"
           description: "Microsoft PowerPoint Presentation"
 
         # format loop
         - name: "Remove Annotation from PPS"
-          link: "https://products.groupdocs.com/annotation/net/remove/pps"
+          link: "https://products.groupdocs.com/annotation/net/remove/pps/"
           description: "Microsoft PowerPoint 97-2003 Slide Show"
 
         # format loop
         - name: "Remove Annotation from ODP"
-          link: "https://products.groupdocs.com/annotation/net/remove/odp"
+          link: "https://products.groupdocs.com/annotation/net/remove/odp/"
           description: "OpenDocument Presentation"
 
         # format loop
         - name: "Remove Annotation from HTML"
-          link: "https://products.groupdocs.com/annotation/net/remove/html"
+          link: "https://products.groupdocs.com/annotation/net/remove/html/"
           description: "HyperText Markup Language"
 
         # format loop
         - name: "Remove Annotation from TIFF"
-          link: "https://products.groupdocs.com/annotation/net/remove/tiff"
+          link: "https://products.groupdocs.com/annotation/net/remove/tiff/"
           description: "Tagged Image File Format"
 
         # format loop
         - name: "Remove Annotation from JPEG"
-          link: "https://products.groupdocs.com/annotation/net/remove/jpeg"
+          link: "https://products.groupdocs.com/annotation/net/remove/jpeg/"
           description: "JPEG Image"
 
         # format loop
         - name: "Remove Annotation from PNG"
-          link: "https://products.groupdocs.com/annotation/net/remove/png"
+          link: "https://products.groupdocs.com/annotation/net/remove/png/"
           description: "Portable Network Graphic"
 
         # format loop
         - name: "Remove Annotation from BMP"
-          link: "https://products.groupdocs.com/annotation/net/remove/bmp"
+          link: "https://products.groupdocs.com/annotation/net/remove/bmp/"
           description: "Bitmap File Format"
 
         # format loop
         - name: "Remove Annotation from EML"
-          link: "https://products.groupdocs.com/annotation/net/remove/eml"
+          link: "https://products.groupdocs.com/annotation/net/remove/eml/"
           description: "E-mail Message"
 
         # format loop
         - name: "Remove Annotation from MSG"
-          link: "https://products.groupdocs.com/annotation/net/remove/msg"
+          link: "https://products.groupdocs.com/annotation/net/remove/msg/"
           description: "Microsoft Outlook E-mail Message"
 
         # format loop
         - name: "Remove Annotation from VSD"
-          link: "https://products.groupdocs.com/annotation/net/remove/vsd"
+          link: "https://products.groupdocs.com/annotation/net/remove/vsd/"
           description: "Microsoft Visio 2003-2010 Drawing"
 
         # format loop
         - name: "Remove Annotation from VSDX"
-          link: "https://products.groupdocs.com/annotation/net/remove/vsdx"
+          link: "https://products.groupdocs.com/annotation/net/remove/vsdx/"
           description: "Microsoft Visio Drawing"
 
         # format loop
         - name: "Remove Annotation from VSS"
-          link: "https://products.groupdocs.com/annotation/net/remove/vss"
+          link: "https://products.groupdocs.com/annotation/net/remove/vss/"
           description: "Microsoft Visio 2003-2010 Stencil"
 
         # format loop
         - name: "Remove Annotation from VST"
-          link: "https://products.groupdocs.com/annotation/net/remove/vst"
+          link: "https://products.groupdocs.com/annotation/net/remove/vst/"
           description: "Microsoft Visio 2013 Stencil"
 
         # format loop
         - name: "Remove Annotation from DWG"
-          link: "https://products.groupdocs.com/annotation/net/remove/dwg"
+          link: "https://products.groupdocs.com/annotation/net/remove/dwg/"
           description: "Autodesk Design Data Formats"
 
         # format loop
         - name: "Remove Annotation from DXF"
-          link: "https://products.groupdocs.com/annotation/net/remove/dxf"
+          link: "https://products.groupdocs.com/annotation/net/remove/dxf/"
           description: "AutoCAD Drawing Interchange"
 
         # format loop
         - name: "Remove Annotation from DCM"
-          link: "https://products.groupdocs.com/annotation/net/remove/dcm"
+          link: "https://products.groupdocs.com/annotation/net/remove/dcm/"
           description: "Digital Imaging and Communications in Medicine"
 
         # format loop
         - name: "Remove Annotation from WMF"
-          link: "https://products.groupdocs.com/annotation/net/remove/wmf"
+          link: "https://products.groupdocs.com/annotation/net/remove/wmf/"
           description: "Windows Metafile"
 
         # format loop
         - name: "Remove Annotation from EMF"
-          link: "https://products.groupdocs.com/annotation/net/remove/emf"
+          link: "https://products.groupdocs.com/annotation/net/remove/emf/"
           description: "Enhanced Metafile Format"
 
 

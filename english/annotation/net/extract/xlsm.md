@@ -187,127 +187,127 @@ more_formats:
 
         # format loop
         - name: "Extract Annotation from XLSB"
-          link: "https://products.groupdocs.com/annotation/net/extract/xlsb"
+          link: "https://products.groupdocs.com/annotation/net/extract/xlsb/"
           description: "Microsoft Excel Binary Worksheet"
 
         # format loop
         - name: "Extract Annotation from ODS"
-          link: "https://products.groupdocs.com/annotation/net/extract/ods"
+          link: "https://products.groupdocs.com/annotation/net/extract/ods/"
           description: "Open Document Spreadsheet"
 
         # format loop
         - name: "Extract Annotation from PPT"
-          link: "https://products.groupdocs.com/annotation/net/extract/ppt"
+          link: "https://products.groupdocs.com/annotation/net/extract/ppt/"
           description: "PowerPoint Presentation"
 
         # format loop
         - name: "Extract Annotation from PPTX"
-          link: "https://products.groupdocs.com/annotation/net/extract/pptx"
+          link: "https://products.groupdocs.com/annotation/net/extract/pptx/"
           description: "PowerPoint Open XML Presentation"
 
         # format loop
         - name: "Extract Annotation from PPSX"
-          link: "https://products.groupdocs.com/annotation/net/extract/ppsx"
+          link: "https://products.groupdocs.com/annotation/net/extract/ppsx/"
           description: "PowerPoint Open XML Slide Show"
 
         # format loop
         - name: "Extract Annotation from POTM"
-          link: "https://products.groupdocs.com/annotation/net/extract/potm"
+          link: "https://products.groupdocs.com/annotation/net/extract/potm/"
           description: "Microsoft PowerPoint Template"
 
         # format loop
         - name: "Extract Annotation from PPTM"
-          link: "https://products.groupdocs.com/annotation/net/extract/pptm"
+          link: "https://products.groupdocs.com/annotation/net/extract/pptm/"
           description: "Microsoft PowerPoint Presentation"
 
         # format loop
         - name: "Extract Annotation from PPS"
-          link: "https://products.groupdocs.com/annotation/net/extract/pps"
+          link: "https://products.groupdocs.com/annotation/net/extract/pps/"
           description: "Microsoft PowerPoint 97-2003 Slide Show"
 
         # format loop
         - name: "Extract Annotation from ODP"
-          link: "https://products.groupdocs.com/annotation/net/extract/odp"
+          link: "https://products.groupdocs.com/annotation/net/extract/odp/"
           description: "OpenDocument Presentation"
 
         # format loop
         - name: "Extract Annotation from HTML"
-          link: "https://products.groupdocs.com/annotation/net/extract/html"
+          link: "https://products.groupdocs.com/annotation/net/extract/html/"
           description: "HyperText Markup Language"
 
         # format loop
         - name: "Extract Annotation from TIFF"
-          link: "https://products.groupdocs.com/annotation/net/extract/tiff"
+          link: "https://products.groupdocs.com/annotation/net/extract/tiff/"
           description: "Tagged Image File Format"
 
         # format loop
         - name: "Extract Annotation from JPEG"
-          link: "https://products.groupdocs.com/annotation/net/extract/jpeg"
+          link: "https://products.groupdocs.com/annotation/net/extract/jpeg/"
           description: "JPEG Image"
 
         # format loop
         - name: "Extract Annotation from PNG"
-          link: "https://products.groupdocs.com/annotation/net/extract/png"
+          link: "https://products.groupdocs.com/annotation/net/extract/png/"
           description: "Portable Network Graphic"
 
         # format loop
         - name: "Extract Annotation from BMP"
-          link: "https://products.groupdocs.com/annotation/net/extract/bmp"
+          link: "https://products.groupdocs.com/annotation/net/extract/bmp/"
           description: "Bitmap File Format"
 
         # format loop
         - name: "Extract Annotation from EML"
-          link: "https://products.groupdocs.com/annotation/net/extract/eml"
+          link: "https://products.groupdocs.com/annotation/net/extract/eml/"
           description: "E-mail Message"
 
         # format loop
         - name: "Extract Annotation from MSG"
-          link: "https://products.groupdocs.com/annotation/net/extract/msg"
+          link: "https://products.groupdocs.com/annotation/net/extract/msg/"
           description: "Microsoft Outlook E-mail Message"
 
         # format loop
         - name: "Extract Annotation from VSD"
-          link: "https://products.groupdocs.com/annotation/net/extract/vsd"
+          link: "https://products.groupdocs.com/annotation/net/extract/vsd/"
           description: "Microsoft Visio 2003-2010 Drawing"
 
         # format loop
         - name: "Extract Annotation from VSDX"
-          link: "https://products.groupdocs.com/annotation/net/extract/vsdx"
+          link: "https://products.groupdocs.com/annotation/net/extract/vsdx/"
           description: "Microsoft Visio Drawing"
 
         # format loop
         - name: "Extract Annotation from VSS"
-          link: "https://products.groupdocs.com/annotation/net/extract/vss"
+          link: "https://products.groupdocs.com/annotation/net/extract/vss/"
           description: "Microsoft Visio 2003-2010 Stencil"
 
         # format loop
         - name: "Extract Annotation from VST"
-          link: "https://products.groupdocs.com/annotation/net/extract/vst"
+          link: "https://products.groupdocs.com/annotation/net/extract/vst/"
           description: "Microsoft Visio 2013 Stencil"
 
         # format loop
         - name: "Extract Annotation from DWG"
-          link: "https://products.groupdocs.com/annotation/net/extract/dwg"
+          link: "https://products.groupdocs.com/annotation/net/extract/dwg/"
           description: "Autodesk Design Data Formats"
 
         # format loop
         - name: "Extract Annotation from DXF"
-          link: "https://products.groupdocs.com/annotation/net/extract/dxf"
+          link: "https://products.groupdocs.com/annotation/net/extract/dxf/"
           description: "AutoCAD Drawing Interchange"
 
         # format loop
         - name: "Extract Annotation from DCM"
-          link: "https://products.groupdocs.com/annotation/net/extract/dcm"
+          link: "https://products.groupdocs.com/annotation/net/extract/dcm/"
           description: "Digital Imaging and Communications in Medicine"
 
         # format loop
         - name: "Extract Annotation from WMF"
-          link: "https://products.groupdocs.com/annotation/net/extract/wmf"
+          link: "https://products.groupdocs.com/annotation/net/extract/wmf/"
           description: "Windows Metafile"
 
         # format loop
         - name: "Extract Annotation from EMF"
-          link: "https://products.groupdocs.com/annotation/net/extract/emf"
+          link: "https://products.groupdocs.com/annotation/net/extract/emf/"
           description: "Enhanced Metafile Format"
 
 

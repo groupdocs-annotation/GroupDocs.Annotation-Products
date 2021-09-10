@@ -162,7 +162,7 @@ about_formats:
           content: |
             {{cad}}
 
-          link: "/{{cad_url}}"
+          link: "/{{cad_url}}/"
 
 ############################# More Formats ############################
 more_formats:

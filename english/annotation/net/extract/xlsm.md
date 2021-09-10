@@ -127,62 +127,62 @@ more_formats:
     format: 
         # format loop
         - name: "Extract Annotation from PDF"
-          link: "https://products.groupdocs.com/annotation/net/extract/pdf"
+          link: "https://products.groupdocs.com/annotation/net/extract/pdf/"
           description: "Adobe Portable Document Format"
 
         # format loop
         - name: "Extract Annotation from DOC"
-          link: "https://products.groupdocs.com/annotation/net/extract/doc"
+          link: "https://products.groupdocs.com/annotation/net/extract/doc/"
           description: "Microsoft Word Document"
 
         # format loop
         - name: "Extract Annotation from DOCM"
-          link: "https://products.groupdocs.com/annotation/net/extract/docm"
+          link: "https://products.groupdocs.com/annotation/net/extract/docm/"
           description: "Microsoft Word Macro-Enabled Document"
 
         # format loop
         - name: "Extract Annotation from DOCX"
-          link: "https://products.groupdocs.com/annotation/net/extract/docx"
+          link: "https://products.groupdocs.com/annotation/net/extract/docx/"
           description: "Microsoft Word Open XML Document"
 
         # format loop
         - name: "Extract Annotation from DOT"
-          link: "https://products.groupdocs.com/annotation/net/extract/dot"
+          link: "https://products.groupdocs.com/annotation/net/extract/dot/"
           description: "Microsoft Word Document Template"
 
         # format loop
         - name: "Extract Annotation from DOTX"
-          link: "https://products.groupdocs.com/annotation/net/extract/dotx"
+          link: "https://products.groupdocs.com/annotation/net/extract/dotx/"
           description: "Word Open XML Document Template"
 
         # format loop
         - name: "Extract Annotation from DOTM"
-          link: "https://products.groupdocs.com/annotation/net/extract/dotm"
+          link: "https://products.groupdocs.com/annotation/net/extract/dotm/"
           description: "Microsoft Word Macro-Enabled Template"
 
         # format loop
         - name: "Extract Annotation from RTF"
-          link: "https://products.groupdocs.com/annotation/net/extract/rtf"
+          link: "https://products.groupdocs.com/annotation/net/extract/rtf/"
           description: "Rich Text Document"
 
         # format loop
         - name: "Extract Annotation from ODT"
-          link: "https://products.groupdocs.com/annotation/net/extract/odt"
+          link: "https://products.groupdocs.com/annotation/net/extract/odt/"
           description: "Open Document Text"
 
         # format loop
         - name: "Extract Annotation from XLS"
-          link: "https://products.groupdocs.com/annotation/net/extract/xls"
+          link: "https://products.groupdocs.com/annotation/net/extract/xls/"
           description: "Microsoft Excel Binary File Format"
 
         # format loop
         - name: "Extract Annotation from XLSX"
-          link: "https://products.groupdocs.com/annotation/net/extract/xlsx"
+          link: "https://products.groupdocs.com/annotation/net/extract/xlsx/"
           description: "Microsoft Excel Open XML Spreadsheet"
 
         # format loop
         - name: "Extract Annotation from XLSM"
-          link: "https://products.groupdocs.com/annotation/net/extract/xlsm"
+          link: "https://products.groupdocs.com/annotation/net/extract/xlsm/"
           description: "Microsoft Excel Macro-Enabled Spreadsheet"
 
         # format loop

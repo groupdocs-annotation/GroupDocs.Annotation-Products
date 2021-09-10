@@ -118,187 +118,187 @@ more_formats:
     format: 
         # format loop
         - name: "Remove Annotation from PDF"
-          link: "https://products.groupdocs.com/annotation/java/remove/pdf"
+          link: "https://products.groupdocs.com/annotation/java/remove/pdf/"
           description: "Adobe Portable Document Format"
 
         # format loop
         - name: "Remove Annotation from DOC"
-          link: "https://products.groupdocs.com/annotation/java/remove/doc"
+          link: "https://products.groupdocs.com/annotation/java/remove/doc/"
           description: "Microsoft Word Document"
 
         # format loop
         - name: "Remove Annotation from DOCM"
-          link: "https://products.groupdocs.com/annotation/java/remove/docm"
+          link: "https://products.groupdocs.com/annotation/java/remove/docm/"
           description: "Microsoft Word Macro-Enabled Document"
 
         # format loop
         - name: "Remove Annotation from DOCX"
-          link: "https://products.groupdocs.com/annotation/java/remove/docx"
+          link: "https://products.groupdocs.com/annotation/java/remove/docx/"
           description: "Microsoft Word Open XML Document"
 
         # format loop
         - name: "Remove Annotation from DOT"
-          link: "https://products.groupdocs.com/annotation/java/remove/dot"
+          link: "https://products.groupdocs.com/annotation/java/remove/dot/"
           description: "Microsoft Word Document Template"
 
         # format loop
         - name: "Remove Annotation from DOTX"
-          link: "https://products.groupdocs.com/annotation/java/remove/dotx"
+          link: "https://products.groupdocs.com/annotation/java/remove/dotx/"
           description: "Word Open XML Document Template"
 
         # format loop
         - name: "Remove Annotation from DOTM"
-          link: "https://products.groupdocs.com/annotation/java/remove/dotm"
+          link: "https://products.groupdocs.com/annotation/java/remove/dotm/"
           description: "Microsoft Word Macro-Enabled Template"
 
         # format loop
         - name: "Remove Annotation from RTF"
-          link: "https://products.groupdocs.com/annotation/java/remove/rtf"
+          link: "https://products.groupdocs.com/annotation/java/remove/rtf/"
           description: "Rich Text Document"
 
         # format loop
         - name: "Remove Annotation from ODT"
-          link: "https://products.groupdocs.com/annotation/java/remove/odt"
+          link: "https://products.groupdocs.com/annotation/java/remove/odt/"
           description: "Open Document Text"
 
         # format loop
         - name: "Remove Annotation from XLS"
-          link: "https://products.groupdocs.com/annotation/java/remove/xls"
+          link: "https://products.groupdocs.com/annotation/java/remove/xls/"
           description: "Microsoft Excel Binary File Format"
 
         # format loop
         - name: "Remove Annotation from XLSX"
-          link: "https://products.groupdocs.com/annotation/java/remove/xlsx"
+          link: "https://products.groupdocs.com/annotation/java/remove/xlsx/"
           description: "Microsoft Excel Open XML Spreadsheet"
 
         # format loop
         - name: "Remove Annotation from XLSM"
-          link: "https://products.groupdocs.com/annotation/java/remove/xlsm"
+          link: "https://products.groupdocs.com/annotation/java/remove/xlsm/"
           description: "Microsoft Excel Macro-Enabled Spreadsheet"
 
         # format loop
         - name: "Remove Annotation from XLSB"
-          link: "https://products.groupdocs.com/annotation/java/remove/xlsb"
+          link: "https://products.groupdocs.com/annotation/java/remove/xlsb/"
           description: "Microsoft Excel Binary Worksheet"
 
         # format loop
         - name: "Remove Annotation from ODS"
-          link: "https://products.groupdocs.com/annotation/java/remove/ods"
+          link: "https://products.groupdocs.com/annotation/java/remove/ods/"
           description: "Open Document Spreadsheet"
 
         # format loop
         - name: "Remove Annotation from PPT"
-          link: "https://products.groupdocs.com/annotation/java/remove/ppt"
+          link: "https://products.groupdocs.com/annotation/java/remove/ppt/"
           description: "PowerPoint Presentation"
 
         # format loop
         - name: "Remove Annotation from PPTX"
-          link: "https://products.groupdocs.com/annotation/java/remove/pptx"
+          link: "https://products.groupdocs.com/annotation/java/remove/pptx/"
           description: "PowerPoint Open XML Presentation"
 
         # format loop
         - name: "Remove Annotation from PPSX"
-          link: "https://products.groupdocs.com/annotation/java/remove/ppsx"
+          link: "https://products.groupdocs.com/annotation/java/remove/ppsx/"
           description: "PowerPoint Open XML Slide Show"
 
         # format loop
         - name: "Remove Annotation from POTM"
-          link: "https://products.groupdocs.com/annotation/java/remove/potm"
+          link: "https://products.groupdocs.com/annotation/java/remove/potm/"
           description: "Microsoft PowerPoint Template"
 
         # format loop
         - name: "Remove Annotation from PPTM"
-          link: "https://products.groupdocs.com/annotation/java/remove/pptm"
+          link: "https://products.groupdocs.com/annotation/java/remove/pptm/"
           description: "Microsoft PowerPoint Presentation"
 
         # format loop
         - name: "Remove Annotation from PPS"
-          link: "https://products.groupdocs.com/annotation/java/remove/pps"
+          link: "https://products.groupdocs.com/annotation/java/remove/pps/"
           description: "Microsoft PowerPoint 97-2003 Slide Show"
 
         # format loop
         - name: "Remove Annotation from ODP"
-          link: "https://products.groupdocs.com/annotation/java/remove/odp"
+          link: "https://products.groupdocs.com/annotation/java/remove/odp/"
           description: "OpenDocument Presentation"
 
         # format loop
         - name: "Remove Annotation from HTML"
-          link: "https://products.groupdocs.com/annotation/java/remove/html"
+          link: "https://products.groupdocs.com/annotation/java/remove/html/"
           description: "HyperText Markup Language"
 
         # format loop
         - name: "Remove Annotation from TIFF"
-          link: "https://products.groupdocs.com/annotation/java/remove/tiff"
+          link: "https://products.groupdocs.com/annotation/java/remove/tiff/"
           description: "Tagged Image File Format"
 
         # format loop
         - name: "Remove Annotation from JPEG"
-          link: "https://products.groupdocs.com/annotation/java/remove/jpeg"
+          link: "https://products.groupdocs.com/annotation/java/remove/jpeg/"
           description: "JPEG Image"
 
         # format loop
         - name: "Remove Annotation from PNG"
-          link: "https://products.groupdocs.com/annotation/java/remove/png"
+          link: "https://products.groupdocs.com/annotation/java/remove/png/"
           description: "Portable Network Graphic"
 
         # format loop
         - name: "Remove Annotation from BMP"
-          link: "https://products.groupdocs.com/annotation/java/remove/bmp"
+          link: "https://products.groupdocs.com/annotation/java/remove/bmp/"
           description: "Bitmap File Format"
 
         # format loop
         - name: "Remove Annotation from EML"
-          link: "https://products.groupdocs.com/annotation/java/remove/eml"
+          link: "https://products.groupdocs.com/annotation/java/remove/eml/"
           description: "E-mail Message"
 
         # format loop
         - name: "Remove Annotation from MSG"
-          link: "https://products.groupdocs.com/annotation/java/remove/msg"
+          link: "https://products.groupdocs.com/annotation/java/remove/msg/"
           description: "Microsoft Outlook E-mail Message"
 
         # format loop
         - name: "Remove Annotation from VSD"
-          link: "https://products.groupdocs.com/annotation/java/remove/vsd"
+          link: "https://products.groupdocs.com/annotation/java/remove/vsd/"
           description: "Microsoft Visio 2003-2010 Drawing"
 
         # format loop
         - name: "Remove Annotation from VSDX"
-          link: "https://products.groupdocs.com/annotation/java/remove/vsdx"
+          link: "https://products.groupdocs.com/annotation/java/remove/vsdx/"
           description: "Microsoft Visio Drawing"
 
         # format loop
         - name: "Remove Annotation from VSS"
-          link: "https://products.groupdocs.com/annotation/java/remove/vss"
+          link: "https://products.groupdocs.com/annotation/java/remove/vss/"
           description: "Microsoft Visio 2003-2010 Stencil"
 
         # format loop
         - name: "Remove Annotation from VST"
-          link: "https://products.groupdocs.com/annotation/java/remove/vst"
+          link: "https://products.groupdocs.com/annotation/java/remove/vst/"
           description: "Microsoft Visio 2013 Stencil"
 
         # format loop
         - name: "Remove Annotation from DWG"
-          link: "https://products.groupdocs.com/annotation/java/remove/dwg"
+          link: "https://products.groupdocs.com/annotation/java/remove/dwg/"
           description: "Autodesk Design Data Formats"
 
         # format loop
         - name: "Remove Annotation from DXF"
-          link: "https://products.groupdocs.com/annotation/java/remove/dxf"
+          link: "https://products.groupdocs.com/annotation/java/remove/dxf/"
           description: "AutoCAD Drawing Interchange"
 
         # format loop
         - name: "Remove Annotation from DCM"
-          link: "https://products.groupdocs.com/annotation/java/remove/dcm"
+          link: "https://products.groupdocs.com/annotation/java/remove/dcm/"
           description: "Digital Imaging and Communications in Medicine"
 
         # format loop
         - name: "Remove Annotation from WMF"
-          link: "https://products.groupdocs.com/annotation/java/remove/wmf"
+          link: "https://products.groupdocs.com/annotation/java/remove/wmf/"
           description: "Windows Metafile"
 
         # format loop
         - name: "Remove Annotation from EMF"
-          link: "https://products.groupdocs.com/annotation/java/remove/emf"
+          link: "https://products.groupdocs.com/annotation/java/remove/emf/"
           description: "Enhanced Metafile Format"
 
 

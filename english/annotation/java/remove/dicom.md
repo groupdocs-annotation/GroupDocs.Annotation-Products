@@ -118,17 +118,17 @@ more_formats:
     format: 
         # format loop
         - name: "Remove Annotation from PDF"
-          link: "https://products.groupdocs.com/annotation/java/remove/pdf"
+          link: "https://products.groupdocs.com/annotation/java/remove/pdf/"
           description: "Adobe Portable Document Format"
 
         # format loop
         - name: "Remove Annotation from DOC"
-          link: "https://products.groupdocs.com/annotation/java/remove/doc"
+          link: "https://products.groupdocs.com/annotation/java/remove/doc/"
           description: "Microsoft Word Document"
 
         # format loop
         - name: "Remove Annotation from DOCM"
-          link: "https://products.groupdocs.com/annotation/java/remove/docm"
+          link: "https://products.groupdocs.com/annotation/java/remove/docm/"
           description: "Microsoft Word Macro-Enabled Document"
 
         # format loop

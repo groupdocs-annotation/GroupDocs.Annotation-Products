@@ -173,187 +173,187 @@ more_formats:
     format: 
         # format loop
         - name: "Edit Annotation from PDF"
-          link: "https://products.groupdocs.com/annotation/java/edit/pdf"
+          link: "https://products.groupdocs.com/annotation/java/edit/pdf/"
           description: "Adobe Portable Document Format"
 
         # format loop
         - name: "Edit Annotation from DOC"
-          link: "https://products.groupdocs.com/annotation/java/edit/doc"
+          link: "https://products.groupdocs.com/annotation/java/edit/doc/"
           description: "Microsoft Word Document"
 
         # format loop
         - name: "Edit Annotation from DOCM"
-          link: "https://products.groupdocs.com/annotation/java/edit/docm"
+          link: "https://products.groupdocs.com/annotation/java/edit/docm/"
           description: "Microsoft Word Macro-Enabled Document"
 
         # format loop
         - name: "Edit Annotation from DOCX"
-          link: "https://products.groupdocs.com/annotation/java/edit/docx"
+          link: "https://products.groupdocs.com/annotation/java/edit/docx/"
           description: "Microsoft Word Open XML Document"
 
         # format loop
         - name: "Edit Annotation from DOT"
-          link: "https://products.groupdocs.com/annotation/java/edit/dot"
+          link: "https://products.groupdocs.com/annotation/java/edit/dot/"
           description: "Microsoft Word Document Template"
 
         # format loop
         - name: "Edit Annotation from DOTX"
-          link: "https://products.groupdocs.com/annotation/java/edit/dotx"
+          link: "https://products.groupdocs.com/annotation/java/edit/dotx/"
           description: "Word Open XML Document Template"
 
         # format loop
         - name: "Edit Annotation from DOTM"
-          link: "https://products.groupdocs.com/annotation/java/edit/dotm"
+          link: "https://products.groupdocs.com/annotation/java/edit/dotm/"
           description: "Microsoft Word Macro-Enabled Template"
 
         # format loop
         - name: "Edit Annotation from RTF"
-          link: "https://products.groupdocs.com/annotation/java/edit/rtf"
+          link: "https://products.groupdocs.com/annotation/java/edit/rtf/"
           description: "Rich Text Document"
 
         # format loop
         - name: "Edit Annotation from ODT"
-          link: "https://products.groupdocs.com/annotation/java/edit/odt"
+          link: "https://products.groupdocs.com/annotation/java/edit/odt/"
           description: "Open Document Text"
 
         # format loop
         - name: "Edit Annotation from XLS"
-          link: "https://products.groupdocs.com/annotation/java/edit/xls"
+          link: "https://products.groupdocs.com/annotation/java/edit/xls/"
           description: "Microsoft Excel Binary File Format"
 
         # format loop
         - name: "Edit Annotation from XLSX"
-          link: "https://products.groupdocs.com/annotation/java/edit/xlsx"
+          link: "https://products.groupdocs.com/annotation/java/edit/xlsx/"
           description: "Microsoft Excel Open XML Spreadsheet"
 
         # format loop
         - name: "Edit Annotation from XLSM"
-          link: "https://products.groupdocs.com/annotation/java/edit/xlsm"
+          link: "https://products.groupdocs.com/annotation/java/edit/xlsm/"
           description: "Microsoft Excel Macro-Enabled Spreadsheet"
 
         # format loop
         - name: "Edit Annotation from XLSB"
-          link: "https://products.groupdocs.com/annotation/java/edit/xlsb"
+          link: "https://products.groupdocs.com/annotation/java/edit/xlsb/"
           description: "Microsoft Excel Binary Worksheet"
 
         # format loop
         - name: "Edit Annotation from ODS"
-          link: "https://products.groupdocs.com/annotation/java/edit/ods"
+          link: "https://products.groupdocs.com/annotation/java/edit/ods/"
           description: "Open Document Spreadsheet"
 
         # format loop
         - name: "Edit Annotation from PPT"
-          link: "https://products.groupdocs.com/annotation/java/edit/ppt"
+          link: "https://products.groupdocs.com/annotation/java/edit/ppt/"
           description: "PowerPoint Presentation"
 
         # format loop
         - name: "Edit Annotation from PPTX"
-          link: "https://products.groupdocs.com/annotation/java/edit/pptx"
+          link: "https://products.groupdocs.com/annotation/java/edit/pptx/"
           description: "PowerPoint Open XML Presentation"
 
         # format loop
         - name: "Edit Annotation from PPSX"
-          link: "https://products.groupdocs.com/annotation/java/edit/ppsx"
+          link: "https://products.groupdocs.com/annotation/java/edit/ppsx/"
           description: "PowerPoint Open XML Slide Show"
 
         # format loop
         - name: "Edit Annotation from POTM"
-          link: "https://products.groupdocs.com/annotation/java/edit/potm"
+          link: "https://products.groupdocs.com/annotation/java/edit/potm/"
           description: "Microsoft PowerPoint Template"
 
         # format loop
         - name: "Edit Annotation from PPTM"
-          link: "https://products.groupdocs.com/annotation/java/edit/pptm"
+          link: "https://products.groupdocs.com/annotation/java/edit/pptm/"
           description: "Microsoft PowerPoint Presentation"
 
         # format loop
         - name: "Edit Annotation from PPS"
-          link: "https://products.groupdocs.com/annotation/java/edit/pps"
+          link: "https://products.groupdocs.com/annotation/java/edit/pps/"
           description: "Microsoft PowerPoint 97-2003 Slide Show"
 
         # format loop
         - name: "Edit Annotation from ODP"
-          link: "https://products.groupdocs.com/annotation/java/edit/odp"
+          link: "https://products.groupdocs.com/annotation/java/edit/odp/"
           description: "OpenDocument Presentation"
 
         # format loop
         - name: "Edit Annotation from HTML"
-          link: "https://products.groupdocs.com/annotation/java/edit/html"
+          link: "https://products.groupdocs.com/annotation/java/edit/html/"
           description: "HyperText Markup Language"
 
         # format loop
         - name: "Edit Annotation from TIFF"
-          link: "https://products.groupdocs.com/annotation/java/edit/tiff"
+          link: "https://products.groupdocs.com/annotation/java/edit/tiff/"
           description: "Tagged Image File Format"
 
         # format loop
         - name: "Edit Annotation from JPEG"
-          link: "https://products.groupdocs.com/annotation/java/edit/jpeg"
+          link: "https://products.groupdocs.com/annotation/java/edit/jpeg/"
           description: "JPEG Image"
 
         # format loop
         - name: "Edit Annotation from PNG"
-          link: "https://products.groupdocs.com/annotation/java/edit/png"
+          link: "https://products.groupdocs.com/annotation/java/edit/png/"
           description: "Portable Network Graphic"
 
         # format loop
         - name: "Edit Annotation from BMP"
-          link: "https://products.groupdocs.com/annotation/java/edit/bmp"
+          link: "https://products.groupdocs.com/annotation/java/edit/bmp/"
           description: "Bitmap File Format"
 
         # format loop
         - name: "Edit Annotation from EML"
-          link: "https://products.groupdocs.com/annotation/java/edit/eml"
+          link: "https://products.groupdocs.com/annotation/java/edit/eml/"
           description: "E-mail Message"
 
         # format loop
         - name: "Edit Annotation from MSG"
-          link: "https://products.groupdocs.com/annotation/java/edit/msg"
+          link: "https://products.groupdocs.com/annotation/java/edit/msg/"
           description: "Microsoft Outlook E-mail Message"
 
         # format loop
         - name: "Edit Annotation from VSD"
-          link: "https://products.groupdocs.com/annotation/java/edit/vsd"
+          link: "https://products.groupdocs.com/annotation/java/edit/vsd/"
           description: "Microsoft Visio 2003-2010 Drawing"
 
         # format loop
         - name: "Edit Annotation from VSDX"
-          link: "https://products.groupdocs.com/annotation/java/edit/vsdx"
+          link: "https://products.groupdocs.com/annotation/java/edit/vsdx/"
           description: "Microsoft Visio Drawing"
 
         # format loop
         - name: "Edit Annotation from VSS"
-          link: "https://products.groupdocs.com/annotation/java/edit/vss"
+          link: "https://products.groupdocs.com/annotation/java/edit/vss/"
           description: "Microsoft Visio 2003-2010 Stencil"
 
         # format loop
         - name: "Edit Annotation from VST"
-          link: "https://products.groupdocs.com/annotation/java/edit/vst"
+          link: "https://products.groupdocs.com/annotation/java/edit/vst/"
           description: "Microsoft Visio 2013 Stencil"
 
         # format loop
         - name: "Edit Annotation from DWG"
-          link: "https://products.groupdocs.com/annotation/java/edit/dwg"
+          link: "https://products.groupdocs.com/annotation/java/edit/dwg/"
           description: "Autodesk Design Data Formats"
 
         # format loop
         - name: "Edit Annotation from DXF"
-          link: "https://products.groupdocs.com/annotation/java/edit/dxf"
+          link: "https://products.groupdocs.com/annotation/java/edit/dxf/"
           description: "AutoCAD Drawing Interchange"
 
         # format loop
         - name: "Edit Annotation from DCM"
-          link: "https://products.groupdocs.com/annotation/java/edit/dcm"
+          link: "https://products.groupdocs.com/annotation/java/edit/dcm/"
           description: "Digital Imaging and Communications in Medicine"
 
         # format loop
         - name: "Edit Annotation from WMF"
-          link: "https://products.groupdocs.com/annotation/java/edit/wmf"
+          link: "https://products.groupdocs.com/annotation/java/edit/wmf/"
           description: "Windows Metafile"
 
         # format loop
         - name: "Edit Annotation from EMF"
-          link: "https://products.groupdocs.com/annotation/java/edit/emf"
+          link: "https://products.groupdocs.com/annotation/java/edit/emf/"
           description: "Enhanced Metafile Format"
 
 

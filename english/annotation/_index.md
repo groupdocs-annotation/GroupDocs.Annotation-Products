@@ -6,7 +6,7 @@ draft: false
 
 ############################# Head ############################
 head_title: ".NET, Java and Cloud APIs to add & manage Document Annotations"
-head_description: "Get all-in-one document annotation solution for .NET, Java and cloud applications to annotate common document and image formats."
+head_description: "Get all-in-one document annotation solution for .NET, Java and Cloud applications to annotate common document and image formats."
 
 ############################# Header ############################
 title: "Document and Image Annotation Solution"

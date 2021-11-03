@@ -67,18 +67,18 @@ steps:
     content_left: |
         [GroupDocs.Annotation](https://products.groupdocs.com/annotation/java) makes it easier for Java developers to remove annotation details from XLSB files within any Java-based application by implementing a few easy steps.
 
-        *   Instantiate Annotator object with input document path or stream.
+        *   Create Reply objects with comment and date.
         *   Instantiate SaveOptions object and set AnnotationTypes = AnnotationType.None.
         *   Call save method with resultant document path or stream and SaveOptions object.
         
     title_right: "System Requirements"
     content_right: |
-        GroupDocs.Annotation for Java APIs are supported on all major platforms and operating systems. Before executing the code below, please make sure that you have the following prerequisites installled on your system.
+        GroupDocs.Annotation for Java APIs are supported on all major platforms and operating systems. Before executing the code below, please make sure that you have the following prerequisites installed on your system.
 
         *   Operating Systems: Microsoft Windows, Linux, MacOS
         *   Development Environment: NetBeans, Intellij IDEA, Eclipse etc
-        *   Java Runtime Environment: J2SE 6.0 and above
-        *   Get the latest version of GroupDocs.Annotation for Java from [Maven](https://repository.groupdocs.com/webapp/#/artifacts/browse/tree/General/repo/com/groupdocs/groupdocs-conversion)
+        *   Java Runtime Environment: Java 7 (1.7) and above
+        *   Get the latest version of GroupDocs.Annotation for Java from [GroupDocs Artifact Repository](https://repository.groupdocs.com/webapp/#/artifacts/browse/tree/General/repo/com/groupdocs/groupdocs-annotation)
         
     code: |
         ```java

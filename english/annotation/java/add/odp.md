@@ -67,60 +67,52 @@ steps:
     content_left: |
         [GroupDocs.Annotation](https://products.groupdocs.com/annotation/java) makes it easy for Java developers to add various annotation types to ODP files within any Java-based application by implementing a few easy steps.
 
-        *   Instantiate Annotator object with input document path or stream.
-        *   Instantiate TextFieldAnnotation object with desired properties (position, page number, etc).
-        *   Call add method and pass TextFieldAnnotation object.
-        *   Call save method with resultant document path or stream.
+        *   Create Reply objects with comment and date.
+        *   Create AreaAnnotation object, set area options and add replies.
+        *   Create Annotator object and add area annotation.
+        *   Save output file.
         
     title_right: "System Requirements"
     content_right: |
-        GroupDocs.Annotation for Java APIs are supported on all major platforms and operating systems. Before executing the code below, please make sure that you have the following prerequisites installled on your system.
+        GroupDocs.Annotation for Java APIs are supported on all major platforms and operating systems. Before executing the code below, please make sure that you have the following prerequisites installed on your system.
 
         *   Operating Systems: Microsoft Windows, Linux, MacOS
         *   Development Environment: NetBeans, Intellij IDEA, Eclipse etc
-        *   Java Runtime Environment: J2SE 6.0 and above
-        *   Get the latest version of GroupDocs.Annotation for Java from [Maven](https://repository.groupdocs.com/webapp/#/artifacts/browse/tree/General/repo/com/groupdocs/groupdocs-conversion)
+        *   Java Runtime Environment: Java 7 (1.7) and above
+        *   Get the latest version of GroupDocs.Annotation for Java from [GroupDocs Artifact Repository](https://repository.groupdocs.com/webapp/#/artifacts/browse/tree/General/repo/com/groupdocs/groupdocs-annotation)
         
     code: |
         ```java
-        String outputPath = Constants.getOutputFilePath("AddTextStrikeoutAnnotation", FilenameUtils.getExtension(input.odp));
-                    final Annotator annotator = new Annotator(input.odp);
-                    try {
-                        Reply reply1 = new Reply();
-                        reply1.setComment("First comment");
-                        reply1.setRepliedOn(Calendar.getInstance().getTime());
-                        Reply reply2 = new Reply();
-                        reply2.setComment("Second comment");
-                        reply2.setRepliedOn(Calendar.getInstance().getTime());
-                        java.util.List replies =  new ArrayList();
-                        replies.add(reply1);
-                        replies.add(reply2);
-                        Point point1 = new Point(80, 730);
-                        Point point2 = new Point(240, 730);
-                        Point point3 = new Point(80, 650);
-                        Point point4 = new Point(240, 650);
-                        List points = new ArrayList();
-                        points.add(point1);
-                        points.add(point2);
-                        points.add(point3);
-                        points.add(point4);
-                        StrikeoutAnnotation strikeout = new StrikeoutAnnotation();
-                        strikeout.setCreatedOn(Calendar.getInstance().getTime());
-                        strikeout.setFontColor(65535);
-                        strikeout.setMessage("This is strikeout annotation");
-                        strikeout.setOpacity(0.7);
-                        strikeout.setPageNumber(0);
-                        strikeout.setPoints(points);
-                        strikeout.setReplies(replies);
-                        annotator.add(strikeout);
-                        annotator.save(output.odp);
-                    } finally {
-                        if (annotator != null) {
-                            annotator.dispose();
-                        }
-                    }
-        ```
+        Reply firstReply = new Reply();
+        firstReply.setComment("First comment");
+        firstReply.setRepliedOn(Calendar.getInstance().getTime());
         
+        Reply secondReply = new Reply();
+        secondReply.setComment("Second comment");
+        secondReply.setRepliedOn(Calendar.getInstance().getTime());
+        
+        List<Reply> replies = new ArrayList<Reply>();
+        replies.add(firstReply);
+        replies.add(secondReply);
+        
+        AreaAnnotation area = new AreaAnnotation();
+        area.setBackgroundColor(65535);
+        area.setBox(new Rectangle(100, 100, 100, 100));
+        area.setCreatedOn(Calendar.getInstance().getTime());
+        area.setMessage("This is area annotation");
+        area.setOpacity(0.7);
+        area.setPageNumber(0);
+        area.setPenColor(65535);
+        area.setPenStyle(PenStyle.Dot);
+        area.setPenWidth((byte) 3);
+        area.setReplies(replies);
+        
+        Annotator annotator = new Annotator("input.odp");
+        annotator.add(area);
+        annotator.save("output.odp");
+        annotator.dispose();
+        ```
+
 ############################# Demos ############################
 demos:
     enable: true

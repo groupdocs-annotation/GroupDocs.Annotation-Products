@@ -18,6 +18,9 @@ title: "Annotate Text or Images in Documents"
 description: "‎Empower your .NET Applications to Add, Edit & Remove all Popular Annotation Types from over 50 document formats for an Easier & Efficient Collaboration.‎"
 button:
     enable: true
+    icon: "fas fa-arrow-down"
+    label: "Download Free Trial"
+    link: "https://downloads.groupdocs.com/annotation/net"
 
 ############################# SubMenu ############################
 submenu:
@@ -104,8 +107,8 @@ overview:
               content: |
                 * **Portable**: PDF (PDF/A-1a, PDF/A-1b, PDF/A-2a)
                 * **OpenDocument**: ODT, ODS, ODP
-                * **Images**: BMP, TIF, JPG, JPEG, PNG, TIFF
-                * **AutoCAD**: CAD, DWG, DXF
+                * **Images**: BMP, JPEG, PNG, TIFF
+                * **AutoCAD**: DWG, DXF
                 * **Metafiles**: EMF, WMF
                 * **Email**: EML, EMLX
                 * **Web**: HTM, HTML

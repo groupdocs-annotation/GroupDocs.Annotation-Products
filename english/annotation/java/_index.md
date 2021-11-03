@@ -11,13 +11,16 @@ platform_tag: "java"
 
 ############################# Head ############################
 head_title: "Java Document Annotation API | View & Annotate PDF Word Excel PPTX Images"
-head_description: "Java Document Annotation API. View, tag, comment & annotate PDF Word DOCX, Excel XLSX, PPTX, EML EMLX, VSS VSD, OTP, CAD, EMF WMF & image file formats."
+head_description: "Java Document Annotation API. View, tag, comment & annotate PDF Word DOCX, Excel XLSX, PPTX, EML EMLX, VSS VSD, OTP, CAD & image file formats."
 
 ############################# Header ############################
 title: "Document Annotation via Java API"
 description: "‎Build Java Applications with capabilities to View & Annotate PDF, HTML, MS Office and other document formats without installing any external software.‎"
 button:
     enable: true
+    icon: "fas fa-arrow-down"
+    label: "Download Free Trial"
+    link: "https://downloads.groupdocs.com/annotation/java"
 
 ############################# SubMenu ############################
 submenu:
@@ -109,7 +112,7 @@ overview:
                 * **OpenDocument**: ODT, ODS, ODP
                 * **Images**: BMP, JPG, TIFF, TIF, PNG
                 * **AutoCAD**: DWG, DXF
-                * **Other**: HTML, DCM
+                * **Other**: HTML
 
       ## TAB THREE ##
       tab_three:

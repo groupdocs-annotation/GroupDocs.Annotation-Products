@@ -15,7 +15,7 @@ head_description: "C# .NET Document Annotation API. View, tag, comment & annotat
 
 ############################# Header ############################
 title: "Annotate Text or Images in Documents"
-description: "‎Empower your .NET Applications to Add, Edit & Remove all Popular Annotation Types from over 50 document formats for an Easier & Efficient Collaboration.‎"
+description: "Empower your .NET Applications to Add, Edit & Remove all Popular Annotation Types from over 50 document formats for an Easier & Efficient Collaboration."
 button:
     enable: true
     icon: "fas fa-arrow-down"
@@ -191,7 +191,7 @@ features:
 
       # feature loop
       - icon: "fas fa-comment-slash"
-        content: "Set Background Color of an Annotation or Remove all the Annotations from Document‎"
+        content: "Set Background Color of an Annotation or Remove all the Annotations from Document"
 
       # feature loop
       - icon: "fas fa-border-all"
@@ -269,7 +269,7 @@ features:
       # more_feature_loop
       - title: "Support for Multiple Types of Annotation"
         content: |
-          GroupDocs.Annotation for .NET enables you to work with various types of annotations. This gives freedom and ease of communication while collaborating with your team on tasks. You can use annotations, such as, area annotation (mark an area as rectangle and add notes to it), point annotation (stick comments at any point in document), text annotation (add comment to selected text), strikeout/underline annotation (applied to a paragraph), polyline annotation (draw shapes and freehand lines), arrow annotation (arrow pointer with attached comments), ellipse annotation (display text inside the ellipse), distance annotation (draw a line that represents distance among objects), link annotation (add web links to supported document formats), and watermark annotation (text stamp or watermark can be added in document).‎
+          GroupDocs.Annotation for .NET enables you to work with various types of annotations. This gives freedom and ease of communication while collaborating with your team on tasks. You can use annotations, such as, area annotation (mark an area as rectangle and add notes to it), point annotation (stick comments at any point in document), text annotation (add comment to selected text), strikeout/underline annotation (applied to a paragraph), polyline annotation (draw shapes and freehand lines), arrow annotation (arrow pointer with attached comments), ellipse annotation (display text inside the ellipse), distance annotation (draw a line that represents distance among objects), link annotation (add web links to supported document formats), and watermark annotation (text stamp or watermark can be added in document).
 
           ```cs
           // Initialize list of AnnotationInfo

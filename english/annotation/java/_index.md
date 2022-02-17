@@ -15,7 +15,7 @@ head_description: "Java Document Annotation API. View, tag, comment & annotate P
 
 ############################# Header ############################
 title: "Document Annotation via Java API"
-description: "‎Build Java Applications with capabilities to View & Annotate PDF, HTML, MS Office and other document formats without installing any external software.‎"
+description: "Build Java Applications with capabilities to View & Annotate PDF, HTML, MS Office and other document formats without installing any external software."
 button:
     enable: true
     icon: "fas fa-arrow-down"
@@ -189,7 +189,7 @@ features:
 
       # feature loop
       - icon: "fas fa-comment-slash"
-        content: "Fetch Coordinates of Text Annotation in Image Representation of a Document‎"
+        content: "Fetch Coordinates of Text Annotation in Image Representation of a Document"
 
       # feature loop
       - icon: "fas fa-location-arrow"

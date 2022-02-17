@@ -18,9 +18,9 @@ apis:
 
   api:
     # api loop
-    - title: "GroupDocs.Annotation On Premise APIs Include"
+    - title: "GroupDocs.Annotation High Code APIs Include"
       link: "/annotation/"
-      label: "View All On Premise APIs"
+      label: "View All High Code APIs"
       api_product:
         # api_product loop
         - link: "/annotation/net/"
@@ -39,9 +39,9 @@ apis:
           content: "Java file annotation API to comprehensively annotate most common document and image file formats on any operating system with JDK installed."
 
     # api loop
-    - title: "GroupDocs.Annotation Cloud APIs Include"
+    - title: "GroupDocs.Annotation Low Code APIs Include"
       link: "https://products.groupdocs.cloud/annotation"
-      label: "View All Cloud APIs"
+      label: "View All Low Code APIs"
       api_product:
         # api_product loop
         - link: "https://products.groupdocs.cloud/annotation/curl"
@@ -68,9 +68,9 @@ apis:
           content: "Add high quality document annotation features to document and image formats with specially designed document annotation SDK for Java."
 
     # api loop
-    - title: "GroupDocs.Annotation Cross Platform Apps Include"
+    - title: "GroupDocs.Annotation No Code Apps Include"
       link: "https://products.groupdocs.app/annotation"
-      label: "View All Cross Platform Apps"
+      label: "View All No Code Apps"
       api_product:
         # api_product loop
         - link: "https://products.groupdocs.app/annotation/total"

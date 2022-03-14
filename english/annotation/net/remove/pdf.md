@@ -146,11 +146,6 @@ more_formats:
         Multi format documents and images annotation removing API for .NET. Delete annotation from some of the popular file formats as stated below.
     format: 
         # format loop
-        - name: "Remove Annotation from PDF"
-          link: "https://products.groupdocs.com/annotation/net/remove/pdf/"
-          description: "Adobe Portable Document Format"
-
-        # format loop
         - name: "Remove Annotation from DOC"
           link: "https://products.groupdocs.com/annotation/net/remove/doc/"
           description: "Microsoft Word Document"

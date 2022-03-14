@@ -262,11 +262,6 @@ more_formats:
           description: "Microsoft PowerPoint Template"
 
         # format loop
-        - name: "Edit Annotation from PPTM"
-          link: "https://products.groupdocs.com/annotation/java/edit/pptm/"
-          description: "Microsoft PowerPoint Presentation"
-
-        # format loop
         - name: "Edit Annotation from PPS"
           link: "https://products.groupdocs.com/annotation/java/edit/pps/"
           description: "Microsoft PowerPoint 97-2003 Slide Show"

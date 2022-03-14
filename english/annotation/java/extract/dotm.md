@@ -150,11 +150,6 @@ more_formats:
           description: "Word Open XML Document Template"
 
         # format loop
-        - name: "Extract Annotation from DOTM"
-          link: "https://products.groupdocs.com/annotation/java/extract/dotm/"
-          description: "Microsoft Word Macro-Enabled Template"
-
-        # format loop
         - name: "Extract Annotation from RTF"
           link: "https://products.groupdocs.com/annotation/java/extract/rtf/"
           description: "Rich Text Document"

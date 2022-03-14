@@ -278,11 +278,6 @@ more_formats:
           description: "Bitmap File Format"
 
         # format loop
-        - name: "Add Annotation to EML"
-          link: "https://products.groupdocs.com/annotation/net/add/eml/"
-          description: "E-mail Message"
-
-        # format loop
         - name: "Add Annotation to MSG"
           link: "https://products.groupdocs.com/annotation/net/add/msg/"
           description: "Microsoft Outlook E-mail Message"

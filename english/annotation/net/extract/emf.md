@@ -305,12 +305,6 @@ more_formats:
           link: "https://products.groupdocs.com/annotation/net/extract/wmf/"
           description: "Windows Metafile"
 
-        # format loop
-        - name: "Extract Annotation from EMF"
-          link: "https://products.groupdocs.com/annotation/net/extract/emf/"
-          description: "Enhanced Metafile Format"
-
-
 ############################# Back to top ###############################
 back_to_top:
     enable: true

@@ -183,11 +183,6 @@ more_formats:
           description: "Rich Text Document"
 
         # format loop
-        - name: "Edit Annotation in ODT"
-          link: "https://products.groupdocs.com/annotation/net/edit/odt/"
-          description: "Open Document Text"
-
-        # format loop
         - name: "Edit Annotation in XLS"
           link: "https://products.groupdocs.com/annotation/net/edit/xls/"
           description: "Microsoft Excel Binary File Format"

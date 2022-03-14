@@ -237,11 +237,6 @@ more_formats:
           description: "JPEG Image"
 
         # format loop
-        - name: "Remove Annotation from PNG"
-          link: "https://products.groupdocs.com/annotation/java/remove/png/"
-          description: "Portable Network Graphic"
-
-        # format loop
         - name: "Remove Annotation from BMP"
           link: "https://products.groupdocs.com/annotation/java/remove/bmp/"
           description: "Bitmap File Format"

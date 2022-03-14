@@ -206,11 +206,6 @@ more_formats:
           description: "Microsoft Excel Macro-Enabled Spreadsheet"
 
         # format loop
-        - name: "Remove Annotation from XLSB"
-          link: "https://products.groupdocs.com/annotation/net/remove/xlsb/"
-          description: "Microsoft Excel Binary Worksheet"
-
-        # format loop
         - name: "Remove Annotation from ODS"
           link: "https://products.groupdocs.com/annotation/net/remove/ods/"
           description: "Open Document Spreadsheet"

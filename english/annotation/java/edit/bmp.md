@@ -297,11 +297,6 @@ more_formats:
           description: "Portable Network Graphic"
 
         # format loop
-        - name: "Edit Annotation from BMP"
-          link: "https://products.groupdocs.com/annotation/java/edit/bmp/"
-          description: "Bitmap File Format"
-
-        # format loop
         - name: "Edit Annotation from EML"
           link: "https://products.groupdocs.com/annotation/java/edit/eml/"
           description: "E-mail Message"

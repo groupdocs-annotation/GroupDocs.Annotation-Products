@@ -282,11 +282,6 @@ more_formats:
           description: "HyperText Markup Language"
 
         # format loop
-        - name: "Edit Annotation from TIFF"
-          link: "https://products.groupdocs.com/annotation/java/edit/tiff/"
-          description: "Tagged Image File Format"
-
-        # format loop
         - name: "Edit Annotation from JPEG"
           link: "https://products.groupdocs.com/annotation/java/edit/jpeg/"
           description: "JPEG Image"

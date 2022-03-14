@@ -163,11 +163,6 @@ more_formats:
           description: "Microsoft Word Open XML Document"
 
         # format loop
-        - name: "Edit Annotation in DOT"
-          link: "https://products.groupdocs.com/annotation/net/edit/dot/"
-          description: "Microsoft Word Document Template"
-
-        # format loop
         - name: "Edit Annotation in DOTX"
           link: "https://products.groupdocs.com/annotation/net/edit/dotx/"
           description: "Word Open XML Document Template"

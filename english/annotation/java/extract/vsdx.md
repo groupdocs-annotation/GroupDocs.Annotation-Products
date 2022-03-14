@@ -265,11 +265,6 @@ more_formats:
           description: "Microsoft Visio 2003-2010 Drawing"
 
         # format loop
-        - name: "Extract Annotation from VSDX"
-          link: "https://products.groupdocs.com/annotation/java/extract/vsdx/"
-          description: "Microsoft Visio Drawing"
-
-        # format loop
         - name: "Extract Annotation from VSS"
           link: "https://products.groupdocs.com/annotation/java/extract/vss/"
           description: "Microsoft Visio 2003-2010 Stencil"

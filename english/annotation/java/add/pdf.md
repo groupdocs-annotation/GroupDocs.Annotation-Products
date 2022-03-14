@@ -141,11 +141,6 @@ more_formats:
         Java annotation management library for documents and image formats. Add annotation properties to some of the popular file formats as stated below.
     format: 
         # format loop
-        - name: "Add Annotation to PDF"
-          link: "https://products.groupdocs.com/annotation/java/add/pdf"
-          description: "Adobe Portable Document Format"
-
-        # format loop
         - name: "Add Annotation to DOC"
           link: "https://products.groupdocs.com/annotation/java/add/doc"
           description: "Microsoft Word Document"

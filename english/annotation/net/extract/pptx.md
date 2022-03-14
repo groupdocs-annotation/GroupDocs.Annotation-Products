@@ -201,11 +201,6 @@ more_formats:
           description: "PowerPoint Presentation"
 
         # format loop
-        - name: "Extract Annotation from PPTX"
-          link: "https://products.groupdocs.com/annotation/net/extract/pptx/"
-          description: "PowerPoint Open XML Presentation"
-
-        # format loop
         - name: "Extract Annotation from PPSX"
           link: "https://products.groupdocs.com/annotation/net/extract/ppsx/"
           description: "PowerPoint Open XML Slide Show"

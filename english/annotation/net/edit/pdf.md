@@ -143,11 +143,6 @@ more_formats:
         Multi format documents and images annotation editor API for .NET. Update annotation from some of the popular file formats as stated below.
     format: 
         # format loop
-        - name: "Edit Annotation in PDF"
-          link: "https://products.groupdocs.com/annotation/net/edit/pdf/"
-          description: "Adobe Portable Document Format"
-
-        # format loop
         - name: "Edit Annotation in DOC"
           link: "https://products.groupdocs.com/annotation/net/edit/doc/"
           description: "Microsoft Word Document"

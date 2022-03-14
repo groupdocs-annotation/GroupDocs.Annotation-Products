@@ -268,11 +268,6 @@ more_formats:
           description: "JPEG Image"
 
         # format loop
-        - name: "Add Annotation to PNG"
-          link: "https://products.groupdocs.com/annotation/net/add/png/"
-          description: "Portable Network Graphic"
-
-        # format loop
         - name: "Add Annotation to BMP"
           link: "https://products.groupdocs.com/annotation/net/add/bmp/"
           description: "Bitmap File Format"

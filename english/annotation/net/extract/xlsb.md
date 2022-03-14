@@ -186,11 +186,6 @@ more_formats:
           description: "Microsoft Excel Macro-Enabled Spreadsheet"
 
         # format loop
-        - name: "Extract Annotation from XLSB"
-          link: "https://products.groupdocs.com/annotation/net/extract/xlsb/"
-          description: "Microsoft Excel Binary Worksheet"
-
-        # format loop
         - name: "Extract Annotation from ODS"
           link: "https://products.groupdocs.com/annotation/net/extract/ods/"
           description: "Open Document Spreadsheet"

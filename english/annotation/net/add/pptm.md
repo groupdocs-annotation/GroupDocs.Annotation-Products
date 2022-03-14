@@ -238,11 +238,6 @@ more_formats:
           description: "Microsoft PowerPoint Template"
 
         # format loop
-        - name: "Add Annotation to PPTM"
-          link: "https://products.groupdocs.com/annotation/net/add/pptm/"
-          description: "Microsoft PowerPoint Presentation"
-
-        # format loop
         - name: "Add Annotation to PPS"
           link: "https://products.groupdocs.com/annotation/net/add/pps/"
           description: "Microsoft PowerPoint 97-2003 Slide Show"

@@ -221,11 +221,6 @@ more_formats:
           description: "PowerPoint Presentation"
 
         # format loop
-        - name: "Remove Annotation from PPTX"
-          link: "https://products.groupdocs.com/annotation/net/remove/pptx/"
-          description: "PowerPoint Open XML Presentation"
-
-        # format loop
         - name: "Remove Annotation from PPSX"
           link: "https://products.groupdocs.com/annotation/net/remove/ppsx/"
           description: "PowerPoint Open XML Slide Show"

@@ -146,11 +146,6 @@ more_formats:
           description: "Adobe Portable Document Format"
 
         # format loop
-        - name: "Add Annotation to DOC"
-          link: "https://products.groupdocs.com/annotation/java/add/doc"
-          description: "Microsoft Word Document"
-
-        # format loop
         - name: "Add Annotation to DOCM"
           link: "https://products.groupdocs.com/annotation/java/add/docm"
           description: "Microsoft Word Macro-Enabled Document"

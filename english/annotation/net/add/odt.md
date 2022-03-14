@@ -188,11 +188,6 @@ more_formats:
           description: "Rich Text Document"
 
         # format loop
-        - name: "Add Annotation to ODT"
-          link: "https://products.groupdocs.com/annotation/net/add/odt/"
-          description: "Open Document Text"
-
-        # format loop
         - name: "Add Annotation to XLS"
           link: "https://products.groupdocs.com/annotation/net/add/xls/"
           description: "Microsoft Excel Binary File Format"

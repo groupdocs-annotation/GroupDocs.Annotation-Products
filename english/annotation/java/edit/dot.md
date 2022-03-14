@@ -192,11 +192,6 @@ more_formats:
           description: "Microsoft Word Open XML Document"
 
         # format loop
-        - name: "Edit Annotation from DOT"
-          link: "https://products.groupdocs.com/annotation/java/edit/dot/"
-          description: "Microsoft Word Document Template"
-
-        # format loop
         - name: "Edit Annotation from DOTX"
           link: "https://products.groupdocs.com/annotation/java/edit/dotx/"
           description: "Word Open XML Document Template"

@@ -216,11 +216,6 @@ more_formats:
           description: "PowerPoint Presentation"
 
         # format loop
-        - name: "Add Annotation to PPTX"
-          link: "https://products.groupdocs.com/annotation/java/add/pptx"
-          description: "PowerPoint Open XML Presentation"
-
-        # format loop
         - name: "Add Annotation to PPSX"
           link: "https://products.groupdocs.com/annotation/java/add/ppsx"
           description: "PowerPoint Open XML Slide Show"

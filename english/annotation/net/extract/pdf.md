@@ -126,11 +126,6 @@ more_formats:
         .NET annotations extraction API for documents and images. Export annotation from some of the popular file formats as stated below.
     format: 
         # format loop
-        - name: "Extract Annotation from PDF"
-          link: "https://products.groupdocs.com/annotation/net/extract/pdf/"
-          description: "Adobe Portable Document Format"
-
-        # format loop
         - name: "Extract Annotation from DOC"
           link: "https://products.groupdocs.com/annotation/net/extract/doc/"
           description: "Microsoft Word Document"

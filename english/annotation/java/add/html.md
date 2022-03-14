@@ -246,11 +246,6 @@ more_formats:
           description: "OpenDocument Presentation"
 
         # format loop
-        - name: "Add Annotation to HTML"
-          link: "https://products.groupdocs.com/annotation/java/add/html"
-          description: "HyperText Markup Language"
-
-        # format loop
         - name: "Add Annotation to TIFF"
           link: "https://products.groupdocs.com/annotation/java/add/tiff"
           description: "Tagged Image File Format"

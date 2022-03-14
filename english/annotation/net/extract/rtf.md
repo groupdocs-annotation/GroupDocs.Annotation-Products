@@ -161,11 +161,6 @@ more_formats:
           description: "Microsoft Word Macro-Enabled Template"
 
         # format loop
-        - name: "Extract Annotation from RTF"
-          link: "https://products.groupdocs.com/annotation/net/extract/rtf/"
-          description: "Rich Text Document"
-
-        # format loop
         - name: "Extract Annotation from ODT"
           link: "https://products.groupdocs.com/annotation/net/extract/odt/"
           description: "Open Document Text"

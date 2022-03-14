@@ -232,11 +232,6 @@ more_formats:
           description: "Microsoft Excel Macro-Enabled Spreadsheet"
 
         # format loop
-        - name: "Edit Annotation from XLSB"
-          link: "https://products.groupdocs.com/annotation/java/edit/xlsb/"
-          description: "Microsoft Excel Binary Worksheet"
-
-        # format loop
         - name: "Edit Annotation from ODS"
           link: "https://products.groupdocs.com/annotation/java/edit/ods/"
           description: "Open Document Spreadsheet"

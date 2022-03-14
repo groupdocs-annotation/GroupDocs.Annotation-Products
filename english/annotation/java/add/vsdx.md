@@ -286,11 +286,6 @@ more_formats:
           description: "Microsoft Visio 2003-2010 Drawing"
 
         # format loop
-        - name: "Add Annotation to VSDX"
-          link: "https://products.groupdocs.com/annotation/java/add/vsdx"
-          description: "Microsoft Visio Drawing"
-
-        # format loop
         - name: "Add Annotation to VSS"
           link: "https://products.groupdocs.com/annotation/java/add/vss"
           description: "Microsoft Visio 2003-2010 Stencil"

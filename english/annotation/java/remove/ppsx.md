@@ -197,11 +197,6 @@ more_formats:
           description: "PowerPoint Open XML Presentation"
 
         # format loop
-        - name: "Remove Annotation from PPSX"
-          link: "https://products.groupdocs.com/annotation/java/remove/ppsx/"
-          description: "PowerPoint Open XML Slide Show"
-
-        # format loop
         - name: "Remove Annotation from POTM"
           link: "https://products.groupdocs.com/annotation/java/remove/potm/"
           description: "Microsoft PowerPoint Template"

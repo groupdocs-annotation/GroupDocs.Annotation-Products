@@ -250,11 +250,6 @@ more_formats:
           description: "Bitmap File Format"
 
         # format loop
-        - name: "Extract Annotation from EML"
-          link: "https://products.groupdocs.com/annotation/java/extract/eml/"
-          description: "E-mail Message"
-
-        # format loop
         - name: "Extract Annotation from MSG"
           link: "https://products.groupdocs.com/annotation/java/extract/msg/"
           description: "Microsoft Outlook E-mail Message"

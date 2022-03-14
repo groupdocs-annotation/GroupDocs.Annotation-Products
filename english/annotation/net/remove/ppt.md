@@ -216,11 +216,6 @@ more_formats:
           description: "Open Document Spreadsheet"
 
         # format loop
-        - name: "Remove Annotation from PPT"
-          link: "https://products.groupdocs.com/annotation/net/remove/ppt/"
-          description: "PowerPoint Presentation"
-
-        # format loop
         - name: "Remove Annotation from PPTX"
           link: "https://products.groupdocs.com/annotation/net/remove/pptx/"
           description: "PowerPoint Open XML Presentation"

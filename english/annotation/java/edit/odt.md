@@ -212,11 +212,6 @@ more_formats:
           description: "Rich Text Document"
 
         # format loop
-        - name: "Edit Annotation from ODT"
-          link: "https://products.groupdocs.com/annotation/java/edit/odt/"
-          description: "Open Document Text"
-
-        # format loop
         - name: "Edit Annotation from XLS"
           link: "https://products.groupdocs.com/annotation/java/edit/xls/"
           description: "Microsoft Excel Binary File Format"

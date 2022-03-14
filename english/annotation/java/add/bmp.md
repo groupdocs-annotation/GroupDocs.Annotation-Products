@@ -266,11 +266,6 @@ more_formats:
           description: "Portable Network Graphic"
 
         # format loop
-        - name: "Add Annotation to BMP"
-          link: "https://products.groupdocs.com/annotation/java/add/bmp/"
-          description: "Bitmap File Format"
-
-        # format loop
         - name: "Add Annotation to EML"
           link: "https://products.groupdocs.com/annotation/java/add/eml/"
           description: "E-mail Message"

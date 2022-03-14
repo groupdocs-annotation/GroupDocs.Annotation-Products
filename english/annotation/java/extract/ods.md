@@ -185,11 +185,6 @@ more_formats:
           description: "Microsoft Excel Binary Worksheet"
 
         # format loop
-        - name: "Extract Annotation from ODS"
-          link: "https://products.groupdocs.com/annotation/java/extract/ods/"
-          description: "Open Document Spreadsheet"
-
-        # format loop
         - name: "Extract Annotation from PPT"
           link: "https://products.groupdocs.com/annotation/java/extract/ppt/"
           description: "PowerPoint Presentation"

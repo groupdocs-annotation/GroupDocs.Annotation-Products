@@ -301,11 +301,6 @@ more_formats:
           description: "Digital Imaging and Communications in Medicine"
 
         # format loop
-        - name: "Extract Annotation from WMF"
-          link: "https://products.groupdocs.com/annotation/net/extract/wmf/"
-          description: "Windows Metafile"
-
-        # format loop
         - name: "Extract Annotation from EMF"
           link: "https://products.groupdocs.com/annotation/net/extract/emf/"
           description: "Enhanced Metafile Format"

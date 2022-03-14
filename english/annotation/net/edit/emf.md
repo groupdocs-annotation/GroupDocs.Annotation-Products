@@ -322,11 +322,6 @@ more_formats:
           link: "https://products.groupdocs.com/annotation/net/edit/wmf/"
           description: "Windows Metafile"
 
-        # format loop
-        - name: "Edit Annotation in EMF"
-          link: "https://products.groupdocs.com/annotation/net/edit/emf/"
-          description: "Enhanced Metafile Format"
-
 
 ############################# Back to top ###############################
 back_to_top:

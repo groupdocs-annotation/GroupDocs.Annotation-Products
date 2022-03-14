@@ -273,11 +273,6 @@ more_formats:
           description: "Bitmap File Format"
 
         # format loop
-        - name: "Edit Annotation in EML"
-          link: "https://products.groupdocs.com/annotation/net/edit/eml/"
-          description: "E-mail Message"
-
-        # format loop
         - name: "Edit Annotation in MSG"
           link: "https://products.groupdocs.com/annotation/net/edit/msg/"
           description: "Microsoft Outlook E-mail Message"

@@ -182,11 +182,6 @@ more_formats:
           description: "Microsoft Excel Binary Worksheet"
 
         # format loop
-        - name: "Remove Annotation from ODS"
-          link: "https://products.groupdocs.com/annotation/java/remove/ods/"
-          description: "Open Document Spreadsheet"
-
-        # format loop
         - name: "Remove Annotation from PPT"
           link: "https://products.groupdocs.com/annotation/java/remove/ppt/"
           description: "PowerPoint Presentation"

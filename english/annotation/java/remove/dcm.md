@@ -287,11 +287,6 @@ more_formats:
           description: "AutoCAD Drawing Interchange"
 
         # format loop
-        - name: "Remove Annotation from DCM"
-          link: "https://products.groupdocs.com/annotation/java/remove/dcm/"
-          description: "Digital Imaging and Communications in Medicine"
-
-        # format loop
         - name: "Remove Annotation from WMF"
           link: "https://products.groupdocs.com/annotation/java/remove/wmf/"
           description: "Windows Metafile"

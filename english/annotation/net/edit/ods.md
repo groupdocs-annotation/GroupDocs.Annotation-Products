@@ -208,11 +208,6 @@ more_formats:
           description: "Microsoft Excel Binary Worksheet"
 
         # format loop
-        - name: "Edit Annotation in ODS"
-          link: "https://products.groupdocs.com/annotation/net/edit/ods/"
-          description: "Open Document Spreadsheet"
-
-        # format loop
         - name: "Edit Annotation in PPT"
           link: "https://products.groupdocs.com/annotation/net/edit/ppt/"
           description: "PowerPoint Presentation"

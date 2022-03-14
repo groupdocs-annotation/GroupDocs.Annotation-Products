@@ -222,11 +222,6 @@ more_formats:
           description: "Microsoft Excel Binary File Format"
 
         # format loop
-        - name: "Edit Annotation from XLSX"
-          link: "https://products.groupdocs.com/annotation/java/edit/xlsx/"
-          description: "Microsoft Excel Open XML Spreadsheet"
-
-        # format loop
         - name: "Edit Annotation from XLSM"
           link: "https://products.groupdocs.com/annotation/java/edit/xlsm/"
           description: "Microsoft Excel Macro-Enabled Spreadsheet"

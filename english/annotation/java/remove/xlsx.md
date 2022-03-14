@@ -167,11 +167,6 @@ more_formats:
           description: "Microsoft Excel Binary File Format"
 
         # format loop
-        - name: "Remove Annotation from XLSX"
-          link: "https://products.groupdocs.com/annotation/java/remove/xlsx/"
-          description: "Microsoft Excel Open XML Spreadsheet"
-
-        # format loop
         - name: "Remove Annotation from XLSM"
           link: "https://products.groupdocs.com/annotation/java/remove/xlsm/"
           description: "Microsoft Excel Macro-Enabled Spreadsheet"

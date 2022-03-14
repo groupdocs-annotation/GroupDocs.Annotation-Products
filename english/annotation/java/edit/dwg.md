@@ -332,11 +332,6 @@ more_formats:
           description: "Microsoft Visio 2013 Stencil"
 
         # format loop
-        - name: "Edit Annotation from DWG"
-          link: "https://products.groupdocs.com/annotation/java/edit/dwg/"
-          description: "Autodesk Design Data Formats"
-
-        # format loop
         - name: "Edit Annotation from DXF"
           link: "https://products.groupdocs.com/annotation/java/edit/dxf/"
           description: "AutoCAD Drawing Interchange"

@@ -211,11 +211,6 @@ more_formats:
           description: "Open Document Spreadsheet"
 
         # format loop
-        - name: "Add Annotation to PPT"
-          link: "https://products.groupdocs.com/annotation/java/add/ppt"
-          description: "PowerPoint Presentation"
-
-        # format loop
         - name: "Add Annotation to PPTX"
           link: "https://products.groupdocs.com/annotation/java/add/pptx"
           description: "PowerPoint Open XML Presentation"

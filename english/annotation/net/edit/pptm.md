@@ -233,11 +233,6 @@ more_formats:
           description: "Microsoft PowerPoint Template"
 
         # format loop
-        - name: "Edit Annotation in PPTM"
-          link: "https://products.groupdocs.com/annotation/net/edit/pptm/"
-          description: "Microsoft PowerPoint Presentation"
-
-        # format loop
         - name: "Edit Annotation in PPS"
           link: "https://products.groupdocs.com/annotation/net/edit/pps/"
           description: "Microsoft PowerPoint 97-2003 Slide Show"

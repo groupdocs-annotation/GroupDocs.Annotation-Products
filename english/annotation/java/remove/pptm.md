@@ -207,11 +207,6 @@ more_formats:
           description: "Microsoft PowerPoint Template"
 
         # format loop
-        - name: "Remove Annotation from PPTM"
-          link: "https://products.groupdocs.com/annotation/java/remove/pptm/"
-          description: "Microsoft PowerPoint Presentation"
-
-        # format loop
         - name: "Remove Annotation from PPS"
           link: "https://products.groupdocs.com/annotation/java/remove/pps/"
           description: "Microsoft PowerPoint 97-2003 Slide Show"

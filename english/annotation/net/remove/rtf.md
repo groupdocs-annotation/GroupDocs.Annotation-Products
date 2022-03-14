@@ -181,11 +181,6 @@ more_formats:
           description: "Microsoft Word Macro-Enabled Template"
 
         # format loop
-        - name: "Remove Annotation from RTF"
-          link: "https://products.groupdocs.com/annotation/net/remove/rtf/"
-          description: "Rich Text Document"
-
-        # format loop
         - name: "Remove Annotation from ODT"
           link: "https://products.groupdocs.com/annotation/net/remove/odt/"
           description: "Open Document Text"

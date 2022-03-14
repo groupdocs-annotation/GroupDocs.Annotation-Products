@@ -196,11 +196,6 @@ more_formats:
           description: "Open Document Spreadsheet"
 
         # format loop
-        - name: "Extract Annotation from PPT"
-          link: "https://products.groupdocs.com/annotation/net/extract/ppt/"
-          description: "PowerPoint Presentation"
-
-        # format loop
         - name: "Extract Annotation from PPTX"
           link: "https://products.groupdocs.com/annotation/net/extract/pptx/"
           description: "PowerPoint Open XML Presentation"

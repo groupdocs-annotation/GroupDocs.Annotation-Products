@@ -191,11 +191,6 @@ more_formats:
           description: "Open Document Text"
 
         # format loop
-        - name: "Remove Annotation from XLS"
-          link: "https://products.groupdocs.com/annotation/net/remove/xls/"
-          description: "Microsoft Excel Binary File Format"
-
-        # format loop
         - name: "Remove Annotation from XLSX"
           link: "https://products.groupdocs.com/annotation/net/remove/xlsx/"
           description: "Microsoft Excel Open XML Spreadsheet"

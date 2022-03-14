@@ -240,11 +240,6 @@ more_formats:
           description: "JPEG Image"
 
         # format loop
-        - name: "Extract Annotation from PNG"
-          link: "https://products.groupdocs.com/annotation/java/extract/png/"
-          description: "Portable Network Graphic"
-
-        # format loop
         - name: "Extract Annotation from BMP"
           link: "https://products.groupdocs.com/annotation/java/extract/bmp/"
           description: "Bitmap File Format"

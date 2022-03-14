@@ -232,11 +232,6 @@ more_formats:
           description: "Tagged Image File Format"
 
         # format loop
-        - name: "Remove Annotation from JPEG"
-          link: "https://products.groupdocs.com/annotation/java/remove/jpeg/"
-          description: "JPEG Image"
-
-        # format loop
         - name: "Remove Annotation from PNG"
           link: "https://products.groupdocs.com/annotation/java/remove/png/"
           description: "Portable Network Graphic"

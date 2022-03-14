@@ -307,11 +307,6 @@ more_formats:
           description: "E-mail Message"
 
         # format loop
-        - name: "Edit Annotation from MSG"
-          link: "https://products.groupdocs.com/annotation/java/edit/msg/"
-          description: "Microsoft Outlook E-mail Message"
-
-        # format loop
         - name: "Edit Annotation from VSD"
           link: "https://products.groupdocs.com/annotation/java/edit/vsd/"
           description: "Microsoft Visio 2003-2010 Drawing"

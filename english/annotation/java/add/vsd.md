@@ -281,11 +281,6 @@ more_formats:
           description: "Microsoft Outlook E-mail Message"
 
         # format loop
-        - name: "Add Annotation to VSD"
-          link: "https://products.groupdocs.com/annotation/java/add/vsd"
-          description: "Microsoft Visio 2003-2010 Drawing"
-
-        # format loop
         - name: "Add Annotation to VSDX"
           link: "https://products.groupdocs.com/annotation/java/add/vsdx"
           description: "Microsoft Visio Drawing"

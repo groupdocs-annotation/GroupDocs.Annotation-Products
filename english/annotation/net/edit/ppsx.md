@@ -223,11 +223,6 @@ more_formats:
           description: "PowerPoint Open XML Presentation"
 
         # format loop
-        - name: "Edit Annotation in PPSX"
-          link: "https://products.groupdocs.com/annotation/net/edit/ppsx/"
-          description: "PowerPoint Open XML Slide Show"
-
-        # format loop
         - name: "Edit Annotation in POTM"
           link: "https://products.groupdocs.com/annotation/net/edit/potm/"
           description: "Microsoft PowerPoint Template"

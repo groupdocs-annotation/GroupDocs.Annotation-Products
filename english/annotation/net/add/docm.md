@@ -158,11 +158,6 @@ more_formats:
           description: "Microsoft Word Document"
 
         # format loop
-        - name: "Add Annotation to DOCM"
-          link: "https://products.groupdocs.com/annotation/net/add/docm/"
-          description: "Microsoft Word Macro-Enabled Document"
-
-        # format loop
         - name: "Add Annotation to DOCX"
           link: "https://products.groupdocs.com/annotation/net/add/docx/"
           description: "Microsoft Word Open XML Document"

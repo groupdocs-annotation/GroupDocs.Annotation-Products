@@ -311,11 +311,6 @@ more_formats:
           description: "Autodesk Design Data Formats"
 
         # format loop
-        - name: "Remove Annotation from DXF"
-          link: "https://products.groupdocs.com/annotation/net/remove/dxf/"
-          description: "AutoCAD Drawing Interchange"
-
-        # format loop
         - name: "Remove Annotation from DCM"
           link: "https://products.groupdocs.com/annotation/net/remove/dcm/"
           description: "Digital Imaging and Communications in Medicine"

@@ -283,11 +283,6 @@ more_formats:
           description: "Microsoft Outlook E-mail Message"
 
         # format loop
-        - name: "Edit Annotation in VSD"
-          link: "https://products.groupdocs.com/annotation/net/edit/vsd/"
-          description: "Microsoft Visio 2003-2010 Drawing"
-
-        # format loop
         - name: "Edit Annotation in VSDX"
           link: "https://products.groupdocs.com/annotation/net/edit/vsdx/"
           description: "Microsoft Visio Drawing"

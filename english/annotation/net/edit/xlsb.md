@@ -203,11 +203,6 @@ more_formats:
           description: "Microsoft Excel Macro-Enabled Spreadsheet"
 
         # format loop
-        - name: "Edit Annotation in XLSB"
-          link: "https://products.groupdocs.com/annotation/net/edit/xlsb/"
-          description: "Microsoft Excel Binary Worksheet"
-
-        # format loop
         - name: "Edit Annotation in ODS"
           link: "https://products.groupdocs.com/annotation/net/edit/ods/"
           description: "Open Document Spreadsheet"

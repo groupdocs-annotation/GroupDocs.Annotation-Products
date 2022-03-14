@@ -206,11 +206,6 @@ more_formats:
           description: "Microsoft Excel Binary Worksheet"
 
         # format loop
-        - name: "Add Annotation to ODS"
-          link: "https://products.groupdocs.com/annotation/java/add/ods"
-          description: "Open Document Spreadsheet"
-
-        # format loop
         - name: "Add Annotation to PPT"
           link: "https://products.groupdocs.com/annotation/java/add/ppt"
           description: "PowerPoint Presentation"

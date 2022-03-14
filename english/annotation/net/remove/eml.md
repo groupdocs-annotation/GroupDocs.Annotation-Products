@@ -276,11 +276,6 @@ more_formats:
           description: "Bitmap File Format"
 
         # format loop
-        - name: "Remove Annotation from EML"
-          link: "https://products.groupdocs.com/annotation/net/remove/eml/"
-          description: "E-mail Message"
-
-        # format loop
         - name: "Remove Annotation from MSG"
           link: "https://products.groupdocs.com/annotation/net/remove/msg/"
           description: "Microsoft Outlook E-mail Message"

@@ -322,11 +322,6 @@ more_formats:
           description: "Microsoft Visio Drawing"
 
         # format loop
-        - name: "Edit Annotation from VSS"
-          link: "https://products.groupdocs.com/annotation/java/edit/vss/"
-          description: "Microsoft Visio 2003-2010 Stencil"
-
-        # format loop
         - name: "Edit Annotation from VST"
           link: "https://products.groupdocs.com/annotation/java/edit/vst/"
           description: "Microsoft Visio 2013 Stencil"

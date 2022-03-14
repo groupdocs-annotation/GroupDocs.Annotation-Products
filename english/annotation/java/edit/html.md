@@ -277,11 +277,6 @@ more_formats:
           description: "OpenDocument Presentation"
 
         # format loop
-        - name: "Edit Annotation from HTML"
-          link: "https://products.groupdocs.com/annotation/java/edit/html/"
-          description: "HyperText Markup Language"
-
-        # format loop
         - name: "Edit Annotation from TIFF"
           link: "https://products.groupdocs.com/annotation/java/edit/tiff/"
           description: "Tagged Image File Format"

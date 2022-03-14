@@ -236,11 +236,6 @@ more_formats:
           description: "Microsoft PowerPoint Presentation"
 
         # format loop
-        - name: "Add Annotation to PPS"
-          link: "https://products.groupdocs.com/annotation/java/add/pps"
-          description: "Microsoft PowerPoint 97-2003 Slide Show"
-
-        # format loop
         - name: "Add Annotation to ODP"
           link: "https://products.groupdocs.com/annotation/java/add/odp"
           description: "OpenDocument Presentation"

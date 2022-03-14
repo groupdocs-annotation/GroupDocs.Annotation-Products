@@ -173,11 +173,6 @@ more_formats:
           description: "Word Open XML Document Template"
 
         # format loop
-        - name: "Edit Annotation in DOTM"
-          link: "https://products.groupdocs.com/annotation/net/edit/dotm/"
-          description: "Microsoft Word Macro-Enabled Template"
-
-        # format loop
         - name: "Edit Annotation in RTF"
           link: "https://products.groupdocs.com/annotation/net/edit/rtf/"
           description: "Rich Text Document"

@@ -351,10 +351,6 @@ more_formats:
           link: "https://products.groupdocs.com/annotation/java/edit/wmf/"
           description: "Windows Metafile"
 
-        # format loop
-        - name: "Edit Annotation from EMF"
-          link: "https://products.groupdocs.com/annotation/java/edit/emf/"
-          description: "Enhanced Metafile Format"
 
 
 ############################# Back to top ###############################

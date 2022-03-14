@@ -191,11 +191,6 @@ more_formats:
           description: "Microsoft Excel Binary File Format"
 
         # format loop
-        - name: "Add Annotation to XLSX"
-          link: "https://products.groupdocs.com/annotation/java/add/xlsx"
-          description: "Microsoft Excel Open XML Spreadsheet"
-
-        # format loop
         - name: "Add Annotation to XLSM"
           link: "https://products.groupdocs.com/annotation/java/add/xlsm"
           description: "Microsoft Excel Macro-Enabled Spreadsheet"

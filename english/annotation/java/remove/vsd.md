@@ -257,11 +257,6 @@ more_formats:
           description: "Microsoft Outlook E-mail Message"
 
         # format loop
-        - name: "Remove Annotation from VSD"
-          link: "https://products.groupdocs.com/annotation/java/remove/vsd/"
-          description: "Microsoft Visio 2003-2010 Drawing"
-
-        # format loop
         - name: "Remove Annotation from VSDX"
           link: "https://products.groupdocs.com/annotation/java/remove/vsdx/"
           description: "Microsoft Visio Drawing"

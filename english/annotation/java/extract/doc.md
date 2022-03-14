@@ -125,11 +125,6 @@ more_formats:
           description: "Adobe Portable Document Format"
 
         # format loop
-        - name: "Extract Annotation from DOC"
-          link: "https://products.groupdocs.com/annotation/java/extract/doc/"
-          description: "Microsoft Word Document"
-
-        # format loop
         - name: "Extract Annotation from DOCM"
           link: "https://products.groupdocs.com/annotation/java/extract/docm/"
           description: "Microsoft Word Macro-Enabled Document"

@@ -257,11 +257,6 @@ more_formats:
           description: "PowerPoint Open XML Slide Show"
 
         # format loop
-        - name: "Edit Annotation from POTM"
-          link: "https://products.groupdocs.com/annotation/java/edit/potm/"
-          description: "Microsoft PowerPoint Template"
-
-        # format loop
         - name: "Edit Annotation from PPTM"
           link: "https://products.groupdocs.com/annotation/java/edit/pptm/"
           description: "Microsoft PowerPoint Presentation"

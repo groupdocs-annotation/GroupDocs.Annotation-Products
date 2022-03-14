@@ -230,11 +230,6 @@ more_formats:
           description: "HyperText Markup Language"
 
         # format loop
-        - name: "Extract Annotation from TIFF"
-          link: "https://products.groupdocs.com/annotation/java/extract/tiff/"
-          description: "Tagged Image File Format"
-
-        # format loop
         - name: "Extract Annotation from JPEG"
           link: "https://products.groupdocs.com/annotation/java/extract/jpeg/"
           description: "JPEG Image"

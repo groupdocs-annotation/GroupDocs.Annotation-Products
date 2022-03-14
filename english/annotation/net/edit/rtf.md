@@ -178,11 +178,6 @@ more_formats:
           description: "Microsoft Word Macro-Enabled Template"
 
         # format loop
-        - name: "Edit Annotation in RTF"
-          link: "https://products.groupdocs.com/annotation/net/edit/rtf/"
-          description: "Rich Text Document"
-
-        # format loop
         - name: "Edit Annotation in ODT"
           link: "https://products.groupdocs.com/annotation/net/edit/odt/"
           description: "Open Document Text"

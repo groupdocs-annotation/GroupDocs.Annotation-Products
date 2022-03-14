@@ -153,11 +153,6 @@ more_formats:
           description: "Microsoft Word Document"
 
         # format loop
-        - name: "Edit Annotation in DOCM"
-          link: "https://products.groupdocs.com/annotation/net/edit/docm/"
-          description: "Microsoft Word Macro-Enabled Document"
-
-        # format loop
         - name: "Edit Annotation in DOCX"
           link: "https://products.groupdocs.com/annotation/net/edit/docx/"
           description: "Microsoft Word Open XML Document"

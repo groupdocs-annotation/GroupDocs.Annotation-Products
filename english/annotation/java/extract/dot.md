@@ -140,11 +140,6 @@ more_formats:
           description: "Microsoft Word Open XML Document"
 
         # format loop
-        - name: "Extract Annotation from DOT"
-          link: "https://products.groupdocs.com/annotation/java/extract/dot/"
-          description: "Microsoft Word Document Template"
-
-        # format loop
         - name: "Extract Annotation from DOTX"
           link: "https://products.groupdocs.com/annotation/java/extract/dotx/"
           description: "Word Open XML Document Template"

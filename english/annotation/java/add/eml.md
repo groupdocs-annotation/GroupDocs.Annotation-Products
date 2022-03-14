@@ -271,11 +271,6 @@ more_formats:
           description: "Bitmap File Format"
 
         # format loop
-        - name: "Add Annotation to EML"
-          link: "https://products.groupdocs.com/annotation/java/add/eml"
-          description: "E-mail Message"
-
-        # format loop
         - name: "Add Annotation to MSG"
           link: "https://products.groupdocs.com/annotation/java/add/msg"
           description: "Microsoft Outlook E-mail Message"

@@ -298,11 +298,6 @@ more_formats:
           description: "Microsoft Visio 2003-2010 Stencil"
 
         # format loop
-        - name: "Edit Annotation in VST"
-          link: "https://products.groupdocs.com/annotation/net/edit/vst/"
-          description: "Microsoft Visio 2013 Stencil"
-
-        # format loop
         - name: "Edit Annotation in DWG"
           link: "https://products.groupdocs.com/annotation/net/edit/dwg/"
           description: "Autodesk Design Data Formats"

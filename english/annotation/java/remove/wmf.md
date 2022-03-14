@@ -292,11 +292,6 @@ more_formats:
           description: "Digital Imaging and Communications in Medicine"
 
         # format loop
-        - name: "Remove Annotation from WMF"
-          link: "https://products.groupdocs.com/annotation/java/remove/wmf/"
-          description: "Windows Metafile"
-
-        # format loop
         - name: "Remove Annotation from EMF"
           link: "https://products.groupdocs.com/annotation/java/remove/emf/"
           description: "Enhanced Metafile Format"

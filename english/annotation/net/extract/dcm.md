@@ -296,11 +296,6 @@ more_formats:
           description: "AutoCAD Drawing Interchange"
 
         # format loop
-        - name: "Extract Annotation from DCM"
-          link: "https://products.groupdocs.com/annotation/net/extract/dcm/"
-          description: "Digital Imaging and Communications in Medicine"
-
-        # format loop
         - name: "Extract Annotation from WMF"
           link: "https://products.groupdocs.com/annotation/net/extract/wmf/"
           description: "Windows Metafile"

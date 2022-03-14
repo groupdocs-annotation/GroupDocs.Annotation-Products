@@ -186,11 +186,6 @@ more_formats:
           description: "Rich Text Document"
 
         # format loop
-        - name: "Remove Annotation from ODT"
-          link: "https://products.groupdocs.com/annotation/net/remove/odt/"
-          description: "Open Document Text"
-
-        # format loop
         - name: "Remove Annotation from XLS"
           link: "https://products.groupdocs.com/annotation/net/remove/xls/"
           description: "Microsoft Excel Binary File Format"

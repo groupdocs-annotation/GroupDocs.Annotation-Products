@@ -227,11 +227,6 @@ more_formats:
           description: "HyperText Markup Language"
 
         # format loop
-        - name: "Remove Annotation from TIFF"
-          link: "https://products.groupdocs.com/annotation/java/remove/tiff/"
-          description: "Tagged Image File Format"
-
-        # format loop
         - name: "Remove Annotation from JPEG"
           link: "https://products.groupdocs.com/annotation/java/remove/jpeg/"
           description: "JPEG Image"

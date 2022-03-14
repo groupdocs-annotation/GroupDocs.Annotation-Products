@@ -276,11 +276,6 @@ more_formats:
           description: "Microsoft Visio Drawing"
 
         # format loop
-        - name: "Extract Annotation from VSS"
-          link: "https://products.groupdocs.com/annotation/net/extract/vss/"
-          description: "Microsoft Visio 2003-2010 Stencil"
-
-        # format loop
         - name: "Extract Annotation from VST"
           link: "https://products.groupdocs.com/annotation/net/extract/vst/"
           description: "Microsoft Visio 2013 Stencil"

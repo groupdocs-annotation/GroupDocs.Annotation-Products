@@ -172,11 +172,6 @@ more_formats:
         Java annotations editor API for documents and image formats. Update annotation properties from some of the popular file formats as stated below.
     format: 
         # format loop
-        - name: "Edit Annotation from PDF"
-          link: "https://products.groupdocs.com/annotation/java/edit/pdf/"
-          description: "Adobe Portable Document Format"
-
-        # format loop
         - name: "Edit Annotation from DOC"
           link: "https://products.groupdocs.com/annotation/java/edit/doc/"
           description: "Microsoft Word Document"

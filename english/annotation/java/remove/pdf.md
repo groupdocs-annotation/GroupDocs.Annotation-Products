@@ -117,11 +117,6 @@ more_formats:
         Java API to remove annotations from documents and image file formats. Erase annotation properties from some of the popular file formats as stated below.
     format: 
         # format loop
-        - name: "Remove Annotation from PDF"
-          link: "https://products.groupdocs.com/annotation/java/remove/pdf/"
-          description: "Adobe Portable Document Format"
-
-        # format loop
         - name: "Remove Annotation from DOC"
           link: "https://products.groupdocs.com/annotation/java/remove/doc/"
           description: "Microsoft Word Document"

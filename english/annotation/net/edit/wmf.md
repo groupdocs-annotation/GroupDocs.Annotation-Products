@@ -318,11 +318,6 @@ more_formats:
           description: "Digital Imaging and Communications in Medicine"
 
         # format loop
-        - name: "Edit Annotation in WMF"
-          link: "https://products.groupdocs.com/annotation/net/edit/wmf/"
-          description: "Windows Metafile"
-
-        # format loop
         - name: "Edit Annotation in EMF"
           link: "https://products.groupdocs.com/annotation/net/edit/emf/"
           description: "Enhanced Metafile Format"

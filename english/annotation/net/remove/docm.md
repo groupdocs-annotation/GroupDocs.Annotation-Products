@@ -156,11 +156,6 @@ more_formats:
           description: "Microsoft Word Document"
 
         # format loop
-        - name: "Remove Annotation from DOCM"
-          link: "https://products.groupdocs.com/annotation/net/remove/docm/"
-          description: "Microsoft Word Macro-Enabled Document"
-
-        # format loop
         - name: "Remove Annotation from DOCX"
           link: "https://products.groupdocs.com/annotation/net/remove/docx/"
           description: "Microsoft Word Open XML Document"

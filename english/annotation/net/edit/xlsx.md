@@ -193,11 +193,6 @@ more_formats:
           description: "Microsoft Excel Binary File Format"
 
         # format loop
-        - name: "Edit Annotation in XLSX"
-          link: "https://products.groupdocs.com/annotation/net/edit/xlsx/"
-          description: "Microsoft Excel Open XML Spreadsheet"
-
-        # format loop
         - name: "Edit Annotation in XLSM"
           link: "https://products.groupdocs.com/annotation/net/edit/xlsm/"
           description: "Microsoft Excel Macro-Enabled Spreadsheet"

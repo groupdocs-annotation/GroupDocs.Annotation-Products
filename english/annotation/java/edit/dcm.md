@@ -342,11 +342,6 @@ more_formats:
           description: "AutoCAD Drawing Interchange"
 
         # format loop
-        - name: "Edit Annotation from DCM"
-          link: "https://products.groupdocs.com/annotation/java/edit/dcm"
-          description: "Digital Imaging and Communications in Medicine"
-
-        # format loop
         - name: "Edit Annotation from WMF"
           link: "https://products.groupdocs.com/annotation/java/edit/wmf"
           description: "Windows Metafile"

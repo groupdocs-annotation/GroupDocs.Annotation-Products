@@ -225,11 +225,6 @@ more_formats:
           description: "OpenDocument Presentation"
 
         # format loop
-        - name: "Extract Annotation from HTML"
-          link: "https://products.groupdocs.com/annotation/java/extract/html/"
-          description: "HyperText Markup Language"
-
-        # format loop
         - name: "Extract Annotation from TIFF"
           link: "https://products.groupdocs.com/annotation/java/extract/tiff/"
           description: "Tagged Image File Format"

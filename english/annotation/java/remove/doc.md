@@ -122,11 +122,6 @@ more_formats:
           description: "Adobe Portable Document Format"
 
         # format loop
-        - name: "Remove Annotation from DOC"
-          link: "https://products.groupdocs.com/annotation/java/remove/doc/"
-          description: "Microsoft Word Document"
-
-        # format loop
         - name: "Remove Annotation from DOCM"
           link: "https://products.groupdocs.com/annotation/java/remove/docm/"
           description: "Microsoft Word Macro-Enabled Document"

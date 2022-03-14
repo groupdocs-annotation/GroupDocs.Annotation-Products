@@ -241,11 +241,6 @@ more_formats:
           description: "Tagged Image File Format"
 
         # format loop
-        - name: "Extract Annotation from JPEG"
-          link: "https://products.groupdocs.com/annotation/net/extract/jpeg/"
-          description: "JPEG Image"
-
-        # format loop
         - name: "Extract Annotation from PNG"
           link: "https://products.groupdocs.com/annotation/net/extract/png/"
           description: "Portable Network Graphic"

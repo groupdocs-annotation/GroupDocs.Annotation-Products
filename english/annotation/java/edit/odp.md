@@ -272,11 +272,6 @@ more_formats:
           description: "Microsoft PowerPoint 97-2003 Slide Show"
 
         # format loop
-        - name: "Edit Annotation from ODP"
-          link: "https://products.groupdocs.com/annotation/java/edit/odp/"
-          description: "OpenDocument Presentation"
-
-        # format loop
         - name: "Edit Annotation from HTML"
           link: "https://products.groupdocs.com/annotation/java/edit/html/"
           description: "HyperText Markup Language"

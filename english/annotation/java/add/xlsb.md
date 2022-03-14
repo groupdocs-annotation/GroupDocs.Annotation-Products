@@ -201,11 +201,6 @@ more_formats:
           description: "Microsoft Excel Macro-Enabled Spreadsheet"
 
         # format loop
-        - name: "Add Annotation to XLSB"
-          link: "https://products.groupdocs.com/annotation/java/add/xlsb/"
-          description: "Microsoft Excel Binary Worksheet"
-
-        # format loop
         - name: "Add Annotation to ODS"
           link: "https://products.groupdocs.com/annotation/java/add/ods/"
           description: "Open Document Spreadsheet"

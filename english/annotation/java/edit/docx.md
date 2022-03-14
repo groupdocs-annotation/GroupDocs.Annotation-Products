@@ -187,11 +187,6 @@ more_formats:
           description: "Microsoft Word Macro-Enabled Document"
 
         # format loop
-        - name: "Edit Annotation from DOCX"
-          link: "https://products.groupdocs.com/annotation/java/edit/docx/"
-          description: "Microsoft Word Open XML Document"
-
-        # format loop
         - name: "Edit Annotation from DOT"
           link: "https://products.groupdocs.com/annotation/java/edit/dot/"
           description: "Microsoft Word Document Template"

@@ -285,11 +285,6 @@ more_formats:
           description: "Autodesk Design Data Formats"
 
         # format loop
-        - name: "Extract Annotation from DXF"
-          link: "https://products.groupdocs.com/annotation/java/extract/dxf/"
-          description: "AutoCAD Drawing Interchange"
-
-        # format loop
         - name: "Extract Annotation from DCM"
           link: "https://products.groupdocs.com/annotation/java/extract/dcm/"
           description: "Digital Imaging and Communications in Medicine"

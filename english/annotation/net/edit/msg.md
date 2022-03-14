@@ -278,11 +278,6 @@ more_formats:
           description: "E-mail Message"
 
         # format loop
-        - name: "Edit Annotation in MSG"
-          link: "https://products.groupdocs.com/annotation/net/edit/msg/"
-          description: "Microsoft Outlook E-mail Message"
-
-        # format loop
         - name: "Edit Annotation in VSD"
           link: "https://products.groupdocs.com/annotation/net/edit/vsd/"
           description: "Microsoft Visio 2003-2010 Drawing"

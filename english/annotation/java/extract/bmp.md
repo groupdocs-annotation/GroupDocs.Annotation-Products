@@ -245,11 +245,6 @@ more_formats:
           description: "Portable Network Graphic"
 
         # format loop
-        - name: "Extract Annotation from BMP"
-          link: "https://products.groupdocs.com/annotation/java/extract/bmp/"
-          description: "Bitmap File Format"
-
-        # format loop
         - name: "Extract Annotation from EML"
           link: "https://products.groupdocs.com/annotation/java/extract/eml/"
           description: "E-mail Message"

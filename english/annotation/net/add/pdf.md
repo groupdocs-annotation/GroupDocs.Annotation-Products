@@ -148,11 +148,6 @@ more_formats:
         Multi format documents and images annotation processing API for .NET. Add annotation to some of the popular file formats as stated below.
     format: 
         # format loop
-        - name: "Add Annotation to PDF"
-          link: "https://products.groupdocs.com/annotation/net/add/pdf/"
-          description: "Adobe Portable Document Format"
-
-        # format loop
         - name: "Add Annotation to DOC"
           link: "https://products.groupdocs.com/annotation/net/add/doc/"
           description: "Microsoft Word Document"

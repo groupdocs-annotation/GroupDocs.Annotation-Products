@@ -210,11 +210,6 @@ more_formats:
           description: "Microsoft PowerPoint Template"
 
         # format loop
-        - name: "Extract Annotation from PPTM"
-          link: "https://products.groupdocs.com/annotation/java/extract/pptm/"
-          description: "Microsoft PowerPoint Presentation"
-
-        # format loop
         - name: "Extract Annotation from PPS"
           link: "https://products.groupdocs.com/annotation/java/extract/pps/"
           description: "Microsoft PowerPoint 97-2003 Slide Show"

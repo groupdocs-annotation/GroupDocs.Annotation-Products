@@ -237,11 +237,6 @@ more_formats:
           description: "Microsoft Excel Binary Worksheet"
 
         # format loop
-        - name: "Edit Annotation from ODS"
-          link: "https://products.groupdocs.com/annotation/java/edit/ods/"
-          description: "Open Document Spreadsheet"
-
-        # format loop
         - name: "Edit Annotation from PPT"
           link: "https://products.groupdocs.com/annotation/java/edit/ppt/"
           description: "PowerPoint Presentation"

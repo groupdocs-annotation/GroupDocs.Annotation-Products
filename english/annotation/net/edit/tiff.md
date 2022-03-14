@@ -253,11 +253,6 @@ more_formats:
           description: "HyperText Markup Language"
 
         # format loop
-        - name: "Edit Annotation in TIFF"
-          link: "https://products.groupdocs.com/annotation/net/edit/tiff/"
-          description: "Tagged Image File Format"
-
-        # format loop
         - name: "Edit Annotation in JPEG"
           link: "https://products.groupdocs.com/annotation/net/edit/jpeg/"
           description: "JPEG Image"

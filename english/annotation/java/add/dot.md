@@ -161,11 +161,6 @@ more_formats:
           description: "Microsoft Word Open XML Document"
 
         # format loop
-        - name: "Add Annotation to DOT"
-          link: "https://products.groupdocs.com/annotation/java/add/dot"
-          description: "Microsoft Word Document Template"
-
-        # format loop
         - name: "Add Annotation to DOTX"
           link: "https://products.groupdocs.com/annotation/java/add/dotx"
           description: "Word Open XML Document Template"

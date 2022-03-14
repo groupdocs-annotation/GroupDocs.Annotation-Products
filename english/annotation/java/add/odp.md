@@ -241,11 +241,6 @@ more_formats:
           description: "Microsoft PowerPoint 97-2003 Slide Show"
 
         # format loop
-        - name: "Add Annotation to ODP"
-          link: "https://products.groupdocs.com/annotation/java/add/odp"
-          description: "OpenDocument Presentation"
-
-        # format loop
         - name: "Add Annotation to HTML"
           link: "https://products.groupdocs.com/annotation/java/add/html"
           description: "HyperText Markup Language"

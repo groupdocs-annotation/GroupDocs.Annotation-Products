@@ -248,11 +248,6 @@ more_formats:
           description: "OpenDocument Presentation"
 
         # format loop
-        - name: "Edit Annotation in HTML"
-          link: "https://products.groupdocs.com/annotation/net/edit/html/"
-          description: "HyperText Markup Language"
-
-        # format loop
         - name: "Edit Annotation in TIFF"
           link: "https://products.groupdocs.com/annotation/net/edit/tiff/"
           description: "Tagged Image File Format"

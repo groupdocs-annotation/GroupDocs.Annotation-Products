@@ -238,11 +238,6 @@ more_formats:
           description: "Microsoft PowerPoint Presentation"
 
         # format loop
-        - name: "Edit Annotation in PPS"
-          link: "https://products.groupdocs.com/annotation/net/edit/pps/"
-          description: "Microsoft PowerPoint 97-2003 Slide Show"
-
-        # format loop
         - name: "Edit Annotation in ODP"
           link: "https://products.groupdocs.com/annotation/net/edit/odp/"
           description: "OpenDocument Presentation"

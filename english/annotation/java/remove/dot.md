@@ -137,11 +137,6 @@ more_formats:
           description: "Microsoft Word Open XML Document"
 
         # format loop
-        - name: "Remove Annotation from DOT"
-          link: "https://products.groupdocs.com/annotation/java/remove/dot/"
-          description: "Microsoft Word Document Template"
-
-        # format loop
         - name: "Remove Annotation from DOTX"
           link: "https://products.groupdocs.com/annotation/java/remove/dotx/"
           description: "Word Open XML Document Template"

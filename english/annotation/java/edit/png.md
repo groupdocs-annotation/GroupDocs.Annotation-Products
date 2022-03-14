@@ -292,11 +292,6 @@ more_formats:
           description: "JPEG Image"
 
         # format loop
-        - name: "Edit Annotation from PNG"
-          link: "https://products.groupdocs.com/annotation/java/edit/png/"
-          description: "Portable Network Graphic"
-
-        # format loop
         - name: "Edit Annotation from BMP"
           link: "https://products.groupdocs.com/annotation/java/edit/bmp/"
           description: "Bitmap File Format"

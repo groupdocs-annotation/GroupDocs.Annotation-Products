@@ -213,11 +213,6 @@ more_formats:
           description: "Open Document Spreadsheet"
 
         # format loop
-        - name: "Edit Annotation in PPT"
-          link: "https://products.groupdocs.com/annotation/net/edit/ppt/"
-          description: "PowerPoint Presentation"
-
-        # format loop
         - name: "Edit Annotation in PPTX"
           link: "https://products.groupdocs.com/annotation/net/edit/pptx/"
           description: "PowerPoint Open XML Presentation"

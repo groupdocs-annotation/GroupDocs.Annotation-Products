@@ -242,11 +242,6 @@ more_formats:
           description: "Open Document Spreadsheet"
 
         # format loop
-        - name: "Edit Annotation from PPT"
-          link: "https://products.groupdocs.com/annotation/java/edit/ppt/"
-          description: "PowerPoint Presentation"
-
-        # format loop
         - name: "Edit Annotation from PPTX"
           link: "https://products.groupdocs.com/annotation/java/edit/pptx/"
           description: "PowerPoint Open XML Presentation"

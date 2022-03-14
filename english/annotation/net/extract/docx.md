@@ -141,11 +141,6 @@ more_formats:
           description: "Microsoft Word Macro-Enabled Document"
 
         # format loop
-        - name: "Extract Annotation from DOCX"
-          link: "https://products.groupdocs.com/annotation/net/extract/docx/"
-          description: "Microsoft Word Open XML Document"
-
-        # format loop
         - name: "Extract Annotation from DOT"
           link: "https://products.groupdocs.com/annotation/net/extract/dot/"
           description: "Microsoft Word Document Template"

@@ -281,11 +281,6 @@ more_formats:
           description: "Microsoft Visio 2003-2010 Stencil"
 
         # format loop
-        - name: "Extract Annotation from VST"
-          link: "https://products.groupdocs.com/annotation/net/extract/vst/"
-          description: "Microsoft Visio 2013 Stencil"
-
-        # format loop
         - name: "Extract Annotation from DWG"
           link: "https://products.groupdocs.com/annotation/net/extract/dwg/"
           description: "Autodesk Design Data Formats"

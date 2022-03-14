@@ -267,11 +267,6 @@ more_formats:
           description: "Microsoft PowerPoint Presentation"
 
         # format loop
-        - name: "Edit Annotation from PPS"
-          link: "https://products.groupdocs.com/annotation/java/edit/pps/"
-          description: "Microsoft PowerPoint 97-2003 Slide Show"
-
-        # format loop
         - name: "Edit Annotation from ODP"
           link: "https://products.groupdocs.com/annotation/java/edit/odp/"
           description: "OpenDocument Presentation"

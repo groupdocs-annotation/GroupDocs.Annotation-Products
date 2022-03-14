@@ -271,11 +271,6 @@ more_formats:
           description: "Portable Network Graphic"
 
         # format loop
-        - name: "Remove Annotation from BMP"
-          link: "https://products.groupdocs.com/annotation/net/remove/bmp/"
-          description: "Bitmap File Format"
-
-        # format loop
         - name: "Remove Annotation from EML"
           link: "https://products.groupdocs.com/annotation/net/remove/eml/"
           description: "E-mail Message"

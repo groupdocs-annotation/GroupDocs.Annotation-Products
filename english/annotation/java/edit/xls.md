@@ -217,11 +217,6 @@ more_formats:
           description: "Open Document Text"
 
         # format loop
-        - name: "Edit Annotation from XLS"
-          link: "https://products.groupdocs.com/annotation/java/edit/xls/"
-          description: "Microsoft Excel Binary File Format"
-
-        # format loop
         - name: "Edit Annotation from XLSX"
           link: "https://products.groupdocs.com/annotation/java/edit/xlsx/"
           description: "Microsoft Excel Open XML Spreadsheet"

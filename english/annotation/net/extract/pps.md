@@ -221,11 +221,6 @@ more_formats:
           description: "Microsoft PowerPoint Presentation"
 
         # format loop
-        - name: "Extract Annotation from PPS"
-          link: "https://products.groupdocs.com/annotation/net/extract/pps/"
-          description: "Microsoft PowerPoint 97-2003 Slide Show"
-
-        # format loop
         - name: "Extract Annotation from ODP"
           link: "https://products.groupdocs.com/annotation/net/extract/odp/"
           description: "OpenDocument Presentation"

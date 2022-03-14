@@ -130,11 +130,6 @@ more_formats:
           description: "Microsoft Word Document"
 
         # format loop
-        - name: "Extract Annotation from DOCM"
-          link: "https://products.groupdocs.com/annotation/java/extract/docm/"
-          description: "Microsoft Word Macro-Enabled Document"
-
-        # format loop
         - name: "Extract Annotation from DOCX"
           link: "https://products.groupdocs.com/annotation/java/extract/docx/"
           description: "Microsoft Word Open XML Document"

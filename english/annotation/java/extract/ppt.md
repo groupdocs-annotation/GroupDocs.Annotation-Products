@@ -190,11 +190,6 @@ more_formats:
           description: "Open Document Spreadsheet"
 
         # format loop
-        - name: "Extract Annotation from PPT"
-          link: "https://products.groupdocs.com/annotation/java/extract/ppt/"
-          description: "PowerPoint Presentation"
-
-        # format loop
         - name: "Extract Annotation from PPTX"
           link: "https://products.groupdocs.com/annotation/java/extract/pptx/"
           description: "PowerPoint Open XML Presentation"

@@ -337,11 +337,6 @@ more_formats:
           description: "Autodesk Design Data Formats"
 
         # format loop
-        - name: "Edit Annotation from DXF"
-          link: "https://products.groupdocs.com/annotation/java/edit/dxf/"
-          description: "AutoCAD Drawing Interchange"
-
-        # format loop
         - name: "Edit Annotation from DCM"
           link: "https://products.groupdocs.com/annotation/java/edit/dcm/"
           description: "Digital Imaging and Communications in Medicine"

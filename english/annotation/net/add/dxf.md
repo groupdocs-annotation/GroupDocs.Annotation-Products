@@ -313,11 +313,6 @@ more_formats:
           description: "Autodesk Design Data Formats"
 
         # format loop
-        - name: "Add Annotation to DXF"
-          link: "https://products.groupdocs.com/annotation/net/add/dxf/"
-          description: "AutoCAD Drawing Interchange"
-
-        # format loop
         - name: "Add Annotation to DCM"
           link: "https://products.groupdocs.com/annotation/net/add/dcm/"
           description: "Digital Imaging and Communications in Medicine"

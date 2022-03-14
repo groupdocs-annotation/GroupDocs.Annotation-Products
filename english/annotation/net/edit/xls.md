@@ -188,11 +188,6 @@ more_formats:
           description: "Open Document Text"
 
         # format loop
-        - name: "Edit Annotation in XLS"
-          link: "https://products.groupdocs.com/annotation/net/edit/xls/"
-          description: "Microsoft Excel Binary File Format"
-
-        # format loop
         - name: "Edit Annotation in XLSX"
           link: "https://products.groupdocs.com/annotation/net/edit/xlsx/"
           description: "Microsoft Excel Open XML Spreadsheet"

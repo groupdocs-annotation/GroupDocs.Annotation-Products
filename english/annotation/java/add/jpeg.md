@@ -256,11 +256,6 @@ more_formats:
           description: "Tagged Image File Format"
 
         # format loop
-        - name: "Add Annotation to JPEG"
-          link: "https://products.groupdocs.com/annotation/java/add/jpeg"
-          description: "JPEG Image"
-
-        # format loop
         - name: "Add Annotation to PNG"
           link: "https://products.groupdocs.com/annotation/java/add/png"
           description: "Portable Network Graphic"

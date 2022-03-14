@@ -280,11 +280,6 @@ more_formats:
           description: "Microsoft Visio 2013 Stencil"
 
         # format loop
-        - name: "Extract Annotation from DWG"
-          link: "https://products.groupdocs.com/annotation/java/extract/dwg/"
-          description: "Autodesk Design Data Formats"
-
-        # format loop
         - name: "Extract Annotation from DXF"
           link: "https://products.groupdocs.com/annotation/java/extract/dxf/"
           description: "AutoCAD Drawing Interchange"

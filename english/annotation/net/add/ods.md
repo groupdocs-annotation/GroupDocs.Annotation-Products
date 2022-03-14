@@ -213,11 +213,6 @@ more_formats:
           description: "Microsoft Excel Binary Worksheet"
 
         # format loop
-        - name: "Add Annotation to ODS"
-          link: "https://products.groupdocs.com/annotation/net/add/ods/"
-          description: "Open Document Spreadsheet"
-
-        # format loop
         - name: "Add Annotation to PPT"
           link: "https://products.groupdocs.com/annotation/net/add/ppt/"
           description: "PowerPoint Presentation"

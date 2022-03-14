@@ -299,11 +299,6 @@ more_formats:
           link: "https://products.groupdocs.com/annotation/java/extract/wmf/"
           description: "Windows Metafile"
 
-        # format loop
-        - name: "Extract Annotation from EMF"
-          link: "https://products.groupdocs.com/annotation/java/extract/emf/"
-          description: "Enhanced Metafile Format"
-
 
 ############################# Back to top ###############################
 back_to_top:

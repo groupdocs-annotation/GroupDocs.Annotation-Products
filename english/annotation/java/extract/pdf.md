@@ -120,11 +120,6 @@ more_formats:
         Java annotation extraction library for documents and image formats. Get annotation details of some of the popular file formats as stated below.
     format: 
         # format loop
-        - name: "Extract Annotation from PDF"
-          link: "https://products.groupdocs.com/annotation/java/extract/pdf/"
-          description: "Adobe Portable Document Format"
-
-        # format loop
         - name: "Extract Annotation from DOC"
           link: "https://products.groupdocs.com/annotation/java/extract/doc/"
           description: "Microsoft Word Document"

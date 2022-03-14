@@ -217,11 +217,6 @@ more_formats:
           description: "Microsoft PowerPoint 97-2003 Slide Show"
 
         # format loop
-        - name: "Remove Annotation from ODP"
-          link: "https://products.groupdocs.com/annotation/java/remove/odp/"
-          description: "OpenDocument Presentation"
-
-        # format loop
         - name: "Remove Annotation from HTML"
           link: "https://products.groupdocs.com/annotation/java/remove/html/"
           description: "HyperText Markup Language"

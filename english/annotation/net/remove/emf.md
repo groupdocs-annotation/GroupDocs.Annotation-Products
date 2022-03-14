@@ -325,10 +325,6 @@ more_formats:
           link: "https://products.groupdocs.com/annotation/net/remove/wmf/"
           description: "Windows Metafile"
 
-        # format loop
-        - name: "Remove Annotation from EMF"
-          link: "https://products.groupdocs.com/annotation/net/remove/emf/"
-          description: "Enhanced Metafile Format"
 
 
 ############################# Back to top ###############################

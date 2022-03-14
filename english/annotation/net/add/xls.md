@@ -193,11 +193,6 @@ more_formats:
           description: "Open Document Text"
 
         # format loop
-        - name: "Add Annotation to XLS"
-          link: "https://products.groupdocs.com/annotation/net/add/xls/"
-          description: "Microsoft Excel Binary File Format"
-
-        # format loop
         - name: "Add Annotation to XLSX"
           link: "https://products.groupdocs.com/annotation/net/add/xlsx/"
           description: "Microsoft Excel Open XML Spreadsheet"

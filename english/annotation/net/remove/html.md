@@ -251,11 +251,6 @@ more_formats:
           description: "OpenDocument Presentation"
 
         # format loop
-        - name: "Remove Annotation from HTML"
-          link: "https://products.groupdocs.com/annotation/net/remove/html/"
-          description: "HyperText Markup Language"
-
-        # format loop
         - name: "Remove Annotation from TIFF"
           link: "https://products.groupdocs.com/annotation/net/remove/tiff/"
           description: "Tagged Image File Format"

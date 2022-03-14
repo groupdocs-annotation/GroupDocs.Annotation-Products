@@ -176,11 +176,6 @@ more_formats:
           description: "Microsoft Word Macro-Enabled Template"
 
         # format loop
-        - name: "Add Annotation to RTF"
-          link: "https://products.groupdocs.com/annotation/java/add/rtf"
-          description: "Rich Text Document"
-
-        # format loop
         - name: "Add Annotation to ODT"
           link: "https://products.groupdocs.com/annotation/java/add/odt"
           description: "Open Document Text"

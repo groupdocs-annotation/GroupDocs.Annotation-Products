@@ -301,11 +301,6 @@ more_formats:
           description: "Microsoft Visio 2003-2010 Stencil"
 
         # format loop
-        - name: "Remove Annotation from VST"
-          link: "https://products.groupdocs.com/annotation/net/remove/vst/"
-          description: "Microsoft Visio 2013 Stencil"
-
-        # format loop
         - name: "Remove Annotation from DWG"
           link: "https://products.groupdocs.com/annotation/net/remove/dwg/"
           description: "Autodesk Design Data Formats"

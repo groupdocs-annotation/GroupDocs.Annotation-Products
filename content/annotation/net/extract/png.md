@@ -58,14 +58,14 @@ about:
     enable: true
     title: "About GroupDocs.Annotation for .NET API"
     content: |
-        [GroupDocs.Annotation for .NET](https://products.groupdocs.com/annotation/net) is a native .NET annotation management API to read, add, edit, remove, extract and export annotations from images and document file formats. Users can easily extract comments, notes, remarks and various annotation types including text, graphics and watermarks from PDF, HTML, Microsoft Word documents, Excel spreadsheets, Visio diagrams, PowerPoint presentations, drawings, images, and many other file formats. The annotation-processing feature can accurately read the annotations from the imported documents and allows exporting back into the original or desired file format after implementing the annotations customization.
+        [GroupDocs.Annotation for .NET](/annotation/net/) is a native .NET annotation management API to read, add, edit, remove, extract and export annotations from images and document file formats. Users can easily extract comments, notes, remarks and various annotation types including text, graphics and watermarks from PDF, HTML, Microsoft Word documents, Excel spreadsheets, Visio diagrams, PowerPoint presentations, drawings, images, and many other file formats. The annotation-processing feature can accurately read the annotations from the imported documents and allows exporting back into the original or desired file format after implementing the annotations customization.
 
 ############################# Steps ############################
 steps:
     enable: true
     title_left: "Steps for Extracting Annotations from PNG"
     content_left: |
-        [GroupDocs.Annotation](https://products.groupdocs.com/annotation/net) makes it easier for .NET developers to extract annotation information from PNG files within their applications by implementing a few easy steps.
+        [GroupDocs.Annotation](/annotation/net/) makes it easier for .NET developers to extract annotation information from PNG files within their applications by implementing a few easy steps.
 
         *   Instantiate Annotator object with input document path or stream.
         *   Instantiate LoadOptions object and set ImportAnnotation = true.
@@ -81,7 +81,7 @@ steps:
         *   Operating Systems: Microsoft Windows, Linux, MacOS
         *   Development Environments: Visual Studio, Xamarin, MonoDevelop
         *   Frameworks: .NET Framework, .NET Standard, .NET Core, Mono
-        *   Download the latest version of GroupDocs.Annotation for .NET from [Nuget](https://www.nuget.org/packages/groupdocs.annotation)
+        *   Download the latest version of GroupDocs.Annotation for .NET from [NuGet](https://www.nuget.org/packages/groupdocs.annotation)
         
     code: |
         ```cs

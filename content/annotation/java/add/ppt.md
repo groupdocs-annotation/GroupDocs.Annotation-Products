@@ -58,14 +58,14 @@ about:
     enable: true
     title: "About GroupDocs.Annotation for Java API"
     content: |
-        [GroupDocs.Annotation for Java](https://products.groupdocs.com/{{$1}/java) is a native Java API for annotations management with a comprehensive support to create, add, edit, delete, extract and export annotations from images and document file formats. Users can easily extract comments, notes, remarks and 13 different annotation types including text, graphics and watermarks in PDF, HTML, Microsoft Word documents, Excel spreadsheets, Visio diagrams, PowerPoint presentations, drawings, images, and many other file formats. The annotation-processing feature can accurately read the annotations from the imported documents and allows exporting back into the original or desired file format after implementing the annotations customization.
+        [GroupDocs.Annotation for Java](/annotation/java/) is a native Java API for annotations management with a comprehensive support to create, add, edit, delete, extract and export annotations from images and document file formats. Users can easily extract comments, notes, remarks and 13 different annotation types including text, graphics and watermarks in PDF, HTML, Microsoft Word documents, Excel spreadsheets, Visio diagrams, PowerPoint presentations, drawings, images, and many other file formats. The annotation-processing feature can accurately read the annotations from the imported documents and allows exporting back into the original or desired file format after implementing the annotations customization.
 
 ############################# Steps ############################
 steps:
     enable: true
     title_left: "Steps to Add Annotations to PPT in Java"
     content_left: |
-        [GroupDocs.Annotation](https://products.groupdocs.com/annotation/java) makes it easy for Java developers to add various annotation types to PPT files within any Java-based application by implementing a few easy steps.
+        [GroupDocs.Annotation](/annotation/java/) makes it easy for Java developers to add various annotation types to PPT files within any Java-based application by implementing a few easy steps.
 
         *   Create Reply objects with comment and date.
         *   Create AreaAnnotation object, set area options and add replies.
@@ -129,7 +129,7 @@ about_formats:
         - icon: "far fa-file-ppt"
           title: "About PPT File Format"
           content: |
-            A file with PPT extension represents PowerPoint file that consists of a collection of slides for displaying as SlideShow. It specifies the Binary File Format used by Microsoft PowerPoint 97-2003. A PPT file can contain several different types of information such as text, bulleted points, images, multimedia and other embedded OLE objects. Microsoft came up with newer file format for PowerPoint, known as PPTX, from 2007 onwards that is based on Office OpenXML and is different from this binary file format. Several other application programs such as OpenOffice Impress and Apple Keynote can also create PPT files.
+            A file with PPT extension represents PowerPoint file that consists of a collection of slides for displaying as SlideShow. It specifies the Binary File Format used by Microsoft PowerPoint 97-2003. A PPT file can contain several different types of information such as text, bulleted points, images, multimedia and other embedded OLE objects. Microsoft came up with newer file format for PowerPoint, known as PPTX, from 2007 onward that is based on Office OpenXML and is different from this binary file format. Several other application programs such as OpenOffice Impress and Apple Keynote can also create PPT files.
 
           link: "https://docs.fileformat.com/presentation/ppt/"
 

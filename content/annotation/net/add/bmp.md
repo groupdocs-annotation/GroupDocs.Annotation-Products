@@ -58,14 +58,14 @@ about:
     enable: true
     title: "About GroupDocs.Annotation for .NET API"
     content: |
-        [GroupDocs.Annotation for .NET](https://products.groupdocs.com/annotation/net) is a native .NET API that enables users to add, edit and remove annotations from images and document file formats. You can easily employ comments, notes, remarks and various annotation types including text, graphics and watermark to PDF, HTML, Word, Excel, Visio diagrams, presentations, drawings, images, and many other file formats. The annotation-processing feature can precisely read the annotations from imported documents and allows exporting back into the original or desired file format after implementing the customization.
+        [GroupDocs.Annotation for .NET](/annotation/net/) is a native .NET API that enables users to add, edit and remove annotations from images and document file formats. You can easily employ comments, notes, remarks and various annotation types including text, graphics and watermark to PDF, HTML, Word, Excel, Visio diagrams, presentations, drawings, images, and many other file formats. The annotation-processing feature can precisely read the annotations from imported documents and allows exporting back into the original or desired file format after implementing the customization.
 
 ############################# Steps ############################
 steps:
     enable: true
     title_left: "Steps for Adding Annotations to BMP in C#"
     content_left: |
-        [GroupDocs.Annotation](https://products.groupdocs.com/annotation/net) makes it easy for .NET developers to add annotation properties to BMP files from within their applications by implementing a few easy steps.
+        [GroupDocs.Annotation](/annotation/net/) makes it easy for .NET developers to add annotation properties to BMP files from within their applications by implementing a few easy steps.
 
         *   Instantiate Annotator object with input document path or stream.
         *   Instantiate TextFieldAnnotation object with desired properties (position, page number etc).
@@ -79,7 +79,7 @@ steps:
         *   Operating Systems: Microsoft Windows, Linux, MacOS
         *   Development Environments: Visual Studio, Xamarin, MonoDevelop
         *   Frameworks: .NET Framework, .NET Standard, .NET Core, Mono
-        *   Download the latest version of GroupDocs.Annotation for .NET from [Nuget](https://www.nuget.org/packages/groupdocs.annotation)
+        *   Download the latest version of GroupDocs.Annotation for .NET from [NuGet](https://www.nuget.org/packages/groupdocs.annotation)
         
     code: |
         ```cs
@@ -136,7 +136,7 @@ about_formats:
         - icon: "far fa-file-bmp"
           title: "About BMP File Format"
           content: |
-            Files having extension .BMP represent Bitmap Image files that are used to store bitmap digital images. These images are independent of graphics adapter and are also called device independent bitmap (DIB) file format. This independency serves the purpose of opening the file on multiple platforms such as Microsoft Windows and Mac. The BMP file format can store data as two-dimensional digital images in both monochrome as well as color format with various colour depths.
+            Files having extension .BMP represent Bitmap Image files that are used to store bitmap digital images. These images are independent of graphics adapter and are also called device independent bitmap (DIB) file format. This independence serves the purpose of opening the file on multiple platforms such as Microsoft Windows and Mac. The BMP file format can store data as two-dimensional digital images in both monochrome as well as color format with various colour depths.
 
           link: "https://docs.fileformat.com/image/bmp/"
 

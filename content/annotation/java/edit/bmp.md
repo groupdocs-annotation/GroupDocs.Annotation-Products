@@ -58,14 +58,14 @@ about:
     enable: true
     title: "About GroupDocs.Annotation for Java API"
     content: |
-        [GroupDocs.Annotation for Java](https://products.groupdocs.com/annotation/java) is a native Java annotations manipulation solution to efficiently view, add, update, delete and extract annotations from images and document file formats. Users can easily edit comments, notes, remarks and various annotation types including text, graphics and watermark in PDF, HTML, Word, Excel, Visio diagrams, presentations, drawings, images, and many other file formats. The annotation-processing feature can precisely read the annotations from imported documents and allows exporting back into the original or desired file format after implementing the customization.
+        [GroupDocs.Annotation for Java](/annotation/java/) is a native Java annotations manipulation solution to efficiently view, add, update, delete and extract annotations from images and document file formats. Users can easily edit comments, notes, remarks and various annotation types including text, graphics and watermark in PDF, HTML, Word, Excel, Visio diagrams, presentations, drawings, images, and many other file formats. The annotation-processing feature can precisely read the annotations from imported documents and allows exporting back into the original or desired file format after implementing the customization.
 
 ############################# Steps ############################
 steps:
     enable: true
     title_left: "Steps to Edit Annotations from BMP in Java"
     content_left: |
-        [GroupDocs.Annotation](https://products.groupdocs.com/annotation/java) makes it easier for Java developers to update various annotation properties from BMP files within any Java-based application by implementing a few easy steps.
+        [GroupDocs.Annotation](/annotation/java/) makes it easier for Java developers to update various annotation properties from BMP files within any Java-based application by implementing a few easy steps.
 
         *   Instantiate Annotator object with input document path or stream with instantiated LoadOptions with ImportAnnotations = true.
         *   Create some AnnotationBase implementation and set Id of existed annotation (if annotation with that Id not found, nothing will be changed) or path list of annotations (all existed annotations will be removed).
@@ -160,7 +160,7 @@ about_formats:
         - icon: "far fa-file-bmp"
           title: "About BMP File Format"
           content: |
-            Files having extension .BMP represent Bitmap Image files that are used to store bitmap digital images. These images are independent of graphics adapter and are also called device independent bitmap (DIB) file format. This independency serves the purpose of opening the file on multiple platforms such as Microsoft Windows and Mac. The BMP file format can store data as two-dimensional digital images in both monochrome as well as color format with various colour depths.
+            Files having extension .BMP represent Bitmap Image files that are used to store bitmap digital images. These images are independent of graphics adapter and are also called device independent bitmap (DIB) file format. This independence serves the purpose of opening the file on multiple platforms such as Microsoft Windows and Mac. The BMP file format can store data as two-dimensional digital images in both monochrome as well as color format with various colour depths.
 
           link: "https://docs.fileformat.com/image/bmp/"
 

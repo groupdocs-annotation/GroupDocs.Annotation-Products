@@ -58,14 +58,14 @@ about:
     enable: true
     title: "About GroupDocs.Annotation for Java API"
     content: |
-        [GroupDocs.Annotation for Java](https://products.groupdocs.com/annotation/java) is a native Java annotations management library to view, add, update, erase, extract or export annotations from images and document file formats. Users can easily delete comments, notes, remarks and various annotation types including text, graphics and watermarks in PDF, HTML, Word, Excel, Visio diagrams, presentations, drawings, images, and many other file formats. The annotation-processing feature can precisely read the annotations from imported documents and allows exporting back into the original or desired file format after implementing the customization.
+        [GroupDocs.Annotation for Java](/annotation/java/) is a native Java annotations management library to view, add, update, erase, extract or export annotations from images and document file formats. Users can easily delete comments, notes, remarks and various annotation types including text, graphics and watermarks in PDF, HTML, Word, Excel, Visio diagrams, presentations, drawings, images, and many other file formats. The annotation-processing feature can precisely read the annotations from imported documents and allows exporting back into the original or desired file format after implementing the customization.
 
 ############################# Steps ############################
 steps:
     enable: true
     title_left: "Steps to Delete Annotations from VSDX in Java"
     content_left: |
-        [GroupDocs.Annotation](https://products.groupdocs.com/annotation/java) makes it easier for Java developers to remove annotation details from VSDX files within any Java-based application by implementing a few easy steps.
+        [GroupDocs.Annotation](/annotation/java/) makes it easier for Java developers to remove annotation details from VSDX files within any Java-based application by implementing a few easy steps.
 
         *   Create Reply objects with comment and date.
         *   Instantiate SaveOptions object and set AnnotationTypes = AnnotationType.None.
@@ -105,7 +105,7 @@ about_formats:
         - icon: "far fa-file-vsdx"
           title: "About VSDX File Format"
           content: |
-            Files with .VSDX extension represent Microsoft Visio file format introduced from Microsoft Office 2013 onwards. It was developed to replace the binary file format, .VSD, which is supported by earlier versions of Microsoft Visio. It is also supported on Visio Services in Microsoft SharePoint Server 2013 and does not require an intermediary file format for publishing to SharePoint Server. Visio files are used to create drawings that contain visual objects, flow charts, UML diagram, information flow, organizational charts, software diagrams, network layout, database models, objects mapping and other similar information. Files generated using Visio can also be exported to different file formats such as PNG, BMP, PDF and others.
+            Files with .VSDX extension represent Microsoft Visio file format introduced from Microsoft Office 2013 onward. It was developed to replace the binary file format, .VSD, which is supported by earlier versions of Microsoft Visio. It is also supported on Visio Services in Microsoft SharePoint Server 2013 and does not require an intermediary file format for publishing to SharePoint Server. Visio files are used to create drawings that contain visual objects, flow charts, UML diagram, information flow, organizational charts, software diagrams, network layout, database models, objects mapping and other similar information. Files generated using Visio can also be exported to different file formats such as PNG, BMP, PDF and others.
 
           link: "https://docs.fileformat.com/image/vsdx/"
 

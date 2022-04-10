@@ -58,14 +58,14 @@ about:
     enable: true
     title: "About GroupDocs.Annotation for Java API"
     content: |
-        [GroupDocs.Annotation for Java](https://products.groupdocs.com/annotation/java) is an advanced annotation management solution, allowing developers to view, add, update, delete, extract and export annotations from images and document file formats. Users can easily extract comments, notes, remarks and various annotation types including text, graphics and watermarks from PDF, HTML, Microsoft Word documents, Excel spreadsheets, Visio diagrams, PowerPoint presentations, drawings, images, and many other file formats. The annotation-processing feature can accurately read the annotations from the imported documents and allows exporting back into the original or desired file format after implementing the annotations customization.
+        [GroupDocs.Annotation for Java](/annotation/java/) is an advanced annotation management solution, allowing developers to view, add, update, delete, extract and export annotations from images and document file formats. Users can easily extract comments, notes, remarks and various annotation types including text, graphics and watermarks from PDF, HTML, Microsoft Word documents, Excel spreadsheets, Visio diagrams, PowerPoint presentations, drawings, images, and many other file formats. The annotation-processing feature can accurately read the annotations from the imported documents and allows exporting back into the original or desired file format after implementing the annotations customization.
 
 ############################# Steps ############################
 steps:
     enable: true
     title_left: "Steps for Extracting Annotations in Java"
     content_left: |
-        [GroupDocs.Annotation](https://products.groupdocs.com/annotation/java) makes it easy for Java developers to annotate documents and extract annotation information from VSDX files within any Java-based application by implementing a few easy steps.
+        [GroupDocs.Annotation](/annotation/java/) makes it easy for Java developers to annotate documents and extract annotation information from VSDX files within any Java-based application by implementing a few easy steps.
 
         *   Create Reply objects with comment and date.
         *   Instantiate LoadOptions object and call SetImportAnnotations with true argument.
@@ -108,7 +108,7 @@ about_formats:
         - icon: "far fa-file-vsdx"
           title: "About VSDX File Format"
           content: |
-            Files with .VSDX extension represent Microsoft Visio file format introduced from Microsoft Office 2013 onwards. It was developed to replace the binary file format, .VSD, which is supported by earlier versions of Microsoft Visio. It is also supported on Visio Services in Microsoft SharePoint Server 2013 and does not require an intermediary file format for publishing to SharePoint Server. Visio files are used to create drawings that contain visual objects, flow charts, UML diagram, information flow, organizational charts, software diagrams, network layout, database models, objects mapping and other similar information. Files generated using Visio can also be exported to different file formats such as PNG, BMP, PDF and others.
+            Files with .VSDX extension represent Microsoft Visio file format introduced from Microsoft Office 2013 onward. It was developed to replace the binary file format, .VSD, which is supported by earlier versions of Microsoft Visio. It is also supported on Visio Services in Microsoft SharePoint Server 2013 and does not require an intermediary file format for publishing to SharePoint Server. Visio files are used to create drawings that contain visual objects, flow charts, UML diagram, information flow, organizational charts, software diagrams, network layout, database models, objects mapping and other similar information. Files generated using Visio can also be exported to different file formats such as PNG, BMP, PDF and others.
 
           link: "https://docs.fileformat.com/image/vsdx/"
 

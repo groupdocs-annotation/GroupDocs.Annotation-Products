@@ -58,14 +58,14 @@ about:
     enable: true
     title: "About GroupDocs.Annotation for Java API"
     content: |
-        [GroupDocs.Annotation for Java](https://products.groupdocs.com/annotation/java) is an advanced annotation management solution, allowing developers to view, add, update, delete, extract and export annotations from images and document file formats. Users can easily extract comments, notes, remarks and various annotation types including text, graphics and watermarks from PDF, HTML, Microsoft Word documents, Excel spreadsheets, Visio diagrams, PowerPoint presentations, drawings, images, and many other file formats. The annotation-processing feature can accurately read the annotations from the imported documents and allows exporting back into the original or desired file format after implementing the annotations customization.
+        [GroupDocs.Annotation for Java](/annotation/java/) is an advanced annotation management solution, allowing developers to view, add, update, delete, extract and export annotations from images and document file formats. Users can easily extract comments, notes, remarks and various annotation types including text, graphics and watermarks from PDF, HTML, Microsoft Word documents, Excel spreadsheets, Visio diagrams, PowerPoint presentations, drawings, images, and many other file formats. The annotation-processing feature can accurately read the annotations from the imported documents and allows exporting back into the original or desired file format after implementing the annotations customization.
 
 ############################# Steps ############################
 steps:
     enable: true
     title_left: "Steps for Extracting Annotations in Java"
     content_left: |
-        [GroupDocs.Annotation](https://products.groupdocs.com/annotation/java) makes it easy for Java developers to annotate documents and extract annotation information from TIFF files within any Java-based application by implementing a few easy steps.
+        [GroupDocs.Annotation](/annotation/java/) makes it easy for Java developers to annotate documents and extract annotation information from TIFF files within any Java-based application by implementing a few easy steps.
 
         *   Create Reply objects with comment and date.
         *   Instantiate LoadOptions object and call SetImportAnnotations with true argument.

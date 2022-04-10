@@ -1,16 +1,16 @@
 ---
 ############################# Static ############################
 layout: "auto-gen"
-date: 2021-05-13T12:44:20+03:00
+date: 2021-05-13T12:44:24+03:00
 draft: false
 
 ############################# Head ############################
-head_title: "Add Annotations to CSV in Java Applications"
-head_description: "Java API to create and add popular annotation types to CSV, images, drawings and document file formats."
+head_title: "Add Annotations to POTM in Java Applications"
+head_description: "Java API to create and add popular annotation types to POTM, images, drawings and document file formats."
 
 ############################# Header ############################
-title: "Annotate CSV Files in Java"
-description: "Add annotations to CSV, Microsoft Office documents, images, HTML, drawings and other file formats in any type of Java application."
+title: "Annotate POTM Files in Java"
+description: "Add annotations to POTM, Microsoft Office documents, images, HTML, drawings and other file formats in any type of Java application."
 bg_image: "https://cms.admin.containerize.com/templates/aspose/App_Themes/V3/images/bg/header1.png"
 bg_overlay: false
 button:
@@ -63,14 +63,14 @@ about:
 ############################# Steps ############################
 steps:
     enable: true
-    title_left: "Steps to Add Annotations to CSV in Java"
+    title_left: "Steps to Add Annotations to POTM in Java"
     content_left: |
-        [GroupDocs.Annotation](/annotation/java/) makes it easy for Java developers to add various annotation types to CSV files within any Java-based application by implementing a few easy steps.
+        [GroupDocs.Annotation](/annotation/java/) makes it easy for Java developers to add various annotation types to POTM files within any Java-based application by implementing a few easy steps.
 
-        *   Create Reply objects with comment and date.
-        *   Create AreaAnnotation object, set area options and add replies.
-        *   Create Annotator object and add area annotation.
-        *   Save output file.
+        *   Instantiate Annotator object with input document path or stream.
+        *   Instantiate TextFieldAnnotation object with desired properties (position, page number, etc).
+        *   Call add method and pass TextFieldAnnotation object.
+        *   Call save method with resultant document path or stream.
         
     title_right: "System Requirements"
     content_right: |
@@ -78,39 +78,47 @@ steps:
 
         *   Operating Systems: Microsoft Windows, Linux, MacOS
         *   Development Environment: NetBeans, Intellij IDEA, Eclipse etc
-        *   Java Runtime Environment: Java 7 (1.7) and above
-        *   Get the latest version of GroupDocs.Annotation for Java from [GroupDocs Artifact Repository](https://repository.groupdocs.com/webapp/#/artifacts/browse/tree/General/repo/com/groupdocs/groupdocs-annotation)
+        *   Java Runtime Environment: J2SE 6.0 and above
+        *   Get the latest version of GroupDocs.Annotation for Java from [Maven](https://repository.groupdocs.com/webapp/#/artifacts/browse/tree/General/repo/com/groupdocs/groupdocs-conversion)
         
     code: |
         ```java
-        Reply firstReply = new Reply();
-        firstReply.setComment("First comment");
-        firstReply.setRepliedOn(Calendar.getInstance().getTime());
-        
-        Reply secondReply = new Reply();
-        secondReply.setComment("Second comment");
-        secondReply.setRepliedOn(Calendar.getInstance().getTime());
-        
-        List<Reply> replies = new ArrayList<Reply>();
-        replies.add(firstReply);
-        replies.add(secondReply);
-        
-        AreaAnnotation area = new AreaAnnotation();
-        area.setBackgroundColor(65535);
-        area.setBox(new Rectangle(100, 100, 100, 100));
-        area.setCreatedOn(Calendar.getInstance().getTime());
-        area.setMessage("This is area annotation");
-        area.setOpacity(0.7);
-        area.setPageNumber(0);
-        area.setPenColor(65535);
-        area.setPenStyle(PenStyle.Dot);
-        area.setPenWidth((byte) 3);
-        area.setReplies(replies);
-        
-        Annotator annotator = new Annotator("input.csv");
-        annotator.add(area);
-        annotator.save("output.csv");
-        annotator.dispose();
+        String outputPath = Constants.getOutputFilePath("AddTextStrikeoutAnnotation", FilenameUtils.getExtension(input.potm));
+                    final Annotator annotator = new Annotator(input.potm);
+                    try {
+                        Reply reply1 = new Reply();
+                        reply1.setComment("First comment");
+                        reply1.setRepliedOn(Calendar.getInstance().getTime());
+                        Reply reply2 = new Reply();
+                        reply2.setComment("Second comment");
+                        reply2.setRepliedOn(Calendar.getInstance().getTime());
+                        java.util.List replies =  new ArrayList();
+                        replies.add(reply1);
+                        replies.add(reply2);
+                        Point point1 = new Point(80, 730);
+                        Point point2 = new Point(240, 730);
+                        Point point3 = new Point(80, 650);
+                        Point point4 = new Point(240, 650);
+                        List points = new ArrayList();
+                        points.add(point1);
+                        points.add(point2);
+                        points.add(point3);
+                        points.add(point4);
+                        StrikeoutAnnotation strikeout = new StrikeoutAnnotation();
+                        strikeout.setCreatedOn(Calendar.getInstance().getTime());
+                        strikeout.setFontColor(65535);
+                        strikeout.setMessage("This is strikeout annotation");
+                        strikeout.setOpacity(0.7);
+                        strikeout.setPageNumber(0);
+                        strikeout.setPoints(points);
+                        strikeout.setReplies(replies);
+                        annotator.add(strikeout);
+                        annotator.save(output.potm);
+                    } finally {
+                        if (annotator != null) {
+                            annotator.dispose();
+                        }
+                    }
         ```
         
 ############################# Demos ############################
@@ -118,7 +126,7 @@ demos:
     enable: true
     title: "Live Demos to Add Annotations to Documents and Images"
     content: |
-        Create and add annotations to CSV file right now by visiting [GroupDocs.Annotation Live Demos](https://products.groupdocs.app/annotation/family) website.  
+        Create and add annotations to POTM file right now by visiting [GroupDocs.Annotation Live Demos](https://products.groupdocs.app/annotation/family) website.  
         The live demo has the following benefits
         
 ############################# About Formats ############################
@@ -126,12 +134,12 @@ about_formats:
     enable: true
     format:
         # format loop
-        - icon: "far fa-file-csv"
-          title: "About CSV File Format"
+        - icon: "far fa-file-potm"
+          title: "About POTM File Format"
           content: |
-            Files with CSV (Comma Separated Values) extension represent plain text files that contain records of data with comma separated values. Each line in a CSV file is a new record from the set of records contained in the file. Such files are generated when data transfer is intended from one storage system to another. Since all applications can recognize records separated by comma, import of such data files to database is done very conveniently. Almost all spreadsheet applications such as Microsoft Excel or OpenOffice Calc can import CSV without much effort. Data imported from such files is arranged in cells of a spreadsheet for representation to user.
+            Files with POTM extension are Microsoft PowerPoint template files with support for Macros. POTM files are created with PowerPoint 2007 or above and contains default settings that can be used to create further presentation files. These settings can include styles, backgrounds, colour palette, fonts and defaults along with macros that consist of custom functions for doing particular task. They may also be opened by a previous version of PowerPoint with Open XML document support installed. POTM files can be opened in Microsoft PowerPoint for editing like any other PowerPoint file.
 
-          link: "https://docs.fileformat.com/spreadsheet/csv/"
+          link: "https://docs.fileformat.com/presentation/potm/"
 
 ############################# More Formats ############################
 more_formats:

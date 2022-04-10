@@ -58,14 +58,14 @@ about:
     enable: true
     title: "About GroupDocs.Annotation for .NET API"
     content: |
-        [GroupDocs.Annotation for .NET](https://products.groupdocs.com/annotation/net) is a native .NET annotation processing API to view, add, modify, remove and extract annotations from images and document file formats. Users can easily delete comments, notes, remarks and various annotation types including text, graphics and watermarks in PDF, HTML, Word, Excel, Visio diagrams, presentations, drawings, images, and many other file formats. The annotation-processing feature can precisely read the annotations from imported documents and allows exporting back into the original or desired file format after implementing the customization.
+        [GroupDocs.Annotation for .NET](/annotation/net/) is a native .NET annotation processing API to view, add, modify, remove and extract annotations from images and document file formats. Users can easily delete comments, notes, remarks and various annotation types including text, graphics and watermarks in PDF, HTML, Word, Excel, Visio diagrams, presentations, drawings, images, and many other file formats. The annotation-processing feature can precisely read the annotations from imported documents and allows exporting back into the original or desired file format after implementing the customization.
 
 ############################# Steps ############################
 steps:
     enable: true
     title_left: "Steps for Removing Annotations from VSD"
     content_left: |
-        [GroupDocs.Annotation](https://products.groupdocs.com/annotation/net) makes it easy for .NET developers to remove annotation details from VSD files within their applications by implementing a few easy steps.
+        [GroupDocs.Annotation](/annotation/net/) makes it easy for .NET developers to remove annotation details from VSD files within their applications by implementing a few easy steps.
 
         *   Instantiate Annotator object with input document path or stream.
         *   Instantiate SaveOptions object and set AnnotationTypes = AnnotationType.None.
@@ -78,7 +78,7 @@ steps:
         *   Operating Systems: Microsoft Windows, Linux, MacOS
         *   Development Environments: Visual Studio, Xamarin, MonoDevelop
         *   Frameworks: .NET Framework, .NET Standard, .NET Core, Mono
-        *   Download the latest version of GroupDocs.Annotation for .NET from [Nuget](https://www.nuget.org/packages/groupdocs.annotation)
+        *   Download the latest version of GroupDocs.Annotation for .NET from [NuGet](https://www.nuget.org/packages/groupdocs.annotation)
         
     code: |
         ```cs

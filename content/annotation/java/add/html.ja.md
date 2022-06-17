@@ -1,0 +1,240 @@
+---
+layout: "auto-gen-child"
+date: 2021-05-13T12:44:23+03:00
+draft: false
+
+head_title: "JavaアプリケーションでHTMLに注釈を追加する"
+head_description: "人気のある注釈タイプを作成してHTML、画像、図面、ドキュメントファイル形式に追加するJava API."
+
+title: "JavaでHTMLファイルに注釈を付ける"
+description: "あらゆるタイプのJavaアプリケーションで、HTML、Microsoft Officeドキュメント、画像、HTML、図面、およびその他のファイル形式に注釈を追加します."
+bg_image: "https://cms.admin.containerize.com/templates/aspose/App_Themes/V3/images/bg/header1.png"
+bg_overlay: false
+button:
+    enable: true
+    icon: "fas fa-arrow-down"
+    label: "無料トライアルをダウンロード"
+    link: "https://downloads.groupdocs.com/annotation/java"
+
+submenu:
+    enable: true
+
+    left:
+        img_alt: "GroupDocs.Annotation for Java"
+        image: "https://cms.admin.containerize.com/templates/groupdocs/images/product-logos/90x90-noborder/groupdocs-annotation-java.png"
+        product: "GroupDocs.Annotation"
+        platform: "Java"
+
+    middle:
+        button:
+
+            - link: "https://apireference.groupdocs.com/annotation/java"
+              text: "APIリファレンス"
+
+            - link: "https://github.com/groupdocs-annotation"
+              text: "コード例"
+
+            - link: "https://products.groupdocs.app/annotation/family"
+              text: "ライブデモ"
+
+            - link: "https://purchase.groupdocs.com/pricing/annotation/java"
+              text: "価格設定"
+
+    right:
+        link_download: "https://downloads.groupdocs.com/annotation"
+        link_learn: "https://docs.groupdocs.com/annotation/java"
+        link_buy: "https://purchase.groupdocs.com"
+
+about:
+    enable: true
+    title: "GroupDocs.Annotation for Java APIについて"
+    content: |
+        [GroupDocs.Annotation for Java](/annotation/java/）は、画像やドキュメントファイル形式から注釈を作成、追加、編集、削除、抽出、エクスポートするための包括的なサポートを備えた、注釈管理用のネイティブJavaAPIです。ユーザーは、コメント、メモ、コメント、およびPDF、HTML、Microsoft Word文書、Excelスプレッドシート、Visioダイアグラム、PowerPointプレゼンテーション、図面、画像、およびその他の多くのファイル形式のテキスト、グラフィックス、透かしを含む13種類の注釈を簡単に抽出できます。注釈処理機能は、インポートされたドキュメントから注釈を正確に読み取ることができ、注釈のカスタマイズを実装した後、元のファイル形式または目的のファイル形式にエクスポートして戻すことができます。
+
+steps:
+    enable: true
+    title_left: "JavaでHTMLに注釈を追加する手順"
+    content_left: |
+        [GroupDocs.Annotation](/annotation/java/）を使用すると、Java開発者は、いくつかの簡単な手順を実装することで、Javaベースのアプリケーション内のHTMLファイルにさまざまな注釈タイプを簡単に追加できます。
+
+        *コメントと日付を使用して返信オブジェクトを作成します。
+        * AreaAnnotationオブジェクトを作成し、エリアオプションを設定し、返信を追加します。
+        * Annotatorオブジェクトを作成し、領域の注釈を追加します。
+        *出力ファイルを保存します。
+        
+    title_right: "システム要求"
+    content_right: |
+        GroupDocs.Annotation for Java APIは、すべての主要なプラットフォームとオペレーティングシステムでサポートされています。以下のコードを実行する前に、システムに次の前提条件がインストールされていることを確認してください。
+
+        *オペレーティングシステム：Microsoft Windows、Linux、MacOS
+        *開発環境：NetBeans、Intellij IDEA、Eclipseなど
+        * Javaランタイム環境：Java 7（1.7）以降
+        * [GroupDocs Artifact Repository](https://repository.groupdocs.com/webapp/#/artifacts/browse/tree/General/repo/com/groupdocs/groupdocs-annotation）から最新バージョンのGroupDocs.AnnotationforJavaを入手してください。
+        
+    code: |
+        ```java
+        Reply firstReply = new Reply();
+        firstReply.setComment("First comment");
+        firstReply.setRepliedOn(Calendar.getInstance().getTime());
+        
+        Reply secondReply = new Reply();
+        secondReply.setComment("Second comment");
+        secondReply.setRepliedOn(Calendar.getInstance().getTime());
+        
+        List<Reply> replies = new ArrayList<Reply>();
+        replies.add(firstReply);
+        replies.add(secondReply);
+        
+        AreaAnnotation area = new AreaAnnotation();
+        area.setBackgroundColor(65535);
+        area.setBox(new Rectangle(100, 100, 100, 100));
+        area.setCreatedOn(Calendar.getInstance().getTime());
+        area.setMessage("This is area annotation");
+        area.setOpacity(0.7);
+        area.setPageNumber(0);
+        area.setPenColor(65535);
+        area.setPenStyle(PenStyle.Dot);
+        area.setPenWidth((byte) 3);
+        area.setReplies(replies);
+        
+        Annotator annotator = new Annotator("input.html");
+        annotator.add(area);
+        annotator.save("output.html");
+        annotator.dispose();
+        ```
+        
+demos:
+    enable: true
+    title: "ドキュメントや画像に注釈を追加するライブデモ"
+    content: |
+        [GroupDocs.Annotation Live Demos](https://products.groupdocs.app/annotation/family）Webサイトにアクセスして、今すぐHTMLファイルに注釈を作成して追加してください。  
+        ライブデモには次の利点があります
+        
+about_formats:
+    enable: true
+    format:
+        - icon: "far fa-file-html"
+          title: "HTMLファイル形式について"
+          content: |
+            HTML（ハイパーテキストマークアップ言語）は、ブラウザで表示するために作成されたWebページの拡張機能です。 Webの言語として知られるHTMLは、Webページの一部として表示される新しい情報要件の要件とともに進化してきました。最新のバリアントはHTML5として知られており、言語を操作するための多くの柔軟性を提供します。 HTMLページは、ホストされているサーバーから受信するか、ローカルシステムからロードすることもできます。各HTMLページは、フォーム、テキスト、画像、アニメーション、リンクなどのHTML要素で構成されています。これらの要素は、img、a、pなどのタグで表され、各タグには開始と終了があります。また、JavaScriptやスタイルシート（CSS）などのスクリプト言語で記述されたアプリケーションを埋め込んで、全体的なレイアウトを表現することもできます。
+
+          link: "https://docs.fileformat.com/web/html/"
+
+more_formats:
+    enable: true
+    title: "他の一般的なファイル形式に注釈を付ける"
+    content: |
+        ドキュメントおよび画像形式用のJava注釈管理ライブラリ。以下に説明するように、一般的なファイル形式のいくつかに注釈プロパティを追加します。
+    format: 
+          link: "https://products.groupdocs.com/annotation/java/add/pdf"
+          description: "Adobe Portableドキュメント形式"
+
+          link: "https://products.groupdocs.com/annotation/java/add/doc"
+          description: "Microsoft Wordドキュメント"
+
+          link: "https://products.groupdocs.com/annotation/java/add/docm"
+          description: "Microsoft Wordマクロ対応ドキュメント"
+
+          link: "https://products.groupdocs.com/annotation/java/add/docx"
+          description: "Microsoft Word OpenXMLドキュメント"
+
+          link: "https://products.groupdocs.com/annotation/java/add/dot"
+          description: "Microsoft Word文書テンプレート"
+
+          link: "https://products.groupdocs.com/annotation/java/add/dotx"
+          description: "Word OpenXMLドキュメントテンプレート"
+
+          link: "https://products.groupdocs.com/annotation/java/add/dotm"
+          description: "Microsoft Wordマクロ対応テンプレート"
+
+          link: "https://products.groupdocs.com/annotation/java/add/rtf"
+          description: "リッチテキストドキュメント"
+
+          link: "https://products.groupdocs.com/annotation/java/add/odt"
+          description: "ドキュメントテキストを開く"
+
+          link: "https://products.groupdocs.com/annotation/java/add/xls"
+          description: "Microsoft Excelバイナリファイル形式"
+
+          link: "https://products.groupdocs.com/annotation/java/add/xlsx"
+          description: "Microsoft Excel OpenXMLスプレッドシート"
+
+          link: "https://products.groupdocs.com/annotation/java/add/xlsm"
+          description: "Microsoft Excelマクロ対応スプレッドシート"
+
+          link: "https://products.groupdocs.com/annotation/java/add/xlsb"
+          description: "Microsoft Excelバイナリワークシート"
+
+          link: "https://products.groupdocs.com/annotation/java/add/ods"
+          description: "ドキュメントスプレッドシートを開く"
+
+          link: "https://products.groupdocs.com/annotation/java/add/ppt"
+          description: "PowerPointプレゼンテーション"
+
+          link: "https://products.groupdocs.com/annotation/java/add/pptx"
+          description: "PowerPoint OpenXMLプレゼンテーション"
+
+          link: "https://products.groupdocs.com/annotation/java/add/ppsx"
+          description: "PowerPoint OpenXMLスライドショー"
+
+          link: "https://products.groupdocs.com/annotation/java/add/potm"
+          description: "Microsoft PowerPointテンプレート"
+
+          link: "https://products.groupdocs.com/annotation/java/add/pptm"
+          description: "Microsoft PowerPointプレゼンテーション"
+
+          link: "https://products.groupdocs.com/annotation/java/add/pps"
+          description: "Microsoft PowerPoint97-2003スライドショー"
+
+          link: "https://products.groupdocs.com/annotation/java/add/odp"
+          description: "OpenDocumentプレゼンテーション"
+
+          link: "https://products.groupdocs.com/annotation/java/add/tiff"
+          description: "タグ付き画像ファイル形式"
+
+          link: "https://products.groupdocs.com/annotation/java/add/jpeg"
+          description: "JPEG画像"
+
+          link: "https://products.groupdocs.com/annotation/java/add/png"
+          description: "ポータブルネットワークグラフィック"
+
+          link: "https://products.groupdocs.com/annotation/java/add/bmp"
+          description: "ビットマップファイル形式"
+
+          link: "https://products.groupdocs.com/annotation/java/add/eml"
+          description: "電子メールメッセージ"
+
+          link: "https://products.groupdocs.com/annotation/java/add/msg"
+          description: "Microsoft Outlookの電子メールメッセージ"
+
+          link: "https://products.groupdocs.com/annotation/java/add/vsd"
+          description: "Microsoft Visio2003-2010図面"
+
+          link: "https://products.groupdocs.com/annotation/java/add/vsdx"
+          description: "Microsoft Visio図面"
+
+          link: "https://products.groupdocs.com/annotation/java/add/vss"
+          description: "Microsoft Visio2003-2010ステンシル"
+
+          link: "https://products.groupdocs.com/annotation/java/add/vst"
+          description: "Microsoft Visio2013ステンシル"
+
+          link: "https://products.groupdocs.com/annotation/java/add/dwg"
+          description: "Autodesk Design Data Formats"
+
+          link: "https://products.groupdocs.com/annotation/java/add/dxf"
+          description: "AutoCAD Drawing Interchange"
+
+          link: "https://products.groupdocs.com/annotation/java/add/dcm"
+          description: "医学におけるデジタルイメージングと通信"
+
+          link: "https://products.groupdocs.com/annotation/java/add/wmf"
+          description: "Windowsメタファイル"
+
+          link: "https://products.groupdocs.com/annotation/java/add/emf"
+          description: "強化されたメタファイル形式"
+
+
+back_to_top:
+    enable: true
+---

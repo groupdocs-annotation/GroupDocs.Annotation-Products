@@ -61,6 +61,7 @@ about:
         [GroupDocs.Annotation for Java](/annotation/java/) is a native Java annotations management library to view, add, update, erase, extract or export annotations from images and document file formats. Users can easily delete comments, notes, remarks and various annotation types including text, graphics and watermarks in PDF, HTML, Word, Excel, Visio diagrams, presentations, drawings, images, and many other file formats. The annotation-processing feature can precisely read the annotations from imported documents and allows exporting back into the original or desired file format after implementing the customization.
 
 ############################# Steps ############################
+howTo:
 steps:
     enable: true
     title_left: "Steps to Delete Annotations from VSDX in Java"

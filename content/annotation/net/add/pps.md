@@ -61,6 +61,7 @@ about:
         [GroupDocs.Annotation for .NET](/annotation/net/) is a native .NET API that enables users to add, edit and remove annotations from images and document file formats. You can easily employ comments, notes, remarks and various annotation types including text, graphics and watermark to PDF, HTML, Word, Excel, Visio diagrams, presentations, drawings, images, and many other file formats. The annotation-processing feature can precisely read the annotations from imported documents and allows exporting back into the original or desired file format after implementing the customization.
 
 ############################# Steps ############################
+howTo:
 steps:
     enable: true
     title_left: "Steps for Adding Annotations to PPS in C#"

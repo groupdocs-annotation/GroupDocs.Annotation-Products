@@ -61,6 +61,7 @@ about:
         [GroupDocs.Annotation for .NET](/annotation/net/) is a native .NET annotation management API to read, add, edit, remove, extract and export annotations from images and document file formats. Users can easily extract comments, notes, remarks and various annotation types including text, graphics and watermarks from PDF, HTML, Microsoft Word documents, Excel spreadsheets, Visio diagrams, PowerPoint presentations, drawings, images, and many other file formats. The annotation-processing feature can accurately read the annotations from the imported documents and allows exporting back into the original or desired file format after implementing the annotations customization.
 
 ############################# Steps ############################
+howTo:
 steps:
     enable: true
     title_left: "Steps for Extracting Annotations from DOCM"

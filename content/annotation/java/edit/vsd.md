@@ -61,6 +61,7 @@ about:
         [GroupDocs.Annotation for Java](/annotation/java/) is a native Java annotations manipulation solution to efficiently view, add, update, delete and extract annotations from images and document file formats. Users can easily edit comments, notes, remarks and various annotation types including text, graphics and watermark in PDF, HTML, Word, Excel, Visio diagrams, presentations, drawings, images, and many other file formats. The annotation-processing feature can precisely read the annotations from imported documents and allows exporting back into the original or desired file format after implementing the customization.
 
 ############################# Steps ############################
+howTo:
 steps:
     enable: true
     title_left: "Steps to Edit Annotations from VSD in Java"

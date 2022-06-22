@@ -81,6 +81,12 @@ steps:
         *   Java Runtime Environment: J2SE 6.0 and above
         *   Get the latest version of GroupDocs.Annotation for Java from [Maven](https://repository.groupdocs.com/webapp/#/artifacts/browse/tree/General/repo/com/groupdocs/groupdocs-conversion)
         
+############################# Preview ############################
+preview:
+    enable: true
+    title: "Annotation preview and code sample"
+    content: |
+        ![Annotation preview image](https://docs.groupdocs.com/annotation/java/images/add-strikeout-annotation.png)
     code: |
         ```java
         String outputPath = Constants.getOutputFilePath("AddTextStrikeoutAnnotation", FilenameUtils.getExtension(input.wmf));

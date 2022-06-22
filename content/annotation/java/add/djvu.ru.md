@@ -66,6 +66,12 @@ steps:
         * Среда разработки: NetBeans, Intellij IDEA, Eclipse и т. д.
         * Среда выполнения Java: J2SE 6.0 и выше
         * Получите последнюю версию GroupDocs.Annotation для Java от [Maven](https://repository.groupdocs.com/webapp/#/artifacts/browse/tree/General/repo/com/groupdocs/groupdocs-conversion)
+############################# Preview ############################
+preview:
+    enable: true
+    title: "Annotation preview and code sample"
+    content: |
+        ![Annotation preview image](https://docs.groupdocs.com/annotation/java/images/add-strikeout-annotation.png)
     code: |
         ```java
         String outputPath = Constants.getOutputFilePath("AddTextStrikeoutAnnotation", FilenameUtils.getExtension(input.djvu));

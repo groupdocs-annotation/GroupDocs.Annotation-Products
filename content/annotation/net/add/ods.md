@@ -82,6 +82,12 @@ steps:
         *   Frameworks: .NET Framework, .NET Standard, .NET Core, Mono
         *   Download the latest version of GroupDocs.Annotation for .NET from [NuGet](https://www.nuget.org/packages/groupdocs.annotation)
         
+############################# Preview ############################
+preview:
+    enable: true
+    title: "Annotation preview and code sample"
+    content: |
+        ![Annotation preview image](https://docs.groupdocs.com/annotation/java/images/add-text-field-annotation.png)
     code: |
         ```cs
         //Add text field annotation to the document from local disk

@@ -71,6 +71,12 @@ steps:
         *フレームワーク：.NET Framework、.NET Standard、.NET Core、Mono
         * [NuGet](https://www.nuget.org/packages/groupdocs.annotation)から最新バージョンのGroupDocs.Annotationfor.NETをダウンロードします。
         
+############################# Preview ############################
+preview:
+    enable: true
+    title: "Annotation preview and code sample"
+    content: |
+        ![Annotation preview image](https://docs.groupdocs.com/annotation/java/images/add-text-field-annotation.png)
     code: |
         ```cs
         //ローカルディスクからドキュメントにテキストフィールドの注釈を追加します

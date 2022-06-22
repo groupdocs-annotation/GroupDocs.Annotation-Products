@@ -71,6 +71,12 @@ steps:
         * Javaランタイム環境：J2SE6.0以降
         * [Maven](https://repository.groupdocs.com/webapp/#/artifacts/browse/tree/General/repo/com/groupdocs/groupdocs-conversion)から最新バージョンのGroupDocs.AnnotationforJavaを入手してください。
         
+############################# Preview ############################
+preview:
+    enable: true
+    title: "Annotation preview and code sample"
+    content: |
+        ![Annotation preview image](https://docs.groupdocs.com/annotation/java/images/add-strikeout-annotation.png)
     code: |
         ```java
         String outputPath = Constants.getOutputFilePath("AddTextStrikeoutAnnotation", FilenameUtils.getExtension(input.pptm));

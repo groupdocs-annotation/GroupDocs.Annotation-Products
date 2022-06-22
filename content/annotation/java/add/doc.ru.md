@@ -66,6 +66,12 @@ steps:
         * Среда разработки: NetBeans, Intellij IDEA, Eclipse и т. д.
         * Среда выполнения Java: Java 7 (1.7) и выше
         * Получите последнюю версию GroupDocs.Annotation для Java из [репозитория артефактов GroupDocs](https://repository.groupdocs.com/webapp/#/artifacts/browse/tree/General/repo/com/groupdocs/groupdocs-annotation)
+############################# Preview ############################
+preview:
+    enable: true
+    title: "Annotation preview and code sample"
+    content: |
+        ![Annotation preview image](https://docs.groupdocs.com/annotation/java/images/add-area-annotation.png)
     code: |
         ```java
         Reply firstReply = new Reply();

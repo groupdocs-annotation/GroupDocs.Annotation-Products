@@ -71,6 +71,12 @@ steps:
         * Javaランタイム環境：Java 7（1.7）以降
         * [GroupDocs Artifact Repository](https://repository.groupdocs.com/webapp/#/artifacts/browse/tree/General/repo/com/groupdocs/groupdocs-annotation)から最新バージョンのGroupDocs.AnnotationforJavaを入手してください。
         
+############################# Preview ############################
+preview:
+    enable: true
+    title: "Annotation preview and code sample"
+    content: |
+        ![Annotation preview image](https://docs.groupdocs.com/annotation/java/images/add-area-annotation.png)
     code: |
         ```java
         Reply firstReply = new Reply();

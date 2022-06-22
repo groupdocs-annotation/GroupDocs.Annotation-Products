@@ -66,6 +66,12 @@ steps:
         * Среды разработки: Visual Studio, Xamarin, MonoDevelop
         * Фреймворки: .NET Framework, .NET Standard, .NET Core, Mono
         * Загрузите последнюю версию GroupDocs.Annotation для .NET из [NuGet](https://www.nuget.org/packages/groupdocs.annotation).
+############################# Preview ############################
+preview:
+    enable: true
+    title: "Annotation preview and code sample"
+    content: |
+        ![Annotation preview image](https://docs.groupdocs.com/annotation/java/images/add-text-field-annotation.png)
     code: |
         ```cs
         // Добавляем аннотацию текстового поля к документу с локального диска

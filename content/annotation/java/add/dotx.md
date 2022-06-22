@@ -82,6 +82,12 @@ steps:
         *   Java Runtime Environment: Java 7 (1.7) and above
         *   Get the latest version of GroupDocs.Annotation for Java from [GroupDocs Artifact Repository](https://repository.groupdocs.com/webapp/#/artifacts/browse/tree/General/repo/com/groupdocs/groupdocs-annotation)
         
+############################# Preview ############################
+preview:
+    enable: true
+    title: "Annotation preview and code sample"
+    content: |
+        ![Annotation preview image](https://docs.groupdocs.com/annotation/java/images/add-area-annotation.png)
     code: |
         ```java
         Reply firstReply = new Reply();

@@ -155,10 +155,6 @@ more_formats:
           link: "/annotation/net/add/dot/"
           description: "Шаблон документа Microsoft Word"
         # format loop
-        - name: "Добавить аннотацию в DOTM"
-          link: "/annotation/net/add/dotm/"
-          description: "Шаблон Microsoft Word с поддержкой макросов"
-        # format loop
         - name: "Добавить аннотацию в RTF"
           link: "/annotation/net/add/rtf/"
           description: "Форматированный текстовый документ"

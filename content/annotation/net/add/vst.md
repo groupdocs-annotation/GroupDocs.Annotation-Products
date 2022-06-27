@@ -184,10 +184,6 @@ more_formats:
           link: "https://products.groupdocs.com/annotation/net/add/dotx/"
           description: "Word Open XML Document Template"
 
-        # format loop
-        - name: "Add Annotation to DOTM"
-          link: "https://products.groupdocs.com/annotation/net/add/dotm/"
-          description: "Microsoft Word Macro-Enabled Template"
 
         # format loop
         - name: "Add Annotation to RTF"

@@ -161,10 +161,6 @@ more_formats:
           link: "/annotation/java/edit/dot/"
           description: "Шаблон документа Microsoft Word"
         # format loop
-        - name: "Редактировать аннотацию из DOTM"
-          link: "/annotation/java/edit/dotm/"
-          description: "Шаблон Microsoft Word с поддержкой макросов"
-        # format loop
         - name: "Редактировать аннотацию из RTF"
           link: "/annotation/java/edit/rtf/"
           description: "Форматированный текстовый документ"

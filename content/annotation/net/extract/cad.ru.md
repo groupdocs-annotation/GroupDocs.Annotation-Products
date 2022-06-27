@@ -121,10 +121,6 @@ more_formats:
           link: "/annotation/net/extract/dotx/"
           description: "Шаблон документа Word Open XML"
         # format loop
-        - name: "Извлечь аннотацию из DOTM"
-          link: "/annotation/net/extract/dotm/"
-          description: "Шаблон Microsoft Word с поддержкой макросов"
-        # format loop
         - name: "Извлечь аннотацию из RTF"
           link: "/annotation/net/extract/rtf/"
           description: "Форматированный текстовый документ"

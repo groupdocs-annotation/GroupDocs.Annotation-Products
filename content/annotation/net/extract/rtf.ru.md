@@ -130,10 +130,6 @@ more_formats:
           link: "/annotation/net/extract/dotx/"
           description: "Шаблон документа Word Open XML"
         # format loop
-        - name: "Извлечь аннотацию из DOTM"
-          link: "/annotation/net/extract/dotm/"
-          description: "Шаблон Microsoft Word с поддержкой макросов"
-        # format loop
         - name: "Извлечь аннотацию из ODT"
           link: "/annotation/net/extract/odt/"
           description: "Открыть текст документа"

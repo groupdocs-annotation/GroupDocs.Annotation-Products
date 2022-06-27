@@ -142,10 +142,6 @@ more_formats:
           link: "https://products.groupdocs.com/annotation/java/remove/dot/"
           description: "Microsoft Word Document Template"
 
-        # format loop
-        - name: "Remove Annotation from DOTM"
-          link: "https://products.groupdocs.com/annotation/java/remove/dotm/"
-          description: "Microsoft Word Macro-Enabled Template"
 
         # format loop
         - name: "Remove Annotation from RTF"

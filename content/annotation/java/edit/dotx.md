@@ -197,10 +197,6 @@ more_formats:
           link: "https://products.groupdocs.com/annotation/java/edit/dot/"
           description: "Microsoft Word Document Template"
 
-        # format loop
-        - name: "Edit Annotation from DOTM"
-          link: "https://products.groupdocs.com/annotation/java/edit/dotm/"
-          description: "Microsoft Word Macro-Enabled Template"
 
         # format loop
         - name: "Edit Annotation from RTF"

@@ -159,10 +159,6 @@ more_formats:
           link: "/annotation/net/add/dotx/"
           description: "Шаблон документа Word Open XML"
         # format loop
-        - name: "Добавить аннотацию в DOTM"
-          link: "/annotation/net/add/dotm/"
-          description: "Шаблон Microsoft Word с поддержкой макросов"
-        # format loop
         - name: "Добавить аннотацию в ODT"
           link: "/annotation/net/add/odt/"
           description: "Открыть текст документа"

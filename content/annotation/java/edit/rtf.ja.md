@@ -175,8 +175,6 @@ more_formats:
           link: "https://products.groupdocs.com/annotation/java/edit/dotx/"
           description: "WordOpenXMLドキュメントテンプレート"
 
-          link: "https://products.groupdocs.com/annotation/java/edit/dotm/"
-          description: "MicrosoftWordマクロ対応テンプレート"
 
           link: "https://products.groupdocs.com/annotation/java/edit/odt/"
           description: "ドキュメントテキストを開く"

@@ -118,10 +118,6 @@ more_formats:
           link: "/annotation/java/remove/dot/"
           description: "Шаблон документа Microsoft Word"
         # format loop
-        - name: "Удалить аннотацию из DOTM"
-          link: "/annotation/java/remove/dotm/"
-          description: "Шаблон Microsoft Word с поддержкой макросов"
-        # format loop
         - name: "Удалить аннотацию из RTF"
           link: "/annotation/java/remove/rtf/"
           description: "Форматированный текстовый документ"

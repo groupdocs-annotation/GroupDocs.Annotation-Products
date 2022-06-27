@@ -129,8 +129,6 @@ more_formats:
           link: "https://products.groupdocs.com/annotation/net/extract/dotx/"
           description: "WordOpenXMLドキュメントテンプレート"
 
-          link: "https://products.groupdocs.com/annotation/net/extract/dotm/"
-          description: "MicrosoftWordマクロ対応テンプレート"
 
           link: "https://products.groupdocs.com/annotation/net/extract/odt/"
           description: "ドキュメントテキストを開く"

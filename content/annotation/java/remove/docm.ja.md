@@ -117,8 +117,6 @@ more_formats:
           link: "https://products.groupdocs.com/annotation/java/remove/dotx/"
           description: "WordOpenXMLドキュメントテンプレート"
 
-          link: "https://products.groupdocs.com/annotation/java/remove/dotm/"
-          description: "MicrosoftWordマクロ対応テンプレート"
 
           link: "https://products.groupdocs.com/annotation/java/remove/rtf/"
           description: "リッチテキストドキュメント"

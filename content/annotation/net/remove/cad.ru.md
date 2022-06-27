@@ -134,10 +134,6 @@ more_formats:
           link: "/annotation/net/remove/dotx/"
           description: "Шаблон документа Word Open XML"
         # format loop
-        - name: "Удалить аннотацию из DOTM"
-          link: "/annotation/net/remove/dotm/"
-          description: "Шаблон Microsoft Word с поддержкой макросов"
-        # format loop
         - name: "Удалить аннотацию из RTF"
           link: "/annotation/net/remove/rtf/"
           description: "Форматированный текстовый документ"

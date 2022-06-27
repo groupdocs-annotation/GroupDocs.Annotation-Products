@@ -151,10 +151,6 @@ more_formats:
           link: "https://products.groupdocs.com/annotation/net/extract/dot/"
           description: "Microsoft Word Document Template"
 
-        # format loop
-        - name: "Extract Annotation from DOTM"
-          link: "https://products.groupdocs.com/annotation/net/extract/dotm/"
-          description: "Microsoft Word Macro-Enabled Template"
 
         # format loop
         - name: "Extract Annotation from RTF"

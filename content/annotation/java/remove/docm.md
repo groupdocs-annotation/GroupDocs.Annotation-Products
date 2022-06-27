@@ -142,10 +142,6 @@ more_formats:
           link: "https://products.groupdocs.com/annotation/java/remove/dotx/"
           description: "Word Open XML Document Template"
 
-        # format loop
-        - name: "Remove Annotation from DOTM"
-          link: "https://products.groupdocs.com/annotation/java/remove/dotm/"
-          description: "Microsoft Word Macro-Enabled Template"
 
         # format loop
         - name: "Remove Annotation from RTF"

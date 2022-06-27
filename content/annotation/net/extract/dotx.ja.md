@@ -126,8 +126,6 @@ more_formats:
           link: "https://products.groupdocs.com/annotation/net/extract/dot/"
           description: "MicrosoftWord文書テンプレート"
 
-          link: "https://products.groupdocs.com/annotation/net/extract/dotm/"
-          description: "MicrosoftWordマクロ対応テンプレート"
 
           link: "https://products.groupdocs.com/annotation/net/extract/rtf/"
           description: "リッチテキストドキュメント"

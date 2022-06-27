@@ -154,8 +154,6 @@ more_formats:
           link: "https://products.groupdocs.com/annotation/net/add/dot/"
           description: "MicrosoftWord文書テンプレート"
 
-          link: "https://products.groupdocs.com/annotation/net/add/dotm/"
-          description: "MicrosoftWordマクロ対応テンプレート"
 
           link: "https://products.groupdocs.com/annotation/net/add/rtf/"
           description: "リッチテキストドキュメント"

@@ -167,102 +167,127 @@ features:
     feature:
       # feature loop
       - icon: "fas fa-copy"
+        link: "https://docs.groupdocs.com/annotation/net/basic-usage/"
         content: "Add, Edit & Remove Annotations and Replies"
 
       # feature loop
       - icon: "fas fa-eye"
+        link: "https://docs.groupdocs.com/annotation/net/export-annotations/"
         content: "Export Annotations to Document"
 
       # feature loop
       - icon: "fas fa-bolt"
+        link: "Evaluation Limitations and Licensing of GroupDocs.Annotation"
         content: "Metered License – Controlled Billing by Paying According to API Usage"
       
       # feature loop
       - icon: "fas fa-code"
+        link: "https://docs.groupdocs.com/annotation/net/extract-annotations-from-document/"
         content: "Single Function Call to Fetch All Annotations of a Document"
 
       # feature loop
       - icon: "fas fa-cloud"
+        link: "https://docs.groupdocs.com/annotation/net/add-point-annotation/"
         content: "Assign Value to Point Annotation or Move Existing Point Value"
 
       # feature loop
       - icon: "fas fa-remove-format"
+        link: "https://docs.groupdocs.com/annotation/net/add-link-annotation/"
         content: "Add Link Annotation to PDF, Word & PowerPoint Slides"
 
       # feature loop
       - icon: "fas fa-comment-slash"
+        link: "https://docs.groupdocs.com/annotation/net/basic-usage/"
         content: "Set Background Color of an Annotation or Remove all the Annotations from Document"
 
       # feature loop
       - icon: "fas fa-border-all"
+        link: "https://docs.groupdocs.com/annotation/net/generate-document-pages-preview/"
         content: "Annotate PDF files with Accuracy – Get Image Representation of PDF Document & Cache Page Previews"
 
       # feature loop
       - icon: "fas fa-wrench"
+        link: "https://docs.groupdocs.com/annotation/net/import-annotations/"
         content: "Get Text Coordinates of Text Annotation in Image Representation of Document"
 
       # feature loop
       - icon: "fas fa-columns"
+        link: "https://docs.groupdocs.com/annotation/net/add-area-annotation/"
         content: "Link User Comments to Area Annotation & Support for Nested Comments"
 
       # feature loop
       - icon: "fas fa-file-word"
+        link: "https://docs.groupdocs.com/annotation/net/add-arrow-annotation/"
         content: "Use Arrow Annotation for pointing to Particular Content"
 
       # feature loop
       - icon: "fas fa-envelope"
+        link: "https://docs.groupdocs.com/annotation/net/add-distance-annotation/"
         content: "Use Distance Annotation to Draw a Line that Represents Distance among Objects"
 
       # feature loop
       - icon: "fas fa-print"
+        link: "https://docs.groupdocs.com/annotation/net/add-point-annotation/"
         content: "Point based Annotation that when Clicked Pops Window to Add Comments"
 
       # feature loop
       - icon: "fas fa-file-archive"
+        link: "https://docs.groupdocs.com/annotation/net/add-polyline-annotation/"
         content: "Create a Connected Sequence of Line Segments Created as a Polyline Annotation"
 
       # feature loop
       - icon: "fas fa-lock"
+        link: "https://docs.groupdocs.com/annotation/net/add-ellipse-annotation/"
         content: "Create Straight Line Segments, Arc Segments, or a combination of the both"
 
       # feature loop
       - icon: "fas fa-file-code"
+        link: "https://docs.groupdocs.com/annotation/net/add-area-annotation/"
         content: "Mark Document Areas Proposed for Redaction"
       
       # feature loop
       - icon: "fas fa-fill-drip"
+        link: "https://docs.groupdocs.com/annotation/net/add-image-annotation/"
         content: "Add Image Annotation to PDF, Diagrams, Word, Excel, Presentations & Images"
 
       # feature loop
       - icon: "fas fa-file-excel"
+        link: "https://docs.groupdocs.com/annotation/net/add-annotation-to-the-document/"
         content: "Add Text Field & Text based Stamp or Watermark in Document"
 
       # feature loop
       - icon: "fas fa-heading"
+        link: "https://docs.groupdocs.com/annotation/net/add-annotation-to-the-document/"
         content: "Strike Through, Underline or Replace Particular Text in a Document"
 
       # feature loop
       - icon: "fas fa-project-diagram"
+        link: "https://docs.groupdocs.com/annotation/net/update-annotations/"
         content: "Resize Annotation by assigning new Height & Width Parameters"
 
       # feature loop
       - icon: "fas fa-cube"
+        link: "https://docs.groupdocs.com/annotation/net/generate-document-pages-preview/"
         content: "Get Thumbnails of Document Pages. Manage a Variety of Annotated Docs for Images & Diagrams"
 
       # feature loop
       - icon: "fab fa-uncharted"
+        link: "https://docs.groupdocs.com/annotation/net/export-annotations/"
         content: "Export Annotations to & Work with Multi-page TIFF files"
   
       # feature loop
       - icon: "fab fa-uncharted"
+        link: "https://docs.groupdocs.com/annotation/net/add-watermark-annotation/"
         content: "Adjust Vertical and Horizontal Alignment for Watermark Annotation"
   
       # feature loop
       - icon: "fab fa-uncharted"
+        link: "https://docs.groupdocs.com/annotation/net/add-text-field-annotation/"
         content: "Add Text Horizontal Alignment for Text Field"
 
       # feature loop
       - icon: "fab fa-uncharted"
+        link: "https://docs.groupdocs.com/annotation/net/document-text-info/"
         content: "Get information about document text lines (text, width, height, indents)"
 
     more_feature:

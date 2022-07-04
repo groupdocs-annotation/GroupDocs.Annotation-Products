@@ -161,102 +161,127 @@ features:
     feature:
       # feature loop
       - icon: "fas fa-copy"
+        link: "https://docs.groupdocs.com/annotation/java/add-area-annotation/"
         content: "Fügen Sie Bereichsanmerkungen im Dokument hinzu und verknüpfen Sie einfache und verschachtelte Kommentare"
 
       # feature loop
       - icon: "fas fa-eye"
+        link: "https://docs.groupdocs.com/annotation/java/add-arrow-annotation/"
         content: "Zeigen Sie mithilfe der Pfeilanmerkung auf einen bestimmten Inhalt"
 
       # feature loop
       - icon: "fas fa-bolt"
+        link: "https://docs.groupdocs.com/annotation/java/add-watermark-annotation/"
         content: "Stellen Sie Textwasserzeichen auf PDF, Folien, Excel-Arbeitsblätter, Bilder und Diagramme in abgewinkelter Position ein"
       
       # feature loop
       - icon: "fas fa-file-powerpoint"
+        link: "https://docs.groupdocs.com/annotation/java/add-point-annotation/"
         content: "Fügen Sie mithilfe von Punktanmerkungen Popup-Kommentare zu beliebigen Stellen im Dokument hinzu"
 
       # feature loop
       - icon: "fas fa-code"
+        link: "https://docs.groupdocs.com/annotation/java/add-polyline-annotation/"
         content: "Verwenden Sie die Polylinienbeschriftung, um eine Folge von Liniensegmenten, Bogensegmenten oder beidem zu verbinden"
 
       # feature loop
       - icon: "fas fa-cloud"
+        link: "https://docs.groupdocs.com/annotation/java/add-ellipse-annotation/"
         content: "Fügen Sie Ellipsenanmerkungen zu PDFs, Word-Dokumenten, Tabellenkalkulationen, Präsentationen, Diagrammen und Bildern hinzu"
 
       # feature loop
       - icon: "fas fa-remove-format"
+        link: "https://docs.groupdocs.com/annotation/java/add-watermark-annotation/"
         content: "Fügen Sie abgewinkelte Wasserzeichen für PDF, PowerPoint, Excel, Bilder und Diagramme hinzu"
 
       # feature loop
       - icon: "fas fa-comment-slash"
+        link: "https://docs.groupdocs.com/annotation/java/extract-annotations-from-document/"
         content: "Abrufen von Koordinaten der Textanmerkung in der Bilddarstellung eines Dokuments"
 
       # feature loop
       - icon: "fas fa-location-arrow"
+        link: "https://docs.groupdocs.com/annotation/java/add-annotation-to-the-document/"
         content: "Bestimmten Text in einem Dokument unterstreichen, durchstreichen oder ändern"
 
       # feature loop
       - icon: "fas fa-border-all"
+        link: "https://docs.groupdocs.com/annotation/java/add-annotation-to-the-document/"
         content: "Textstempel oder Wasserzeichen & Textfeld in einem Dokument hinzufügen"
 
       # feature loop
       - icon: "fas fa-wrench"
+        link: "https://docs.groupdocs.com/annotation/net/advanced-usage/"
         content: "Import & Anmerkungen exportieren among Word Documents & PowerPoint Presentations"
 
       # feature loop
       - icon: "fas fa-columns"
+        link: "https://docs.groupdocs.com/annotation/java/add-annotation-to-the-document/"
         content: "Kommentieren Sie Excel-Tabellen mit Anmerkungstypen für Text, Textersetzung, Wasserzeichen und Ressourcenschwärzung"
 
       # feature loop
       - icon: "fas fa-file-word"
+        link: "https://docs.groupdocs.com/annotation/java/add-annotation-to-the-document/"
         content: "Fügen Sie PowerPoint-Präsentationen und -Folien Polylinien, durchgestrichene, unterstrichene oder Textanmerkungen hinzu"
 
       # feature loop
       - icon: "fas fa-envelope"
+        link: "https://docs.groupdocs.com/annotation/java/add-point-annotation/"
         content: "Markieren Sie Punktanmerkungen in Präsentationen mit X-, Y-Koordinaten"
 
       # feature loop
       - icon: "fas fa-print"
+        link: "https://docs.groupdocs.com/annotation/java/add-point-annotation/"
         content: "Fügen Sie Bildern durchgestrichene, Text-, Unterstreichungs- oder Polylinienanmerkungen hinzu"
 
       # feature loop
       - icon: "fas fa-file-archive"
+        link: "https://docs.groupdocs.com/annotation/java/get-file-info/"
         content: "Abrufen von Dokumentinformationen und Bildern für Visio-Diagramme wie VSS und VSD"
 
       # feature loop
       - icon: "fas fa-file-code"
+        link: "https://docs.groupdocs.com/annotation/java/basic-usage/"
         content: "Erhalten Sie Miniaturansichten der Dokumentseiten und arbeiten Sie mit mehrseitigen TIFF-Dateien"
       
       # feature loop
       - icon: "fas fa-file-excel"
+        link: "https://docs.groupdocs.com/annotation/java/get-file-info/"
         content: "Holen Sie sich alle Anmerkungen eines Dokuments mit einem einzigen Funktionsaufruf"
 
       # feature loop
       - icon: "fas fa-heading"
+        link: "https://docs.groupdocs.com/annotation/java/add-link-annotation/"
         content: "Fügen Sie Link-Anmerkungen zu PDF-, Word- und PowerPoint-Präsentationen hinzu"
 
       # feature loop
       - icon: "fas fa-project-diagram"
+        link: "https://docs.groupdocs.com/annotation/java/add-point-annotation/"
         content: "SVG-Pfad-Parsing-Unterstützung für PDF, Word, Diagramme, Folien und andere wichtige Dokumentformate"
 
       # feature loop
       - icon: "fas fa-cube"
+        link: "https://docs.groupdocs.com/annotation/java/technical-support/"
         content: "Unterstützung für das Hinzufügen von Wasserzeichenanmerkungen zu Word-Dokumenten und die Bereinigung für die Textersetzung"
 
       # feature loop
       - icon: "fab fa-uncharted"
+        link: "https://docs.groupdocs.com/annotation/java/technical-support/"
         content: "Formverarbeitungsunterstützung in Diagrammen für Textanmerkungen"
 
       # feature loop
       - icon: "fab fa-uncharted"
+        link: "https://docs.groupdocs.com/annotation/java/advanced-usage/"
         content: "Sparen Sie Zeit, indem Sie Seitenvorschauen von Dokumenten für eine schnellere Verarbeitung zwischenspeichern"
 
       # feature loop
       - icon: "fab fa-uncharted"
+        link: "https://docs.groupdocs.com/annotation/java/add-annotation-to-the-document/"
         content: "Einfaches Kommentieren von Word-, Excel- und PowerPoint-Dokumenten auch in älteren Formaten"
 
       # feature loop
       - icon: "fab fa-uncharted"
+        link: "https://docs.groupdocs.com/annotation/java/add-distance-annotation/"
         content: "Zeigen Sie Beschriftungen für Entfernungsanmerkungen für Excel, PowerPoint und Diagramme an"
 
 ############################# Support ############################

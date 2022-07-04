@@ -161,102 +161,127 @@ features:
     feature:
       # feature loop
       - icon: "fas fa-copy"
+        link: "https://docs.groupdocs.com/annotation/java/add-area-annotation/"
         content: "Добавить аннотацию области в документ и связать простые и вложенные комментарии"
 
       # feature loop
       - icon: "fas fa-eye"
+        link: "https://docs.groupdocs.com/annotation/java/add-arrow-annotation/"
         content: "Укажите на определенный контент с помощью аннотации со стрелкой"
 
       # feature loop
       - icon: "fas fa-bolt"
+        link: "https://docs.groupdocs.com/annotation/java/add-watermark-annotation/"
         content: "Установите текстовые водяные знаки в PDF, слайды, рабочие листы Excel, изображения и диаграммы в угловом положении"
       
       # feature loop
       - icon: "fas fa-file-powerpoint"
+        link: "https://docs.groupdocs.com/annotation/java/add-point-annotation/"
         content: "Добавьте всплывающие комментарии в любое место в документе с помощью точечной аннотации"
 
       # feature loop
       - icon: "fas fa-code"
+        link: "https://docs.groupdocs.com/annotation/java/add-polyline-annotation/"
         content: "Используйте аннотацию полилинии для соединения последовательности сегментов линии, сегментов дуги или того и другого"
 
       # feature loop
       - icon: "fas fa-cloud"
+        link: "https://docs.groupdocs.com/annotation/java/add-ellipse-annotation/"
         content: "Добавить аннотацию эллипса в PDF, документы Word, электронные таблицы, презентации, диаграммы и изображения"
 
       # feature loop
       - icon: "fas fa-remove-format"
+        link: "https://docs.groupdocs.com/annotation/java/add-watermark-annotation/"
         content: "Добавляйте угловые водяные знаки для PDF, PowerPoint, Excel, изображений и диаграмм"
 
       # feature loop
       - icon: "fas fa-comment-slash"
+        link: "https://docs.groupdocs.com/annotation/java/extract-annotations-from-document/"
         content: "Получить координаты текстовой аннотации в графическом представлении документа"
 
       # feature loop
       - icon: "fas fa-location-arrow"
+        link: "https://docs.groupdocs.com/annotation/java/add-annotation-to-the-document/"
         content: "Подчеркивание, зачеркивание или изменение определенного текста в документе"
 
       # feature loop
       - icon: "fas fa-border-all"
+        link: "https://docs.groupdocs.com/annotation/java/add-annotation-to-the-document/"
         content: "Добавить текстовую марку или водяной знак и текстовое поле в документ"
 
       # feature loop
       - icon: "fas fa-wrench"
+        link: "https://docs.groupdocs.com/annotation/net/advanced-usage/"
         content: "Экспорт аннотаций Word & PowerPoint"
 
       # feature loop
       - icon: "fas fa-columns"
+        link: "https://docs.groupdocs.com/annotation/java/add-annotation-to-the-document/"
         content: "Аннотируйте электронные таблицы Excel с помощью типов аннотаций Text, TextReplacement, Watermark и Resource Redaction."
 
       # feature loop
       - icon: "fas fa-file-word"
+        link: "https://docs.groupdocs.com/annotation/java/add-annotation-to-the-document/"
         content: "Добавляйте полилинию, зачеркивание, подчеркивание или текстовые аннотации к презентациям и слайдам PowerPoint."
 
       # feature loop
       - icon: "fas fa-envelope"
+        link: "https://docs.groupdocs.com/annotation/java/add-point-annotation/"
         content: "Отметить аннотацию точки в презентациях с использованием координат X, Y"
 
       # feature loop
       - icon: "fas fa-print"
+        link: "https://docs.groupdocs.com/annotation/java/add-point-annotation/"
         content: "Добавляйте зачеркнутые, текстовые, подчеркнутые или ломаные аннотации к изображениям"
 
       # feature loop
       - icon: "fas fa-file-archive"
+        link: "https://docs.groupdocs.com/annotation/java/get-file-info/"
         content: "Получение сведений о документе и изображений для диаграмм Visio, таких как VSS и VSD"
 
       # feature loop
       - icon: "fas fa-file-code"
+        link: "https://docs.groupdocs.com/annotation/java/basic-usage/"
         content: "Получите миниатюры страниц документа и работайте с многостраничными файлами TIFF"
       
       # feature loop
       - icon: "fas fa-file-excel"
+        link: "https://docs.groupdocs.com/annotation/java/get-file-info/"
         content: "Получить всю аннотацию документа с помощью одного вызова функции"
 
       # feature loop
       - icon: "fas fa-heading"
+        link: "https://docs.groupdocs.com/annotation/java/add-link-annotation/"
         content: "Добавление аннотаций ссылок в презентации PDF, Word и PowerPoint"
 
       # feature loop
       - icon: "fas fa-project-diagram"
+        link: "https://docs.groupdocs.com/annotation/java/add-point-annotation/"
         content: "Поддержка анализа пути SVG для PDF, Word, диаграмм, слайдов и других основных форматов документов."
 
       # feature loop
       - icon: "fas fa-cube"
+        link: "https://docs.groupdocs.com/annotation/java/technical-support/"
         content: "Поддержка добавления аннотации водяного знака к документам Word и очистки для замены текста."
 
       # feature loop
       - icon: "fab fa-uncharted"
+        link: "https://docs.groupdocs.com/annotation/java/technical-support/"
         content: "Поддержка обработки фигур в диаграммах для текстовых аннотаций"
 
       # feature loop
       - icon: "fab fa-uncharted"
+        link: "https://docs.groupdocs.com/annotation/java/advanced-usage/"
         content: "Экономьте время за счет кэширования предварительных просмотров страниц документов для более быстрой обработки"
 
       # feature loop
       - icon: "fab fa-uncharted"
+        link: "https://docs.groupdocs.com/annotation/java/add-annotation-to-the-document/"
         content: "Легко комментируйте документы Word, Excel и PowerPoint даже в старых форматах"
 
       # feature loop
       - icon: "fab fa-uncharted"
+        link: "https://docs.groupdocs.com/annotation/java/add-distance-annotation/"
         content: "Отображение заголовков аннотаций расстояния для Excel, PowerPoint и диаграмм"
 
 ############################# Support ############################

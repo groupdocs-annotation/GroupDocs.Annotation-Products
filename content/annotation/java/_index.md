@@ -161,102 +161,127 @@ features:
     feature:
       # feature loop
       - icon: "fas fa-copy"
+        link: "https://docs.groupdocs.com/annotation/java/add-area-annotation/"
         content: "Add Area Annotation in Document and Link Simple & Nested Comments"
 
       # feature loop
       - icon: "fas fa-eye"
+        link: "https://docs.groupdocs.com/annotation/java/add-arrow-annotation/"
         content: "Point to a Particular Content using Arrow Annotation"
 
       # feature loop
       - icon: "fas fa-bolt"
+        link: "https://docs.groupdocs.com/annotation/java/add-watermark-annotation/"
         content: "Set Text Watermarks to PDF, Slides, Excel Worksheets, Images & Diagrams at Angled Position"
       
       # feature loop
       - icon: "fas fa-file-powerpoint"
+        link: "https://docs.groupdocs.com/annotation/java/add-point-annotation/"
         content: "Add Popup Comments to any Place in the Document using Point Annotation"
 
       # feature loop
       - icon: "fas fa-code"
+        link: "https://docs.groupdocs.com/annotation/java/add-polyline-annotation/"
         content: "Use Polyline Annotation to Connect Sequence of Line Segments, Arc Segments or both"
 
       # feature loop
       - icon: "fas fa-cloud"
+        link: "https://docs.groupdocs.com/annotation/java/add-ellipse-annotation/"
         content: "Add Ellipse Annotation to PDF, Word Documents, Spreadsheets, Presentations, Diagrams & Images"
 
       # feature loop
       - icon: "fas fa-remove-format"
+        link: https://docs.groupdocs.com/annotation/java/add-watermark-annotation/""
         content: "Add Angled Watermarks for PDF, PowerPoint, Excel, Images & Diagrams"
 
       # feature loop
       - icon: "fas fa-comment-slash"
+        link: "https://docs.groupdocs.com/annotation/java/extract-annotations-from-document/"
         content: "Fetch Coordinates of Text Annotation in Image Representation of a Document"
 
       # feature loop
       - icon: "fas fa-location-arrow"
+        link: "https://docs.groupdocs.com/annotation/java/add-annotation-to-the-document/"
         content: "Underline, Strikethrough or Modify Specific Text in a Document"
 
       # feature loop
       - icon: "fas fa-border-all"
+        link: "https://docs.groupdocs.com/annotation/java/add-annotation-to-the-document/"
         content: "Add Text Stamp or Watermark & Text Field in a Document"
 
       # feature loop
       - icon: "fas fa-wrench"
+        link: "https://docs.groupdocs.com/annotation/net/advanced-usage/"
         content: "Import & Export Annotations among Word Documents & PowerPoint Presentations"
 
       # feature loop
       - icon: "fas fa-columns"
+        link: "https://docs.groupdocs.com/annotation/java/add-annotation-to-the-document/"
         content: "Annotate Excel Spreadsheets with Text, TextReplacement, Watermark & Resource Redaction Annotation types"
 
       # feature loop
       - icon: "fas fa-file-word"
+        link: "https://docs.groupdocs.com/annotation/java/add-annotation-to-the-document/"
         content: "Add Polyline, Strikethrough, Underline or Text Annotations to PowerPoint Presentations and Slides"
 
       # feature loop
       - icon: "fas fa-envelope"
+        link: "https://docs.groupdocs.com/annotation/java/add-point-annotation/"
         content: "Mark Point Annotation in Presentations using X, Y Coordinates"
 
       # feature loop
       - icon: "fas fa-print"
+        link: "https://docs.groupdocs.com/annotation/java/add-point-annotation/"
         content: "Add Strikethrough, Text, Underline or Polyline Annotations to Images"
 
       # feature loop
       - icon: "fas fa-file-archive"
+        link: "https://docs.groupdocs.com/annotation/java/get-file-info/"
         content: "Fetch Document Information & Images for Visio Diagrams, such as VSS & VSD"
 
       # feature loop
       - icon: "fas fa-file-code"
+        link: "https://docs.groupdocs.com/annotation/java/basic-usage/"
         content: "Get Thumbnails of the Document Pages & Work with Multi-page TIFF files"
       
       # feature loop
       - icon: "fas fa-file-excel"
+        link: "https://docs.groupdocs.com/annotation/java/get-file-info/"
         content: "Fetch all Annotation of a Document with a Single Function Call"
 
       # feature loop
       - icon: "fas fa-heading"
+        link: "https://docs.groupdocs.com/annotation/java/add-link-annotation/"
         content: "Add Link Annotations to PDF, Word & PowerPoint Presentations"
 
       # feature loop
       - icon: "fas fa-project-diagram"
+        link: "https://docs.groupdocs.com/annotation/java/add-point-annotation/"
         content: "SVG Path Parsing support for PDF, Word, Diagrams, Slides and other major document formats"
 
       # feature loop
       - icon: "fas fa-cube"
+        link: "https://docs.groupdocs.com/annotation/java/technical-support/"
         content: "Support for adding Watermark Annotation to Word documents and cleanup for Text Replacement"
 
       # feature loop
       - icon: "fab fa-uncharted"
+        link: "https://docs.groupdocs.com/annotation/java/technical-support/"
         content: "Shape Processing support in Diagrams for Text Annotations"
 
       # feature loop
       - icon: "fab fa-uncharted"
+        link: "https://docs.groupdocs.com/annotation/java/advanced-usage/"
         content: "Save Time by Caching Page Previews of Documents for Faster Processing"
 
       # feature loop
       - icon: "fab fa-uncharted"
+        link: "https://docs.groupdocs.com/annotation/java/add-annotation-to-the-document/"
         content: "Easily Annotate Word, Excel and PowerPoint Documents even with Older Formats"
 
       # feature loop
       - icon: "fab fa-uncharted"
+        link: "https://docs.groupdocs.com/annotation/java/add-distance-annotation/"
         content: "Display Distance Annotation Captions for Excel, PowerPoint and Diagrams"
 
 ############################# Support ############################

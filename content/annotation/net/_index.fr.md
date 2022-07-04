@@ -167,102 +167,127 @@ features:
     feature:
       # feature loop
       - icon: "fas fa-copy"
+        link: "https://docs.groupdocs.com/annotation/net/basic-usage/"
         content: "Ajouter, modifier et supprimer des annotations et des réponses"
 
       # feature loop
       - icon: "fas fa-eye"
+        link: "https://docs.groupdocs.com/annotation/net/export-annotations/"
         content: "Exporter les annotations vers le document"
 
       # feature loop
       - icon: "fas fa-bolt"
+        link: "https://docs.groupdocs.com/annotation/net/evaluation-limitations-and-licensing-of-groupdocs-annotation/"
         content: "Licence mesurée - Facturation contrôlée en payant en fonction de l'utilisation de l'API"
       
       # feature loop
       - icon: "fas fa-code"
+        link: "https://docs.groupdocs.com/annotation/net/extract-annotations-from-document/"
         content: "Appel de fonction unique pour récupérer toutes les annotations d'un document"
 
       # feature loop
       - icon: "fas fa-cloud"
+        link: "https://docs.groupdocs.com/annotation/net/add-point-annotation/"
         content: "Affecter une valeur à une annotation de point ou déplacer une valeur de point existante"
 
       # feature loop
       - icon: "fas fa-remove-format"
+        link: "https://docs.groupdocs.com/annotation/net/add-link-annotation/"
         content: "Ajouter une annotation de lien aux diapositives PDF, Word et PowerPoint"
 
       # feature loop
       - icon: "fas fa-comment-slash"
+        link: "https://docs.groupdocs.com/annotation/net/basic-usage/"
         content: "Définir la couleur d'arrière-plan d'une annotation ou supprimer toutes les annotations du document"
 
       # feature loop
       - icon: "fas fa-border-all"
+        link: "https://docs.groupdocs.com/annotation/net/generate-document-pages-preview/"
         content: "Annotez les fichiers PDF avec précision - Obtenez une représentation d'image du document PDF et des aperçus de page de cache"
 
       # feature loop
       - icon: "fas fa-wrench"
+        link: "https://docs.groupdocs.com/annotation/net/import-annotations/"
         content: "Obtenir les coordonnées textuelles de l'annotation textuelle dans la représentation d'image du document"
 
       # feature loop
       - icon: "fas fa-columns"
+        link: "https://docs.groupdocs.com/annotation/net/add-area-annotation/"
         content: "Lier les commentaires des utilisateurs à l'annotation de zone et à la prise en charge des commentaires imbriqués"
 
       # feature loop
       - icon: "fas fa-file-word"
+        link: "https://docs.groupdocs.com/annotation/net/add-arrow-annotation/"
         content: "Utiliser l'annotation fléchée pour pointer vers un contenu particulier"
 
       # feature loop
       - icon: "fas fa-envelope"
+        link: "https://docs.groupdocs.com/annotation/net/add-distance-annotation/"
         content: "Utiliser l'annotation de distance pour tracer une ligne qui représente la distance entre les objets"
 
       # feature loop
       - icon: "fas fa-print"
+        link: "https://docs.groupdocs.com/annotation/net/add-point-annotation/"
         content: "Annotation basée sur des points qui, lorsqu'on clique dessus, fait apparaître la fenêtre pour ajouter des commentaires"
 
       # feature loop
       - icon: "fas fa-file-archive"
+        link: "https://docs.groupdocs.com/annotation/net/add-polyline-annotation/"
         content: "Créer une séquence connectée de segments de ligne créés en tant qu'annotation de polyligne"
 
       # feature loop
       - icon: "fas fa-lock"
+        link: "https://docs.groupdocs.com/annotation/net/add-ellipse-annotation/"
         content: "Créer des segments de ligne droite, des segments d'arc ou une combinaison des deux"
 
       # feature loop
       - icon: "fas fa-file-code"
+        link: "https://docs.groupdocs.com/annotation/net/add-area-annotation/"
         content: "Marquer les zones de document proposées pour la rédaction"
       
       # feature loop
       - icon: "fas fa-fill-drip"
+        link: "https://docs.groupdocs.com/annotation/net/add-image-annotation/"
         content: "Ajouter des annotations d'image aux PDF, diagrammes, Word, Excel, présentations et images"
 
       # feature loop
       - icon: "fas fa-file-excel"
+        link: "https://docs.groupdocs.com/annotation/net/add-annotation-to-the-document/"
         content: "Ajouter un champ de texte et un tampon ou un filigrane basé sur du texte dans le document"
 
       # feature loop
       - icon: "fas fa-heading"
+        link: "https://docs.groupdocs.com/annotation/net/add-annotation-to-the-document/"
         content: "Barré, souligné ou remplacé un texte particulier dans un document"
 
       # feature loop
       - icon: "fas fa-project-diagram"
+        link: "https://docs.groupdocs.com/annotation/net/update-annotations/"
         content: "Redimensionner l'annotation en attribuant de nouveaux paramètres de hauteur et de largeur"
 
       # feature loop
       - icon: "fas fa-cube"
+        link: "https://docs.groupdocs.com/annotation/net/generate-document-pages-preview/"
         content: "Obtenir des vignettes de pages de document. Gérer une variété de documents annotés pour les images et les diagrammes"
 
       # feature loop
       - icon: "fab fa-uncharted"
+        link: "https://docs.groupdocs.com/annotation/net/export-annotations/"
         content: "Exporter des annotations vers et travailler avec des fichiers TIFF multipages"
   
       # feature loop
       - icon: "fab fa-uncharted"
+        link: "https://docs.groupdocs.com/annotation/net/add-watermark-annotation/"
         content: "Ajuster l'alignement vertical et horizontal pour l'annotation de filigrane"
   
       # feature loop
       - icon: "fab fa-uncharted"
+        link: "https://docs.groupdocs.com/annotation/net/add-text-field-annotation/"
         content: "Ajouter un alignement horizontal du texte pour le champ de texte"
 
       # feature loop
       - icon: "fab fa-uncharted"
+        link: "https://docs.groupdocs.com/annotation/net/document-text-info/"
         content: "Obtenir des informations sur les lignes de texte du document (texte, largeur, hauteur, retraits)"
 
     more_feature :

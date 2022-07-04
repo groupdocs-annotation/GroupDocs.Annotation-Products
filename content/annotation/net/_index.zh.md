@@ -167,102 +167,127 @@ features:
     feature:
       # feature loop
       - icon: "fas fa-copy"
+        link: "https://docs.groupdocs.com/annotation/net/basic-usage/"
         content: "添加、编辑和删除注释和回复"
 
       # feature loop
       - icon: "fas fa-eye"
+        link: "https://docs.groupdocs.com/annotation/net/export-annotations/"
         content: "导出注释 to Document"
 
       # feature loop
       - icon: "fas fa-bolt"
+        link: "https://docs.groupdocs.com/annotation/net/evaluation-limitations-and-licensing-of-groupdocs-annotation/"
         content: "计量许可证 – 根据 API 使用情况付费控制计费"
       
       # feature loop
       - icon: "fas fa-code"
+        link: "https://docs.groupdocs.com/annotation/net/extract-annotations-from-document/"
         content: "单个函数调用以获取文档的所有注释"
 
       # feature loop
       - icon: "fas fa-cloud"
+        link: "https://docs.groupdocs.com/annotation/net/add-point-annotation/"
         content: "为点注释分配值或移动现有点值"
 
       # feature loop
       - icon: "fas fa-remove-format"
+        link: "https://docs.groupdocs.com/annotation/net/add-link-annotation/"
         content: "为 PDF、Word 和 PowerPoint 幻灯片添加链接注释"
 
       # feature loop
       - icon: "fas fa-comment-slash"
+        link: "https://docs.groupdocs.com/annotation/net/basic-usage/"
         content: "设置注释的背景颜色或从文档中删除所有注释"
 
       # feature loop
       - icon: "fas fa-border-all"
+        link: "https://docs.groupdocs.com/annotation/net/generate-document-pages-preview/"
         content: "准确地注释 PDF 文件 - 获取 PDF 文档和缓存页面预览的图像表示"
 
       # feature loop
       - icon: "fas fa-wrench"
+        link: "https://docs.groupdocs.com/annotation/net/import-annotations/"
         content: "获取文档图像表示中文本注释的文本坐标"
 
       # feature loop
       - icon: "fas fa-columns"
+        link: "https://docs.groupdocs.com/annotation/net/add-area-annotation/"
         content: "将用户评论链接到区域注释并支持嵌套评论"
 
       # feature loop
       - icon: "fas fa-file-word"
+        link: "https://docs.groupdocs.com/annotation/net/add-arrow-annotation/"
         content: "使用箭头注释指向特定内容"
 
       # feature loop
       - icon: "fas fa-envelope"
+        link: "https://docs.groupdocs.com/annotation/net/add-distance-annotation/"
         content: "使用距离注释绘制表示对象之间距离的线"
 
       # feature loop
       - icon: "fas fa-print"
+        link: "https://docs.groupdocs.com/annotation/net/add-point-annotation/"
         content: "单击时弹出窗口以添加注释的基于点的注释"
 
       # feature loop
       - icon: "fas fa-file-archive"
+        link: "https://docs.groupdocs.com/annotation/net/add-polyline-annotation/"
         content: "创建作为折线注释创建的连接线段序列"
 
       # feature loop
       - icon: "fas fa-lock"
+        link: "https://docs.groupdocs.com/annotation/net/add-ellipse-annotation/"
         content: "创建直线段、弧段或两者的组合"
 
       # feature loop
       - icon: "fas fa-file-code"
+        link: "https://docs.groupdocs.com/annotation/net/add-area-annotation/"
         content: "标记建议编辑的文档区域"
       
       # feature loop
       - icon: "fas fa-fill-drip"
+        link: "https://docs.groupdocs.com/annotation/net/add-image-annotation/"
         content: "为 PDF、图表、Word、Excel、演示文稿和图像添加图像注释"
 
       # feature loop
       - icon: "fas fa-file-excel"
+        link: "https://docs.groupdocs.com/annotation/net/add-annotation-to-the-document/"
         content: "在文档中添加文本字段和基于文本的图章或水印"
 
       # feature loop
       - icon: "fas fa-heading"
+        link: "https://docs.groupdocs.com/annotation/net/add-annotation-to-the-document/"
         content: "删除、下划线或替换文档中的特定文本"
 
       # feature loop
       - icon: "fas fa-project-diagram"
+        link: "https://docs.groupdocs.com/annotation/net/update-annotations/"
         content: "通过分配新的高度和宽度参数来调整注释大小"
 
       # feature loop
       - icon: "fas fa-cube"
+        link: "https://docs.groupdocs.com/annotation/net/generate-document-pages-preview/"
         content: "获取文档页面的缩略图。管理各种带注释的图像和图表文档"
 
       # feature loop
       - icon: "fab fa-uncharted"
+        link: "https://docs.groupdocs.com/annotation/net/export-annotations/"
         content: "& 注释 & 处理多页 TIFF 文件"
   
       # feature loop
       - icon: "fab fa-uncharted"
+        link: "https://docs.groupdocs.com/annotation/net/add-watermark-annotation/"
         content: "调整水印注释的垂直和水平对齐方式"
   
       # feature loop
       - icon: "fab fa-uncharted"
+        link: "https://docs.groupdocs.com/annotation/net/add-text-field-annotation/"
         content: "为文本字段添加文本水平对齐"
 
       # feature loop
       - icon: "fab fa-uncharted"
+        link: "https://docs.groupdocs.com/annotation/net/document-text-info/"  
         content: "获取有关文档文本行的信息（文本、宽度、高度、缩进）"
 
     more_feature:

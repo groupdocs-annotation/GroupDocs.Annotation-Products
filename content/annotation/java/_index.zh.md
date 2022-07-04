@@ -161,102 +161,127 @@ features:
     feature:
       # feature loop
       - icon: "fas fa-copy"
+        link: "https://docs.groupdocs.com/annotation/java/add-area-annotation/"
         content: "在文档中添加区域注释并链接简单和嵌套注释"
 
       # feature loop
       - icon: "fas fa-eye"
+        link: "https://docs.groupdocs.com/annotation/java/add-arrow-annotation/"
         content: "使用箭头注释指向特定内容"
 
       # feature loop
       - icon: "fas fa-bolt"
+        link: "https://docs.groupdocs.com/annotation/java/add-watermark-annotation/"
         content: "在倾斜位置将文本水印设置为 PDF、幻灯片、Excel 工作表、图像和图表"
       
       # feature loop
       - icon: "fas fa-file-powerpoint"
+        link: "https://docs.groupdocs.com/annotation/java/add-point-annotation/"
         content: "使用点注释将弹出式注释添加到文档中的任何位置"
 
       # feature loop
       - icon: "fas fa-code"
+        link: "https://docs.groupdocs.com/annotation/java/add-polyline-annotation/"
         content: "使用折线注释连接线段、弧段或两者的序列"
 
       # feature loop
       - icon: "fas fa-cloud"
+        link: "https://docs.groupdocs.com/annotation/java/add-ellipse-annotation/"
         content: "为 PDF、Word 文档、电子表格、演示文稿、图表和图像添加椭圆注释"
 
       # feature loop
       - icon: "fas fa-remove-format"
+        link: "https://docs.groupdocs.com/annotation/java/add-watermark-annotation/"
         content: "为 PDF、PowerPoint、Excel、图像和图表添加角度水印"
 
       # feature loop
       - icon: "fas fa-comment-slash"
+        link: "https://docs.groupdocs.com/annotation/java/extract-annotations-from-document/"
         content: "获取文档图像表示中文本注释的坐标"
 
       # feature loop
       - icon: "fas fa-location-arrow"
+        link: "https://docs.groupdocs.com/annotation/java/add-annotation-to-the-document/"
         content: "下划线、删除线或修改文档中的特定文本"
 
       # feature loop
       - icon: "fas fa-border-all"
+        link: "https://docs.groupdocs.com/annotation/java/add-annotation-to-the-document/"
         content: "在文档中添加文本图章或水印和文本字段"
 
       # feature loop
       - icon: "fas fa-wrench"
+        link: "https://docs.groupdocs.com/annotation/net/advanced-usage/"
         content: "导入和注释 Word 文档和 PowerPoint 演示文稿之间的注释"
 
       # feature loop
       - icon: "fas fa-columns"
+        link: "https://docs.groupdocs.com/annotation/java/add-annotation-to-the-document/"
         content: "使用文本、TextReplacement、水印和资源编辑注释类型注释 Excel 电子表格"
 
       # feature loop
       - icon: "fas fa-file-word"
+        link: "https://docs.groupdocs.com/annotation/java/add-annotation-to-the-document/"
         content: "向 PowerPoint 演示文稿和幻灯片添加折线、删除线、下划线或文本注释"
 
       # feature loop
       - icon: "fas fa-envelope"
+        link: "https://docs.groupdocs.com/annotation/java/add-point-annotation/"
         content: "使用 X、Y 坐标在演示文稿中标记点注释"
 
       # feature loop
       - icon: "fas fa-print"
+        link: "https://docs.groupdocs.com/annotation/java/add-point-annotation/"
         content: "为图像添加删除线、文本、下划线或折线注释"
 
       # feature loop
       - icon: "fas fa-file-archive"
+        link: "https://docs.groupdocs.com/annotation/java/get-file-info/"
         content: "获取 Visio 图表的文档信息和图像，例如 VSS 和 VSD"
 
       # feature loop
       - icon: "fas fa-file-code"
+        link: "https://docs.groupdocs.com/annotation/java/basic-usage/"
         content: "获取文档页面的缩略图并使用多页 TIFF 文件"
       
       # feature loop
       - icon: "fas fa-file-excel"
+        link: "https://docs.groupdocs.com/annotation/java/get-file-info/"
         content: "使用单个函数调用获取文档的所有注释"
 
       # feature loop
       - icon: "fas fa-heading"
+        link: "https://docs.groupdocs.com/annotation/java/add-link-annotation/"
         content: "为 PDF、Word 和 PowerPoint 演示文稿添加链接注释"
 
       # feature loop
       - icon: "fas fa-project-diagram"
+        link: "https://docs.groupdocs.com/annotation/java/add-point-annotation/"
         content: "SVG 路径解析支持 PDF、Word、图表、幻灯片和其他主要文档格式"
 
       # feature loop
       - icon: "fas fa-cube"
+        link: "https://docs.groupdocs.com/annotation/java/technical-support/"
         content: "支持在 Word 文档中添加水印注释并清理文本替换"
 
       # feature loop
       - icon: "fab fa-uncharted"
+        link: "https://docs.groupdocs.com/annotation/java/technical-support/"
         content: "图表中对文本注释的形状处理支持"
 
       # feature loop
       - icon: "fab fa-uncharted"
+        link: "https://docs.groupdocs.com/annotation/java/advanced-usage/"
         content: "通过缓存文档的页面预览以加快处理速度，从而节省时间"
 
       # feature loop
       - icon: "fab fa-uncharted"
+        link: "https://docs.groupdocs.com/annotation/java/add-annotation-to-the-document/"
         content: "即使使用旧格式也能轻松注释 Word、Excel 和 PowerPoint 文档"
 
       # feature loop
       - icon: "fab fa-uncharted"
+        link: "https://docs.groupdocs.com/annotation/java/add-distance-annotation/"
         content: "为 Excel、PowerPoint 和图表显示距离注释标题"
 
 ############################# Support ############################

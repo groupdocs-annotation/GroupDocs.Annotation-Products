@@ -140,78 +140,103 @@ features:
 
     feature:
       - icon: "fas fa-copy"
+        link: "https://docs.groupdocs.com/annotation/java/add-area-annotation/"
         content: "ドキュメントにエリア注釈を追加し、シンプルなコメントとネストされたコメントをリンクする"
 
       - icon: "fas fa-eye"
+        link: "https://docs.groupdocs.com/annotation/java/add-arrow-annotation/"
         content: "矢印注釈を使用して特定のコンテンツをポイントする"
 
       - icon: "fas fa-bolt"
+        link: "https://docs.groupdocs.com/annotation/java/add-watermark-annotation/"
         content: "テキストの透かしをPDF、スライド、Excelワークシート、画像、図に角度を付けて設定します"
       
       - icon: "fas fa-file-powerpoint"
+        link: "https://docs.groupdocs.com/annotation/java/add-point-annotation/"
         content: "ポイント注釈を使用して、ドキュメント内の任意の場所にポップアップコメントを追加します"
 
       - icon: "fas fa-code"
+        link: "https://docs.groupdocs.com/annotation/java/add-polyline-annotation/"
         content: "ポリライン注釈を使用して、線分、円弧セグメント、またはその両方のシーケンスを接続します"
 
       - icon: "fas fa-cloud"
+        link: "https://docs.groupdocs.com/annotation/java/add-ellipse-annotation/"
         content: "PDF、Word文書、スプレッドシート、プレゼンテーション、図表、画像に楕円の注釈を追加する"
 
       - icon: "fas fa-remove-format"
+        link: "https://docs.groupdocs.com/annotation/java/add-watermark-annotation/"
         content: "PDF、PowerPoint、Excel、画像、図の角度付き透かしを追加"
 
       - icon: "fas fa-comment-slash"
+        link: "https://docs.groupdocs.com/annotation/java/extract-annotations-from-document/"
         content: "ドキュメントの画像表現におけるテキスト注釈のフェッチ座標"
 
       - icon: "fas fa-location-arrow"
+        link: "https://docs.groupdocs.com/annotation/java/add-annotation-to-the-document/"
         content: "ドキュメント内の特定のテキストに下線を引く、取り消し線を引く、または変更する"
 
       - icon: "fas fa-border-all"
+        link: "https://docs.groupdocs.com/annotation/java/add-annotation-to-the-document/"
         content: "ドキュメントにテキストスタンプまたは透かしとテキストフィールドを追加する"
 
       - icon: "fas fa-wrench"
+        link: "https://docs.groupdocs.com/annotation/net/advanced-usage/"
         content: "WordドキュメントとPowerPointプレゼンテーション間の注釈のインポートとエクスポート"
 
       - icon: "fas fa-columns"
+        link: "https://docs.groupdocs.com/annotation/java/add-annotation-to-the-document/"
         content: "Excelスプレッドシートに、テキスト、TextReplacement、透かし、およびリソース編集の注釈タイプで注釈を付ける"
 
       - icon: "fas fa-file-word"
+        link: "https://docs.groupdocs.com/annotation/java/add-annotation-to-the-document/"
         content: "PowerPointプレゼンテーションとスライドにポリライン、取り消し線、下線、またはテキストの注釈を追加する"
 
       - icon: "fas fa-envelope"
+        link: "https://docs.groupdocs.com/annotation/java/add-point-annotation/"
         content: "X、Y座標を使用したプレゼンテーションのマークポイント注釈"
 
       - icon: "fas fa-print"
+        link: "https://docs.groupdocs.com/annotation/java/add-point-annotation/"
         content: "画像に取り消し線、テキスト、下線、またはポリラインの注釈を追加する"
 
       - icon: "fas fa-file-archive"
+        link: "https://docs.groupdocs.com/annotation/java/get-file-info/"
         content: "VSSやVSDなどのVisioダイアグラムのドキュメント情報と画像を取得する"
 
       - icon: "fas fa-file-code"
+        link: "https://docs.groupdocs.com/annotation/java/basic-usage/"
         content: "ドキュメントページのサムネイルを取得し、複数ページのTIFFファイルを操作する"
       
       - icon: "fas fa-file-excel"
+        link: "https://docs.groupdocs.com/annotation/java/get-file-info/"
         content: "単一の関数呼び出しでドキュメントのすべての注釈を取得する"
 
       - icon: "fas fa-heading"
+        link: "https://docs.groupdocs.com/annotation/java/add-link-annotation/"
         content: "PDF、Word、PowerPointプレゼンテーションにリンク注釈を追加する"
 
       - icon: "fas fa-project-diagram"
+        link: "https://docs.groupdocs.com/annotation/java/add-point-annotation/"
         content: "PDF、Word、図、スライド、その他の主要なドキュメント形式のSVGパス解析のサポート"
 
       - icon: "fas fa-cube"
+        link: "https://docs.groupdocs.com/annotation/java/technical-support/"
         content: "Word文書への透かし注釈の追加とテキスト置換のクリーンアップのサポート"
 
       - icon: "fab fa-uncharted"
+        link: "https://docs.groupdocs.com/annotation/java/technical-support/"
         content: "テキスト注釈の図での形状処理のサポート"
 
       - icon: "fab fa-uncharted"
+        link: "https://docs.groupdocs.com/annotation/java/advanced-usage/"
         content: "ドキュメントのページプレビューをキャッシュして時間を節約し、処理を高速化します"
 
       - icon: "fab fa-uncharted"
+        link: "https://docs.groupdocs.com/annotation/java/add-annotation-to-the-document/"
         content: "古い形式でもWord、Excel、PowerPointドキュメントに簡単に注釈を付ける"
 
       - icon: "fab fa-uncharted"
+        link: "https://docs.groupdocs.com/annotation/java/add-distance-annotation/"
         content: "Excel、PowerPoint、および図の距離注釈キャプションを表示する"
 
 support:

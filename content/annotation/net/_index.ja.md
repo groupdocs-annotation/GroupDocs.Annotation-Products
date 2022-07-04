@@ -146,78 +146,103 @@ features:
 
     feature:
       - icon: "fas fa-copy"
+        link: "https://docs.groupdocs.com/annotation/net/basic-usage/"
         content: "注釈と返信の追加、編集、削除"
 
       - icon: "fas fa-eye"
+        link: "https://docs.groupdocs.com/annotation/net/export-annotations/"
         content: "注釈をドキュメントにエクスポート"
 
       - icon: "fas fa-bolt"
+        link: "https://docs.groupdocs.com/annotation/net/evaluation-limitations-and-licensing-of-groupdocs-annotation/"
         content: "従量制ライセンス–APIの使用状況に応じて支払うことで請求を管理"
       
       - icon: "fas fa-code"
+        link: "https://docs.groupdocs.com/annotation/net/extract-annotations-from-document/"
         content: "ドキュメントのすべての注釈を取得するための単一の関数呼び出し"
 
       - icon: "fas fa-cloud"
+        link: "https://docs.groupdocs.com/annotation/net/add-point-annotation/"
         content: "ポイント注釈に値を割り当てるか、既存のポイント値を移動します"
 
       - icon: "fas fa-remove-format"
+        link: "https://docs.groupdocs.com/annotation/net/add-link-annotation/"
         content: "PDF、Word、PowerPointのスライドにリンク注釈を追加する"
 
       - icon: "fas fa-comment-slash"
+        link: "https://docs.groupdocs.com/annotation/net/basic-usage/"
         content: "注釈の背景色を設定するか、ドキュメントからすべての注釈を削除します"
 
       - icon: "fas fa-border-all"
+        link: "https://docs.groupdocs.com/annotation/net/generate-document-pages-preview/"
         content: "正確にPDFファイルに注釈を付ける–PDFドキュメントの画像表現とキャッシュページプレビューを取得"
 
       - icon: "fas fa-wrench"
+        link: "https://docs.groupdocs.com/annotation/net/import-annotations/"
         content: "ドキュメントの画像表現でテキスト注釈のテキスト座標を取得する"
 
       - icon: "fas fa-columns"
+        link: "https://docs.groupdocs.com/annotation/net/add-area-annotation/"
         content: "ユーザーコメントをエリアアノテーションとネストされたコメントのサポートにリンクする"
 
       - icon: "fas fa-file-word"
+        link: "https://docs.groupdocs.com/annotation/net/add-arrow-annotation/"
         content: "特定のコンテンツを指すために矢印注釈を使用する"
 
       - icon: "fas fa-envelope"
+        link: "https://docs.groupdocs.com/annotation/net/add-distance-annotation/"
         content: "距離注釈を使用して、オブジェクト間の距離を表す線を描画します"
 
       - icon: "fas fa-print"
+        link: "https://docs.groupdocs.com/annotation/net/add-point-annotation/"
         content: "クリックするとウィンドウがポップしてコメントが追加されるポイントベースの注釈"
 
       - icon: "fas fa-file-archive"
+        link: "https://docs.groupdocs.com/annotation/net/add-polyline-annotation/"
         content: "ポリライン注釈として作成された線分の接続シーケンスを作成します"
 
       - icon: "fas fa-lock"
+        link: "https://docs.groupdocs.com/annotation/net/add-ellipse-annotation/"
         content: "直線セグメント、円弧セグメント、または両方の組み合わせを作成します"
 
       - icon: "fas fa-file-code"
+        link: "https://docs.groupdocs.com/annotation/net/add-area-annotation/"
         content: "改訂の提案されたドキュメント領域にマークを付ける"
       
       - icon: "fas fa-fill-drip"
+        link: "https://docs.groupdocs.com/annotation/net/add-image-annotation/"
         content: "PDF、図、Word、Excel、プレゼンテーション、画像に画像注釈を追加する"
 
       - icon: "fas fa-file-excel"
+        link: "https://docs.groupdocs.com/annotation/net/add-annotation-to-the-document/"
         content: "ドキュメントにテキストフィールドとテキストベースのスタンプまたは透かしを追加する"
 
       - icon: "fas fa-heading"
+        link: "https://docs.groupdocs.com/annotation/net/add-annotation-to-the-document/"
         content: "ドキュメント内の特定のテキストを取り消し線、下線、または置換"
 
       - icon: "fas fa-project-diagram"
+        link: "https://docs.groupdocs.com/annotation/net/update-annotations/"
         content: "新しい高さと幅のパラメータを割り当てて、注釈のサイズを変更します"
 
       - icon: "fas fa-cube"
+        link: "https://docs.groupdocs.com/annotation/net/generate-document-pages-preview/"
         content: "ドキュメントページのサムネイルを取得します。画像と図のさまざまな注釈付きドキュメントを管理する"
 
       - icon: "fab fa-uncharted"
+        link: "https://docs.groupdocs.com/annotation/net/export-annotations/"
         content: "複数ページのTIFFファイルに注釈をエクスポートして操作する"
   
       - icon: "fab fa-uncharted"
+        link: "https://docs.groupdocs.com/annotation/net/add-watermark-annotation/"
         content: "透かし注釈の垂直方向と水平方向の配置を調整する"
   
       - icon: "fab fa-uncharted"
+        link: "https://docs.groupdocs.com/annotation/net/add-text-field-annotation/"
         content: "テキストフィールドのテキストの水平方向の配置を追加する"
 
       - icon: "fab fa-uncharted"
+        link: "https://docs.groupdocs.com/annotation/net/document-text-info/"
         content: "ドキュメントのテキスト行（テキスト、幅、高さ、インデント）に関する情報を取得します"
 
     more_feature:

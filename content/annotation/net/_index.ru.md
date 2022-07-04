@@ -167,98 +167,122 @@ features:
     feature:
       # feature loop
       - icon: "fas fa-copy"
+        link: "https://docs.groupdocs.com/annotation/net/basic-usage/"
         content: "Добавляйте, редактируйте и удаляйте аннотации и ответы"
 
       # feature loop
       - icon: "fas fa-eye"
+        link: "https://docs.groupdocs.com/annotation/net/export-annotations/"
         content: "Экспорт аннотаций to Document"
 
       # feature loop
       - icon: "fas fa-bolt"
+        link: "https://docs.groupdocs.com/annotation/net/evaluation-limitations-and-licensing-of-groupdocs-annotation/"
         content: "Ограниченная лицензия — контролируемое выставление счетов путем оплаты в соответствии с использованием API"
       
       # feature loop
       - icon: "fas fa-code"
+        link: "https://docs.groupdocs.com/annotation/net/extract-annotations-from-document/"
         content: "Вызов одной функции для извлечения всех аннотаций документа"
 
       # feature loop
       - icon: "fas fa-cloud"
+        link: "https://docs.groupdocs.com/annotation/net/add-point-annotation/"
         content: "Присвоить значение аннотации точки или переместить существующее значение точки"
 
       # feature loop
       - icon: "fas fa-remove-format"
+        link: "https://docs.groupdocs.com/annotation/net/add-link-annotation/"
         content: "Добавьте аннотацию ссылки к слайдам PDF, Word и PowerPoint"
 
       # feature loop
       - icon: "fas fa-comment-slash"
+        link: "https://docs.groupdocs.com/annotation/net/basic-usage/"
         content: "Установить цвет фона аннотации или удалить все аннотации из документа"
 
       # feature loop
       - icon: "fas fa-border-all"
+        link: "https://docs.groupdocs.com/annotation/net/generate-document-pages-preview/"
         content: "Аннотируйте PDF-файлы с точностью — получите представление изображения PDF-документа и предпросмотра страниц кэша"
 
       # feature loop
       - icon: "fas fa-wrench"
+        link: "https://docs.groupdocs.com/annotation/net/import-annotations/"
         content: "Получить текстовые координаты текстовой аннотации в графическом представлении документа"
 
       # feature loop
       - icon: "fas fa-columns"
+        link: "https://docs.groupdocs.com/annotation/net/add-area-annotation/"
         content: "Связывание комментариев пользователей с аннотацией области и поддержка вложенных комментариев"
 
       # feature loop
       - icon: "fas fa-file-word"
+        link: "https://docs.groupdocs.com/annotation/net/add-arrow-annotation/"
         content: "Используйте аннотацию со стрелкой для указания на определенный контент"
 
       # feature loop
       - icon: "fas fa-envelope"
+        link: "https://docs.groupdocs.com/annotation/net/add-distance-annotation/"
         content: "Используйте аннотацию расстояния, чтобы нарисовать линию, которая представляет расстояние между объектами"
 
       # feature loop
       - icon: "fas fa-print"
+        link: "https://docs.groupdocs.com/annotation/net/add-point-annotation/"
         content: "Аннотация на основе точек, которая при нажатии открывает окно для добавления комментариев"
 
       # feature loop
       - icon: "fas fa-file-archive"
+        link: "https://docs.groupdocs.com/annotation/net/add-polyline-annotation/"
         content: "Создайте соединенную последовательность сегментов линии, созданную как аннотацию полилинии"
 
       # feature loop
       - icon: "fas fa-lock"
+        link: "https://docs.groupdocs.com/annotation/net/add-ellipse-annotation/"
         content: "Создайте сегменты прямой линии, сегменты дуги или их комбинацию."
 
       # feature loop
       - icon: "fas fa-file-code"
+        link: "https://docs.groupdocs.com/annotation/net/add-area-annotation/"
         content: "Пометить области документа, предложенные для редактирования"
       
       # feature loop
       - icon: "fas fa-fill-drip"
+        link: "https://docs.groupdocs.com/annotation/net/add-image-annotation/"
         content: "Добавить аннотацию к изображению в PDF, диаграммы, Word, Excel, презентации и изображения"
 
       # feature loop
       - icon: "fas fa-file-excel"
+        link: "https://docs.groupdocs.com/annotation/net/add-annotation-to-the-document/"
         content: "Добавить текстовое поле и текстовый штамп или водяной знак в документ"
 
       # feature loop
       - icon: "fas fa-heading"
+        link: "https://docs.groupdocs.com/annotation/net/add-annotation-to-the-document/"
         content: "Зачеркивание, подчеркивание или замена определенного текста в документе"
 
       # feature loop
       - icon: "fas fa-project-diagram"
+        link: "https://docs.groupdocs.com/annotation/net/update-annotations/"
         content: "Измените размер аннотации, назначив новые параметры высоты и ширины"
 
       # feature loop
       - icon: "fas fa-cube"
+        link: "https://docs.groupdocs.com/annotation/net/export-annotations/"
         content: "Получите миниатюры страниц документа. Управление множеством аннотированных документов для изображений и диаграмм"
   
       # feature loop
       - icon: "fab fa-uncharted"
+        link: "https://docs.groupdocs.com/annotation/net/add-watermark-annotation/"
         content: "Отрегулируйте вертикальное и горизонтальное выравнивание для аннотации водяного знака"
   
       # feature loop
       - icon: "fab fa-uncharted"
+        link: "https://docs.groupdocs.com/annotation/net/add-text-field-annotation/"
         content: "Добавить горизонтальное выравнивание текста для текстового поля"
 
       # feature loop
       - icon: "fab fa-uncharted"
+        link: "https://docs.groupdocs.com/annotation/net/document-text-info/"
         content: "Получить информацию о строках текста документа (текст, ширина, высота, отступы)"
 
     больше_функций:

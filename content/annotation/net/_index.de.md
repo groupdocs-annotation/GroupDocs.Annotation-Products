@@ -167,102 +167,127 @@ features:
     feature:
       # feature loop
       - icon: "fas fa-copy"
+        link: "https://docs.groupdocs.com/annotation/net/basic-usage/"
         content: "Anmerkungen und Antworten hinzufügen, bearbeiten und entfernen"
 
       # feature loop
       - icon: "fas fa-eye"
+        link: "https://docs.groupdocs.com/annotation/net/export-annotations/"
         content: "Anmerkungen exportieren to Document"
 
       # feature loop
       - icon: "fas fa-bolt"
+        link: "https://docs.groupdocs.com/annotation/net/evaluation-limitations-and-licensing-of-groupdocs-annotation/"
         content: "Metered License – Kontrollierte Abrechnung durch Bezahlung nach API-Nutzung"
       
       # feature loop
       - icon: "fas fa-code"
+        link: "https://docs.groupdocs.com/annotation/net/extract-annotations-from-document/"
         content: "Einzelner Funktionsaufruf zum Abrufen aller Anmerkungen eines Dokuments"
 
       # feature loop
       - icon: "fas fa-cloud"
+        link: "https://docs.groupdocs.com/annotation/net/add-point-annotation/"
         content: "Weisen Sie der Punktanmerkung einen Wert zu oder verschieben Sie einen vorhandenen Punktwert"
 
       # feature loop
       - icon: "fas fa-remove-format"
+        link: "https://docs.groupdocs.com/annotation/net/add-link-annotation/"
         content: "Fügen Sie Link-Anmerkungen zu PDF-, Word- und PowerPoint-Folien hinzu"
 
       # feature loop
       - icon: "fas fa-comment-slash"
+        link: "https://docs.groupdocs.com/annotation/net/basic-usage/"
         content: "Legen Sie die Hintergrundfarbe einer Anmerkung fest oder entfernen Sie alle Anmerkungen aus dem Dokument"
 
       # feature loop
       - icon: "fas fa-border-all"
+        link: "https://docs.groupdocs.com/annotation/net/generate-document-pages-preview/"
         content: "Kommentieren Sie PDF-Dateien mit Genauigkeit – Holen Sie sich eine Bilddarstellung von PDF-Dokumenten und cachen Sie Seitenvorschauen"
 
       # feature loop
       - icon: "fas fa-wrench"
+        link: "https://docs.groupdocs.com/annotation/net/import-annotations/"
         content: "Holen Sie sich die Textkoordinaten der Textanmerkung in der Bilddarstellung des Dokuments"
 
       # feature loop
       - icon: "fas fa-columns"
+        link: "https://docs.groupdocs.com/annotation/net/add-area-annotation/"
         content: "Verknüpfen Sie Benutzerkommentare mit Bereichsanmerkungen und Unterstützung für verschachtelte Kommentare"
 
       # feature loop
       - icon: "fas fa-file-word"
+        link: "https://docs.groupdocs.com/annotation/net/add-arrow-annotation/"
         content: "Verwenden Sie die Pfeilanmerkung, um auf bestimmte Inhalte zu verweisen"
 
       # feature loop
       - icon: "fas fa-envelope"
+        link: "https://docs.groupdocs.com/annotation/net/add-distance-annotation/"
         content: "Verwenden Sie die Abstandsbeschriftung, um eine Linie zu zeichnen, die den Abstand zwischen Objekten darstellt"
 
       # feature loop
       - icon: "fas fa-print"
+        link: "https://docs.groupdocs.com/annotation/net/add-point-annotation/"
         content: "Punktbasierte Anmerkung, die beim Klicken ein Fenster zum Hinzufügen von Kommentaren öffnet"
 
       # feature loop
       - icon: "fas fa-file-archive"
+        link: "https://docs.groupdocs.com/annotation/net/add-polyline-annotation/"
         content: "Erstellen Sie eine verbundene Folge von Liniensegmenten, die als Polylinienbeschriftung erstellt wurden"
 
       # feature loop
       - icon: "fas fa-lock"
+        link: "https://docs.groupdocs.com/annotation/net/add-ellipse-annotation/"
         content: "Erstellen Sie gerade Liniensegmente, Bogensegmente oder eine Kombination aus beidem"
 
       # feature loop
       - icon: "fas fa-file-code"
+        link: "https://docs.groupdocs.com/annotation/net/add-area-annotation/"
         content: "Zum Schwärzen vorgeschlagene Dokumentbereiche markieren"
       
       # feature loop
       - icon: "fas fa-fill-drip"
+        link: "https://docs.groupdocs.com/annotation/net/add-image-annotation/"
         content: "Fügen Sie Bildanmerkungen zu PDFs, Diagrammen, Word, Excel, Präsentationen und Bildern hinzu"
 
       # feature loop
       - icon: "fas fa-file-excel"
+        link: "https://docs.groupdocs.com/annotation/net/add-annotation-to-the-document/"
         content: "Hinzufügen von Textfeldern und textbasierten Stempeln oder Wasserzeichen im Dokument"
 
       # feature loop
       - icon: "fas fa-heading"
+        link: "https://docs.groupdocs.com/annotation/net/add-annotation-to-the-document/"
         content: "Bestimmten Text in einem Dokument durchstreichen, unterstreichen oder ersetzen"
 
       # feature loop
       - icon: "fas fa-project-diagram"
+        link: "https://docs.groupdocs.com/annotation/net/update-annotations/"
         content: "Ändern Sie die Größe von Anmerkungen, indem Sie neue Höhen- und Breitenparameter zuweisen"
 
       # feature loop
       - icon: "fas fa-cube"
+        link: "https://docs.groupdocs.com/annotation/net/generate-document-pages-preview/"
         content: "Erhalten Sie Miniaturansichten von Dokumentseiten. Verwalten Sie eine Vielzahl von kommentierten Dokumenten für Bilder und Diagramme"
 
       # feature loop
       - icon: "fab fa-uncharted"
+        link: "https://docs.groupdocs.com/annotation/net/export-annotations/"
         content: "Anmerkungen exportieren to & Work with Multi-page TIFF files"
   
       # feature loop
       - icon: "fab fa-uncharted"
+        link: "https://docs.groupdocs.com/annotation/net/add-watermark-annotation/"
         content: "Passen Sie die vertikale und horizontale Ausrichtung für Wasserzeichenanmerkungen an"
   
       # feature loop
       - icon: "fab fa-uncharted"
+        link: "https://docs.groupdocs.com/annotation/net/add-text-field-annotation/"
         content: "Horizontale Textausrichtung für Textfeld hinzufügen"
 
       # feature loop
       - icon: "fab fa-uncharted"
+        link: "https://docs.groupdocs.com/annotation/net/document-text-info/"
         content: "Abrufen von Informationen über Dokumenttextzeilen (Text, Breite, Höhe, Einzüge)"
 
     more_feature:

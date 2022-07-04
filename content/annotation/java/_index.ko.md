@@ -140,78 +140,103 @@ features:
 
     feature:
       - icon: "fas fa-copy"
+        link: "https://docs.groupdocs.com/annotation/java/add-area-annotation/"
         content: "문서에 영역 주석 추가 및 단순 및 중첩 주석 연결"
 
       - icon: "fas fa-eye"
+        link: "https://docs.groupdocs.com/annotation/java/add-arrow-annotation/"
         content: "화살표 주석을 사용하여 특정 콘텐츠 가리킴"
 
       - icon: "fas fa-bolt"
+        link: "https://docs.groupdocs.com/annotation/java/add-watermark-annotation/"
         content: "각진 위치에서 텍스트 워터마크를 PDF, 슬라이드, Excel 워크시트, 이미지 및 다이어그램으로 설정"
       
       - icon: "fas fa-file-powerpoint"
+        link: "https://docs.groupdocs.com/annotation/java/add-point-annotation/"
         content: "포인트 주석을 사용하여 문서의 모든 위치에 팝업 주석 추가"
 
       - icon: "fas fa-code"
+        link: "https://docs.groupdocs.com/annotation/java/add-polyline-annotation/"
         content: "폴리라인 주석을 사용하여 라인 세그먼트, 호 세그먼트 또는 둘 다의 시퀀스 연결"
 
       - icon: "fas fa-cloud"
+        link: "https://docs.groupdocs.com/annotation/java/add-ellipse-annotation/"
         content: "PDF, Word 문서, 스프레드시트, 프레젠테이션, 다이어그램 및 이미지에 타원 주석 추가"
 
       - icon: "fas fa-remove-format"
+        link: "https://docs.groupdocs.com/annotation/java/add-watermark-annotation/"
         content: "PDF, PowerPoint, Excel, 이미지 및 다이어그램에 대한 각진 워터마크 추가"
 
       - icon: "fas fa-comment-slash"
+        link: "https://docs.groupdocs.com/annotation/java/extract-annotations-from-document/"
         content: "문서의 이미지 표현에서 텍스트 주석의 좌표 가져오기"
 
       - icon: "fas fa-location-arrow"
+        link: "https://docs.groupdocs.com/annotation/java/add-annotation-to-the-document/"
         content: "문서의 특정 텍스트에 밑줄, 취소선 또는 수정"
 
       - icon: "fas fa-border-all"
+        link: "https://docs.groupdocs.com/annotation/java/add-annotation-to-the-document/"
         content: "문서에 텍스트 스탬프 또는 워터마크 및 텍스트 필드 추가"
 
       - icon: "fas fa-wrench"
+        link: "https://docs.groupdocs.com/annotation/net/advanced-usage/"
         content: "Word 문서 및 PowerPoint 프레젠테이션 간에 주석 가져오기 및 내보내기"
 
       - icon: "fas fa-columns"
+        link: "https://docs.groupdocs.com/annotation/java/add-annotation-to-the-document/"
         content: "텍스트, TextReplacement, 워터마크 및 리소스 수정 주석 유형으로 Excel 스프레드시트에 주석 달기"
 
       - icon: "fas fa-file-word"
+        link: "https://docs.groupdocs.com/annotation/java/add-annotation-to-the-document/"
         content: "PowerPoint 프레젠테이션 및 슬라이드에 폴리라인, 취소선, 밑줄 또는 텍스트 주석 추가"
 
       - icon: "fas fa-envelope"
+        link: "https://docs.groupdocs.com/annotation/java/add-point-annotation/"
         content: "X, Y 좌표를 사용하여 프레젠테이션에서 포인트 주석 표시"
 
       - icon: "fas fa-print"
+        link: "https://docs.groupdocs.com/annotation/java/add-point-annotation/"
         content: "이미지에 취소선, 텍스트, 밑줄 또는 폴리라인 주석 추가"
 
       - icon: "fas fa-file-archive"
+        link: "https://docs.groupdocs.com/annotation/java/get-file-info/"
         content: "VSS 및 VSD와 같은 Visio 다이어그램에 대한 문서 정보 및 이미지 가져오기"
 
       - icon: "fas fa-file-code"
+        link: "https://docs.groupdocs.com/annotation/java/basic-usage/"
         content: "문서 페이지의 축소판 가져오기 및 다중 페이지 TIFF 파일 작업"
       
       - icon: "fas fa-file-excel"
+        link: "https://docs.groupdocs.com/annotation/java/get-file-info/"
         content: "단일 함수 호출로 문서의 모든 주석 가져오기"
 
       - icon: "fas fa-heading"
+        link: "https://docs.groupdocs.com/annotation/java/add-link-annotation/"
         content: "PDF, Word 및 PowerPoint 프레젠테이션에 링크 주석 추가"
 
       - icon: "fas fa-project-diagram"
+        link: "https://docs.groupdocs.com/annotation/java/add-point-annotation/"
         content: "PDF, Word, 다이어그램, 슬라이드 및 기타 주요 문서 형식에 대한 SVG 경로 구문 분석 지원"
 
       - icon: "fas fa-cube"
+        link: "https://docs.groupdocs.com/annotation/java/technical-support/"
         content: "Word 문서에 워터마크 주석 추가 및 텍스트 교체를 위한 정리 지원"
 
       - icon: "fab fa-uncharted"
+        link: "https://docs.groupdocs.com/annotation/java/technical-support/"
         content: "텍스트 주석에 대한 다이어그램의 모양 처리 지원"
 
       - icon: "fab fa-uncharted"
+        link: "https://docs.groupdocs.com/annotation/java/advanced-usage/"
         content: "더 빠른 처리를 위해 문서의 페이지 미리보기를 캐싱하여 시간 절약"
 
       - icon: "fab fa-uncharted"
+        link: "https://docs.groupdocs.com/annotation/java/add-annotation-to-the-document/"
         content: "이전 형식에서도 Word, Excel 및 PowerPoint 문서에 쉽게 주석 달기"
 
       - icon: "fab fa-uncharted"
+        link: "https://docs.groupdocs.com/annotation/java/add-distance-annotation/"
         content: "Excel, PowerPoint 및 다이어그램에 대한 거리 주석 캡션 표시"
 
 support:

@@ -146,78 +146,103 @@ features:
 
     feature:
       - icon: "fas fa-copy"
+        link: "https://docs.groupdocs.com/annotation/net/basic-usage/"
         content: "주석 및 답장 추가, 편집 및 제거"
 
       - icon: "fas fa-eye"
+        link: "https://docs.groupdocs.com/annotation/net/export-annotations/"
         content: "문서로 주석 내보내기"
 
       - icon: "fas fa-bolt"
+        link: "https://docs.groupdocs.com/annotation/net/evaluation-limitations-and-licensing-of-groupdocs-annotation/"
         content: "계량 라이선스 – API 사용량에 따라 지불하여 제어된 청구"
       
       - icon: "fas fa-code"
+        link: "https://docs.groupdocs.com/annotation/net/extract-annotations-from-document/"
         content: "문서의 모든 주석을 가져오는 단일 함수 호출"
 
       - icon: "fas fa-cloud"
+        link: "https://docs.groupdocs.com/annotation/net/add-point-annotation/"
         content: "포인트 주석에 값 지정 또는 기존 포인트 값 이동"
 
       - icon: "fas fa-remove-format"
+        link: "https://docs.groupdocs.com/annotation/net/add-link-annotation/"
         content: "PDF, Word 및 PowerPoint 슬라이드에 링크 주석 추가"
 
       - icon: "fas fa-comment-slash"
+        link: "https://docs.groupdocs.com/annotation/net/basic-usage/"
         content: "주석의 배경색 설정 또는 문서에서 모든 주석 제거"
 
       - icon: "fas fa-border-all"
+        link: "https://docs.groupdocs.com/annotation/net/generate-document-pages-preview/"
         content: "정확도로 PDF 파일에 주석 달기 – PDF 문서 및 캐시 페이지 미리보기의 이미지 표현 가져오기"
 
       - icon: "fas fa-wrench"
+        link: "https://docs.groupdocs.com/annotation/net/import-annotations/"
         content: "문서의 이미지 표현에서 텍스트 주석의 텍스트 좌표 가져오기"
 
       - icon: "fas fa-columns"
+        link: "https://docs.groupdocs.com/annotation/net/add-area-annotation/"
         content: "사용자 주석을 영역 주석에 연결 및 중첩 주석 지원"
 
       - icon: "fas fa-file-word"
+        link: "https://docs.groupdocs.com/annotation/net/add-arrow-annotation/"
         content: "특정 콘텐츠를 가리키는 화살표 주석 사용"
 
       - icon: "fas fa-envelope"
+        link: "https://docs.groupdocs.com/annotation/net/add-distance-annotation/"
         content: "거리 주석을 사용하여 객체 간의 거리를 나타내는 선 그리기"
 
       - icon: "fas fa-print"
+        link: "https://docs.groupdocs.com/annotation/net/add-point-annotation/"
         content: "클릭 시 주석을 추가하는 창이 팝업되는 포인트 기반 주석"
 
       - icon: "fas fa-file-archive"
+        link: "https://docs.groupdocs.com/annotation/net/add-polyline-annotation/"
         content: "폴리라인 주석으로 생성된 라인 세그먼트의 연결된 시퀀스 생성"
 
       - icon: "fas fa-lock"
+        link: "https://docs.groupdocs.com/annotation/net/add-ellipse-annotation/"
         content: "직선 세그먼트, 호 세그먼트 또는 둘의 조합 생성"
 
       - icon: "fas fa-file-code"
+        link: "https://docs.groupdocs.com/annotation/net/add-area-annotation/"
         content: "교정을 위해 제안된 문서 영역 표시"
       
       - icon: "fas fa-fill-drip"
+        link: "https://docs.groupdocs.com/annotation/net/add-image-annotation/"
         content: "PDF, 다이어그램, Word, Excel, 프레젠테이션 및 이미지에 이미지 주석 추가"
 
       - icon: "fas fa-file-excel"
+        link: "https://docs.groupdocs.com/annotation/net/add-annotation-to-the-document/"
         content: "문서에 텍스트 필드 및 텍스트 기반 스탬프 또는 워터마크 추가"
 
       - icon: "fas fa-heading"
+        link: "https://docs.groupdocs.com/annotation/net/add-annotation-to-the-document/"
         content: "문서의 특정 텍스트에 취소선, 밑줄 또는 바꾸기"
 
       - icon: "fas fa-project-diagram"
+        link: "https://docs.groupdocs.com/annotation/net/update-annotations/"
         content: "새로운 높이 및 너비 매개변수를 할당하여 주석 크기 조정"
 
       - icon: "fas fa-cube"
+        link: "https://docs.groupdocs.com/annotation/net/generate-document-pages-preview/"
         content: "문서 페이지의 축소판을 가져옵니다. 이미지 및 다이어그램에 대해 주석이 달린 다양한 문서 관리"
 
       - icon: "fab fa-uncharted"
+        link: "https://docs.groupdocs.com/annotation/net/export-annotations/"
         content: "다중 페이지 TIFF 파일로 주석 내보내기 및 작업"
   
       - icon: "fab fa-uncharted"
+        link: "https://docs.groupdocs.com/annotation/net/add-watermark-annotation/"
         content: "워터마크 주석의 수직 및 수평 정렬 조정"
   
       - icon: "fab fa-uncharted"
+        link: "https://docs.groupdocs.com/annotation/net/add-text-field-annotation/"
         content: "텍스트 필드에 텍스트 가로 맞춤 추가"
 
       - icon: "fab fa-uncharted"
+        link: "https://docs.groupdocs.com/annotation/net/document-text-info/"
         content: "문서 텍스트 줄(텍스트, 너비, 높이, 들여쓰기)에 대한 정보 가져오기"
 
     more_feature:

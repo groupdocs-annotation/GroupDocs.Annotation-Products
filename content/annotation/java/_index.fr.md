@@ -161,102 +161,127 @@ features:
     feature:
       # feature loop
       - icon: "fas fa-copy"
+        link: "https://docs.groupdocs.com/annotation/java/add-area-annotation/"
         content: "Ajouter une annotation de zone dans le document et lier des commentaires simples et imbriqués"
 
       # feature loop
       - icon: "fas fa-eye"
+        link: "https://docs.groupdocs.com/annotation/java/add-arrow-annotation/"
         content: "Pointez vers un contenu particulier à l'aide d'une annotation fléchée"
 
       # feature loop
       - icon: "fas fa-bolt"
+        link: "https://docs.groupdocs.com/annotation/java/add-watermark-annotation/"
         content: "Définir des filigranes de texte sur PDF, des diapositives, des feuilles de calcul Excel, des images et des diagrammes en position inclinée"
       
       # feature loop
       - icon: "fas fa-file-powerpoint"
+        link: "https://docs.groupdocs.com/annotation/java/add-point-annotation/"
         content: "Ajoutez des commentaires contextuels à n'importe quel endroit du document à l'aide de l'annotation de points"
 
       # feature loop
       - icon: "fas fa-code"
+        link: "https://docs.groupdocs.com/annotation/java/add-polyline-annotation/"
         content: "Utiliser l'annotation polyligne pour connecter une séquence de segments de ligne, des segments d'arc ou les deux"
 
       # feature loop
       - icon: "fas fa-cloud"
+        link: "https://docs.groupdocs.com/annotation/java/add-ellipse-annotation/"
         content: "Ajouter une annotation Ellipse aux PDF, documents Word, feuilles de calcul, présentations, diagrammes et images"
 
       # feature loop
       - icon: "fas fa-remove-format"
+        link: "https://docs.groupdocs.com/annotation/java/add-watermark-annotation/"
         content: "Ajouter des filigranes angulaires pour PDF, PowerPoint, Excel, images et diagrammes"
 
       # feature loop
       - icon: "fas fa-comment-slash"
+        link: "https://docs.groupdocs.com/annotation/java/extract-annotations-from-document/"
         content: "Récupérer les coordonnées de l'annotation de texte dans la représentation d'image d'un document"
 
       # feature loop
       - icon: "fas fa-location-arrow"
+        link: "https://docs.groupdocs.com/annotation/java/add-annotation-to-the-document/"
         content: "Souligner, barrer ou modifier un texte spécifique dans un document"
 
       # feature loop
       - icon: "fas fa-border-all"
+        link: "https://docs.groupdocs.com/annotation/java/add-annotation-to-the-document/"
         content: "Ajouter un tampon de texte ou un filigrane et un champ de texte dans un document"
 
       # feature loop
       - icon: "fas fa-wrench"
+        link: "https://docs.groupdocs.com/annotation/net/advanced-usage/"
         content: "Importer et exporter des annotations parmi des documents Word et des présentations PowerPoint"
 
       # feature loop
       - icon: "fas fa-columns"
+        link: "https://docs.groupdocs.com/annotation/java/add-annotation-to-the-document/"
         content: "Annoter des feuilles de calcul Excel avec des types d'annotation de texte, de remplacement de texte, de filigrane et de rédaction de ressources"
 
       # feature loop
       - icon: "fas fa-file-word"
+        link: "https://docs.groupdocs.com/annotation/java/add-annotation-to-the-document/"
         content: "Ajouter des annotations polylignes, barrées, soulignées ou textuelles aux présentations et diapositives PowerPoint"
 
       # feature loop
       - icon: "fas fa-envelope"
+        link: "https://docs.groupdocs.com/annotation/java/add-point-annotation/"
         content: "Marquer l'annotation de points dans les présentations à l'aide des coordonnées X, Y"
 
       # feature loop
       - icon: "fas fa-print"
+        link: "https://docs.groupdocs.com/annotation/java/add-point-annotation/"
         content: "Ajouter des annotations barrées, textuelles, soulignées ou polylignes aux images"
 
       # feature loop
       - icon: "fas fa-file-archive"
+        link: "https://docs.groupdocs.com/annotation/java/get-file-info/"
         content: "Récupérer des informations sur les documents et des images pour les diagrammes Visio, tels que VSS et VSD"
 
       # feature loop
       - icon: "fas fa-file-code"
+        link: "https://docs.groupdocs.com/annotation/java/basic-usage/"
         content: "Obtenez des vignettes des pages de document et travaillez avec des fichiers TIFF multipages"
       
       # feature loop
       - icon: "fas fa-file-excel"
+        link: "https://docs.groupdocs.com/annotation/java/get-file-info/"
         content: "Récupérer toutes les annotations d'un document avec un seul appel de fonction"
 
       # feature loop
       - icon: "fas fa-heading"
+        link: "https://docs.groupdocs.com/annotation/java/add-link-annotation/"
         content: "Ajouter des annotations de lien aux présentations PDF, Word et PowerPoint"
 
       # feature loop
       - icon: "fas fa-project-diagram"
+        link: "https://docs.groupdocs.com/annotation/java/add-point-annotation/"
         content: "Prise en charge de l'analyse de chemin SVG pour PDF, Word, diagrammes, diapositives et autres principaux formats de documents"
 
       # feature loop
       - icon: "fas fa-cube"
+        link: "https://docs.groupdocs.com/annotation/java/technical-support/"
         content: "Prise en charge de l'ajout d'annotations de filigrane aux documents Word et du nettoyage pour le remplacement de texte"
 
       # feature loop
       - icon: "fab fa-uncharted"
+        link: "https://docs.groupdocs.com/annotation/java/technical-support/"
         content: "Prise en charge du traitement de forme dans les diagrammes pour les annotations de texte"
 
       # feature loop
       - icon: "fab fa-uncharted"
+        link: "https://docs.groupdocs.com/annotation/java/advanced-usage/"
         content: "Gagnez du temps en mettant en cache les aperçus de page des documents pour un traitement plus rapide"
 
       # feature loop
       - icon: "fab fa-uncharted"
+        link: "https://docs.groupdocs.com/annotation/java/add-annotation-to-the-document/"
         content: "Annotez facilement des documents Word, Excel et PowerPoint, même avec des formats plus anciens"
 
       # feature loop
       - icon: "fab fa-uncharted"
+        link: "https://docs.groupdocs.com/annotation/java/add-distance-annotation/"
         content: "Afficher les légendes d'annotation de distance pour Excel, PowerPoint et les diagrammes"
 
 ############################# Support ############################

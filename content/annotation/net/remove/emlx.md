@@ -1,6 +1,6 @@
 ---
 ############################# Static ############################
-layout: "auto-gen"
+layout: "auto-gen-annotation"
 date: 2021-05-13T12:45:07+03:00
 draft: false
 

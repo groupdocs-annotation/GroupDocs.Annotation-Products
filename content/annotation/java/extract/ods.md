@@ -58,7 +58,7 @@ about:
     enable: true
     title: "About GroupDocs.Annotation for Java API"
     content: |
-        [GroupDocs.Annotation for Java](/annotation/java/) is an advanced annotation management solution, allowing developers to view, [add](/annotation/java/add/bmp/), update, [delete](/annotation/java/remove/bmp) and export annotations from images and document file formats. Users can easily extract comments, notes, remarks and various annotation types including text, graphics and watermarks from PDF, HTML, Microsoft Word documents, Excel spreadsheets, Visio diagrams, PowerPoint presentations, drawings, images, and many other file formats. The annotation-processing feature can accurately read the annotations from the imported documents and allows exporting back into the original or desired file format after implementing the annotations customization.
+        [GroupDocs.Annotation for Java](/annotation/java/) is an advanced annotation management solution, allowing developers to view, [add](/annotation/java/add/ods/), update, [delete](/annotation/java/remove/ods) and export annotations from images and document file formats. Users can easily extract comments, notes, remarks and various annotation types including text, graphics and watermarks from PDF, HTML, Microsoft Word documents, Excel spreadsheets, Visio diagrams, PowerPoint presentations, drawings, images, and many other file formats. The annotation-processing feature can accurately read the annotations from the imported documents and allows exporting back into the original or desired file format after implementing the annotations customization.
 
 ############################# Steps ############################
 howTo:

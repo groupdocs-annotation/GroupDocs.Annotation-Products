@@ -58,7 +58,7 @@ about:
     enable: true
     title: "About GroupDocs.Annotation for .NET API"
     content: |
-        [GroupDocs.Annotation for .NET](/annotation/net/) is a native .NET annotation management API to read, [add](/annotation/net/add/bmp/), [edit](/annotation/net/edit/bmp/), [remove](/annotation/net/remove/bmp/), extract and export annotations from images and document file formats. Users can easily extract comments, notes, remarks and various annotation types including text, graphics and watermarks from PDF, HTML, Microsoft Word documents, Excel spreadsheets, Visio diagrams, PowerPoint presentations, drawings, images, and many other file formats. The annotation-processing feature can accurately read the annotations from the imported documents and allows exporting back into the original or desired file format after implementing the annotations customization.
+        [GroupDocs.Annotation for .NET](/annotation/net/) is a native .NET annotation management API to read, [add](/annotation/net/add/pptx/), [edit](/annotation/net/edit/pptx/), [remove](/annotation/net/remove/pptx/), extract and export annotations from images and document file formats. Users can easily extract comments, notes, remarks and various annotation types including text, graphics and watermarks from PDF, HTML, Microsoft Word documents, Excel spreadsheets, Visio diagrams, PowerPoint presentations, drawings, images, and many other file formats. The annotation-processing feature can accurately read the annotations from the imported documents and allows exporting back into the original or desired file format after implementing the annotations customization.
 
 ############################# Steps ############################
 howTo:

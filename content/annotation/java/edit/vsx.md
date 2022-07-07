@@ -58,7 +58,7 @@ about:
     enable: true
     title: "About GroupDocs.Annotation for Java API"
     content: |
-        [GroupDocs.Annotation for Java](/annotation/java/) is a native Java annotations manipulation solution to efficiently view, [add](/annotation/java/add/bmp/), update, [delete](/annotation/java/remove/bmp/) and [extract](/annotation/java/extract/bmp/) annotations from images and document file formats. Users can easily edit comments, notes, remarks and various annotation types including text, graphics and watermark in PDF, HTML, Word, Excel, Visio diagrams, presentations, drawings, images, and many other file formats. The annotation-processing feature can precisely read the annotations from imported documents and allows exporting back into the original or desired file format after implementing the customization.
+        [GroupDocs.Annotation for Java](/annotation/java/) is a native Java annotations manipulation solution to efficiently view, [add](/annotation/java/add/vsx/), update, [delete](/annotation/java/remove/vsx/) and [extract](/annotation/java/extract/vsx/) annotations from images and document file formats. Users can easily edit comments, notes, remarks and various annotation types including text, graphics and watermark in PDF, HTML, Word, Excel, Visio diagrams, presentations, drawings, images, and many other file formats. The annotation-processing feature can precisely read the annotations from imported documents and allows exporting back into the original or desired file format after implementing the customization.
 
 ############################# Steps ############################
 howTo:

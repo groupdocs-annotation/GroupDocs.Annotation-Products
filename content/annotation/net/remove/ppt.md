@@ -10,7 +10,7 @@ head_description: "C# .NET annotation API to remove popular annotation types to 
 
 ############################# Header ############################
 title: "Remove Annotations from PPT in C#"
-description: "Delete all previously added annotations from Microsoft Office, images, web, drawings and other document file formats in any type of .NET application."
+description: "Remove annotations from your documents, images, Microsoft Office and other format with Annotation API"
 bg_image: "https://cms.admin.containerize.com/templates/aspose/App_Themes/V3/images/bg/header1.png"
 bg_overlay: false
 button:

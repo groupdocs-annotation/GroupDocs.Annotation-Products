@@ -14,8 +14,8 @@ head_title: "Java Document Annotation API | View & Annotate PDF Word Excel PPTX 
 head_description: "Java Document Annotation API. View, tag, comment & annotate PDF Word DOCX, Excel XLSX, PPTX, EML EMLX, VSS VSD, OTP, CAD & image file formats."
 
 ############################# Header ############################
-title: "Document Annotation via Java API"
-description: "Build Java Applications with capabilities to View & Annotate PDF, HTML, MS Office and other document formats without installing any external software."
+title: "Annotate documents using Java API"
+description: "Build your own Java Application with capabilities to View and Annotate PDF, Word, Excel and other document formats."
 button:
     enable: true
     icon: "fas fa-arrow-down"

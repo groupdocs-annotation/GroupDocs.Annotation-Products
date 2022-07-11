@@ -10,7 +10,7 @@ head_description: "Javaannotation API to remove popular annotation types from XL
 
 ############################# Header ############################
 title: "Remove Annotations from XLSM in Java"
-description: "Delete already added annotations from Microsoft Office, images, drawings, HTML and other document file formats in any type of Java application."
+description: "Remove annotations from documents, images, Microsoft Office and other document file formats using Annotation Java API"
 bg_image: "https://cms.admin.containerize.com/templates/aspose/App_Themes/V3/images/bg/header1.png"
 bg_overlay: false
 button:

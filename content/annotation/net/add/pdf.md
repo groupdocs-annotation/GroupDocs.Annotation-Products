@@ -10,7 +10,7 @@ head_description: "C# .NET annotation processing &amp; management API to add pop
 
 ############################# Header ############################
 title: "Add Annotation to PDF in .NET"
-description: "Annotate images, Microsoft Office and other document file formats using 13 different annotation types including text, comments, notes etc."
+description: "Annotate documents, images, Microsoft Office and other using with more than 13 different annotation types."
 bg_image: "https://cms.admin.containerize.com/templates/aspose/App_Themes/V3/images/bg/header1.png"
 bg_overlay: false
 button:

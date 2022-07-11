@@ -10,7 +10,7 @@ head_description: "C# .NET annotation extractionAPI to extract popular annotatio
 
 ############################# Header ############################
 title: "Extract Annotations from XLSB in C#"
-description: "Extract annotations from Microsoft Office, images, HTML, drawings and other document file formats in any type of C# .NET application."
+description: "Extract annotations from your documents, images, Microsoft Office and other format with Annotation API"
 bg_image: "https://cms.admin.containerize.com/templates/aspose/App_Themes/V3/images/bg/header1.png"
 bg_overlay: false
 button:

@@ -10,7 +10,7 @@ head_description: "Java annotation extraction API to extract popular annotation 
 
 ############################# Header ############################
 title: "Java Annotation Extraction API for DXF"
-description: "Extract annotations from Microsoft Office documents, images, HTML, drawings and other file formats in any type of Java application."
+description: "Extract annotations from documents, images, Microsoft Office documents and other file formats using Annotation Java API"
 bg_image: "https://cms.admin.containerize.com/templates/aspose/App_Themes/V3/images/bg/header1.png"
 bg_overlay: false
 button:

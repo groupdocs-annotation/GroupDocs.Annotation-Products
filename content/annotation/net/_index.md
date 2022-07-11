@@ -14,8 +14,8 @@ head_title: "C# .NET Document Annotation API | Annotate PDF Word Excel PPTX Imag
 head_description: "C# .NET Document Annotation API. View, tag, comment & annotate PDF Word DOC DOCX, Excel XLS XLSX, PPT PPTX, OTP, CAD, EMF WMF & image files."
 
 ############################# Header ############################
-title: "Annotate Text or Images in Documents"
-description: "Empower your .NET Applications to Add, Edit & Remove all Popular Annotation Types from over 50 document formats for an Easier & Efficient Collaboration."
+title: "Annotate documents in .NET"
+description: "Use our .NET API to annotate PDF and Word documents, Excel sheets, Visio diagrams and more."
 button:
     enable: true
     icon: "fas fa-arrow-down"

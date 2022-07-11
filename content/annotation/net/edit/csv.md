@@ -10,7 +10,7 @@ head_description: "C# .NET annotation editor API to update popular annotation ty
 
 ############################# Header ############################
 title: "Edit Annotations in CSV File in .NET"
-description: ".NET annotation editor for images, Microsoft Office and other document file formats. Annotate documents using 13 different annotation types like; area, text, notes, watermark etc."
+description: "Edit annotation on your documents, images, Microsoft Office and other using with more than 13 different annotation types."
 bg_image: "https://cms.admin.containerize.com/templates/aspose/App_Themes/V3/images/bg/header1.png"
 bg_overlay: false
 button:

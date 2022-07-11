@@ -10,7 +10,7 @@ head_description: "Java annotations editor API to update popular annotation type
 
 ############################# Header ############################
 title: "Edit Annotations in PPSM File in Java"
-description: "Java annotation editor for images, Microsoft Office and other document file formats. Annotate PPSM files using 13 different annotation types like; area, text, notes, watermark etc."
+description: "Edit annotation on documents, images, Microsoft Office and other document file formats using Annotation Java API"
 bg_image: "https://cms.admin.containerize.com/templates/aspose/App_Themes/V3/images/bg/header1.png"
 bg_overlay: false
 button:

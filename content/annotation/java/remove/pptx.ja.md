@@ -49,7 +49,7 @@ about:
     enable: true
     title: "GroupDocs.Annotation for Java APIについて"
     content: |
-        [GroupDocs.Annotation for Java](/annotation/java/)は、画像やドキュメントファイル形式から注釈を表示、追加、更新、消去、抽出、またはエクスポートするためのネイティブJava注釈管理ライブラリです。ユーザーは、コメント、メモ、コメント、およびPDF、HTML、Word、Excel、Visioダイアグラム、プレゼンテーション、図面、画像、およびその他の多くのファイル形式のテキスト、グラフィックス、透かしなどのさまざまな注釈タイプを簡単に削除できます。注釈処理機能は、インポートされたドキュメントから注釈を正確に読み取ることができ、カスタマイズを実装した後、元のファイル形式または目的のファイル形式にエクスポートして戻すことができます。
+        [GroupDocs.Annotation for Java](/annotation/java/)は、画像やドキュメントファイル形式から注釈を表示、[追加](/annotation/java/add/pptx/)、[更新](/annotation/java/edit/pptx/)、消去、[抽出](/annotation/java/extract/pptx/)、またはエクスポートするためのネイティブJava注釈管理ライブラリです。ユーザーは、コメント、メモ、コメント、およびPDF、HTML、Word、Excel、Visioダイアグラム、プレゼンテーション、図面、画像、およびその他の多くのファイル形式のテキスト、グラフィックス、透かしなどのさまざまな注釈タイプを簡単に削除できます。注釈処理機能は、インポートされたドキュメントから注釈を正確に読み取ることができ、カスタマイズを実装した後、元のファイル形式または目的のファイル形式にエクスポートして戻すことができます。
 
 steps:
     enable: true

@@ -49,7 +49,7 @@ about:
     enable: true
     title: "GroupDocs.Annotation for .NET APIについて"
     content: |
-        [GroupDocs.Annotation for .NET](/annotation/net/)は、ネイティブの.NET注釈管理およびエディターAPIであり、画像およびドキュメントファイル形式から注釈を読み取り、追加、更新、削除、および抽出します。ユーザーは、コメント、メモ、コメント、およびPDF、HTML、Word、Excel、Visioダイアグラム、プレゼンテーション、図面、画像、およびその他の多くのファイル形式のテキスト、グラフィックス、透かしなどのさまざまな注釈タイプを簡単に更新できます。注釈処理機能は、インポートされたドキュメントから注釈を正確に読み取ることができ、カスタマイズを実装した後、元のファイル形式または目的のファイル形式にエクスポートして戻すことができます。
+        [GroupDocs.Annotation for .NET](/annotation/net/)は、ネイティブの.NET注釈管理およびエディターAPIであり、画像およびドキュメントファイル形式から注釈を読み取り、[追加](/annotation/net/add/vsx/)、更新、[削除](/annotation/net/remove/vsx/)、および[抽出](/annotation/net/extract/vsx/)します。ユーザーは、コメント、メモ、コメント、およびPDF、HTML、Word、Excel、Visioダイアグラム、プレゼンテーション、図面、画像、およびその他の多くのファイル形式のテキスト、グラフィックス、透かしなどのさまざまな注釈タイプを簡単に更新できます。注釈処理機能は、インポートされたドキュメントから注釈を正確に読み取ることができ、カスタマイズを実装した後、元のファイル形式または目的のファイル形式にエクスポートして戻すことができます。
 
 steps:
     enable: true

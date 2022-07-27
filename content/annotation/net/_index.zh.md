@@ -1,21 +1,21 @@
 ---
 ############################# Static ############################
 layout: "product"
-date: 2021-04-27T09:31:06+03:00
+date: 2022-07-05T12:44:18+03:00
 draft: false
 
 product: "Annotation"
 product_tag: "annotation"
-platform: ".NET"
+platform: "Net"
 platform_tag: "net"
 
 ############################# Head ############################
-head_title: "C# .NET 文档注释 API |注释 PDF Word Excel PPTX 图像文件"
-head_description: "C# .NET 文档注释 API。查看、标记、评论和注释 PDF Word DOC DOCX、Excel XLS XLSX、PPT PPTX、OTP、CAD、EMF WMF 和图像文件."
+head_title: "Net 文档注释 API |查看和注释 PDF Word Excel PPTX 图像"
+head_description: "Net 文档注释 API。查看、标记、评论和注释 PDF Word DOCX、Excel XLSX、PPTX、EML EMLX、VSS VSD、OTP、CAD 和图像文件格式."
 
 ############################# Header ############################
-title: "注释文档中的文本或图像"
-description: "使您的 .NET 应用程序能够从 50 多种文档格式中添加、编辑和删除所有流行的注释类型，以实现更轻松、更高效的协作."
+title: "通过 Net API 进行文档注释"
+description: "构建具有查看和注释 PDF、HTML、MS Office 和其他文档格式的 Net 应用程序，而无需安装任何外部软件."
 button:
     enable: true
     icon: "fas fa-arrow-down"
@@ -27,10 +27,10 @@ submenu:
     enable: true
     
     left:
-        img_alt: "GroupDocs.Annotation for .NET"
-        image: "/border/groupdocs-annotation-net.svg"
+        img_alt: "GroupDocs.Annotation for Net"
+        image: "https://www.groupdocs.cloud/templates/groupdocs/images/product-logos/groupdocs-annotation-net.png"
         product: "GroupDocs.Annotation"
-        platform: ".NET"
+        platform: "Net"
 
     middle:
         button:
@@ -59,19 +59,27 @@ submenu:
         link_learn: "https://docs.groupdocs.com/annotation/net/"
         link_buy: "https://purchase.groupdocs.com"
 
-############################# 概述 ############################
+############################# Overview ############################
 overview:
     enable: true
     content: |
-      GroupDocs.Annotation for .NET 是一套全面的 API，可帮助您使用 C#、ASP.NET 和其他相关 .NET 技术构建文档注释管理应用程序。您可以为 PDF、HTML、微软办公软件 Word、Excel 电子表格、PowerPoint 演示文稿创建和使用所有流行的注释类型，例如区域、点、文本、椭圆、链接、下划线、折线、箭头、距离、水印、图像等， Visio、图像、CAD 绘图和各种其他格式。文档注释器库允许您在添加注释、评论或突出显示的注释后将文档导出回其原始格式。它还为您提供了一组方便的数据对象，您可以通过这些对象根据您的要求自定义注释。
+      GroupDocs.Annotation Net API 是一款产品，可让您在不同平台和操作系统（如 Android、MacOS、Linux、Windows）上处理文档中的注释。 GroupDocs.Annotation 提供了一个具有简单 API 的库，该库具有许多优点：例如，如果您需要对数据保密或选择使用该库需要多少功率，或者使用注释部分更改工作，则该库非常轻巧灵活。
+
+        GroupDocs.Annotation for Net API 允许您使用不同类型的注释，包括：文本、折线、区域、下划线、点、水印、箭头、椭圆、文本替换、距离、文本字段、资源编辑等. 并支持最流行的文档格式，如：PDF、HTML、Microsoft Office Word、Excel 电子表格、PowerPoint 演示文稿、Visio、Outlook 电子邮件、图像、元文件、CAD 绘图和各种其他格式。 API 提供了获取文档页面缩略图的能力，并支持在 PDF 文件中导入和导出注释。
+
+        使用库，您可以添加 [添加](/annotation/net/add/bmp/)、[编辑](/annotation/net/edit/bmp/)、[提炼](/annotation /net/extract/bmp/) 和 [删除](/annotation/net/remove/bmp/) 文档中的注释，旋转文档，更改缩略图解决方案，这不是所有的完整列表可能性。它还提供了一套全面的数据对象，可根据您在所有支持的文档格式中的要求自定义注释属性。
+
+        使用 Net API 的 GroupDocs.Annotation 非常简单，只包含几个基本步骤。首先，您需要设置许可证，然后选择要使用的文件，然后以某种方式使用文档注释（删除/编辑/提取/删除）进行操作并保存结果。有关更多信息，请参阅产品 [文档](https://docs.groupdocs.com/annotation/net/getting-started/) 或我们的 [示例](https://github.com/groupdocs-annotation /GroupDocs.Annotation-for-.Net) 设置。
+
+        GroupDocs.Annotation 会定期更新并为其客户提供支持，随时欢迎您向我们提出问题或发送您的想法或告诉我们您对新事物的需求，我们很乐意在新版本中实施它。
     tabs:
       enable: true
       
       ## TAB ONE ##
       tab_one:
         description: |
-          以下是 .NET 的 GroupDocs.Annotation 的概述：
-
+          以下是 GroupDocs.Annotation for Net 的概述：
+      
         right:
           enable: true
           icon: "fab fa-html5"
@@ -79,45 +87,43 @@ overview:
           content: |
             * 添加注释
             * 导出注释
-            * 导入注释            
+            * 导入注释
             * 基于回复的评论
             * 注释兼容性
       
       ## TAB TWO ##
       tab_two:
         description: |
-          GroupDocs.Annotation for .NET 支持所有流行的[文档文件格式](https://docs.groupdocs.com/annotation/net/supported-document-formats/)，包括：微软办公软件、PDF、图像等。
-
+          GroupDocs.Annotation for Net 支持所有流行的 [文档文件格式](https://docs.groupdocs.com/annotation/net/supported-document-formats/)，包括：微软办公软件、PDF、图像等。
         left:
           enable: true
           table:
             # table loop
-            - title: "微软办公格式"
+            - title: "Microsoft Office Formats"
               content: |
-                * **Microsoft Word**: DOC, DOCX, DOCM, DOT, DOTX, DOTM, RTF 
-                * **Microsoft Excel**: XLS, XLSX, XLSM, XLSB, CSV
-                * **Microsoft PowerPoint**: PPT, PPTX, PPS, PPSX
-                * **Microsoft Visio**: VSD, VSS, VSDX, VST, VSDM, VSSX, VSTM
+                * **Word**: [DOC](/annotation/net/add/doc/), [DOCX](/annotation/net/add/docx/), [DOCM](/annotation/net/add/docm/), [DOT](/annotation/net/add/dot/), [DOTX](/annotation/net/add/dotx/), [RTF](/annotation/net/add/rtf/)
+                * **Excel**: [XLS](/annotation/net/add/xls/), [XLSX](/annotation/net/add/xlsx/), [XLSB](/annotation/net/add/xlsb/), [XLSM](/annotation/net/add/xlsm/)
+                * **PowerPoint**: [PPT](/annotation/net/add/ppt/), [PPTX](/annotation/net/add/pptx/), [PPS](/annotation/net/add/pps/), [PPSX](/annotation/net/add/ppsx/), [POTM](/annotation/net/add/potm/), [POTX](/annotation/net/add/potx/), [PPSM](/annotation/net/add/ppsm/), [PPTM](/annotation/net/add/pptm/), [WMF](/annotation/net/add/wmf/), [EMF](/annotation/net/add/emf/)
+                * **Outlook**: [EML](/annotation/net/add/eml/), [EMLX](/annotation/net/add/emlx/), [MSG](/annotation/net/add/msg/)
+                * **Visio**: [VSS](/annotation/net/add/vss/), [VST](/annotation/net/add/vst/), [VSD](/annotation/net/add/vsd/), [VSDX](/annotation/net/add/vsdx/), [VSX](/annotation/net/add/vsx/)
 
         right:
           enable: true
           table:
             # table loop
-            - title: "其他格式"
+            - title: "微软办公格式"
               content: |
-                * **便携式**：PDF（PDF/A-1a、PDF/A-1b、PDF/A-2a）
-                * **OpenDocument**：ODT、ODS、ODP
-                * **图像**：BMP、JPEG、PNG、TIFF
-                * **AutoCAD**：DWG、DXF
-                * **元文件**：EMF、WMF
-                * **电子邮件**：EML、EMLX
-                * **网络**：HTM、HTML
+                * **Portable**: [PDF](/annotation/net/add/pdf/) (PDF/A-1a, PDF/A-1b, PDF/A-2a)
+                * **OpenDocument**: [ODT](/annotation/net/add/odt/), [ODS](/annotation/net/add/ods/), [ODP](/annotation/net/add/odp/)
+                * **Images**: [BMP](/annotation/net/add/bmp/), [JPG](/annotation/net/add/jpg/), [JPEG](/annotation/net/add/jpeg/), [TIFF](/annotation/net/add/tiff/), [TIF](/annotation/net/add/tif/), [PNG](/annotation/net/add/png/), [GIF](/annotation/net/add/gif/), [DCM](/annotation/net/add/dcm/), [DICOM](/annotation/net/add/dicom/)
+                * **AutoCAD**: [DWG](/annotation/net/add/dwg/), [DXF](/annotation/net/add/dxf/), [CAD](/annotation/net/add/cad/)
+                * **Other**: [HTM](/annotation/net/add/htm/), [HTML](/annotation/net/add/html/), [CSV](/annotation/net/add/csv/), [DJVU](/annotation/net/add/djvu/), [OTP](/annotation/net/add/otp/), [OTT](/annotation/net/add/ott/)
 
       ## TAB THREE ##
       tab_three:
         description: |
-          GroupDocs.Annotation for .NET 支持以下作品，Frameworks & 包管理器:
-        
+          GroupDocs.Annotation for Net 支持以下操作系统、框架和包管理器：
+      
         left:
           enable: true
           table:
@@ -159,10 +165,10 @@ overview:
                 * Xamarin.Mac
                 * MonoDevelop
 
-############################# 特征 ############################
+############################# Features ############################
 features:
     enable: true
-    title: ".NET 功能的 GroupDocs.Annotation"
+    title: "GroupDocs.Annotation for Net 功能"
 
     feature:
       # feature loop

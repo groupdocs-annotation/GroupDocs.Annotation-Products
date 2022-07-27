@@ -1,18 +1,24 @@
+
 ---
+############################# Static ############################
 layout: "product"
-date: 2021-04-27T09:31:06+03:00
+date: 2022-07-05T12:44:18+03:00
 draft: false
 
+############################# Head ############################
 head_title: ".ドキュメント注釈を追加および管理するためのNET、Java、およびCloud API"
 head_description: ".NET、Java、およびクラウドアプリケーション用のオールインワンドキュメント注釈ソリューションを入手して、一般的なドキュメントおよび画像形式に注釈を付けます."
 
+############################# Header ############################
 title: "ドキュメントと画像の注釈ソリューション"
 description: "オンプレミスまたはクラウドAPIを使用して、アプリでドキュメントに注釈を付けるか、一般的なプラットフォーム全体で独自のカスタム注釈アプリケーションを構築します."
 
+############################# APIs ###############################
 apis:
   enable: true
 
   api:
+    # api loop
     - title: "GroupDocs.AnnotationハイコードAPIには次のものが含まれます"
       link: "/annotation/"
       label: "すべてのハイコードAPIを表示"
@@ -31,6 +37,7 @@ apis:
           platform: "Java"
           content: "JDKがインストールされているオペレーティングシステムで最も一般的なドキュメントおよび画像ファイル形式に包括的に注釈を付けるJavaファイル注釈API."
 
+    # api loop
     - title: "GroupDocs.AnnotationローコードAPIには次のものが含まれます"
       link: "https://products.groupdocs.cloud/annotation"
       label: "すべてのローコードAPIを表示"
@@ -56,6 +63,7 @@ apis:
           platform: "Cloud SDK for Java"
           content: "特別に設計されたJava用ドキュメント注釈SDKを使用して、ドキュメントおよび画像形式に高品質のドキュメント注釈機能を追加します."
 
+    # api loop
     - title: "GroupDocs.Annotationコードアプリは含まれていません"
       link: "https://products.groupdocs.app/annotation"
       label: "すべてのノーコードアプリを表示"
@@ -81,6 +89,7 @@ apis:
           platform: "PDF"
           content: "Webブラウザから直接PDFに注釈を付ける."
 
+############################# Back to top ###############################
 back_to_top:
   enable: true
 ---

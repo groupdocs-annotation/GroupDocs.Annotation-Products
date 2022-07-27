@@ -1,32 +1,36 @@
 ---
+############################# Static ############################
 layout: "product"
-date: 2021-04-27T09:31:06+03:00
+date: 2022-07-05T12:44:18+03:00
 draft: false
 
 product: "Annotation"
 product_tag: "annotation"
-platform: ".NET"
+platform: "Net"
 platform_tag: "net"
 
-head_title: "C# .NET 문서 주석 API | PDF Word Excel PPTX 이미지 파일에 주석 달기"
-head_description: "C# .NET 문서 주석 API. PDF Word DOC DOCX, Excel XLS XLSX, PPT PPTX, OTP, CAD, EMF WMF 및 이미지 파일 보기, 태그 지정, 주석 달기 및 주석 달기."
+############################# Head ############################
+head_title: "자바 문서 주석 API | PDF Word Excel PPTX 이미지 보기 및 주석 달기"
+head_description: "자바 문서 주석 API. PDF Word DOCX, Excel XLSX, PPTX, EML EMLX, VSS VSD, OTP, CAD 및 이미지 파일 형식 보기, 태그 지정, 주석 달기 및 주석 달기."
 
-title: "문서의 텍스트 또는 이미지에 주석 달기"
-description: "보다 쉽고 효율적인 공동 작업을 위해 50개 이상의 문서 형식에서 모든 인기 있는 주석 유형을 추가, 편집 및 제거하도록 .NET 응용 프로그램을 강화하십시오.."
+############################# Header ############################
+title: "Net API를 통한 문서 주석"
+description: "외부 소프트웨어를 설치하지 않고도 PDF, HTML, MS Office 및 기타 문서 형식을 보고 주석을 달 수 있는 기능으로 Net 응용 프로그램 구축."
 button:
     enable: true
     icon: "fas fa-arrow-down"
     label: "무료 평가판 다운로드"
     link: "https://downloads.groupdocs.com/annotation/net"
 
+############################# SubMenu ############################
 submenu:
     enable: true
     
     left:
-        img_alt: "GroupDocs.Annotation for .NET"
+        img_alt: "GroupDocs.Annotation for Net"
         image: "https://www.groupdocs.cloud/templates/groupdocs/images/product-logos/groupdocs-annotation-net.png"
         product: "GroupDocs.Annotation"
-        platform: ".NET"
+        platform: "Net"
 
     middle:
         button:
@@ -50,17 +54,27 @@ submenu:
         link_learn: "https://docs.groupdocs.com/annotation/net/"
         link_buy: "https://purchase.groupdocs.com"
 
+############################# Overview ############################
 overview:
     enable: true
     content: |
-      .NET용 GroupDocs.Annotation은 C#, ASP.NET 및 기타 관련 .NET 기술에서 문서 주석 관리 응용 프로그램을 빌드하는 데 도움이 되는 포괄적인 API 집합입니다. PDF, HTML, Microsoft Office Word, Excel 스프레드시트, PowerPoint 프레젠테이션용 영역, 점, 텍스트, 타원, 링크, 밑줄, 폴리라인, 화살표, 거리, 워터마크, 이미지 등과 같은 모든 인기 있는 주석 유형을 만들고 작업할 수 있습니다. Visio, 이미지, CAD 도면 및 기타 다양한 형식. 문서 주석 라이브러리를 사용하면 주석, 주석 또는 강조 표시된 메모를 원래 형식으로 다시 추가한 후 문서를 내보낼 수 있습니다. 또한 요구 사항에 따라 주석을 사용자 정의할 수 있는 편리한 데이터 개체 세트를 제공합니다.
+      GroupDocs.Annotation Net API는 Android, MacOS, Linux, Windows 등 다양한 플랫폼과 운영 체제에서 문서의 주석 작업을 할 수 있는 제품입니다. GroupDocs.Annotation은 많은 이점을 제공하는 간단한 API가 있는 라이브러리를 제공합니다. 예를 들어 데이터를 기밀로 유지해야 하거나 라이브러리 작업에 필요한 전력량을 선택하거나 주석 작업을 부분적으로 변경할 경우 라이브러리는 매우 유용합니다. 가볍고 유연합니다.
+
+        {{플랫폼}} API용 GroupDocs.Annotation을 사용하면 텍스트, 폴리라인, 영역, 밑줄, 점, 워터마크, 화살표, 타원, 텍스트 대체, 거리, 텍스트 필드, 리소스 수정 등 다양한 유형의 주석으로 작업할 수 있습니다. PDF, HTML, Microsoft Office Word, Excel 스프레드시트, PowerPoint 프레젠테이션, Visio, Outlook 이메일, 이미지, 메타파일, CAD 도면 및 기타 다양한 형식과 같은 가장 널리 사용되는 문서 형식을 지원합니다. API는 문서 페이지의 축소판을 가져오는 기능을 제공하고 PDF 파일에서 주석 가져오기 및 내보내기를 지원합니다.
+
+        라이브러리를 사용하여 [추가하다](/annotation/net/add/bmp/), [편집하다](/annotation/net/edit/bmp/), [발췌](/annotation /net/extract/bmp/) 및 [삭제](/annotation/net/remove/bmp/) 문서에서 주석, 문서 회전, 축소판 솔루션 변경 및 이것은 전체 목록이 아닙니다. 가능성. 또한 지원되는 모든 문서 형식 내에서 요구 사항에 따라 주석 속성을 사용자 지정할 수 있는 포괄적인 데이터 개체 집합을 제공합니다.
+
+        Net API용 GroupDocs.Annotation 작업은 매우 간단하며 몇 가지 기본 단계로 구성됩니다. 먼저 라이선스를 설정하고 작업할 파일을 선택한 다음 문서 주석으로 어떻게든 조작(삭제/편집/추출/삭제)하고 결과를 저장해야 합니다. 자세한 내용은 제품 [문서](https://docs.groupdocs.com/annotation/net/getting-started/) 또는 [예제](https://github.com/groupdocs-annotation)를 참조하세요. /GroupDocs.Annotation-for-.Net)이 설정되었습니다.
+
+        GroupDocs.Annotation은 정기적으로 업데이트되며 고객을 지원합니다. 언제든지 질문을 하거나 아이디어를 보내거나 새로운 것에 대한 요구 사항을 알려주시면 새 버전에서 기꺼이 구현하겠습니다.
     tabs:
       enable: true
       
+      ## TAB ONE ##
       tab_one:
         description: |
-          다음은 .NET용 GroupDocs.Annotation의 개요입니다.
-
+          다음은 Net용 GroupDocs.Annotation의 개요입니다.
+      
         right:
           enable: true
           icon: "fab fa-html5"
@@ -68,41 +82,43 @@ overview:
           content: |
             * 주석 추가
             * 내보내기 주석
-            * 주석 가져오기            
+            * 주석 가져오기
             * 응답 기반 댓글
             * 주석 호환성
       
+      ## TAB TWO ##
       tab_two:
         description: |
-          .NET용 GroupDocs.Annotation은 Microsoft Office, PDF, 이미지 및 기타 여러 가지를 포함하여 널리 사용되는 모든 [문서 파일 형식](https://docs.groupdocs.com/annotation/net/supported-document-formats/)을 지원합니다.
-
+          Net용 GroupDocs.Annotation은 Microsoft Office, PDF, 이미지 및 기타 여러 가지를 포함하여 널리 사용되는 모든 [문서 파일 형식](https://docs.groupdocs.com/annotation/net/supported-document-formats/)을 지원합니다.
         left:
           enable: true
           table:
-            - title: "마이크로소프트 오피스 형식"
+            # table loop
+            - title: "Microsoft Office Formats"
               content: |
-                * **마이크로소프트 워드**: DOC, DOCX, DOCM, DOT, DOTX, DOTM, RTF 
-                * **마이크로소프트 엑셀**: XLS, XLSX, XLSM, XLSB, CSV
-                * **마이크로소프트 파워포인트**: PPT, PPTX, PPS, PPSX
-                * **Microsoft Visio**: VSD, VSS, VSDX, VST, VSDM, VSSX, VSTM
+                * **Word**: [DOC](/annotation/net/add/doc/), [DOCX](/annotation/net/add/docx/), [DOCM](/annotation/net/add/docm/), [DOT](/annotation/net/add/dot/), [DOTX](/annotation/net/add/dotx/), [RTF](/annotation/net/add/rtf/)
+                * **Excel**: [XLS](/annotation/net/add/xls/), [XLSX](/annotation/net/add/xlsx/), [XLSB](/annotation/net/add/xlsb/), [XLSM](/annotation/net/add/xlsm/)
+                * **PowerPoint**: [PPT](/annotation/net/add/ppt/), [PPTX](/annotation/net/add/pptx/), [PPS](/annotation/net/add/pps/), [PPSX](/annotation/net/add/ppsx/), [POTM](/annotation/net/add/potm/), [POTX](/annotation/net/add/potx/), [PPSM](/annotation/net/add/ppsm/), [PPTM](/annotation/net/add/pptm/), [WMF](/annotation/net/add/wmf/), [EMF](/annotation/net/add/emf/)
+                * **Outlook**: [EML](/annotation/net/add/eml/), [EMLX](/annotation/net/add/emlx/), [MSG](/annotation/net/add/msg/)
+                * **Visio**: [VSS](/annotation/net/add/vss/), [VST](/annotation/net/add/vst/), [VSD](/annotation/net/add/vsd/), [VSDX](/annotation/net/add/vsdx/), [VSX](/annotation/net/add/vsx/)
 
         right:
           enable: true
           table:
+            # table loop
             - title: "기타 형식"
               content: |
-                * **휴대용**: PDF(PDF/A-1a, PDF/A-1b, PDF/A-2a)
-                * **OpenDocument**: ODT, ODS, ODP
-                * **이미지**: BMP, JPEG, PNG, TIFF
-                * **오토캐드**: DWG, DXF
-                * **메타파일**: EMF, WMF
-                * **이메일**: EML, EMLX
-                * **웹**: HTM, HTML
+                * **Portable**: [PDF](/annotation/net/add/pdf/) (PDF/A-1a, PDF/A-1b, PDF/A-2a)
+                * **OpenDocument**: [ODT](/annotation/net/add/odt/), [ODS](/annotation/net/add/ods/), [ODP](/annotation/net/add/odp/)
+                * **Images**: [BMP](/annotation/net/add/bmp/), [JPG](/annotation/net/add/jpg/), [JPEG](/annotation/net/add/jpeg/), [TIFF](/annotation/net/add/tiff/), [TIF](/annotation/net/add/tif/), [PNG](/annotation/net/add/png/), [GIF](/annotation/net/add/gif/), [DCM](/annotation/net/add/dcm/), [DICOM](/annotation/net/add/dicom/)
+                * **AutoCAD**: [DWG](/annotation/net/add/dwg/), [DXF](/annotation/net/add/dxf/), [CAD](/annotation/net/add/cad/)
+                * **Other**: [HTM](/annotation/net/add/htm/), [HTML](/annotation/net/add/html/), [CSV](/annotation/net/add/csv/), [DJVU](/annotation/net/add/djvu/), [OTP](/annotation/net/add/otp/), [OTT](/annotation/net/add/ott/)
 
+      ## TAB THREE ##
       tab_three:
         description: |
-          .NET용 GroupDocs.Annotation은 다음 운영 체제, 프레임워크 및 패키지 관리자를 지원합니다.
-        
+          Net용 GroupDocs.Annotation은 다음 운영 체제, 프레임워크 및 패키지 관리자를 지원합니다.
+      
         left:
           enable: true
           table:
@@ -140,9 +156,10 @@ overview:
                 * 자마린.맥
                 * 모노디벨롭
 
+############################# Features ############################
 features:
     enable: true
-    title: ".NET 기능을 위한 GroupDocs.Annotation"
+    title: "Net 기능에 대한 GroupDocs.Annotation"
 
     feature:
       - icon: "fas fa-copy"
@@ -267,9 +284,11 @@ features:
           CommonUtilities.SaveOutputDocument(inputFile, annotations, DocumentType.Pdf);
           ```
 
+############################# Support ############################
 support:
     enable: true
 
+############################# Solutions ############################
 solutions:
     enable: true
     title: "GroupDocs.Annotation은 다른 인기 있는 개발 환경을 위한 문서 보기 API를 제공합니다."
@@ -281,6 +300,7 @@ solutions:
           platform: "Java"
           link: "/annotation/java/"
 
+############################# Back to top ###############################
 back_to_top:
   enable: true
 ---

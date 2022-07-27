@@ -1,85 +1,106 @@
+
 ---
 ############################# Static ############################
-layout: "auto-gen-annotation"
-date: 2021-05-13T12:44:48+03:00
+layout: "auto-gen" ###_DIMA_### layout: "auto-gen-annotation"
+date: 2022-07-05T12:44:18+03:00
 draft: false
+
+###_DIMA_### link rel="canonical" href="https://products.groupdocs.com/annotation/net/add/cad"/>
+
 ############################# Head ############################
-head_title: "Добавление аннотации к файлам САПР в приложениях C# .NET"
-head_description: "Обработка аннотаций C# .NET &amp; API управления для добавления популярных типов аннотаций в файлы САПР, изображения, форматы файлов чертежей и документов."
+head_title: "Добавление Аннотаций в CAD в Net приложении"
+head_description: "Net API для создания и Добавление популярных типов аннотаций в CAD, изображения, чертежи и форматы файлов документов."
+
 ############################# Header ############################
-title: "Добавить аннотацию в САПР в .NET"
-description: "Аннотируйте изображения, документы Microsoft Office и другие форматы файлов, используя 13 различных типов аннотаций, включая текст, комментарии, заметки и т. д."
+title: "Добавление CAD файла в Net"
+description: ""
 bg_image: "https://cms.admin.containerize.com/templates/aspose/App_Themes/V3/images/bg/header1.png"
 bg_overlay: false
 button:
     enable: true
     icon: "fas fa-arrow-down"
-    label: "Скачать бесплатную пробную версию"
+    label: "Download Free Trial"
     link: "https://downloads.groupdocs.com/annotation/net"
+
 ############################# SubMenu ############################
 submenu:
     enable: true
+
     left:
-        img_alt: "GroupDocs.Annotation for .NET"
+        img_alt: "GroupDocs.Annotation для Net"
         image: "https://cms.admin.containerize.com/templates/groupdocs/images/product-logos/90x90-noborder/groupdocs-annotation-net.png"
         product: "GroupDocs.Annotation"
-        platform: ".NET"
+        platform: "Net"
+
     middle:
         button:
             # button loop
             - link: "https://apireference.groupdocs.com/annotation/net"
-              text: "Справочник по API"
+              text: "API Reference"
             # button loop
             - link: "https://github.com/groupdocs-annotation"
-              text: "Примеры кода"
+              text: "Code Examples"
             # button loop
             - link: "https://products.groupdocs.app/annotation/family"
-              text: "Живые демонстрации"
+              text: "Live Demos"
             # button loop
             - link: "https://purchase.groupdocs.com/pricing/annotation/net"
-              text: "Цены"
+              text: "Pricing"
+
     right:
         link_download: "https://downloads.groupdocs.com/annotation"
         link_learn: "https://docs.groupdocs.com/annotation/net"
         link_buy: "https://purchase.groupdocs.com"
+
 ############################# About ############################
 about:
     enable: true
-    title: "О GroupDocs.Annotation для .NET API"
+    title: "О GroupDocs.Annotation для Net API"
     content: |
-        [GroupDocs.Annotation for .NET](/ru/annotation/net/) — это собственный API .NET, который позволяет пользователям [добавлять](/annotation/net/add/cad/), [редактировать](/annotation/net/edit/cad/) и [удалять](/annotation/net/remove/cad) аннотации к изображениям и форматам файлов документов. Вы можете легко использовать комментарии, заметки, примечания и различные типы аннотаций, включая текст, графику и водяные знаки, в PDF, HTML, Word, Excel, диаграммы Visio, презентации, рисунки, изображения и файлы многих других форматов. Функция обработки аннотаций может точно считывать аннотации из импортированных документов и позволяет экспортировать обратно в исходный или желаемый формат файла после выполнения настройки.
+        GroupDocs.Annotation for Net API это библиотека которая позволяет добавлять аннотации к файлам PDF, Word и другим документам на Mac, Windows или Ubuntu. [GroupDocs.Annotation для [PLATFORM]](/ru/annotation/net/) это собственный Net API для управления аннотациями с комплексной поддержкой для создания, добавления, редактирования, удаления, извлечения и экспорта аннотаций из изображений и других документов, весь список поддерживаемых документов вы можете посмотреть на [странице](https://docs.groupdocs.com/annotation/net/supported-document-formats/).
+
+        Эта библиотека позволяет работать не только с CAD но также и со многими другими форматами, такими как Word, Excel, PowerPoint, Outlook emails, Visio, Adobe, OpenDocument, OpenOffice, AutoCad и еще множеством других форматов.
+
+        GroupDocs.Annotation for Net API позволяет создавать и добавлять новые заметки, [редактировать](/ru/annotation/net/edit/cad/) аннотации, [извлекать](/ru/annotation/net/extract/cad/) комментарии, примечания и [удалять](/ru/annotation/net/remove/cad/) их из документов. Библиотека поддерживает 13 различных типов аннотаций, включая Text, Polyline, Area, Underline, Point, Watermark, Arrow, Ellipse, Text Replacement, Distance, Text Field, Resource Redaction в документах PDF, HTML, Microsoft Word, электронных таблицах, диаграммах, презентациях, рисунках, изображениях и многих других форматах файлов.
+
+        В примере ниже продемонстрирована работа с CAD документом. В этом примере вы видите основные шаги в работе с GroupDocs.Annotation: установка лицензии, открытие файла для работы, создание аннотации, добавление объектов данных для настройки свойств аннотаций в соответствии с вашими требованиями и сохранение результата в нужное место. Более детально ознакомиться с возможностями библиотеки вы можете посмотрев наш [github](https://github.com/groupdocs-annotation/GroupDocs.Annotation-for-.Net)-аккаунт, или в нашей [документации](https://docs.groupdocs.com/annotation/net/getting-started/) к продутку.
+
 ############################# Steps ############################
 howTo:
 steps:
     enable: true
-    title_left: "Шаги по добавлению аннотаций в САПР на C#"
+    title_left: "Шаги по Добавление аннотаций в CAD in Net"
     content_left: |
-        [GroupDocs.Annotation](/ru/annotation/net/) позволяет разработчикам .NET легко добавлять свойства аннотаций в файлы САПР из своих приложений, выполняя несколько простых шагов.
-        * Создание экземпляра объекта Annotator с входным путем или потоком документа.
-        * Создание экземпляра объекта TextFieldAnnotation с желаемыми свойствами (позиция, номер страницы и т. д.).
-        * Вызвать метод Add и передать объект TextFieldAnnotation.
-        * Вызовите метод Save с результирующим путем или потоком документа.
+        [GroupDocs.Annotation](/annotation/java/) [GroupDocs.Annotation](/ru/annotation/net/) позволяет разработчикам Net легко добавлять различные типы аннотаций к файлам CAD в любом приложении на основе Net, выполняя несколько простых шагов.
+        
+        * Создание объектов ответа с комментарием и датой.
+        * Создайте экземпляр объекта SaveOptions и установите AnnotationTypes = AnnotationType.None.
+        * Вызовите метод сохранения с результирующим путем или потоком документа и объектом SaveOptions.
+    
     title_right: "Системные Требования"
     content_right: |
-        API GroupDocs.Annotation для .NET поддерживаются на всех основных платформах и операционных системах. Перед выполнением приведенного ниже кода убедитесь, что в вашей системе установлены следующие предварительные компоненты.
+        API GroupDocs.Annotation для Net поддерживаются на всех основных платформах и операционных системах. Перед выполнением приведенного ниже кода убедитесь, что в вашей системе установлены следующие предварительные компоненты.
+        
         * Операционные системы: Microsoft Windows, Linux, MacOS
         * Среды разработки: Visual Studio, Xamarin, MonoDevelop
         * Фреймворки: .NET Framework, .NET Standard, .NET Core, Mono
         * Загрузите последнюю версию GroupDocs.Annotation для .NET из [NuGet](https://www.nuget.org/packages/groupdocs.annotation).
+    
+
 ############################# Preview ############################
 preview:
     enable: true
-    title: "Annotation preview and code sample"
+    title: "Предварительный просмотр аннотации и пример кода"
     content: |
         ![Annotation preview image](https://docs.groupdocs.com/annotation/java/images/add-text-field-annotation.png)
     code: |
         ```cs
         // Добавляем аннотацию текстового поля к документу с локального диска
-        using (Annotator annotator = new Annotator("input.cad"))
+        using (Annotator annotator = new Annotator("input.bmp"))
         {
-        	TextFieldAnnotation textField = new TextFieldAnnotation
+            TextFieldAnnotation textField = new TextFieldAnnotation
             {
-            	BackgroundColor = 65535,
+                BackgroundColor = 65535,
                 Box = new Rectangle(100, 100, 100, 100),
                 CreatedOn = DateTime.Now,
                 Text = "Some text",
@@ -94,181 +115,225 @@ preview:
                 TextHorizontalAlignment = HorizontalAlignment.Center,
                 Replies = new List
                 {
-                	new Reply
+                    new Reply
                     {
-                    	Comment = "First comment",
+                        Comment = "First comment",
                         RepliedOn = DateTime.Now
                     },
                     new Reply
                     {
-                    	Comment = "Second comment",
+                        Comment = "Second comment",
                         RepliedOn = DateTime.Now
                     }
                 }
-        	};
+            };
             annotator.Add(textField);
-            annotator.Save("result.cad");
+            annotator.Save("result.bmp");
         }
         ```
+
 ############################# Demos ############################
 demos:
     enable: true
-    title: "Живые демонстрации для добавления аннотаций"
+    title: "Живые демонстрации для добавления аннотаций к документам и изображениям"
     content: |
-        Добавьте аннотацию в файл CAD прямо сейчас, посетив [живые демонстрации](https://products.groupdocs.app/annotation/family). 
+        Создавайте и добавляйте аннотации к файлу CAD прямо сейчас, посетив веб-сайт [живые демо](https://products.groupdocs.app/annotation/family).
         Живая демонстрация имеет следующие преимущества
+
+############################# About Formats ############################
+about_formats:
+    enable: true
+    format:
+        # format loop
+        - icon: "far fa-file-cad"
+          title: "О формате файла CAD"
+          content: |
+            CAD означает автоматизированное проектирование. Также используется термин CADD (для автоматизированного проектирования и черчения). Он используется для формата файла 3D-графики и может содержать 2D- или 3D-дизайн. Файл САПР представляет собой цифровой формат файла объекта, созданного и используемого программным обеспечением САПР. Файл САПР содержит технический чертеж, план, схему или трехмерную визуализацию объекта. Могут быть другие инструменты САПР, которые можно использовать для создания, открытия, редактирования и экспорта этих файлов .cad в более широко используемые форматы файлов чертежей САПР.
+          link: "https://docs.fileformat.com/image/cad/"
 
 ############################# More Formats ############################
 more_formats:
     enable: true
-    title: "Добавление аннотаций к файлам других форматов"
+    title: "Аннотирование других популярных форматов файлов"
     content: |
-        API обработки мультиформатных документов и аннотаций изображений для .NET. Добавьте аннотацию к некоторым популярным форматам файлов, как указано ниже.
-    format: 
+        Библиотека управления аннотациями Net для документов и форматов изображений. Добавьте свойства аннотации к некоторым популярным форматам файлов, как указано ниже.
+    format:
         # format loop
-        - name: "Добавить аннотацию в PDF"
-          link: "/annotation/net/add/pdf/"
+        - name: "Добавление Annotation в PDF"
+          link: "https://products.groupdocs.com/annotation/net/add/pdf/"
           description: "Adobe Portable Document Format"
+
         # format loop
-        - name: "Добавить аннотацию в DOC"
-          link: "/annotation/net/add/doc/"
-          description: "Документ Microsoft Word"
+        - name: "Добавление Annotation в DOC"
+          link: "https://products.groupdocs.com/annotation/net/add/doc/"
+          description: "Microsoft Word Document"
+
         # format loop
-        - name: "Добавить аннотацию в DOCM"
-          link: "/annotation/net/add/docm/"
-          description: "Документ Microsoft Word с поддержкой макросов"
+        - name: "Добавление Annotation в DOCM"
+          link: "https://products.groupdocs.com/annotation/net/add/docm/"
+          description: "Microsoft Word Macro-Enabled Document"
+
         # format loop
-        - name: "Добавить аннотацию в DOCX"
-          link: "/annotation/net/add/docx/"
-          description: "Документ Microsoft Word с открытым XML"
+        - name: "Добавление Annotation в DOCX"
+          link: "https://products.groupdocs.com/annotation/net/add/docx/"
+          description: "Microsoft Word Open XML Document"
+
         # format loop
-        - name: "Добавить аннотацию в DOT"
-          link: "/annotation/net/add/dot/"
-          description: "Шаблон документа Microsoft Word"
+        - name: "Добавление Annotation в DOT"
+          link: "https://products.groupdocs.com/annotation/net/add/dot/"
+          description: "Microsoft Word Document Template"
+
         # format loop
-        - name: "Добавить аннотацию в DOTX"
-          link: "/annotation/net/add/dotx/"
-          description: "Шаблон документа Word Open XML"
+        - name: "Добавление Annotation в DOTX"
+          link: "https://products.groupdocs.com/annotation/net/add/dotx/"
+          description: "Word Open XML Document Template"
+
         # format loop
-        - name: "Добавить аннотацию в RTF"
-          link: "/annotation/net/add/rtf/"
-          description: "Форматированный текстовый документ"
+        - name: "Добавление Annotation в RTF"
+          link: "https://products.groupdocs.com/annotation/net/add/rtf/"
+          description: "Rich Text Document"
+
         # format loop
-        - name: "Добавить аннотацию в ODT"
-          link: "/annotation/net/add/odt/"
-          description: "Открыть текст документа"
+        - name: "Добавление Annotation в ODT"
+          link: "https://products.groupdocs.com/annotation/net/add/odt/"
+          description: "Open Document Text"
+
         # format loop
-        - name: "Добавить аннотацию в XLS"
-          link: "/annotation/net/add/xls/"
-          description: "Формат двоичного файла Microsoft Excel"
+        - name: "Добавление Annotation в XLS"
+          link: "https://products.groupdocs.com/annotation/net/add/xls/"
+          description: "Microsoft Excel Binary File Format"
+
         # format loop
-        - name: "Добавить аннотацию в XLSX"
-          link: "/annotation/net/add/xlsx/"
-          description: "Электронная таблица Microsoft Excel Open XML"
+        - name: "Добавление Annotation в XLSX"
+          link: "https://products.groupdocs.com/annotation/net/add/xlsx/"
+          description: "Microsoft Excel Open XML Spreadsheet"
+
         # format loop
-        - name: "Добавить аннотацию в XLSM"
-          link: "/annotation/net/add/xlsm/"
-          description: "Электронная таблица Microsoft Excel с поддержкой макросов"
+        - name: "Добавление Annotation в XLSM"
+          link: "https://products.groupdocs.com/annotation/net/add/xlsm/"
+          description: "Microsoft Excel Macro-Enabled Spreadsheet"
+
         # format loop
-        - name: "Добавить аннотацию в XLSB"
-          link: "/annotation/net/add/xlsb/"
-          description: "Двоичный лист Microsoft Excel"
+        - name: "Добавление Annotation в XLSB"
+          link: "https://products.groupdocs.com/annotation/net/add/xlsb/"
+          description: "Microsoft Excel Binary Worksheet"
+
         # format loop
-        - name: "Добавить аннотацию в ODS"
-          link: "/annotation/net/add/ods/"
-          description: "Открыть электронную таблицу документов"
+        - name: "Добавление Annotation в ODS"
+          link: "https://products.groupdocs.com/annotation/net/add/ods/"
+          description: "Open Document Spreadsheet"
+
         # format loop
-        - name: "Добавить аннотацию в PPT"
-          link: "/annotation/net/add/ppt/"
-          description: "Презентация PowerPoint"
+        - name: "Добавление Annotation в PPT"
+          link: "https://products.groupdocs.com/annotation/net/add/ppt/"
+          description: "PowerPoint Presentation"
+
         # format loop
-        - name: "Добавить аннотацию в PPTX"
-          link: "/annotation/net/add/pptx/"
-          description: "Презентация PowerPoint Open XML"
+        - name: "Добавление Annotation в PPTX"
+          link: "https://products.groupdocs.com/annotation/net/add/pptx/"
+          description: "PowerPoint Open XML Presentation"
+
         # format loop
-        - name: "Добавить аннотацию в PPSX"
-          link: "/annotation/net/add/ppsx/"
-          description: "Слайд-шоу PowerPoint Open XML"
+        - name: "Добавление Annotation в PPSX"
+          link: "https://products.groupdocs.com/annotation/net/add/ppsx/"
+          description: "PowerPoint Open XML Slide Show"
+
         # format loop
-        - name: "Добавить аннотацию в POTM"
-          link: "/annotation/net/add/potm/"
-          description: "Шаблон Microsoft PowerPoint"
+        - name: "Добавление Annotation в POTM"
+          link: "https://products.groupdocs.com/annotation/net/add/potm/"
+          description: "Microsoft PowerPoint Template"
+
         # format loop
-        - name: "Добавить аннотацию в PPTM"
-          link: "/annotation/net/add/pptm/"
-          description: "Презентация Microsoft PowerPoint"
+        - name: "Добавление Annotation в PPTM"
+          link: "https://products.groupdocs.com/annotation/net/add/pptm/"
+          description: "Microsoft PowerPoint Presentation"
+
         # format loop
-        - name: "Добавить аннотацию в PPS"
-          link: "/annotation/net/add/pps/"
-          description: "Слайд-шоу Microsoft PowerPoint 97-2003"
+        - name: "Добавление Annotation в PPS"
+          link: "https://products.groupdocs.com/annotation/net/add/pps/"
+          description: "Microsoft PowerPoint 97-2003 Slide Show"
+
         # format loop
-        - name: "Добавить аннотацию в ODP"
-          link: "/annotation/net/add/odp/"
-          description: "Презентация OpenDocument"
+        - name: "Добавление Annotation в ODP"
+          link: "https://products.groupdocs.com/annotation/net/add/odp/"
+          description: "OpenDocument Presentation"
+
         # format loop
-        - name: "Добавить аннотацию в HTML"
-          link: "/annotation/net/add/html/"
-          description: "Язык гипертекстовой разметки"
+        - name: "Добавление Annotation в HTML"
+          link: "https://products.groupdocs.com/annotation/net/add/html/"
+          description: "HyperText Markup Language"
+
         # format loop
-        - name: "Добавить аннотацию в TIFF"
-          link: "/annotation/net/add/tiff/"
-          description: "Формат файла изображения с тегами"
+        - name: "Добавление Annotation в TIFF"
+          link: "https://products.groupdocs.com/annotation/net/add/tiff/"
+          description: "Tagged Image File Format"
+
         # format loop
-        - name: "Добавить аннотацию в JPEG"
-          link: "/annotation/net/add/jpeg/"
-          description: "Изображение в формате JPEG"
+        - name: "Добавление Annotation в JPEG"
+          link: "https://products.groupdocs.com/annotation/net/add/jpeg/"
+          description: "JPEG Image"
+
         # format loop
-        - name: "Добавить аннотацию в PNG"
-          link: "/annotation/net/add/png/"
-          description: "Портативная сетевая графика"
+        - name: "Добавление Annotation в PNG"
+          link: "https://products.groupdocs.com/annotation/net/add/png/"
+          description: "Portable Network Graphic"
+
         # format loop
-        - name: "Добавить аннотацию в BMP"
-          link: "/annotation/net/add/bmp/"
-          description: "Формат растрового файла"
+        - name: "Добавление Annotation в EML"
+          link: "https://products.groupdocs.com/annotation/net/add/eml/"
+          description: "E-mail Message"
+
         # format loop
-        - name: "Добавить аннотацию в EML"
-          link: "/annotation/net/add/eml/"
-          description: "Сообщение электронной почты"
+        - name: "Добавление Annotation в MSG"
+          link: "https://products.groupdocs.com/annotation/net/add/msg/"
+          description: "Microsoft Outlook E-mail Message"
+
         # format loop
-        - name: "Добавить аннотацию в MSG"
-          link: "/annotation/net/add/msg/"
-          description: "Сообщение электронной почты Microsoft Outlook"
+        - name: "Добавление Annotation в VSD"
+          link: "https://products.groupdocs.com/annotation/net/add/vsd/"
+          description: "Microsoft Visio 2003-2010 Drawing"
+
         # format loop
-        - name: "Добавить аннотацию в VSD"
-          link: "/annotation/net/add/vsd/"
-          description: "Чертеж Microsoft Visio 2003-2010"
+        - name: "Добавление Annotation в VSDX"
+          link: "https://products.groupdocs.com/annotation/net/add/vsdx/"
+          description: "Microsoft Visio Drawing"
+
         # format loop
-        - name: "Добавить аннотацию в VSDX"
-          link: "/annotation/net/add/vsdx/"
-          description: "Рисование Microsoft Visio"
+        - name: "Добавление Annotation в VSS"
+          link: "https://products.groupdocs.com/annotation/net/add/vss/"
+          description: "Microsoft Visio 2003-2010 Stencil"
+
         # format loop
-        - name: "Добавить аннотацию в VSS"
-          link: "/annotation/net/add/vss/"
-          description: "Трафарет Microsoft Visio 2003-2010"
+        - name: "Добавление Annotation в VST"
+          link: "https://products.groupdocs.com/annotation/net/add/vst/"
+          description: "Microsoft Visio 2013 Stencil"
+
         # format loop
-        - name: "Добавить аннотацию в VST"
-          link: "/annotation/net/add/vst/"
-          description: "Трафарет Microsoft Visio 2013"
+        - name: "Добавление Annotation в DWG"
+          link: "https://products.groupdocs.com/annotation/net/add/dwg/"
+          description: "Autodesk Design Data Formats"
+
         # format loop
-        - name: "Добавить аннотацию в DWG"
-          link: "/annotation/net/add/dwg/"
-          description: "Форматы проектных данных Autodesk"
+        - name: "Добавление Annotation в DXF"
+          link: "https://products.groupdocs.com/annotation/net/add/dxf/"
+          description: "AutoCAD Drawing Interchange"
+
         # format loop
-        - name: "Добавить аннотацию в DXF"
-          link: "/annotation/net/add/dxf/"
-          description: "Обмен чертежами AutoCAD"
+        - name: "Добавление Annotation в DCM"
+          link: "https://products.groupdocs.com/annotation/net/add/dcm/"
+          description: "Digital Imaging and Communications in Medicine"
+
         # format loop
-        - name: "Добавить аннотацию в DCM"
-          link: "/annotation/net/add/dcm/"
-          description: "Цифровая визуализация и коммуникации в медицине"
+        - name: "Добавление Annotation в WMF"
+          link: "https://products.groupdocs.com/annotation/net/add/wmf/"
+          description: "Windows Metafile"
+
         # format loop
-        - name: "Добавить аннотацию в WMF"
-          link: "/annotation/net/add/wmf/"
-          description: "Метафайл Windows"
-        # format loop
-        - name: "Добавить аннотацию в EMF"
-          link: "/annotation/net/add/emf/"
-          description: "Расширенный формат метафайла"
+        - name: "Добавление Annotation в EMF"
+          link: "https://products.groupdocs.com/annotation/net/add/emf/"
+          description: "Enhanced Metafile Format"
+
+
 ############################# Back to top ###############################
 back_to_top:
     enable: true

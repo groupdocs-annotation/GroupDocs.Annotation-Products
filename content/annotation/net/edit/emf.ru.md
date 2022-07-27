@@ -1,77 +1,103 @@
+
 ---
 ############################# Static ############################
-layout: "auto-gen-annotation"
-date: 2021-05-13T12:44:55+03:00
+layout: "auto-gen" ###_DIMA_### layout: "auto-gen-annotation"
+date: 2022-07-05T12:44:18+03:00
 draft: false
+
+###_DIMA_### link rel="canonical" href="https://products.groupdocs.com/annotation/net/edit/emf"/>
+
 ############################# Head ############################
-head_title: "Прочитать и усилить Редактирование аннотаций в файлах EMF в приложениях C# .NET"
-head_description: "API-интерфейс редактора аннотаций C# .NET для обновления популярных типов аннотаций до файлов EMF, изображений, файлов чертежей и документов."
+head_title: "Редактирование Аннотаций в EMF в Net приложении"
+head_description: "Net API для создания и Редактирование популярных типов аннотаций в EMF, изображения, чертежи и форматы файлов документов."
+
 ############################# Header ############################
-title: "Редактировать аннотации в файле EMF в .NET"
-description: ".NET редактор аннотаций для изображений, Microsoft Office и других форматов файлов документов. Аннотируйте документы, используя 13 различных типов аннотаций, таких как; область, текст, заметки, водяной знак и т. д."
+title: "Редактирование EMF файла в Net"
+description: ""
 bg_image: "https://cms.admin.containerize.com/templates/aspose/App_Themes/V3/images/bg/header1.png"
 bg_overlay: false
 button:
     enable: true
     icon: "fas fa-arrow-down"
-    label: "Скачать бесплатную пробную версию"
+    label: "Download Free Trial"
     link: "https://downloads.groupdocs.com/annotation/net"
+
 ############################# SubMenu ############################
 submenu:
     enable: true
+
     left:
-        img_alt: "GroupDocs.Annotation for .NET"
+        img_alt: "GroupDocs.Annotation для Net"
         image: "https://cms.admin.containerize.com/templates/groupdocs/images/product-logos/90x90-noborder/groupdocs-annotation-net.png"
         product: "GroupDocs.Annotation"
-        platform: ".NET"
+        platform: "Net"
+
     middle:
         button:
             # button loop
             - link: "https://apireference.groupdocs.com/annotation/net"
-              text: "Справочник по API"
+              text: "API Reference"
             # button loop
             - link: "https://github.com/groupdocs-annotation"
-              text: "Примеры кода"
+              text: "Code Examples"
             # button loop
             - link: "https://products.groupdocs.app/annotation/family"
-              text: "Живые демонстрации"
+              text: "Live Demos"
             # button loop
             - link: "https://purchase.groupdocs.com/pricing/annotation/net"
-              text: "Цены"
+              text: "Pricing"
+
     right:
         link_download: "https://downloads.groupdocs.com/annotation"
         link_learn: "https://docs.groupdocs.com/annotation/net"
         link_buy: "https://purchase.groupdocs.com"
+
 ############################# About ############################
 about:
     enable: true
-    title: "О GroupDocs.Annotation для .NET API"
+    title: "О GroupDocs.Annotation для Net API"
     content: |
-        [GroupDocs.Annotation for .NET](/ru/annotation/net/) — это собственный API-интерфейс управления и редактирования аннотаций .NET для чтения, [добавления](/annotation/net/add/emf/), обновления, [удаления](/annotation/net/remove/emf/) и [извлечения](/annotation/net/extract/emf/) аннотаций из изображений и форматов файлов документов. Пользователи могут легко обновлять комментарии, примечания, примечания и различные типы аннотаций, включая текст, графику и водяные знаки, в PDF, HTML, Word, Excel, схемах Visio, презентациях, рисунках, изображениях и многих других форматах файлов. Функция обработки аннотаций может точно считывать аннотации из импортированных документов и позволяет экспортировать обратно в исходный или желаемый формат файла после выполнения настройки.
+        GroupDocs.Annotation for Net API это библиотека которая позволяет добавлять аннотации к файлам PDF, Word и другим документам на Mac, Windows или Ubuntu. [GroupDocs.Annotation для [PLATFORM]](/ru/annotation/net/) это собственный Net API для управления аннотациями с комплексной поддержкой для создания, добавления, редактирования, удаления, извлечения и экспорта аннотаций из изображений и других документов, весь список поддерживаемых документов вы можете посмотреть на [странице](https://docs.groupdocs.com/annotation/net/supported-document-formats/).
+
+        Эта библиотека позволяет работать не только с EMF но также и со многими другими форматами, такими как Word, Excel, PowerPoint, Outlook emails, Visio, Adobe, OpenDocument, OpenOffice, AutoCad и еще множеством других форматов.
+
+        GroupDocs.Annotation for Net API позволяет создавать и [добавлять](/ru/annotation/net/add/emf/) новые заметки, редактировать аннотации, [извлекать](/ru/annotation/net/extract/emf/) комментарии, примечания и [удалять](/ru/annotation/net/remove/emf/) их из документов. Библиотека поддерживает 13 различных типов аннотаций, включая Text, Polyline, Area, Underline, Point, Watermark, Arrow, Ellipse, Text Replacement, Distance, Text Field, Resource Redaction в документах PDF, HTML, Microsoft Word, электронных таблицах, диаграммах, презентациях, рисунках, изображениях и многих других форматах файлов.
+
+        В примере ниже продемонстрирована работа с EMF документом. В этом примере вы видите основные шаги в работе с GroupDocs.Annotation: установка лицензии, открытие файла для работы, создание аннотации, добавление объектов данных для настройки свойств аннотаций в соответствии с вашими требованиями и сохранение результата в нужное место. Более детально ознакомиться с возможностями библиотеки вы можете посмотрев наш [github](https://github.com/groupdocs-annotation/GroupDocs.Annotation-for-.Net)-аккаунт, или в нашей [документации](https://docs.groupdocs.com/annotation/net/getting-started/) к продутку.
+
 ############################# Steps ############################
 howTo:
 steps:
     enable: true
-    title_left: "Шаги по редактированию аннотаций из EMF в C#"
+    title_left: "Шаги по Редактирование аннотаций в EMF in Net"
     content_left: |
-        [GroupDocs.Annotation](/ru/annotation/net/) позволяет разработчикам .NET легко редактировать детали аннотаций из файлов EMF в своих приложениях, выполняя несколько простых шагов.
-        * Создание экземпляра объекта Annotator с входным путем или потоком документа.
+        [GroupDocs.Annotation](/annotation/java/) [GroupDocs.Annotation](/ru/annotation/net/) упрощает разработчикам Net обновление различных свойств аннотаций из файлов EMF в любом приложении на основе Net за счет выполнения нескольких простых шагов.
+        
+        * Создание экземпляра объекта Annotator с входным путем к документу или потоком с экземпляром LoadOptions с ImportAnnotations = true.
         * Создайте некоторую реализацию AnnotationBase и установите идентификатор существующей аннотации (если аннотация с этим идентификатором не найдена, ничего не изменится) или список путей аннотаций (все существующие аннотации будут удалены).
-        * Вызвать метод Update объекта Annotator с переданными аннотациями.
-        * Вызовите метод Save с результирующим путем или потоком документа и объектом SaveOptions.
+        * Вызвать метод обновления объекта Annotator с переданными аннотациями.
+        * Вызовите метод сохранения с результирующим путем или потоком документа и объектом SaveOptions.
+    
     title_right: "Системные Требования"
     content_right: |
-        API GroupDocs.Annotation для .NET поддерживаются на всех основных платформах и операционных системах. Перед выполнением приведенного ниже кода убедитесь, что в вашей системе установлены следующие предварительные компоненты.
+        API GroupDocs.Annotation для Net поддерживаются на всех основных платформах и операционных системах. Перед выполнением приведенного ниже кода убедитесь, что в вашей системе установлены следующие предварительные компоненты.
+        
         * Операционные системы: Microsoft Windows, Linux, MacOS
         * Среды разработки: Visual Studio, Xamarin, MonoDevelop
         * Фреймворки: .NET Framework, .NET Standard, .NET Core, Mono
         * Загрузите последнюю версию GroupDocs.Annotation для .NET из [NuGet](https://www.nuget.org/packages/groupdocs.annotation).
+    
+
+############################# Preview ############################
+preview:
+    enable: true
+    
     code: |
         ```cs
         // открыть аннотированный документ
         using (Annotator annotator = new Annotator("result.bmp"))
         {
-        	// предполагается, что мы собираемся изменить некоторые свойства существующей аннотации
+            // предполагается, что мы собираемся изменить некоторые свойства существующей аннотации
                 AreaAnnotation updated = new AreaAnnotation
                 {
                       // Важно установить идентификатор существующей аннотации
@@ -100,13 +126,15 @@ steps:
             }
         }
         ```
+
 ############################# Demos ############################
 demos:
     enable: true
-    title: "Живые демонстрации для обновления аннотаций"
+    title: "Живые демонстрации для изменения аннотаций из документов и изображений"
     content: |
-        Отредактируйте аннотацию в файле EMF прямо сейчас, посетив [живые демонстрации](https://products.groupdocs.app/annotation/family). 
+        Читайте и редактируйте аннотации из файла EMF прямо сейчас, посетив [живые демонстрации](https://products.groupdocs.app/annotation/family).
         Живая демонстрация имеет следующие преимущества
+
 ############################# About Formats ############################
 about_formats:
     enable: true
@@ -117,157 +145,190 @@ about_formats:
           content: |
             Расширенный формат метафайла (EMF) хранит графические изображения независимо от устройства. Метафайлы EMF состоят из записей переменной длины в хронологическом порядке, которые могут отображать сохраненное изображение после анализа на любом устройстве вывода. Эти записи переменной длины могут быть определениями вложенных объектов, команд для рисования и графических свойств, важных для точного отображения изображения. Когда устройство открывает метафайл EMF, используя собственную графическую среду, пропорции, размеры, цвета и другие графические свойства исходного изображения остаются неизменными независимо от платформы открывающего устройства.
           link: "https://docs.fileformat.com/image/emf/"
+
 ############################# More Formats ############################
 more_formats:
     enable: true
-    title: "Редактирование аннотаций в файлах других форматов"
+    title: "Редактирование аннотаций из файлов других популярных форматов"
     content: |
-        Многоформатный API редактора аннотаций к документам и изображениям для .NET. Обновите аннотацию из некоторых популярных форматов файлов, как указано ниже.
-    format: 
+        Библиотека управления аннотациями Net для документов и форматов изображений. Добавьте свойства аннотации к некоторым популярным форматам файлов, как указано ниже.
+    format:
         # format loop
-        - name: "Редактировать аннотацию в PDF"
-          link: "/annotation/net/edit/pdf/"
+        - name: "Редактирование Annotation в PDF"
+          link: "https://products.groupdocs.com/annotation/net/edit/pdf/"
           description: "Adobe Portable Document Format"
+
         # format loop
-        - name: "Редактировать аннотацию в DOC"
-          link: "/annotation/net/edit/doc/"
-          description: "Документ Microsoft Word"
+        - name: "Редактирование Annotation в DOC"
+          link: "https://products.groupdocs.com/annotation/net/edit/doc/"
+          description: "Microsoft Word Document"
+
         # format loop
-        - name: "Редактировать аннотацию в DOCM"
-          link: "/annotation/net/edit/docm/"
-          description: "Документ Microsoft Word с поддержкой макросов"
+        - name: "Редактирование Annotation в DOCM"
+          link: "https://products.groupdocs.com/annotation/net/edit/docm/"
+          description: "Microsoft Word Macro-Enabled Document"
+
         # format loop
-        - name: "Редактировать аннотацию в DOCX"
-          link: "/annotation/net/edit/docx/"
-          description: "Документ Microsoft Word с открытым XML"
+        - name: "Редактирование Annotation в DOCX"
+          link: "https://products.groupdocs.com/annotation/net/edit/docx/"
+          description: "Microsoft Word Open XML Document"
+
         # format loop
-        - name: "Редактировать аннотацию в DOT"
-          link: "/annotation/net/edit/dot/"
-          description: "Шаблон документа Microsoft Word"
+        - name: "Редактирование Annotation в DOT"
+          link: "https://products.groupdocs.com/annotation/net/edit/dot/"
+          description: "Microsoft Word Document Template"
+
         # format loop
-        - name: "Редактировать аннотацию в DOTX"
-          link: "/annotation/net/edit/dotx/"
-          description: "Шаблон документа Word Open XML"
+        - name: "Редактирование Annotation в DOTX"
+          link: "https://products.groupdocs.com/annotation/net/edit/dotx/"
+          description: "Word Open XML Document Template"
+
         # format loop
-        - name: "Редактировать аннотацию в DOTM"
-          link: "/annotation/net/edit/dotm/"
-          description: "Шаблон Microsoft Word с поддержкой макросов"
+        - name: "Редактирование Annotation в RTF"
+          link: "https://products.groupdocs.com/annotation/net/edit/rtf/"
+          description: "Rich Text Document"
+
         # format loop
-        - name: "Редактировать аннотацию в RTF"
-          link: "/annotation/net/edit/rtf/"
-          description: "Форматированный текстовый документ"
+        - name: "Редактирование Annotation в ODT"
+          link: "https://products.groupdocs.com/annotation/net/edit/odt/"
+          description: "Open Document Text"
+
         # format loop
-        - name: "Редактировать аннотацию в ODT"
-          link: "/annotation/net/edit/odt/"
-          description: "Открыть текст документа"
+        - name: "Редактирование Annotation в XLS"
+          link: "https://products.groupdocs.com/annotation/net/edit/xls/"
+          description: "Microsoft Excel Binary File Format"
+
         # format loop
-        - name: "Редактировать аннотацию в XLS"
-          link: "/annotation/net/edit/xls/"
-          description: "Формат двоичного файла Microsoft Excel"
+        - name: "Редактирование Annotation в XLSX"
+          link: "https://products.groupdocs.com/annotation/net/edit/xlsx/"
+          description: "Microsoft Excel Open XML Spreadsheet"
+
         # format loop
-        - name: "Редактировать аннотацию в XLSX"
-          link: "/annotation/net/edit/xlsx/"
-          description: "Электронная таблица Microsoft Excel Open XML"
+        - name: "Редактирование Annotation в XLSM"
+          link: "https://products.groupdocs.com/annotation/net/edit/xlsm/"
+          description: "Microsoft Excel Macro-Enabled Spreadsheet"
+
         # format loop
-        - name: "Редактировать аннотацию в XLSM"
-          link: "/annotation/net/edit/xlsm/"
-          description: "Электронная таблица Microsoft Excel с поддержкой макросов"
+        - name: "Редактирование Annotation в XLSB"
+          link: "https://products.groupdocs.com/annotation/net/edit/xlsb/"
+          description: "Microsoft Excel Binary Worksheet"
+
         # format loop
-        - name: "Редактировать аннотацию в XLSB"
-          link: "/annotation/net/edit/xlsb/"
-          description: "Двоичный лист Microsoft Excel"
+        - name: "Редактирование Annotation в ODS"
+          link: "https://products.groupdocs.com/annotation/net/edit/ods/"
+          description: "Open Document Spreadsheet"
+
         # format loop
-        - name: "Редактировать аннотацию в ODS"
-          link: "/annotation/net/edit/ods/"
-          description: "Открыть электронную таблицу документов"
+        - name: "Редактирование Annotation в PPT"
+          link: "https://products.groupdocs.com/annotation/net/edit/ppt/"
+          description: "PowerPoint Presentation"
+
         # format loop
-        - name: "Редактировать аннотацию в PPT"
-          link: "/annotation/net/edit/ppt/"
-          description: "Презентация PowerPoint"
+        - name: "Редактирование Annotation в PPTX"
+          link: "https://products.groupdocs.com/annotation/net/edit/pptx/"
+          description: "PowerPoint Open XML Presentation"
+
         # format loop
-        - name: "Редактировать аннотацию в PPTX"
-          link: "/annotation/net/edit/pptx/"
-          description: "Презентация PowerPoint Open XML"
+        - name: "Редактирование Annotation в PPSX"
+          link: "https://products.groupdocs.com/annotation/net/edit/ppsx/"
+          description: "PowerPoint Open XML Slide Show"
+
         # format loop
-        - name: "Редактировать аннотацию в PPSX"
-          link: "/annotation/net/edit/ppsx/"
-          description: "Слайд-шоу PowerPoint Open XML"
+        - name: "Редактирование Annotation в POTM"
+          link: "https://products.groupdocs.com/annotation/net/edit/potm/"
+          description: "Microsoft PowerPoint Template"
+
         # format loop
-        - name: "Редактировать аннотацию в POTM"
-          link: "/annotation/net/edit/potm/"
-          description: "Шаблон Microsoft PowerPoint"
+        - name: "Редактирование Annotation в PPTM"
+          link: "https://products.groupdocs.com/annotation/net/edit/pptm/"
+          description: "Microsoft PowerPoint Presentation"
+
         # format loop
-        - name: "Редактировать аннотацию в PPTM"
-          link: "/annotation/net/edit/pptm/"
-          description: "Презентация Microsoft PowerPoint"
+        - name: "Редактирование Annotation в PPS"
+          link: "https://products.groupdocs.com/annotation/net/edit/pps/"
+          description: "Microsoft PowerPoint 97-2003 Slide Show"
+
         # format loop
-        - name: "Редактировать аннотацию в PPS"
-          link: "/annotation/net/edit/pps/"
-          description: "Слайд-шоу Microsoft PowerPoint 97-2003"
+        - name: "Редактирование Annotation в ODP"
+          link: "https://products.groupdocs.com/annotation/net/edit/odp/"
+          description: "OpenDocument Presentation"
+
         # format loop
-        - name: "Редактировать аннотацию в ODP"
-          link: "/annotation/net/edit/odp/"
-          description: "Презентация OpenDocument"
+        - name: "Редактирование Annotation в HTML"
+          link: "https://products.groupdocs.com/annotation/net/edit/html/"
+          description: "HyperText Markup Language"
+
         # format loop
-        - name: "Редактировать аннотацию в HTML"
-          link: "/annotation/net/edit/html/"
-          description: "Язык гипертекстовой разметки"
+        - name: "Редактирование Annotation в TIFF"
+          link: "https://products.groupdocs.com/annotation/net/edit/tiff/"
+          description: "Tagged Image File Format"
+
         # format loop
-        - name: "Редактировать аннотацию в TIFF"
-          link: "/annotation/net/edit/tiff/"
-          description: "Формат файла изображения с тегами"
+        - name: "Редактирование Annotation в JPEG"
+          link: "https://products.groupdocs.com/annotation/net/edit/jpeg/"
+          description: "JPEG Image"
+
         # format loop
-        - name: "Редактировать аннотацию в JPEG"
-          link: "/annotation/net/edit/jpeg/"
-          description: "Изображение в формате JPEG"
+        - name: "Редактирование Annotation в PNG"
+          link: "https://products.groupdocs.com/annotation/net/edit/png/"
+          description: "Portable Network Graphic"
+
         # format loop
-        - name: "Редактировать аннотацию в PNG"
-          link: "/annotation/net/edit/png/"
-          description: "Портативная сетевая графика"
+        - name: "Редактирование Annotation в EML"
+          link: "https://products.groupdocs.com/annotation/net/edit/eml/"
+          description: "E-mail Message"
+
         # format loop
-        - name: "Редактировать аннотацию в BMP"
-          link: "/annotation/net/edit/bmp/"
-          description: "Формат растрового файла"
+        - name: "Редактирование Annotation в MSG"
+          link: "https://products.groupdocs.com/annotation/net/edit/msg/"
+          description: "Microsoft Outlook E-mail Message"
+
         # format loop
-        - name: "Редактировать аннотацию в EML"
-          link: "/annotation/net/edit/eml/"
-          description: "Сообщение электронной почты"
+        - name: "Редактирование Annotation в VSD"
+          link: "https://products.groupdocs.com/annotation/net/edit/vsd/"
+          description: "Microsoft Visio 2003-2010 Drawing"
+
         # format loop
-        - name: "Редактировать аннотацию в MSG"
-          link: "/annotation/net/edit/msg/"
-          description: "Сообщение электронной почты Microsoft Outlook"
+        - name: "Редактирование Annotation в VSDX"
+          link: "https://products.groupdocs.com/annotation/net/edit/vsdx/"
+          description: "Microsoft Visio Drawing"
+
         # format loop
-        - name: "Редактировать аннотацию в VSD"
-          link: "/annotation/net/edit/vsd/"
-          description: "Чертеж Microsoft Visio 2003-2010"
+        - name: "Редактирование Annotation в VSS"
+          link: "https://products.groupdocs.com/annotation/net/edit/vss/"
+          description: "Microsoft Visio 2003-2010 Stencil"
+
         # format loop
-        - name: "Редактировать аннотацию в VSDX"
-          link: "/annotation/net/edit/vsdx/"
-          description: "Рисование Microsoft Visio"
+        - name: "Редактирование Annotation в VST"
+          link: "https://products.groupdocs.com/annotation/net/edit/vst/"
+          description: "Microsoft Visio 2013 Stencil"
+
         # format loop
-        - name: "Редактировать аннотацию в VSS"
-          link: "/annotation/net/edit/vss/"
-          description: "Трафарет Microsoft Visio 2003-2010"
+        - name: "Редактирование Annotation в DWG"
+          link: "https://products.groupdocs.com/annotation/net/edit/dwg/"
+          description: "Autodesk Design Data Formats"
+
         # format loop
-        - name: "Редактировать аннотацию в VST"
-          link: "/annotation/net/edit/vst/"
-          description: "Трафарет Microsoft Visio 2013"
+        - name: "Редактирование Annotation в DXF"
+          link: "https://products.groupdocs.com/annotation/net/edit/dxf/"
+          description: "AutoCAD Drawing Interchange"
+
         # format loop
-        - name: "Редактировать аннотацию в DWG"
-          link: "/annotation/net/edit/dwg/"
-          description: "Форматы проектных данных Autodesk"
+        - name: "Редактирование Annotation в DCM"
+          link: "https://products.groupdocs.com/annotation/net/edit/dcm/"
+          description: "Digital Imaging and Communications in Medicine"
+
         # format loop
-        - name: "Редактировать аннотацию в DXF"
-          link: "/annotation/net/edit/dxf/"
-          description: "Обмен чертежами AutoCAD"
+        - name: "Редактирование Annotation в WMF"
+          link: "https://products.groupdocs.com/annotation/net/edit/wmf/"
+          description: "Windows Metafile"
+
         # format loop
-        - name: "Редактировать аннотацию в DCM"
-          link: "/annotation/net/edit/dcm/"
-          description: "Цифровая визуализация и коммуникации в медицине"
-        # format loop
-        - name: "Редактировать аннотацию в WMF"
-          link: "/annotation/net/edit/wmf/"
-          description: "Метафайл Windows"
+        - name: "Редактирование Annotation в EMF"
+          link: "https://products.groupdocs.com/annotation/net/edit/emf/"
+          description: "Enhanced Metafile Format"
+
+
 ############################# Back to top ###############################
 back_to_top:
     enable: true

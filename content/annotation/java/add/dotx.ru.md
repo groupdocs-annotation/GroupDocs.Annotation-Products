@@ -1,79 +1,101 @@
+
 ---
 ############################# Static ############################
-layout: "auto-gen-annotation"
-date: 2021-05-13T12:44:22+03:00
+layout: "auto-gen" ###_DIMA_### layout: "auto-gen-annotation"
+date: 2022-07-05T12:44:18+03:00
 draft: false
+
+###_DIMA_### link rel="canonical" href="https://products.groupdocs.com/annotation/java/add/dotx"/>
+
 ############################# Head ############################
-head_title: "Добавьте аннотации к DOTX в приложениях Java"
-head_description: "Java API для создания и добавления популярных типов аннотаций в форматы файлов DOTX, изображений, рисунков и документов."
+head_title: "Добавление Аннотаций в DOTX в Java приложении"
+head_description: "Java API для создания и Добавление популярных типов аннотаций в DOTX, изображения, чертежи и форматы файлов документов."
+
 ############################# Header ############################
-title: "Аннотировать файлы DOTX в Java"
-description: "Добавляйте аннотации к документам DOTX, Microsoft Office, изображениям, HTML, рисункам и другим форматам файлов в любых типах приложений Java."
+title: "Добавление DOTX файла в Java"
+description: ""
 bg_image: "https://cms.admin.containerize.com/templates/aspose/App_Themes/V3/images/bg/header1.png"
 bg_overlay: false
 button:
     enable: true
     icon: "fas fa-arrow-down"
-    label: "Скачать бесплатную пробную версию"
+    label: "Download Free Trial"
     link: "https://downloads.groupdocs.com/annotation/java"
+
 ############################# SubMenu ############################
 submenu:
     enable: true
+
     left:
-        img_alt: "GroupDocs.Annotation for Java"
+        img_alt: "GroupDocs.Annotation для Java"
         image: "https://cms.admin.containerize.com/templates/groupdocs/images/product-logos/90x90-noborder/groupdocs-annotation-java.png"
         product: "GroupDocs.Annotation"
         platform: "Java"
+
     middle:
         button:
             # button loop
             - link: "https://apireference.groupdocs.com/annotation/java"
-              text: "Справочник по API"
+              text: "API Reference"
             # button loop
             - link: "https://github.com/groupdocs-annotation"
-              text: "Примеры кода"
+              text: "Code Examples"
             # button loop
             - link: "https://products.groupdocs.app/annotation/family"
-              text: "Живые демонстрации"
+              text: "Live Demos"
             # button loop
             - link: "https://purchase.groupdocs.com/pricing/annotation/java"
-              text: "Цены"
+              text: "Pricing"
+
     right:
         link_download: "https://downloads.groupdocs.com/annotation"
         link_learn: "https://docs.groupdocs.com/annotation/java"
         link_buy: "https://purchase.groupdocs.com"
+
 ############################# About ############################
 about:
     enable: true
     title: "О GroupDocs.Annotation для Java API"
     content: |
-        [GroupDocs.Annotation for Java](/ru/annotation/java/) — это собственный Java API для управления аннотациями с комплексной поддержкой для создания, добавления, [редактирования](/annotation/java/edit/dotx/), [удаления](/annotation/java/remove/dotx/), [извлечения](/annotation/java/extract/dotx/) и экспорта аннотаций из изображений и форматов файлов документов. Пользователи могут легко извлекать комментарии, заметки, примечания и 13 различных типов аннотаций, включая текст, графику и водяные знаки, в документах PDF, HTML, Microsoft Word, электронных таблицах Excel, диаграммах Visio, презентациях PowerPoint, рисунках, изображениях и многих других форматах файлов. Функция обработки аннотаций может точно считывать аннотации из импортированных документов и позволяет экспортировать обратно в исходный или желаемый формат файла после реализации настройки аннотаций.
+        GroupDocs.Annotation for Java API это библиотека которая позволяет добавлять аннотации к файлам PDF, Word и другим документам на Mac, Windows или Ubuntu. [GroupDocs.Annotation для [PLATFORM]](/ru/annotation/java/) это собственный Java API для управления аннотациями с комплексной поддержкой для создания, добавления, редактирования, удаления, извлечения и экспорта аннотаций из изображений и других документов, весь список поддерживаемых документов вы можете посмотреть на [странице](https://docs.groupdocs.com/annotation/java/supported-document-formats/).
+
+        Эта библиотека позволяет работать не только с DOTX но также и со многими другими форматами, такими как Word, Excel, PowerPoint, Outlook emails, Visio, Adobe, OpenDocument, OpenOffice, AutoCad и еще множеством других форматов.
+
+        GroupDocs.Annotation for Java API позволяет создавать и добавлять новые заметки, [редактировать](/ru/annotation/java/edit/dotx/) аннотации, [извлекать](/ru/annotation/java/extract/dotx/) комментарии, примечания и [удалять](/ru/annotation/java/remove/dotx/) их из документов. Библиотека поддерживает 13 различных типов аннотаций, включая Text, Polyline, Area, Underline, Point, Watermark, Arrow, Ellipse, Text Replacement, Distance, Text Field, Resource Redaction в документах PDF, HTML, Microsoft Word, электронных таблицах, диаграммах, презентациях, рисунках, изображениях и многих других форматах файлов.
+
+        В примере ниже продемонстрирована работа с DOTX документом. В этом примере вы видите основные шаги в работе с GroupDocs.Annotation: установка лицензии, открытие файла для работы, создание аннотации, добавление объектов данных для настройки свойств аннотаций в соответствии с вашими требованиями и сохранение результата в нужное место. Более детально ознакомиться с возможностями библиотеки вы можете посмотрев наш [github](https://github.com/groupdocs-annotation/GroupDocs.Annotation-for-Java)-аккаунт, или в нашей [документации](https://docs.groupdocs.com/annotation/java/getting-started/) к продутку.
+
 ############################# Steps ############################
 howTo:
 steps:
     enable: true
-    title_left: "Шаги по добавлению аннотаций в DOTX в Java"
+    title_left: "Шаги по Добавление аннотаций в DOTX in Java"
     content_left: |
-        [GroupDocs.Annotation](/ru/annotation/java/) позволяет разработчикам Java легко добавлять различные типы аннотаций в файлы DOTX в любом приложении на основе Java, выполняя несколько простых шагов.
+        [GroupDocs.Annotation](/annotation/java/) [GroupDocs.Annotation](/ru/annotation/java/) позволяет разработчикам Java легко добавлять различные типы аннотаций к файлам DOTX в любом приложении на основе Java, выполняя несколько простых шагов.
+        
         * Создание объектов ответа с комментарием и датой.
-        * Создайте объект AreaAnnotation, установите параметры области и добавьте ответы.
-        * Создайте объект Annotator и добавьте аннотацию области.
-        * Сохранить выходной файл.
+        * Создайте экземпляр объекта SaveOptions и установите AnnotationTypes = AnnotationType.None.
+        * Вызовите метод сохранения с результирующим путем или потоком документа и объектом SaveOptions.
+    
     title_right: "Системные Требования"
     content_right: |
         API GroupDocs.Annotation для Java поддерживаются на всех основных платформах и операционных системах. Перед выполнением приведенного ниже кода убедитесь, что в вашей системе установлены следующие предварительные компоненты.
+        
         * Операционные системы: Microsoft Windows, Linux, MacOS
         * Среда разработки: NetBeans, Intellij IDEA, Eclipse и т. д.
         * Среда выполнения Java: Java 7 (1.7) и выше
         * Получите последнюю версию GroupDocs.Annotation для Java из [репозитория артефактов GroupDocs](https://repository.groupdocs.com/webapp/#/artifacts/browse/tree/General/repo/com/groupdocs/groupdocs-annotation)
+    
+
 ############################# Preview ############################
 preview:
     enable: true
-    title: "Annotation preview and code sample"
+    title: "Предварительный просмотр аннотации и пример кода"
     content: |
         ![Annotation preview image](https://docs.groupdocs.com/annotation/java/images/add-area-annotation.png)
     code: |
         ```java
+        // Создаем экземпляр класса Reply и добавляем комментарии
         Reply firstReply = new Reply();
         firstReply.setComment("First comment");
         firstReply.setRepliedOn(Calendar.getInstance().getTime());
@@ -83,6 +105,8 @@ preview:
         List<Reply> replies = new ArrayList<Reply>();
         replies.add(firstReply);
         replies.add(secondReply);
+        
+        // Создаем экземпляр класса AreaAnnotation и устанавливаем параметры
         AreaAnnotation area = new AreaAnnotation();
         area.setBackgroundColor(65535);
         area.setBox(new Rectangle(100, 100, 100, 100));
@@ -94,18 +118,26 @@ preview:
         area.setPenStyle(PenStyle.Dot);
         area.setPenWidth((byte) 3);
         area.setReplies(replies);
-        Annotator annotator = new Annotator("input.dotx");
+        
+        // Создаем экземпляр класса Annotator
+        Annotator annotator = new Annotator("input.bmp");
+        
+        // Добавляем аннотацию
         annotator.add(area);
-        annotator.save("output.dotx");
+        
+        // Сохраняем в файл
+        annotator.save("output.bmp");
         annotator.dispose();
         ```
+
 ############################# Demos ############################
 demos:
     enable: true
     title: "Живые демонстрации для добавления аннотаций к документам и изображениям"
     content: |
-        Создавайте и добавляйте аннотации к файлу DOTX прямо сейчас, посетив веб-сайт [живые демо](https://products.groupdocs.app/annotation/family).  
+        Создавайте и добавляйте аннотации к файлу DOTX прямо сейчас, посетив веб-сайт [живые демо](https://products.groupdocs.app/annotation/family).
         Живая демонстрация имеет следующие преимущества
+
 ############################# About Formats ############################
 about_formats:
     enable: true
@@ -115,158 +147,191 @@ about_formats:
           title: "О формате файла DOTX"
           content: |
             Файлы с расширением DOTX представляют собой файлы шаблонов, созданные Microsoft Word с предварительно отформатированными настройками для создания дополнительных файлов DOCX. Файл шаблона создается для того, чтобы иметь определенные пользовательские настройки, которые должны применяться к последующим мухам, созданным на их основе. Эти параметры включают поля страницы, границы, верхние и нижние колонтитулы и другие параметры страницы. Такие шаблоны используются в официальных документах, таких как бланки компаний и стандартизированные формы. Формат файла DOTX был представлен в выпуске Microsoft Office 2007 для замены двоичного формата файла DOT, но поддерживается и более поздними версиями. Microsoft Word по умолчанию открывает каждый новый документ на основе файла normal.dot. В случае изменения все новые созданные файлы будут иметь те же настройки, что и в файле шаблона. В Microsoft Word 2007 формат файла DOT был заменен форматом файла DOTX на основе Office OpenXML.
-          link: "https://docs.fileformat.com/word-processing/dotx/"
+          link: "https://docs.fileformat.com/image/dotx/"
+
 ############################# More Formats ############################
 more_formats:
     enable: true
     title: "Аннотирование других популярных форматов файлов"
     content: |
         Библиотека управления аннотациями Java для документов и форматов изображений. Добавьте свойства аннотации к некоторым популярным форматам файлов, как указано ниже.
-    format: 
+    format:
         # format loop
-        - name: "Добавить аннотацию в PDF"
-          link: "/annotation/java/add/pdf/"
+        - name: "Добавление Annotation в PDF"
+          link: "https://products.groupdocs.com/annotation/java/add/pdf/"
           description: "Adobe Portable Document Format"
+
         # format loop
-        - name: "Добавить аннотацию в DOC"
-          link: "/annotation/java/add/doc/"
-          description: "Документ Microsoft Word"
+        - name: "Добавление Annotation в DOC"
+          link: "https://products.groupdocs.com/annotation/java/add/doc/"
+          description: "Microsoft Word Document"
+
         # format loop
-        - name: "Добавить аннотацию в DOCM"
-          link: "/annotation/java/add/docm/"
-          description: "Документ Microsoft Word с поддержкой макросов"
+        - name: "Добавление Annotation в DOCM"
+          link: "https://products.groupdocs.com/annotation/java/add/docm/"
+          description: "Microsoft Word Macro-Enabled Document"
+
         # format loop
-        - name: "Добавить аннотацию в DOCX"
-          link: "/annotation/java/add/docx/"
-          description: "Документ Microsoft Word с открытым XML"
+        - name: "Добавление Annotation в DOCX"
+          link: "https://products.groupdocs.com/annotation/java/add/docx/"
+          description: "Microsoft Word Open XML Document"
+
         # format loop
-        - name: "Добавить аннотацию в DOT"
-          link: "/annotation/java/add/dot/"
-          description: "Шаблон документа Microsoft Word"
+        - name: "Добавление Annotation в DOT"
+          link: "https://products.groupdocs.com/annotation/java/add/dot/"
+          description: "Microsoft Word Document Template"
+
         # format loop
-        - name: "Добавить аннотацию в DOTM"
-          link: "/annotation/java/add/dotm/"
-          description: "Шаблон Microsoft Word с поддержкой макросов"
+        - name: "Добавление Annotation в DOTX"
+          link: "https://products.groupdocs.com/annotation/java/add/dotx/"
+          description: "Word Open XML Document Template"
+
         # format loop
-        - name: "Добавить аннотацию в RTF"
-          link: "/annotation/java/add/rtf/"
-          description: "Форматированный текстовый документ"
+        - name: "Добавление Annotation в RTF"
+          link: "https://products.groupdocs.com/annotation/java/add/rtf/"
+          description: "Rich Text Document"
+
         # format loop
-        - name: "Добавить аннотацию в ODT"
-          link: "/annotation/java/add/odt/"
-          description: "Открыть текст документа"
+        - name: "Добавление Annotation в ODT"
+          link: "https://products.groupdocs.com/annotation/java/add/odt/"
+          description: "Open Document Text"
+
         # format loop
-        - name: "Добавить аннотацию в XLS"
-          link: "/annotation/java/add/xls/"
-          description: "Формат двоичного файла Microsoft Excel"
+        - name: "Добавление Annotation в XLS"
+          link: "https://products.groupdocs.com/annotation/java/add/xls/"
+          description: "Microsoft Excel Binary File Format"
+
         # format loop
-        - name: "Добавить аннотацию в XLSX"
-          link: "/annotation/java/add/xlsx/"
-          description: "Электронная таблица Microsoft Excel Open XML"
+        - name: "Добавление Annotation в XLSX"
+          link: "https://products.groupdocs.com/annotation/java/add/xlsx/"
+          description: "Microsoft Excel Open XML Spreadsheet"
+
         # format loop
-        - name: "Добавить аннотацию в XLSM"
-          link: "/annotation/java/add/xlsm/"
-          description: "Электронная таблица Microsoft Excel с поддержкой макросов"
+        - name: "Добавление Annotation в XLSM"
+          link: "https://products.groupdocs.com/annotation/java/add/xlsm/"
+          description: "Microsoft Excel Macro-Enabled Spreadsheet"
+
         # format loop
-        - name: "Добавить аннотацию в XLSB"
-          link: "/annotation/java/add/xlsb/"
-          description: "Двоичный лист Microsoft Excel"
+        - name: "Добавление Annotation в XLSB"
+          link: "https://products.groupdocs.com/annotation/java/add/xlsb/"
+          description: "Microsoft Excel Binary Worksheet"
+
         # format loop
-        - name: "Добавить аннотацию в ODS"
-          link: "/annotation/java/add/ods/"
-          description: "Открыть электронную таблицу документов"
+        - name: "Добавление Annotation в ODS"
+          link: "https://products.groupdocs.com/annotation/java/add/ods/"
+          description: "Open Document Spreadsheet"
+
         # format loop
-        - name: "Добавить аннотацию в PPT"
-          link: "/annotation/java/add/ppt/"
-          description: "Презентация PowerPoint"
+        - name: "Добавление Annotation в PPT"
+          link: "https://products.groupdocs.com/annotation/java/add/ppt/"
+          description: "PowerPoint Presentation"
+
         # format loop
-        - name: "Добавить аннотацию в PPTX"
-          link: "/annotation/java/add/pptx/"
-          description: "Презентация PowerPoint Open XML"
+        - name: "Добавление Annotation в PPTX"
+          link: "https://products.groupdocs.com/annotation/java/add/pptx/"
+          description: "PowerPoint Open XML Presentation"
+
         # format loop
-        - name: "Добавить аннотацию в PPSX"
-          link: "/annotation/java/add/ppsx/"
-          description: "Слайд-шоу PowerPoint Open XML"
+        - name: "Добавление Annotation в PPSX"
+          link: "https://products.groupdocs.com/annotation/java/add/ppsx/"
+          description: "PowerPoint Open XML Slide Show"
+
         # format loop
-        - name: "Добавить аннотацию в POTM"
-          link: "/annotation/java/add/potm/"
-          description: "Шаблон Microsoft PowerPoint"
+        - name: "Добавление Annotation в POTM"
+          link: "https://products.groupdocs.com/annotation/java/add/potm/"
+          description: "Microsoft PowerPoint Template"
+
         # format loop
-        - name: "Добавить аннотацию в PPTM"
-          link: "/annotation/java/add/pptm/"
-          description: "Презентация Microsoft PowerPoint"
+        - name: "Добавление Annotation в PPTM"
+          link: "https://products.groupdocs.com/annotation/java/add/pptm/"
+          description: "Microsoft PowerPoint Presentation"
+
         # format loop
-        - name: "Добавить аннотацию в PPS"
-          link: "/annotation/java/add/pps/"
-          description: "Слайд-шоу Microsoft PowerPoint 97-2003"
+        - name: "Добавление Annotation в PPS"
+          link: "https://products.groupdocs.com/annotation/java/add/pps/"
+          description: "Microsoft PowerPoint 97-2003 Slide Show"
+
         # format loop
-        - name: "Добавить аннотацию в ODP"
-          link: "/annotation/java/add/odp/"
-          description: "Презентация OpenDocument"
+        - name: "Добавление Annotation в ODP"
+          link: "https://products.groupdocs.com/annotation/java/add/odp/"
+          description: "OpenDocument Presentation"
+
         # format loop
-        - name: "Добавить аннотацию в HTML"
-          link: "/annotation/java/add/html/"
-          description: "Язык гипертекстовой разметки"
+        - name: "Добавление Annotation в HTML"
+          link: "https://products.groupdocs.com/annotation/java/add/html/"
+          description: "HyperText Markup Language"
+
         # format loop
-        - name: "Добавить аннотацию в TIFF"
-          link: "/annotation/java/add/tiff/"
-          description: "Формат файла изображения с тегами"
+        - name: "Добавление Annotation в TIFF"
+          link: "https://products.groupdocs.com/annotation/java/add/tiff/"
+          description: "Tagged Image File Format"
+
         # format loop
-        - name: "Добавить аннотацию в JPEG"
-          link: "/annotation/java/add/jpeg/"
-          description: "Изображение в формате JPEG"
+        - name: "Добавление Annotation в JPEG"
+          link: "https://products.groupdocs.com/annotation/java/add/jpeg/"
+          description: "JPEG Image"
+
         # format loop
-        - name: "Добавить аннотацию в PNG"
-          link: "/annotation/java/add/png/"
-          description: "Портативная сетевая графика"
+        - name: "Добавление Annotation в PNG"
+          link: "https://products.groupdocs.com/annotation/java/add/png/"
+          description: "Portable Network Graphic"
+
         # format loop
-        - name: "Добавить аннотацию в BMP"
-          link: "/annotation/java/add/bmp/"
-          description: "Формат растрового файла"
+        - name: "Добавление Annotation в EML"
+          link: "https://products.groupdocs.com/annotation/java/add/eml/"
+          description: "E-mail Message"
+
         # format loop
-        - name: "Добавить аннотацию в EML"
-          link: "/annotation/java/add/eml/"
-          description: "Сообщение электронной почты"
+        - name: "Добавление Annotation в MSG"
+          link: "https://products.groupdocs.com/annotation/java/add/msg/"
+          description: "Microsoft Outlook E-mail Message"
+
         # format loop
-        - name: "Добавить аннотацию в MSG"
-          link: "/annotation/java/add/msg/"
-          description: "Сообщение электронной почты Microsoft Outlook"
+        - name: "Добавление Annotation в VSD"
+          link: "https://products.groupdocs.com/annotation/java/add/vsd/"
+          description: "Microsoft Visio 2003-2010 Drawing"
+
         # format loop
-        - name: "Добавить аннотацию в VSD"
-          link: "/annotation/java/add/vsd/"
-          description: "Чертеж Microsoft Visio 2003-2010"
+        - name: "Добавление Annotation в VSDX"
+          link: "https://products.groupdocs.com/annotation/java/add/vsdx/"
+          description: "Microsoft Visio Drawing"
+
         # format loop
-        - name: "Добавить аннотацию в VSDX"
-          link: "/annotation/java/add/vsdx/"
-          description: "Рисование Microsoft Visio"
+        - name: "Добавление Annotation в VSS"
+          link: "https://products.groupdocs.com/annotation/java/add/vss/"
+          description: "Microsoft Visio 2003-2010 Stencil"
+
         # format loop
-        - name: "Добавить аннотацию в VSS"
-          link: "/annotation/java/add/vss/"
-          description: "Трафарет Microsoft Visio 2003-2010"
+        - name: "Добавление Annotation в VST"
+          link: "https://products.groupdocs.com/annotation/java/add/vst/"
+          description: "Microsoft Visio 2013 Stencil"
+
         # format loop
-        - name: "Добавить аннотацию в VST"
-          link: "/annotation/java/add/vst/"
-          description: "Трафарет Microsoft Visio 2013"
+        - name: "Добавление Annotation в DWG"
+          link: "https://products.groupdocs.com/annotation/java/add/dwg/"
+          description: "Autodesk Design Data Formats"
+
         # format loop
-        - name: "Добавить аннотацию в DWG"
-          link: "/annotation/java/add/dwg/"
-          description: "Форматы проектных данных Autodesk"
+        - name: "Добавление Annotation в DXF"
+          link: "https://products.groupdocs.com/annotation/java/add/dxf/"
+          description: "AutoCAD Drawing Interchange"
+
         # format loop
-        - name: "Добавить аннотацию в DXF"
-          link: "/annotation/java/add/dxf/"
-          description: "Обмен чертежами AutoCAD"
+        - name: "Добавление Annotation в DCM"
+          link: "https://products.groupdocs.com/annotation/java/add/dcm/"
+          description: "Digital Imaging and Communications in Medicine"
+
         # format loop
-        - name: "Добавить аннотацию в DCM"
-          link: "/annotation/java/add/dcm/"
-          description: "Цифровая визуализация и коммуникации в медицине"
+        - name: "Добавление Annotation в WMF"
+          link: "https://products.groupdocs.com/annotation/java/add/wmf/"
+          description: "Windows Metafile"
+
         # format loop
-        - name: "Добавить аннотацию в WMF"
-          link: "/annotation/java/add/wmf/"
-          description: "Метафайл Windows"
-        # format loop
-        - name: "Добавить аннотацию в EMF"
-          link: "/annotation/java/add/emf/"
-          description: "Расширенный формат метафайла"
+        - name: "Добавление Annotation в EMF"
+          link: "https://products.groupdocs.com/annotation/java/add/emf/"
+          description: "Enhanced Metafile Format"
+
+
 ############################# Back to top ###############################
 back_to_top:
     enable: true

@@ -1,7 +1,7 @@
 ---
 ############################# Static ############################
 layout: "product"
-date: 2021-04-27T09:31:06+03:00
+date: 2022-07-05T12:44:18+03:00
 draft: false
 
 product: "Annotation"
@@ -15,7 +15,7 @@ head_description: "API аннотаций документов Java. Просм�
 
 ############################# Header ############################
 title: "Аннотации документов через Java API"
-description: "Создавайте приложения Java с возможностями просмотра и комментирования документов PDF, HTML, MS Office и других форматов без установки какого-либо внешнего программного обеспечения.."
+description: "Создавайте приложения Java с возможностями просмотра и комментирования документов PDF, HTML, MS Office и других форматов без установки какого-либо внешнего программного обеспечения."
 button:
     enable: true
     icon: "fas fa-arrow-down"
@@ -27,8 +27,8 @@ submenu:
     enable: true
     
     left:
-        img_alt: "GroupDocs.Annotation for Java"
-        image: "/border/groupdocs-annotation-java.svg"
+        img_alt: "GroupDocs.Annotation для Java"
+        image: "https://www.groupdocs.cloud/templates/groupdocs/images/product-logos/groupdocs-annotation-java.png"
         product: "GroupDocs.Annotation"
         platform: "Java"
 
@@ -44,28 +44,34 @@ submenu:
 
             # button loop
             - link: "#support"
-              text: "Support"
+              text: "Поддержка"
 
             # button loop
             - link: "https://products.groupdocs.app/annotation"
-              text: "Live Demo"
+              text: "Демонстрация"
 
             # button loop
             - link: "https://purchase.groupdocs.com/pricing/annotation/java"
-              text: "Pricing"
+              text: "Цена"
 
     right:
         link_download: "https://downloads.groupdocs.com/annotation"
         link_learn: "https://docs.groupdocs.com/annotation/java/"
         link_buy: "https://purchase.groupdocs.com"
 
-############################# Обзор ############################
+############################# Overview ############################
 overview:
     enable: true
     content: |
-      GroupDocs.Annotation for Java API предоставляет простые в использовании функции управления документами, аннотациями и манипулирования, которые можно использовать в ваших бизнес-приложениях на основе Java. Наша библиотека аннотаторов Java позволяет работать со многими типами аннотаций, включая текст, полилинию, область, подчеркивание, точку, водяной знак, стрелку, эллипс, замену текста, расстояние, текстовое поле, редактирование ресурсов и т. д. Она также предлагает полный набор объектов данных для настройки свойств аннотаций в соответствии с вашими требованиями во всех поддерживаемых форматах документов, включая: PDF, HTML, Microsoft Office Word, электронные таблицы Excel, презентации PowerPoint, Visio, сообщения электронной почты Outlook, изображения, метафайлы, чертежи САПР и различные другие форматы.
-        
-      API предоставляет возможность получать миниатюры страниц документа и поддерживает импорт и экспорт аннотаций в файлы PDF и из них.
+      GroupDocs.Annotation Java API это продукт который дает возможность работать с аннотациями в документах на разных платформах и в разных операционных системах, таких как: Android, MacOS, Linux, Windows. GroupDocs.Annotation предоставляет библиотеку с простым и понятным API. Вы можете работать с защищенными паролем документами, генерировать графические представления документов разных разрешений, вращать документы, скрывать части документов, гибко манипулировать с параметрами аннотаций и многое другое.
+
+        GroupDocs.Annotation for Java API повзовляет  работать с разными типами аннотаций такими как: Text, Polyline, Area, Underline, Point, Watermark, Arrow, Ellipse, Text Replacement, Distance, Text Field, Resource Redaction etc. Для таких наиболее популярных форматов документов как: PDF, HTML, Microsoft Office Word, Excel spreadsheets, PowerPoint presentations, Visio, Outlook emails, images, metafiles, CAD drawing and various other formats. API предоставляет возможность получать миниатюры страниц документа и поддерживает импорт и экспорт аннотаций в файлы PDF и из них.
+
+        С помощью библиотеки вы можете [добавлять](/annotation/java/add/bmp/) новые аннотации, [редактировать](/annotation/java/edit/bmp/), [извлекать](/annotation/[PLATFORM_URL]/extract/bmp/), [удалять](/annotation/java/remove/bmp/) из документов - вот это далеко не полный список всех возможностей. Также библиотека предоставляет полный набор объектов данных для настройки свойств аннотаций в соответствии с вашими требованиями во всех поддерживаемых форматах документов. 
+
+        Работа с GroupDocs.Annotation for Java API очень простая, и состоит всего из нескольких основных шагов. Для начала вам нужно установить лицензию, потом выбрать файл с которым вы хотите работать, дальше выбрать нужное действие с аннотацией (удалить/редактировать/извлечь/удалить) и сохранить в нужное место. Так же у нас есть [документация](https://docs.groupdocs.com/annotation/java/getting-started/) по продутку и много [примеров](https://github.com/groupdocs-annotation/GroupDocs.Annotation-for-Java) по работе с аннотациями.
+
+        GroupDocs.Annotation регулярно обновляется и предоставляет для своих клиентов поддержку, вы можете задавать нам вопросы или присылать свои идеи или рассказывать про свои потребновсть в чем то новом и мы с радостью это реализуем в наших новых версиях.
     tabs:
       enable: true
       
@@ -89,18 +95,17 @@ overview:
       tab_two:
         description: |
           GroupDocs.Annotation для Java поддерживает все популярные [форматы файлов документов](https://docs.groupdocs.com/annotation/java/supported-document-formats/), включая: Microsoft Office, PDF, изображения и многие другие.
-
         left:
           enable: true
           table:
             # table loop
-            - title: "Форматы Microsoft Office"
+            - title: "Microsoft Office Formats"
               content: |
-                * **Word**: DOC, DOCX, DOCM, DOT, DOTX, DOTM, RTF
-                * **Excel**: XLS, XLSX, XLSB, XLSM
-                * **PowerPoint**: PPT, PPTX, PPS, PPSX
-                * **Outlook**: EML, EMLX
-                * **Visio**: VSS, VST, VSD, VSDX
+                * **Word**: [DOC](/annotation/java/add/doc/), [DOCX](/annotation/java/add/docx/), [DOCM](/annotation/java/add/docm/), [DOT](/annotation/java/add/dot/), [DOTX](/annotation/java/add/dotx/), [RTF](/annotation/java/add/rtf/)
+                * **Excel**: [XLS](/annotation/java/add/xls/), [XLSX](/annotation/java/add/xlsx/), [XLSB](/annotation/java/add/xlsb/), [XLSM](/annotation/java/add/xlsm/)
+                * **PowerPoint**: [PPT](/annotation/java/add/ppt/), [PPTX](/annotation/java/add/pptx/), [PPS](/annotation/java/add/pps/), [PPSX](/annotation/java/add/ppsx/), [POTM](/annotation/java/add/potm/), [POTX](/annotation/java/add/potx/), [PPSM](/annotation/java/add/ppsm/), [PPTM](/annotation/java/add/pptm/), [WMF](/annotation/java/add/wmf/), [EMF](/annotation/java/add/emf/)
+                * **Outlook**: [EML](/annotation/java/add/eml/), [EMLX](/annotation/java/add/emlx/), [MSG](/annotation/java/add/msg/)
+                * **Visio**: [VSS](/annotation/java/add/vss/), [VST](/annotation/java/add/vst/), [VSD](/annotation/java/add/vsd/), [VSDX](/annotation/java/add/vsdx/), [VSX](/annotation/java/add/vsx/)
 
         right:
           enable: true
@@ -108,11 +113,11 @@ overview:
             # table loop
             - title: "Другие форматы"
               content: |
-                * **Портативный**: PDF (PDF/A-1a, PDF/A-1b, PDF/A-2a)
-                * **OpenDocument**: ODT, ODS, ODP
-                * **Изображения**: BMP, JPG, TIFF, TIF, PNG
-                * **AutoCAD**: DWG, DXF
-                * **Другое**: HTML
+                * **Portable**: [PDF](/annotation/java/add/pdf/) (PDF/A-1a, PDF/A-1b, PDF/A-2a)
+                * **OpenDocument**: [ODT](/annotation/java/add/odt/), [ODS](/annotation/java/add/ods/), [ODP](/annotation/java/add/odp/)
+                * **Images**: [BMP](/annotation/java/add/bmp/), [JPG](/annotation/java/add/jpg/), [JPEG](/annotation/java/add/jpeg/), [TIFF](/annotation/java/add/tiff/), [TIF](/annotation/java/add/tif/), [PNG](/annotation/java/add/png/), [GIF](/annotation/java/add/gif/), [DCM](/annotation/java/add/dcm/), [DICOM](/annotation/java/add/dicom/)
+                * **AutoCAD**: [DWG](/annotation/java/add/dwg/), [DXF](/annotation/java/add/dxf/), [CAD](/annotation/java/add/cad/)
+                * **Other**: [HTM](/annotation/java/add/htm/), [HTML](/annotation/java/add/html/), [CSV](/annotation/java/add/csv/), [DJVU](/annotation/java/add/djvu/), [OTP](/annotation/java/add/otp/), [OTT](/annotation/java/add/ott/)
 
       ## TAB THREE ##
       tab_three:
@@ -153,7 +158,7 @@ overview:
               content: |
                 * Мавен
 
-############################# Функции ############################
+############################# Features ############################
 features:
     enable: true
     title: "GroupDocs.Annotation для функций Java"
@@ -291,7 +296,7 @@ support:
 ############################# Solutions ############################
 solutions:
     enable: true
-    title: "GroupDocs.Annotation предлагает API для просмотра документов для других популярных сред разработки."
+    title: "GroupDocs.Annotation offers document viewing APIs for other popular development environments"
 
     solution:
         # solution loop

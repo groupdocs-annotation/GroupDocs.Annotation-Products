@@ -1,85 +1,118 @@
+
 ---
 ############################# Static ############################
-layout: "auto-gen-annotation"
-date: 2021-05-13T12:44:43+03:00
+layout: "auto-gen" ###_DIMA_### layout: "auto-gen-annotation"
+date: 2022-07-05T12:44:18+03:00
 draft: false
+
+###_DIMA_### link rel="canonical" href="https://products.groupdocs.com/annotation/java/remove/docx"/>
+
 ############################# Head ############################
-head_title: "Удалить аннотации из DOCX в приложениях Java"
-head_description: "Javaannotation API для удаления популярных типов аннотаций из DOCX, изображений, рисунков и форматов файлов документов."
+head_title: "Удаление Аннотаций с DOCX в Java приложении"
+head_description: "Java API для создания и Удаление популярных типов аннотаций с DOCX, изображения, чертежи и форматы файлов документов."
+
 ############################# Header ############################
-title: "Удалить аннотации из DOCX в Java"
-description: "Удаляйте уже добавленные аннотации из Microsoft Office, изображений, рисунков, HTML и других форматов файлов документов в любом типе приложения Java."
+title: "Удаление DOCX файла с Java"
+description: ""
 bg_image: "https://cms.admin.containerize.com/templates/aspose/App_Themes/V3/images/bg/header1.png"
 bg_overlay: false
 button:
     enable: true
     icon: "fas fa-arrow-down"
-    label: "Скачать бесплатную пробную версию"
+    label: "Download Free Trial"
     link: "https://downloads.groupdocs.com/annotation/java"
+
 ############################# SubMenu ############################
 submenu:
     enable: true
+
     left:
-        img_alt: "GroupDocs.Annotation for Java"
+        img_alt: "GroupDocs.Annotation для Java"
         image: "https://cms.admin.containerize.com/templates/groupdocs/images/product-logos/90x90-noborder/groupdocs-annotation-java.png"
         product: "GroupDocs.Annotation"
         platform: "Java"
+
     middle:
         button:
             # button loop
             - link: "https://apireference.groupdocs.com/annotation/java"
-              text: "Справочник по API"
+              text: "API Reference"
             # button loop
             - link: "https://github.com/groupdocs-annotation"
-              text: "Примеры кода"
+              text: "Code Examples"
             # button loop
             - link: "https://products.groupdocs.app/annotation/family"
-              text: "Живые демонстрации"
+              text: "Live Demos"
             # button loop
             - link: "https://purchase.groupdocs.com/pricing/annotation/java"
-              text: "Цены"
+              text: "Pricing"
+
     right:
         link_download: "https://downloads.groupdocs.com/annotation"
         link_learn: "https://docs.groupdocs.com/annotation/java"
         link_buy: "https://purchase.groupdocs.com"
+
 ############################# About ############################
 about:
     enable: true
     title: "О GroupDocs.Annotation для Java API"
     content: |
-        [GroupDocs.Annotation for Java](/ru/annotation/java/) — это встроенная библиотека управления аннотациями Java для просмотра, [добавления](/annotation/java/add/docx/), обновления, удаления, [извлечения](/annotation/java/extract/docx/) или экспорта аннотаций из изображений и форматов файлов документов. Пользователи могут легко удалять комментарии, заметки, примечания и различные типы аннотаций, включая текст, графику и водяные знаки, в файлах PDF, HTML, Word, Excel, Visio, презентациях, рисунках, изображениях и многих других форматах. Функция обработки аннотаций может точно считывать аннотации из импортированных документов и позволяет экспортировать обратно в исходный или желаемый формат файла после выполнения настройки.
+        GroupDocs.Annotation for Java API это библиотека которая позволяет добавлять аннотации к файлам PDF, Word и другим документам на Mac, Windows или Ubuntu. [GroupDocs.Annotation для [PLATFORM]](/ru/annotation/java/) это собственный Java API для управления аннотациями с комплексной поддержкой для создания, добавления, редактирования, удаления, извлечения и экспорта аннотаций из изображений и других документов, весь список поддерживаемых документов вы можете посмотреть на [странице](https://docs.groupdocs.com/annotation/java/supported-document-formats/).
+
+        Эта библиотека позволяет работать не только с DOCX но также и со многими другими форматами, такими как Word, Excel, PowerPoint, Outlook emails, Visio, Adobe, OpenDocument, OpenOffice, AutoCad и еще множеством других форматов.
+
+        GroupDocs.Annotation for Java API позволяет создавать и [добавлять](/ru/annotation/java/add/docx/) новые заметки, [редактировать](/ru/annotation/java/edit/docx/) аннотации, [извлекать](/ru/annotation/java/extract/docx/) комментарии, примечания и удалять их из документов. Библиотека поддерживает 13 различных типов аннотаций, включая Text, Polyline, Area, Underline, Point, Watermark, Arrow, Ellipse, Text Replacement, Distance, Text Field, Resource Redaction в документах PDF, HTML, Microsoft Word, электронных таблицах, диаграммах, презентациях, рисунках, изображениях и многих других форматах файлов.
+
+        В примере ниже продемонстрирована работа с DOCX документом. В этом примере вы видите основные шаги в работе с GroupDocs.Annotation: установка лицензии, открытие файла для работы, создание аннотации, добавление объектов данных для настройки свойств аннотаций в соответствии с вашими требованиями и сохранение результата в нужное место. Более детально ознакомиться с возможностями библиотеки вы можете посмотрев наш [github](https://github.com/groupdocs-annotation/GroupDocs.Annotation-for-Java)-аккаунт, или в нашей [документации](https://docs.groupdocs.com/annotation/java/getting-started/) к продутку.
+
 ############################# Steps ############################
 howTo:
 steps:
     enable: true
-    title_left: "Шаги по удалению аннотаций из DOCX в Java"
+    title_left: "Шаги по Удаление аннотаций с DOCX in Java"
     content_left: |
-        [GroupDocs.Annotation](/ru/annotation/java/) упрощает разработчикам Java удаление деталей аннотаций из файлов DOCX в любом Java-приложении, выполняя несколько простых шагов.
+        [GroupDocs.Annotation](/annotation/java/) [GroupDocs.Annotation](/ru/annotation/java упрощает разработчикам Java удаление деталей аннотаций из файлов DOCX в любом приложении на основе Java за счет выполнения нескольких простых шагов.
+        
         * Создание объектов ответа с комментарием и датой.
         * Создайте экземпляр объекта SaveOptions и установите AnnotationTypes = AnnotationType.None.
         * Вызовите метод сохранения с результирующим путем или потоком документа и объектом SaveOptions.
+    
     title_right: "Системные Требования"
     content_right: |
         API GroupDocs.Annotation для Java поддерживаются на всех основных платформах и операционных системах. Перед выполнением приведенного ниже кода убедитесь, что в вашей системе установлены следующие предварительные компоненты.
+        
         * Операционные системы: Microsoft Windows, Linux, MacOS
         * Среда разработки: NetBeans, Intellij IDEA, Eclipse и т. д.
         * Среда выполнения Java: Java 7 (1.7) и выше
         * Получите последнюю версию GroupDocs.Annotation для Java из [репозитория артефактов GroupDocs](https://repository.groupdocs.com/webapp/#/artifacts/browse/tree/General/repo/com/groupdocs/groupdocs-annotation)
+    
+
+############################# Preview ############################
+preview:
+    enable: true
+    
     code: |
         ```java
-        Annotator annotator = new Annotator("C://input.docx");
+        // Создание экземпляра класса Annotator
+        Annotator annotator = new Annotator("C://input.bmp");
+        
+        // Удаление аннотации по заданному типу None 
         SaveOptions saveOptions = new SaveOptions();
         saveOptions.setAnnotationTypes(AnnotationType.None);
-        annotator.save("C://output.docx", saveOptions);
+        
+        // Сохранение аннотации в выходном файле
+        annotator.save("C://output.bmp", saveOptions);
         annotator.dispose();
         ```
+
 ############################# Demos ############################
 demos:
     enable: true
     title: "Живые демонстрации для удаления аннотаций из документов и изображений"
     content: |
-        Просмотрите и удалите аннотации из файла DOCX прямо сейчас, посетив [живые демонстрации](https://products.groupdocs.app/annotation/family). 
+        Просмотрите и удалите аннотации из файла DOCX прямо сейчас, посетив [живые демонстрации](https://products.groupdocs.app/annotation/family).
         Живая демонстрация имеет следующие преимущества
+
 ############################# About Formats ############################
 about_formats:
     enable: true
@@ -89,154 +122,191 @@ about_formats:
           title: "О формате файла DOCX"
           content: |
             DOCX — широко известный формат документов Microsoft Word. Представленный в 2007 году с выпуском Microsoft Office 2007, структура этого нового формата документа была изменена с простого двоичного файла на комбинацию XML и двоичных файлов. Файлы Docx можно открывать в Word 2007 и его более поздних версиях, но не в более ранних версиях MS Word, которые поддерживают расширения файлов DOC.
-          link: "https://docs.fileformat.com/word-processing/docx/"
+          link: "https://docs.fileformat.com/image/docx/"
+
 ############################# More Formats ############################
 more_formats:
     enable: true
-    title: "Редактирование аннотаций из файлов других популярных форматов"
+    title: "Удвление аннотаций из файлов других популярных форматов"
     content: |
-        Java API для удаления аннотаций из документов и форматов файлов изображений. Удалите свойства аннотаций из некоторых популярных форматов файлов, как указано ниже.
-    format: 
+        Библиотека управления аннотациями Java для документов и форматов изображений. Добавьте свойства аннотации к некоторым популярным форматам файлов, как указано ниже.
+    format:
         # format loop
-        - name: "Удалить аннотацию из PDF"
-          link: "/annotation/java/remove/pdf/"
+        - name: "Удаление Annotation с PDF"
+          link: "https://products.groupdocs.com/annotation/java/remove/pdf/"
           description: "Adobe Portable Document Format"
+
         # format loop
-        - name: "Удалить аннотацию из DOC"
-          link: "/annotation/java/remove/doc/"
-          description: "Документ Microsoft Word"
+        - name: "Удаление Annotation с DOC"
+          link: "https://products.groupdocs.com/annotation/java/remove/doc/"
+          description: "Microsoft Word Document"
+
         # format loop
-        - name: "Удалить аннотацию из DOCM"
-          link: "/annotation/java/remove/docm/"
-          description: "Документ Microsoft Word с поддержкой макросов"
+        - name: "Удаление Annotation с DOCM"
+          link: "https://products.groupdocs.com/annotation/java/remove/docm/"
+          description: "Microsoft Word Macro-Enabled Document"
+
         # format loop
-        - name: "Удалить аннотацию из DOT"
-          link: "/annotation/java/remove/dot/"
-          description: "Шаблон документа Microsoft Word"
+        - name: "Удаление Annotation с DOCX"
+          link: "https://products.groupdocs.com/annotation/java/remove/docx/"
+          description: "Microsoft Word Open XML Document"
+
         # format loop
-        - name: "Удалить аннотацию из DOTX"
-          link: "/annotation/java/remove/dotx/"
-          description: "Шаблон документа Word Open XML"
+        - name: "Удаление Annotation с DOT"
+          link: "https://products.groupdocs.com/annotation/java/remove/dot/"
+          description: "Microsoft Word Document Template"
+
         # format loop
-        - name: "Удалить аннотацию из RTF"
-          link: "/annotation/java/remove/rtf/"
-          description: "Форматированный текстовый документ"
+        - name: "Удаление Annotation с DOTX"
+          link: "https://products.groupdocs.com/annotation/java/remove/dotx/"
+          description: "Word Open XML Document Template"
+
         # format loop
-        - name: "Удалить аннотацию из ODT"
-          link: "/annotation/java/remove/odt/"
-          description: "Открыть текст документа"
+        - name: "Удаление Annotation с RTF"
+          link: "https://products.groupdocs.com/annotation/java/remove/rtf/"
+          description: "Rich Text Document"
+
         # format loop
-        - name: "Удалить аннотацию из XLS"
-          link: "/annotation/java/remove/xls/"
-          description: "Формат двоичного файла Microsoft Excel"
+        - name: "Удаление Annotation с ODT"
+          link: "https://products.groupdocs.com/annotation/java/remove/odt/"
+          description: "Open Document Text"
+
         # format loop
-        - name: "Удалить аннотацию из XLSX"
-          link: "/annotation/java/remove/xlsx/"
-          description: "Электронная таблица Microsoft Excel Open XML"
+        - name: "Удаление Annotation с XLS"
+          link: "https://products.groupdocs.com/annotation/java/remove/xls/"
+          description: "Microsoft Excel Binary File Format"
+
         # format loop
-        - name: "Удалить аннотацию из XLSM"
-          link: "/annotation/java/remove/xlsm/"
-          description: "Электронная таблица Microsoft Excel с поддержкой макросов"
+        - name: "Удаление Annotation с XLSX"
+          link: "https://products.groupdocs.com/annotation/java/remove/xlsx/"
+          description: "Microsoft Excel Open XML Spreadsheet"
+
         # format loop
-        - name: "Удалить аннотацию из XLSB"
-          link: "/annotation/java/remove/xlsb/"
-          description: "Двоичный лист Microsoft Excel"
+        - name: "Удаление Annotation с XLSM"
+          link: "https://products.groupdocs.com/annotation/java/remove/xlsm/"
+          description: "Microsoft Excel Macro-Enabled Spreadsheet"
+
         # format loop
-        - name: "Удалить аннотацию из ODS"
-          link: "/annotation/java/remove/ods/"
-          description: "Открыть электронную таблицу документов"
+        - name: "Удаление Annotation с XLSB"
+          link: "https://products.groupdocs.com/annotation/java/remove/xlsb/"
+          description: "Microsoft Excel Binary Worksheet"
+
         # format loop
-        - name: "Удалить аннотацию из PPT"
-          link: "/annotation/java/remove/ppt/"
-          description: "Презентация PowerPoint"
+        - name: "Удаление Annotation с ODS"
+          link: "https://products.groupdocs.com/annotation/java/remove/ods/"
+          description: "Open Document Spreadsheet"
+
         # format loop
-        - name: "Удалить аннотацию из PPTX"
-          link: "/annotation/java/remove/pptx/"
-          description: "Презентация PowerPoint Open XML"
+        - name: "Удаление Annotation с PPT"
+          link: "https://products.groupdocs.com/annotation/java/remove/ppt/"
+          description: "PowerPoint Presentation"
+
         # format loop
-        - name: "Удалить аннотацию из PPSX"
-          link: "/annotation/java/remove/ppsx/"
-          description: "Слайд-шоу PowerPoint Open XML"
+        - name: "Удаление Annotation с PPTX"
+          link: "https://products.groupdocs.com/annotation/java/remove/pptx/"
+          description: "PowerPoint Open XML Presentation"
+
         # format loop
-        - name: "Удалить аннотацию из POTM"
-          link: "/annotation/java/remove/potm/"
-          description: "Шаблон Microsoft PowerPoint"
+        - name: "Удаление Annotation с PPSX"
+          link: "https://products.groupdocs.com/annotation/java/remove/ppsx/"
+          description: "PowerPoint Open XML Slide Show"
+
         # format loop
-        - name: "Удалить аннотацию из PPTM"
-          link: "/annotation/java/remove/pptm/"
-          description: "Презентация Microsoft PowerPoint"
+        - name: "Удаление Annotation с POTM"
+          link: "https://products.groupdocs.com/annotation/java/remove/potm/"
+          description: "Microsoft PowerPoint Template"
+
         # format loop
-        - name: "Удалить аннотацию из PPS"
-          link: "/annotation/java/remove/pps/"
-          description: "Слайд-шоу Microsoft PowerPoint 97-2003"
+        - name: "Удаление Annotation с PPTM"
+          link: "https://products.groupdocs.com/annotation/java/remove/pptm/"
+          description: "Microsoft PowerPoint Presentation"
+
         # format loop
-        - name: "Удалить аннотацию из ODP"
-          link: "/annotation/java/remove/odp/"
-          description: "Презентация OpenDocument"
+        - name: "Удаление Annotation с PPS"
+          link: "https://products.groupdocs.com/annotation/java/remove/pps/"
+          description: "Microsoft PowerPoint 97-2003 Slide Show"
+
         # format loop
-        - name: "Удалить аннотацию из HTML"
-          link: "/annotation/java/remove/html/"
-          description: "Язык гипертекстовой разметки"
+        - name: "Удаление Annotation с ODP"
+          link: "https://products.groupdocs.com/annotation/java/remove/odp/"
+          description: "OpenDocument Presentation"
+
         # format loop
-        - name: "Удалить аннотацию из TIFF"
-          link: "/annotation/java/remove/tiff/"
-          description: "Формат файла изображения с тегами"
+        - name: "Удаление Annotation с HTML"
+          link: "https://products.groupdocs.com/annotation/java/remove/html/"
+          description: "HyperText Markup Language"
+
         # format loop
-        - name: "Удалить аннотацию из JPEG"
-          link: "/annotation/java/remove/jpeg/"
-          description: "Изображение в формате JPEG"
+        - name: "Удаление Annotation с TIFF"
+          link: "https://products.groupdocs.com/annotation/java/remove/tiff/"
+          description: "Tagged Image File Format"
+
         # format loop
-        - name: "Удалить аннотацию из PNG"
-          link: "/annotation/java/remove/png/"
-          description: "Портативная сетевая графика"
+        - name: "Удаление Annotation с JPEG"
+          link: "https://products.groupdocs.com/annotation/java/remove/jpeg/"
+          description: "JPEG Image"
+
         # format loop
-        - name: "Удалить аннотацию из BMP"
-          link: "/annotation/java/remove/bmp/"
-          description: "Формат растрового файла"
+        - name: "Удаление Annotation с PNG"
+          link: "https://products.groupdocs.com/annotation/java/remove/png/"
+          description: "Portable Network Graphic"
+
         # format loop
-        - name: "Удалить аннотацию из EML"
-          link: "/annotation/java/remove/eml/"
-          description: "Сообщение электронной почты"
+        - name: "Удаление Annotation с EML"
+          link: "https://products.groupdocs.com/annotation/java/remove/eml/"
+          description: "E-mail Message"
+
         # format loop
-        - name: "Удалить аннотацию из MSG"
-          link: "/annotation/java/remove/msg/"
-          description: "Сообщение электронной почты Microsoft Outlook"
+        - name: "Удаление Annotation с MSG"
+          link: "https://products.groupdocs.com/annotation/java/remove/msg/"
+          description: "Microsoft Outlook E-mail Message"
+
         # format loop
-        - name: "Удалить аннотацию из VSD"
-          link: "/annotation/java/remove/vsd/"
-          description: "Чертеж Microsoft Visio 2003-2010"
+        - name: "Удаление Annotation с VSD"
+          link: "https://products.groupdocs.com/annotation/java/remove/vsd/"
+          description: "Microsoft Visio 2003-2010 Drawing"
+
         # format loop
-        - name: "Удалить аннотацию из VSDX"
-          link: "/annotation/java/remove/vsdx/"
-          description: "Рисование Microsoft Visio"
+        - name: "Удаление Annotation с VSDX"
+          link: "https://products.groupdocs.com/annotation/java/remove/vsdx/"
+          description: "Microsoft Visio Drawing"
+
         # format loop
-        - name: "Удалить аннотацию из VSS"
-          link: "/annotation/java/remove/vss/"
-          description: "Трафарет Microsoft Visio 2003-2010"
+        - name: "Удаление Annotation с VSS"
+          link: "https://products.groupdocs.com/annotation/java/remove/vss/"
+          description: "Microsoft Visio 2003-2010 Stencil"
+
         # format loop
-        - name: "Удалить аннотацию из VST"
-          link: "/annotation/java/remove/vst/"
-          description: "Трафарет Microsoft Visio 2013"
+        - name: "Удаление Annotation с VST"
+          link: "https://products.groupdocs.com/annotation/java/remove/vst/"
+          description: "Microsoft Visio 2013 Stencil"
+
         # format loop
-        - name: "Удалить аннотацию из DWG"
-          link: "/annotation/java/remove/dwg/"
-          description: "Форматы проектных данных Autodesk"
+        - name: "Удаление Annotation с DWG"
+          link: "https://products.groupdocs.com/annotation/java/remove/dwg/"
+          description: "Autodesk Design Data Formats"
+
         # format loop
-        - name: "Удалить аннотацию из DXF"
-          link: "/annotation/java/remove/dxf/"
-          description: "Обмен чертежами AutoCAD"
+        - name: "Удаление Annotation с DXF"
+          link: "https://products.groupdocs.com/annotation/java/remove/dxf/"
+          description: "AutoCAD Drawing Interchange"
+
         # format loop
-        - name: "Удалить аннотацию из DCM"
-          link: "/annotation/java/remove/dcm/"
-          description: "Цифровая визуализация и коммуникации в медицине"
+        - name: "Удаление Annotation с DCM"
+          link: "https://products.groupdocs.com/annotation/java/remove/dcm/"
+          description: "Digital Imaging and Communications in Medicine"
+
         # format loop
-        - name: "Удалить аннотацию из WMF"
-          link: "/annotation/java/remove/wmf/"
-          description: "Метафайл Windows"
+        - name: "Удаление Annotation с WMF"
+          link: "https://products.groupdocs.com/annotation/java/remove/wmf/"
+          description: "Windows Metafile"
+
         # format loop
-        - name: "Удалить аннотацию из EMF"
-          link: "/annotation/java/remove/emf/"
-          description: "Расширенный формат метафайла"
+        - name: "Удаление Annotation с EMF"
+          link: "https://products.groupdocs.com/annotation/java/remove/emf/"
+          description: "Enhanced Metafile Format"
+
+
 ############################# Back to top ###############################
 back_to_top:
     enable: true

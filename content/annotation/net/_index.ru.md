@@ -1,21 +1,21 @@
 ---
 ############################# Static ############################
 layout: "product"
-date: 2021-04-27T09:31:06+03:00
+date: 2022-07-05T12:44:18+03:00
 draft: false
 
 product: "Annotation"
 product_tag: "annotation"
-platform: ".NET"
+platform: "Net"
 platform_tag: "net"
 
 ############################# Head ############################
-head_title: "API аннотации документов C# .NET | Аннотирование файлов изображений PDF Word Excel PPTX"
-head_description: "API аннотации документов C# .NET. Просмотр, теги, комментарии и аннотации PDF Word DOC DOCX, Excel XLS XLSX, PPT PPTX, OTP, CAD, EMF WMF и файлы изображений."
+head_title: "API аннотации документов Net | Просмотр и комментирование изображений PDF Word Excel PPTX"
+head_description: "API аннотаций документов Net. Просмотр, теги, комментарии и аннотации PDF Word DOCX, Excel XLSX, PPTX, EML EMLX, VSS VSD, OTP, CAD и форматы файлов изображений."
 
 ############################# Header ############################
-title: "Аннотировать текст или изображения в документах"
-description: "Расширьте возможности своих приложений .NET, чтобы добавлять, редактировать и удалять все популярные типы аннотаций из более чем 50 форматов документов для более простой и эффективной совместной работы.."
+title: "Аннотации документов через Net API"
+description: "Создавайте приложения Net с возможностями просмотра и комментирования документов PDF, HTML, MS Office и других форматов без установки какого-либо внешнего программного обеспечения."
 button:
     enable: true
     icon: "fas fa-arrow-down"
@@ -27,10 +27,10 @@ submenu:
     enable: true
     
     left:
-        img_alt: "GroupDocs.Annotation for .NET"
-        image: "/border/groupdocs-annotation-net.svg"
+        img_alt: "GroupDocs.Annotation для Net"
+        image: "https://www.groupdocs.cloud/templates/groupdocs/images/product-logos/groupdocs-annotation-net.png"
         product: "GroupDocs.Annotation"
-        platform: ".NET"
+        platform: "Net"
 
     middle:
         button:
@@ -44,34 +44,42 @@ submenu:
 
             # button loop
             - link: "#support"
-              text: "Support"
+              text: "Поддержка"
 
             # button loop
             - link: "https://products.groupdocs.app/annotation"
-              text: "Live Demo"
+              text: "Демонстрация"
 
             # button loop
             - link: "https://purchase.groupdocs.com/pricing/annotation/net"
-              text: "Pricing"
+              text: "Цена"
 
     right:
         link_download: "https://downloads.groupdocs.com/annotation"
         link_learn: "https://docs.groupdocs.com/annotation/net/"
         link_buy: "https://purchase.groupdocs.com"
 
-############################# Обзор ############################
+############################# Overview ############################
 overview:
     enable: true
     content: |
-      GroupDocs.Annotation для .NET — это полный набор API-интерфейсов, который помогает создавать приложения для управления аннотациями документов на C#, ASP.NET и других связанных технологиях .NET. Вы можете создавать и работать со всеми популярными типами аннотаций, такими как область, точка, текст, эллипс, ссылка, подчеркивание, полилиния, стрелка, расстояние, водяной знак, изображение и т. д. для PDF, HTML, Microsoft Office Word, электронных таблиц Excel, презентаций PowerPoint, Visio, изображения, чертежи САПР и различные другие форматы. Библиотека аннотаторов документов позволяет экспортировать документы после добавления аннотаций, комментариев или выделенных заметок обратно в исходный формат. Он также дает вам удобный набор объектов данных, с помощью которых вы можете настраивать аннотации в соответствии с вашими требованиями.
+      GroupDocs.Annotation Net API это продукт который дает возможность работать с аннотациями в документах на разных платформах и в разных операционных системах, таких как: Android, MacOS, Linux, Windows. GroupDocs.Annotation предоставляет библиотеку с простым и понятным API. Вы можете работать с защищенными паролем документами, генерировать графические представления документов разных разрешений, вращать документы, скрывать части документов, гибко манипулировать с параметрами аннотаций и многое другое.
+
+        GroupDocs.Annotation for Net API повзовляет  работать с разными типами аннотаций такими как: Text, Polyline, Area, Underline, Point, Watermark, Arrow, Ellipse, Text Replacement, Distance, Text Field, Resource Redaction etc. Для таких наиболее популярных форматов документов как: PDF, HTML, Microsoft Office Word, Excel spreadsheets, PowerPoint presentations, Visio, Outlook emails, images, metafiles, CAD drawing and various other formats. API предоставляет возможность получать миниатюры страниц документа и поддерживает импорт и экспорт аннотаций в файлы PDF и из них.
+
+        С помощью библиотеки вы можете [добавлять](/annotation/net/add/bmp/) новые аннотации, [редактировать](/annotation/net/edit/bmp/), [извлекать](/annotation/[PLATFORM_URL]/extract/bmp/), [удалять](/annotation/net/remove/bmp/) из документов - вот это далеко не полный список всех возможностей. Также библиотека предоставляет полный набор объектов данных для настройки свойств аннотаций в соответствии с вашими требованиями во всех поддерживаемых форматах документов. 
+
+        Работа с GroupDocs.Annotation for Net API очень простая, и состоит всего из нескольких основных шагов. Для начала вам нужно установить лицензию, потом выбрать файл с которым вы хотите работать, дальше выбрать нужное действие с аннотацией (удалить/редактировать/извлечь/удалить) и сохранить в нужное место. Так же у нас есть [документация](https://docs.groupdocs.com/annotation/net/getting-started/) по продутку и много [примеров](https://github.com/groupdocs-annotation/GroupDocs.Annotation-for-.Net) по работе с аннотациями.
+
+        GroupDocs.Annotation регулярно обновляется и предоставляет для своих клиентов поддержку, вы можете задавать нам вопросы или присылать свои идеи или рассказывать про свои потребновсть в чем то новом и мы с радостью это реализуем в наших новых версиях.
     tabs:
       enable: true
       
       ## TAB ONE ##
       tab_one:
         description: |
-          Ниже приведен обзор GroupDocs.Annotation для .NET:
-
+          Ниже приводится обзор GroupDocs.Annotation для Net:
+      
         right:
           enable: true
           icon: "fab fa-html5"
@@ -79,25 +87,25 @@ overview:
           content: |
             * Добавить аннотации
             * Экспорт аннотаций
-            * Импорт аннотаций            
+            * Импорт аннотаций
             * Комментарии на основе ответов
             * Совместимость аннотаций
       
       ## TAB TWO ##
       tab_two:
         description: |
-          GroupDocs.Annotation для .NET поддерживает все популярные [форматы файлов документов](https://docs.groupdocs.com/annotation/net/supported-document-formats/), включая: Microsoft Office, PDF, изображения и многие другие.
-
+          GroupDocs.Annotation для Net поддерживает все популярные [форматы файлов документов](https://docs.groupdocs.com/annotation/net/supported-document-formats/), включая: Microsoft Office, PDF, изображения и многие другие.
         left:
           enable: true
           table:
             # table loop
-            - title: "Форматы Microsoft Office"
+            - title: "Microsoft Office Formats"
               content: |
-                * **Microsoft Word**: DOC, DOCX, DOCM, DOT, DOTX, DOTM, RTF 
-                * **Microsoft Excel**: XLS, XLSX, XLSM, XLSB, CSV
-                * **Microsoft PowerPoint**: PPT, PPTX, PPS, PPSX
-                * **Microsoft Visio**: VSD, VSS, VSDX, VST, VSDM, VSSX, VSTM
+                * **Word**: [DOC](/annotation/net/add/doc/), [DOCX](/annotation/net/add/docx/), [DOCM](/annotation/net/add/docm/), [DOT](/annotation/net/add/dot/), [DOTX](/annotation/net/add/dotx/), [RTF](/annotation/net/add/rtf/)
+                * **Excel**: [XLS](/annotation/net/add/xls/), [XLSX](/annotation/net/add/xlsx/), [XLSB](/annotation/net/add/xlsb/), [XLSM](/annotation/net/add/xlsm/)
+                * **PowerPoint**: [PPT](/annotation/net/add/ppt/), [PPTX](/annotation/net/add/pptx/), [PPS](/annotation/net/add/pps/), [PPSX](/annotation/net/add/ppsx/), [POTM](/annotation/net/add/potm/), [POTX](/annotation/net/add/potx/), [PPSM](/annotation/net/add/ppsm/), [PPTM](/annotation/net/add/pptm/), [WMF](/annotation/net/add/wmf/), [EMF](/annotation/net/add/emf/)
+                * **Outlook**: [EML](/annotation/net/add/eml/), [EMLX](/annotation/net/add/emlx/), [MSG](/annotation/net/add/msg/)
+                * **Visio**: [VSS](/annotation/net/add/vss/), [VST](/annotation/net/add/vst/), [VSD](/annotation/net/add/vsd/), [VSDX](/annotation/net/add/vsdx/), [VSX](/annotation/net/add/vsx/)
 
         right:
           enable: true
@@ -105,19 +113,17 @@ overview:
             # table loop
             - title: "Другие форматы"
               content: |
-                * **Портативный**: PDF (PDF/A-1a, PDF/A-1b, PDF/A-2a)
-                * **OpenDocument**: ODT, ODS, ODP
-                * **Изображения**: BMP, JPEG, PNG, TIFF
-                * **AutoCAD**: DWG, DXF
-                * **Метафайлы**: EMF, WMF
-                * **Электронная почта**: EML, EMLX
-                * **Интернет**: HTM, HTML
+                * **Portable**: [PDF](/annotation/net/add/pdf/) (PDF/A-1a, PDF/A-1b, PDF/A-2a)
+                * **OpenDocument**: [ODT](/annotation/net/add/odt/), [ODS](/annotation/net/add/ods/), [ODP](/annotation/net/add/odp/)
+                * **Images**: [BMP](/annotation/net/add/bmp/), [JPG](/annotation/net/add/jpg/), [JPEG](/annotation/net/add/jpeg/), [TIFF](/annotation/net/add/tiff/), [TIF](/annotation/net/add/tif/), [PNG](/annotation/net/add/png/), [GIF](/annotation/net/add/gif/), [DCM](/annotation/net/add/dcm/), [DICOM](/annotation/net/add/dicom/)
+                * **AutoCAD**: [DWG](/annotation/net/add/dwg/), [DXF](/annotation/net/add/dxf/), [CAD](/annotation/net/add/cad/)
+                * **Other**: [HTM](/annotation/net/add/htm/), [HTML](/annotation/net/add/html/), [CSV](/annotation/net/add/csv/), [DJVU](/annotation/net/add/djvu/), [OTP](/annotation/net/add/otp/), [OTT](/annotation/net/add/ott/)
 
       ## TAB THREE ##
       tab_three:
         description: |
-          GroupDocs.Annotation for .NET поддерживает следующие Операционные системы, Frameworks & Менеджер пакетовs:
-        
+          GroupDocs.Annotation для Net поддерживает следующие операционные системы, платформы и менеджеры пакетов:
+      
         left:
           enable: true
           table:
@@ -159,10 +165,10 @@ overview:
                 * Xamarin.Mac
                 * МоноДевелопмент
 
-############################# Функции ############################
+############################# Features ############################
 features:
     enable: true
-    title: "GroupDocs.Annotation для функций .NET"
+    title: "GroupDocs.Annotation для функций Net"
 
     feature:
       # feature loop
@@ -315,7 +321,7 @@ support:
 ############################# Solutions ############################
 solutions:
     enable: true
-    title: "GroupDocs.Annotation предлагает API для просмотра документов для других популярных сред разработки."
+    title: "GroupDocs.Annotation offers document viewing APIs for other popular development environments"
 
     solution:
         # solution loop

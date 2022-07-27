@@ -1,75 +1,105 @@
+
 ---
 ############################# Static ############################
-layout: "auto-gen-annotation"
-date: 2021-05-13T12:44:34+03:00
+layout: "auto-gen" ###_DIMA_### layout: "auto-gen-annotation"
+date: 2022-07-05T12:44:18+03:00
 draft: false
+
+###_DIMA_### link rel="canonical" href="https://products.groupdocs.com/annotation/java/edit/xls"/>
+
 ############################# Head ############################
-head_title: "Редактирование аннотаций файлов XLS в приложениях Java"
-head_description: "API-интерфейс редактора аннотаций Java для обновления популярных типов аннотаций из XLS, изображений, рисунков и форматов файлов документов."
+head_title: "Редактирование Аннотаций в XLS в Java приложении"
+head_description: "Java API для создания и Редактирование популярных типов аннотаций в XLS, изображения, чертежи и форматы файлов документов."
+
 ############################# Header ############################
-title: "Редактировать аннотации в файле XLS в Java"
-description: "Редактор аннотаций Java для изображений, Microsoft Office и других форматов файлов документов. Аннотируйте файлы XLS, используя 13 различных типов аннотаций, таких как; область, текст, заметки, водяной знак и т. д."
+title: "Редактирование XLS файла в Java"
+description: ""
 bg_image: "https://cms.admin.containerize.com/templates/aspose/App_Themes/V3/images/bg/header1.png"
 bg_overlay: false
 button:
     enable: true
     icon: "fas fa-arrow-down"
-    label: "Скачать бесплатную пробную версию"
+    label: "Download Free Trial"
     link: "https://downloads.groupdocs.com/annotation/java"
+
 ############################# SubMenu ############################
 submenu:
     enable: true
+
     left:
-        img_alt: "GroupDocs.Annotation for Java"
+        img_alt: "GroupDocs.Annotation для Java"
         image: "https://cms.admin.containerize.com/templates/groupdocs/images/product-logos/90x90-noborder/groupdocs-annotation-java.png"
         product: "GroupDocs.Annotation"
         platform: "Java"
+
     middle:
         button:
             # button loop
             - link: "https://apireference.groupdocs.com/annotation/java"
-              text: "Справочник по API"
+              text: "API Reference"
             # button loop
             - link: "https://github.com/groupdocs-annotation"
-              text: "Примеры кода"
+              text: "Code Examples"
             # button loop
             - link: "https://products.groupdocs.app/annotation/family"
-              text: "Живые демонстрации"
+              text: "Live Demos"
             # button loop
             - link: "https://purchase.groupdocs.com/pricing/annotation/java"
-              text: "Цены"
+              text: "Pricing"
+
     right:
         link_download: "https://downloads.groupdocs.com/annotation"
         link_learn: "https://docs.groupdocs.com/annotation/java"
         link_buy: "https://purchase.groupdocs.com"
+
 ############################# About ############################
 about:
     enable: true
     title: "О GroupDocs.Annotation для Java API"
     content: |
-        [GroupDocs.Annotation for Java](/ru/annotation/java/) — это собственное решение для управления аннотациями Java, позволяющее эффективно просматривать, [добавлять](/annotation/java/add/xls/), обновлять, [удалять](/annotation/java/remove/xls/) и [извлекать](/annotation/java/extract/xls/) аннотации из изображений и форматов файлов документов. Пользователи могут легко редактировать комментарии, заметки, примечания и различные типы аннотаций, включая текст, графику и водяные знаки, в PDF, HTML, Word, Excel, диаграммах Visio, презентациях, рисунках, изображениях и многих других форматах файлов. Функция обработки аннотаций может точно считывать аннотации из импортированных документов и позволяет экспортировать обратно в исходный или желаемый формат файла после выполнения настройки.
+        GroupDocs.Annotation for Java API это библиотека которая позволяет добавлять аннотации к файлам PDF, Word и другим документам на Mac, Windows или Ubuntu. [GroupDocs.Annotation для [PLATFORM]](/ru/annotation/java/) это собственный Java API для управления аннотациями с комплексной поддержкой для создания, добавления, редактирования, удаления, извлечения и экспорта аннотаций из изображений и других документов, весь список поддерживаемых документов вы можете посмотреть на [странице](https://docs.groupdocs.com/annotation/java/supported-document-formats/).
+
+        Эта библиотека позволяет работать не только с XLS но также и со многими другими форматами, такими как Word, Excel, PowerPoint, Outlook emails, Visio, Adobe, OpenDocument, OpenOffice, AutoCad и еще множеством других форматов.
+
+        GroupDocs.Annotation for Java API позволяет создавать и [добавлять](/ru/annotation/java/add/xls/) новые заметки, редактировать аннотации, [извлекать](/ru/annotation/java/extract/xls/) комментарии, примечания и [удалять](/ru/annotation/java/remove/xls/) их из документов. Библиотека поддерживает 13 различных типов аннотаций, включая Text, Polyline, Area, Underline, Point, Watermark, Arrow, Ellipse, Text Replacement, Distance, Text Field, Resource Redaction в документах PDF, HTML, Microsoft Word, электронных таблицах, диаграммах, презентациях, рисунках, изображениях и многих других форматах файлов.
+
+        В примере ниже продемонстрирована работа с XLS документом. В этом примере вы видите основные шаги в работе с GroupDocs.Annotation: установка лицензии, открытие файла для работы, создание аннотации, добавление объектов данных для настройки свойств аннотаций в соответствии с вашими требованиями и сохранение результата в нужное место. Более детально ознакомиться с возможностями библиотеки вы можете посмотрев наш [github](https://github.com/groupdocs-annotation/GroupDocs.Annotation-for-Java)-аккаунт, или в нашей [документации](https://docs.groupdocs.com/annotation/java/getting-started/) к продутку.
+
 ############################# Steps ############################
 howTo:
 steps:
     enable: true
-    title_left: "Шаги по редактированию аннотаций из XLS в Java"
+    title_left: "Шаги по Редактирование аннотаций в XLS in Java"
     content_left: |
-        [GroupDocs.Annotation](/ru/annotation/java/) упрощает разработчикам Java обновление различных свойств аннотаций из файлов XLS в любом приложении на основе Java за счет выполнения нескольких простых шагов.
+        [GroupDocs.Annotation](/annotation/java/) [GroupDocs.Annotation](/ru/annotation/java/) упрощает разработчикам Java обновление различных свойств аннотаций из файлов XLS в любом приложении на основе Java за счет выполнения нескольких простых шагов.
+        
         * Создание экземпляра объекта Annotator с входным путем к документу или потоком с экземпляром LoadOptions с ImportAnnotations = true.
         * Создайте некоторую реализацию AnnotationBase и установите идентификатор существующей аннотации (если аннотация с этим идентификатором не найдена, ничего не изменится) или список путей аннотаций (все существующие аннотации будут удалены).
         * Вызвать метод обновления объекта Annotator с переданными аннотациями.
         * Вызовите метод сохранения с результирующим путем или потоком документа и объектом SaveOptions.
+    
     title_right: "Системные Требования"
     content_right: |
         API GroupDocs.Annotation для Java поддерживаются на всех основных платформах и операционных системах. Перед выполнением приведенного ниже кода убедитесь, что в вашей системе установлены следующие предварительные компоненты.
+        
         * Операционные системы: Microsoft Windows, Linux, MacOS
         * Среда разработки: NetBeans, Intellij IDEA, Eclipse и т. д.
         * Среда выполнения Java: Java 7 (1.7) и выше
         * Получите последнюю версию GroupDocs.Annotation для Java из [репозитория артефактов GroupDocs](https://repository.groupdocs.com/webapp/#/artifacts/browse/tree/General/repo/com/groupdocs/groupdocs-annotation)
+    
+
+############################# Preview ############################
+preview:
+    enable: true
+    
     code: |
         ```java
-        String outputPath = "UpdateAnnotation.xls";
-        Annotator annotator = new Annotator("input.xls");
+        String outputPath = "UpdateAnnotation.bmp";
+        
+        // Создание экземпляра класса Annotator
+        Annotator annotator = new Annotator("input.bmp");
+        
+        // Создание экземпляра класса Reply для первого примера и добавляем комментарии
         Reply reply1 = new Reply();
         reply1.setComment("Original first comment");
         reply1.setRepliedOn(Calendar.getInstance().getTime());
@@ -79,6 +109,8 @@ steps:
         java.util.List replies = new ArrayList();
         replies.add(reply1);
         replies.add(reply2);
+        
+        // Создание экземпляра класса AreaAnnotation и устанавка параметров
         AreaAnnotation original = new AreaAnnotation();
         original.setId(1);
         original.setBackgroundColor(65535);
@@ -86,14 +118,17 @@ steps:
         original.setCreatedOn(Calendar.getInstance().getTime());
         original.setMessage("This is original annotation");
         original.setReplies(replies);
-        // добавить исходную аннотацию
+        
+        // Добавление исходной аннотации
         annotator.add(original);
         annotator.save(outputPath);
         annotator.dispose();
         LoadOptions loadOptions = new LoadOptions();
-        loadOptions.setImportAnnotations(true);
-        // открыть аннотированный документ
+        
+        // Открытие аннотированного документа
         Annotator annotator1 = new Annotator(outputPath, loadOptions);
+        
+        // Создание экземпляра класса Reply для обновления первого примера
         Reply reply3 = new Reply();
         reply3.setComment("Updated first comment");
         reply3.setRepliedOn(Calendar.getInstance().getTime());
@@ -103,7 +138,8 @@ steps:
         java.util.List replies1 = new ArrayList();
         replies1.add(reply3);
         replies1.add(reply4);
-        // предлагаем изменить некоторые свойства существующей аннотации
+        
+        // Изменяем некоторые свойства существующей аннотации
         AreaAnnotation updated = new AreaAnnotation();
         updated.setId(1);
         updated.setBackgroundColor(255);
@@ -111,18 +147,21 @@ steps:
         updated.setCreatedOn(Calendar.getInstance().getTime());
         updated.setMessage("This is updated annotation");
         updated.setReplies(replies1);
-        // обновить аннотацию
+        
+        // Обновляем аннотацию
         annotator1.update(updated);
         annotator1.save(outputPath);
         annotator1.dispose();
         ```
+
 ############################# Demos ############################
 demos:
     enable: true
     title: "Живые демонстрации для изменения аннотаций из документов и изображений"
     content: |
-        Читайте и редактируйте аннотации из файла XLS прямо сейчас, посетив [живые демонстрации](https://products.groupdocs.app/annotation/family).  
+        Читайте и редактируйте аннотации из файла XLS прямо сейчас, посетив [живые демонстрации](https://products.groupdocs.app/annotation/family).
         Живая демонстрация имеет следующие преимущества
+
 ############################# About Formats ############################
 about_formats:
     enable: true
@@ -132,154 +171,191 @@ about_formats:
           title: "О формате файла XLS"
           content: |
             Файлы с расширением XLS представляют собой формат двоичных файлов Excel. Такие файлы могут быть созданы Microsoft Excel, а также другими подобными программами для работы с электронными таблицами, такими как OpenOffice Calc или Apple Numbers. Файл, сохраненный Excel, известен как рабочая книга, где каждая рабочая книга может иметь один или несколько рабочих листов. Данные хранятся и отображаются для пользователей в формате таблицы на листе и могут охватывать числовые значения, текстовые данные, формулы, подключения к внешним данным, изображения и диаграммы. Такие приложения, как Microsoft Excel, позволяют экспортировать данные рабочей книги в несколько различных форматов, включая PDF, CSV, XLSX, TXT, HTML, XPS и некоторые другие. Формат файла XLS был заменен более открытым и структурированным форматом XLSX с выпуском Microsoft Excel 2007. В последних версиях по-прежнему поддерживается создание и чтение файлов XLS, хотя XLSX сейчас используется в первую очередь.
-          link: "https://docs.fileformat.com/spreadsheet/xls/"
+          link: "https://docs.fileformat.com/image/xls/"
+
 ############################# More Formats ############################
 more_formats:
     enable: true
     title: "Редактирование аннотаций из файлов других популярных форматов"
     content: |
-        API редактора аннотаций Java для документов и форматов изображений. Обновите свойства аннотаций из некоторых популярных форматов файлов, как указано ниже.
-    format: 
+        Библиотека управления аннотациями Java для документов и форматов изображений. Добавьте свойства аннотации к некоторым популярным форматам файлов, как указано ниже.
+    format:
         # format loop
-        - name: "Редактировать аннотацию из PDF"
-          link: "/annotation/java/edit/pdf/"
+        - name: "Редактирование Annotation в PDF"
+          link: "https://products.groupdocs.com/annotation/java/edit/pdf/"
           description: "Adobe Portable Document Format"
+
         # format loop
-        - name: "Редактировать аннотацию из DOC"
-          link: "/annotation/java/edit/doc/"
-          description: "Документ Microsoft Word"
+        - name: "Редактирование Annotation в DOC"
+          link: "https://products.groupdocs.com/annotation/java/edit/doc/"
+          description: "Microsoft Word Document"
+
         # format loop
-        - name: "Редактировать аннотацию из DOCM"
-          link: "/annotation/java/edit/docm/"
-          description: "Документ Microsoft Word с поддержкой макросов"
+        - name: "Редактирование Annotation в DOCM"
+          link: "https://products.groupdocs.com/annotation/java/edit/docm/"
+          description: "Microsoft Word Macro-Enabled Document"
+
         # format loop
-        - name: "Редактировать аннотацию из DOCX"
-          link: "/annotation/java/edit/docx/"
-          description: "Документ Microsoft Word с открытым XML"
+        - name: "Редактирование Annotation в DOCX"
+          link: "https://products.groupdocs.com/annotation/java/edit/docx/"
+          description: "Microsoft Word Open XML Document"
+
         # format loop
-        - name: "Редактировать аннотацию из DOT"
-          link: "/annotation/java/edit/dot/"
-          description: "Шаблон документа Microsoft Word"
+        - name: "Редактирование Annotation в DOT"
+          link: "https://products.groupdocs.com/annotation/java/edit/dot/"
+          description: "Microsoft Word Document Template"
+
         # format loop
-        - name: "Редактировать аннотацию из DOTX"
-          link: "/annotation/java/edit/dotx/"
-          description: "Шаблон документа Word Open XML"
+        - name: "Редактирование Annotation в DOTX"
+          link: "https://products.groupdocs.com/annotation/java/edit/dotx/"
+          description: "Word Open XML Document Template"
+
         # format loop
-        - name: "Редактировать аннотацию из RTF"
-          link: "/annotation/java/edit/rtf/"
-          description: "Форматированный текстовый документ"
+        - name: "Редактирование Annotation в RTF"
+          link: "https://products.groupdocs.com/annotation/java/edit/rtf/"
+          description: "Rich Text Document"
+
         # format loop
-        - name: "Редактировать аннотацию из ODT"
-          link: "/annotation/java/edit/odt/"
-          description: "Открыть текст документа"
+        - name: "Редактирование Annotation в ODT"
+          link: "https://products.groupdocs.com/annotation/java/edit/odt/"
+          description: "Open Document Text"
+
         # format loop
-        - name: "Редактировать аннотацию из XLSX"
-          link: "/annotation/java/edit/xlsx/"
-          description: "Электронная таблица Microsoft Excel Open XML"
+        - name: "Редактирование Annotation в XLS"
+          link: "https://products.groupdocs.com/annotation/java/edit/xls/"
+          description: "Microsoft Excel Binary File Format"
+
         # format loop
-        - name: "Редактировать аннотацию из XLSM"
-          link: "/annotation/java/edit/xlsm/"
-          description: "Электронная таблица Microsoft Excel с поддержкой макросов"
+        - name: "Редактирование Annotation в XLSX"
+          link: "https://products.groupdocs.com/annotation/java/edit/xlsx/"
+          description: "Microsoft Excel Open XML Spreadsheet"
+
         # format loop
-        - name: "Редактировать аннотацию из XLSB"
-          link: "/annotation/java/edit/xlsb/"
-          description: "Двоичный лист Microsoft Excel"
+        - name: "Редактирование Annotation в XLSM"
+          link: "https://products.groupdocs.com/annotation/java/edit/xlsm/"
+          description: "Microsoft Excel Macro-Enabled Spreadsheet"
+
         # format loop
-        - name: "Редактировать аннотацию из ODS"
-          link: "/annotation/java/edit/ods/"
-          description: "Открыть электронную таблицу документов"
+        - name: "Редактирование Annotation в XLSB"
+          link: "https://products.groupdocs.com/annotation/java/edit/xlsb/"
+          description: "Microsoft Excel Binary Worksheet"
+
         # format loop
-        - name: "Редактировать аннотацию из PPT"
-          link: "/annotation/java/edit/ppt/"
-          description: "Презентация PowerPoint"
+        - name: "Редактирование Annotation в ODS"
+          link: "https://products.groupdocs.com/annotation/java/edit/ods/"
+          description: "Open Document Spreadsheet"
+
         # format loop
-        - name: "Редактировать аннотацию из PPTX"
-          link: "/annotation/java/edit/pptx/"
-          description: "Презентация PowerPoint Open XML"
+        - name: "Редактирование Annotation в PPT"
+          link: "https://products.groupdocs.com/annotation/java/edit/ppt/"
+          description: "PowerPoint Presentation"
+
         # format loop
-        - name: "Редактировать аннотацию из PPSX"
-          link: "/annotation/java/edit/ppsx/"
-          description: "Слайд-шоу PowerPoint Open XML"
+        - name: "Редактирование Annotation в PPTX"
+          link: "https://products.groupdocs.com/annotation/java/edit/pptx/"
+          description: "PowerPoint Open XML Presentation"
+
         # format loop
-        - name: "Редактировать аннотацию из POTM"
-          link: "/annotation/java/edit/potm/"
-          description: "Шаблон Microsoft PowerPoint"
+        - name: "Редактирование Annotation в PPSX"
+          link: "https://products.groupdocs.com/annotation/java/edit/ppsx/"
+          description: "PowerPoint Open XML Slide Show"
+
         # format loop
-        - name: "Редактировать аннотацию из PPTM"
-          link: "/annotation/java/edit/pptm/"
-          description: "Презентация Microsoft PowerPoint"
+        - name: "Редактирование Annotation в POTM"
+          link: "https://products.groupdocs.com/annotation/java/edit/potm/"
+          description: "Microsoft PowerPoint Template"
+
         # format loop
-        - name: "Редактировать аннотацию из PPS"
-          link: "/annotation/java/edit/pps/"
-          description: "Слайд-шоу Microsoft PowerPoint 97-2003"
+        - name: "Редактирование Annotation в PPTM"
+          link: "https://products.groupdocs.com/annotation/java/edit/pptm/"
+          description: "Microsoft PowerPoint Presentation"
+
         # format loop
-        - name: "Редактировать аннотацию из ODP"
-          link: "/annotation/java/edit/odp/"
-          description: "Презентация OpenDocument"
+        - name: "Редактирование Annotation в PPS"
+          link: "https://products.groupdocs.com/annotation/java/edit/pps/"
+          description: "Microsoft PowerPoint 97-2003 Slide Show"
+
         # format loop
-        - name: "Редактировать аннотацию из HTML"
-          link: "/annotation/java/edit/html/"
-          description: "Язык гипертекстовой разметки"
+        - name: "Редактирование Annotation в ODP"
+          link: "https://products.groupdocs.com/annotation/java/edit/odp/"
+          description: "OpenDocument Presentation"
+
         # format loop
-        - name: "Редактировать аннотацию из TIFF"
-          link: "/annotation/java/edit/tiff/"
-          description: "Формат файла изображения с тегами"
+        - name: "Редактирование Annotation в HTML"
+          link: "https://products.groupdocs.com/annotation/java/edit/html/"
+          description: "HyperText Markup Language"
+
         # format loop
-        - name: "Редактировать аннотацию из JPEG"
-          link: "/annotation/java/edit/jpeg/"
-          description: "Изображение в формате JPEG"
+        - name: "Редактирование Annotation в TIFF"
+          link: "https://products.groupdocs.com/annotation/java/edit/tiff/"
+          description: "Tagged Image File Format"
+
         # format loop
-        - name: "Редактировать аннотацию из PNG"
-          link: "/annotation/java/edit/png/"
-          description: "Портативная сетевая графика"
+        - name: "Редактирование Annotation в JPEG"
+          link: "https://products.groupdocs.com/annotation/java/edit/jpeg/"
+          description: "JPEG Image"
+
         # format loop
-        - name: "Редактировать аннотацию из BMP"
-          link: "/annotation/java/edit/bmp/"
-          description: "Формат растрового файла"
+        - name: "Редактирование Annotation в PNG"
+          link: "https://products.groupdocs.com/annotation/java/edit/png/"
+          description: "Portable Network Graphic"
+
         # format loop
-        - name: "Редактировать аннотацию из EML"
-          link: "/annotation/java/edit/eml/"
-          description: "Сообщение электронной почты"
+        - name: "Редактирование Annotation в EML"
+          link: "https://products.groupdocs.com/annotation/java/edit/eml/"
+          description: "E-mail Message"
+
         # format loop
-        - name: "Редактировать аннотацию из MSG"
-          link: "/annotation/java/edit/msg/"
-          description: "Сообщение электронной почты Microsoft Outlook"
+        - name: "Редактирование Annotation в MSG"
+          link: "https://products.groupdocs.com/annotation/java/edit/msg/"
+          description: "Microsoft Outlook E-mail Message"
+
         # format loop
-        - name: "Редактировать аннотацию из VSD"
-          link: "/annotation/java/edit/vsd/"
-          description: "Чертеж Microsoft Visio 2003-2010"
+        - name: "Редактирование Annotation в VSD"
+          link: "https://products.groupdocs.com/annotation/java/edit/vsd/"
+          description: "Microsoft Visio 2003-2010 Drawing"
+
         # format loop
-        - name: "Редактировать аннотацию из VSDX"
-          link: "/annotation/java/edit/vsdx/"
-          description: "Рисование Microsoft Visio"
+        - name: "Редактирование Annotation в VSDX"
+          link: "https://products.groupdocs.com/annotation/java/edit/vsdx/"
+          description: "Microsoft Visio Drawing"
+
         # format loop
-        - name: "Редактировать аннотацию из VSS"
-          link: "/annotation/java/edit/vss/"
-          description: "Трафарет Microsoft Visio 2003-2010"
+        - name: "Редактирование Annotation в VSS"
+          link: "https://products.groupdocs.com/annotation/java/edit/vss/"
+          description: "Microsoft Visio 2003-2010 Stencil"
+
         # format loop
-        - name: "Редактировать аннотацию из VST"
-          link: "/annotation/java/edit/vst/"
-          description: "Трафарет Microsoft Visio 2013"
+        - name: "Редактирование Annotation в VST"
+          link: "https://products.groupdocs.com/annotation/java/edit/vst/"
+          description: "Microsoft Visio 2013 Stencil"
+
         # format loop
-        - name: "Редактировать аннотацию из DWG"
-          link: "/annotation/java/edit/dwg/"
-          description: "Форматы проектных данных Autodesk"
+        - name: "Редактирование Annotation в DWG"
+          link: "https://products.groupdocs.com/annotation/java/edit/dwg/"
+          description: "Autodesk Design Data Formats"
+
         # format loop
-        - name: "Редактировать аннотацию из DXF"
-          link: "/annotation/java/edit/dxf/"
-          description: "Обмен чертежами AutoCAD"
+        - name: "Редактирование Annotation в DXF"
+          link: "https://products.groupdocs.com/annotation/java/edit/dxf/"
+          description: "AutoCAD Drawing Interchange"
+
         # format loop
-        - name: "Редактировать аннотацию из DCM"
-          link: "/annotation/java/edit/dcm/"
-          description: "Цифровая визуализация и коммуникации в медицине"
+        - name: "Редактирование Annotation в DCM"
+          link: "https://products.groupdocs.com/annotation/java/edit/dcm/"
+          description: "Digital Imaging and Communications in Medicine"
+
         # format loop
-        - name: "Редактировать аннотацию из WMF"
-          link: "/annotation/java/edit/wmf/"
-          description: "Метафайл Windows"
+        - name: "Редактирование Annotation в WMF"
+          link: "https://products.groupdocs.com/annotation/java/edit/wmf/"
+          description: "Windows Metafile"
+
         # format loop
-        - name: "Редактировать аннотацию из EMF"
-          link: "/annotation/java/edit/emf/"
-          description: "Расширенный формат метафайла"
+        - name: "Редактирование Annotation в EMF"
+          link: "https://products.groupdocs.com/annotation/java/edit/emf/"
+          description: "Enhanced Metafile Format"
+
+
 ############################# Back to top ###############################
 back_to_top:
     enable: true

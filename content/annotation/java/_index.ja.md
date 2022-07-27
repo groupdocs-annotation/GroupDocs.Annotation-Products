@@ -1,6 +1,7 @@
 ---
+############################# Static ############################
 layout: "product"
-date: 2021-04-27T09:31:06+03:00
+date: 2022-07-05T12:44:18+03:00
 draft: false
 
 product: "Annotation"
@@ -8,9 +9,11 @@ product_tag: "annotation"
 platform: "Java"
 platform_tag: "java"
 
+############################# Head ############################
 head_title: "JavaドキュメントアノテーションAPI| PDF WordExcelPPTX画像の表示と注釈"
 head_description: "Javaドキュメント注釈API。 PDF Word DOCX、Excel XLSX、PPTX、EML EMLX、VSS VSD、OTP、CAD、および画像ファイル形式の表示、タグ付け、コメント、および注釈付け."
 
+############################# Header ############################
 title: "JavaAPIを介したドキュメント注釈"
 description: "外部ソフトウェアをインストールせずに、PDF、HTML、MS Office、およびその他のドキュメント形式を表示および注釈付けする機能を備えたJavaアプリケーションを構築します."
 button:
@@ -19,6 +22,7 @@ button:
     label: "無料トライアルをダウンロード"
     link: "https://downloads.groupdocs.com/annotation/java"
 
+############################# SubMenu ############################
 submenu:
     enable: true
     
@@ -50,15 +54,23 @@ submenu:
         link_learn: "https://docs.groupdocs.com/annotation/java/"
         link_buy: "https://purchase.groupdocs.com"
 
+############################# Overview ############################
 overview:
     enable: true
     content: |
-      GroupDocs.Annotation for Java APIは、Javaベースのビジネスアプリケーションで使用される、使いやすいドキュメント、注釈管理、および操作機能を提供します。 Javaアノテーターライブラリを使用すると、テキスト、ポリライン、エリア、下線、ポイント、透かし、矢印、楕円、テキスト置換、距離、テキストフィールド、リソース編集など、さまざまな種類の注釈を操作できます。包括的なセットも提供されます。 PDF、HTML、Microsoft Office Word、Excelスプレッドシート、PowerPointプレゼンテーション、Visio、Outlook電子メール、画像、メタファイル、CAD描画、その他のさまざまな形式を含む、サポートされているすべてのドキュメント形式内で要件に応じて注釈プロパティをカスタマイズするためのデータオブジェクトの組み合わせ。  
-        
-      APIは、ドキュメントページのサムネイルを取得する機能を提供し、PDFファイルとの間の注釈のインポートとエクスポートをサポートします。
+      GroupDocs.Annotation Java APIは、Android、MacOS、Linux、Windowsなどのさまざまなプラットフォームやオペレーティングシステムでドキュメントの注釈を操作できるようにする製品です。 GroupDocs.Annotationは、多くの利点を提供するシンプルなAPIを備えたライブラリを提供します。たとえば、データの機密性を維持する必要がある場合、ライブラリを操作するために必要な電力を選択する必要がある場合、または注釈を使用して作業を部分的に変更する必要がある場合、ライブラリは非常に優れています。軽量で柔軟性があります。
+
+        GroupDocs.Annotation for Java APIを使用すると、テキスト、ポリライン、エリア、アンダーライン、ポイント、透かし、矢印、楕円、テキスト置換、距離、テキストフィールド、リソース編集などのさまざまな種類の注釈を操作できます。 。また、PDF、HTML、Microsoft Office Word、Excelスプレッドシート、PowerPointプレゼンテーション、Visio、Outlook電子メール、画像、メタファイル、CAD描画、その他のさまざまな形式など、最も一般的なドキュメント形式をサポートしています。 APIは、ドキュメントページのサムネイルを取得する機能を提供し、PDFファイルとの間の注釈のインポートとエクスポートをサポートします。
+
+        ライブラリを使用して、[追加]（/annotation/java/add/bmp/）、[編集]（/annotation/java/edit/bmp/）、[エキス]（/annotation/java/extract/bmp/） および[消去]（/annotation/java/remove/bmp/） ドキュメントからの注釈、ドキュメントのローテーション、サムネイルソリューションの変更、これはすべての可能性の完全なリストではありません。また、サポートされているすべてのドキュメント形式内の要件に従って注釈プロパティをカスタマイズするための包括的なデータオブジェクトのセットも提供します。
+
+        Java APIのGroupDocs.Annotationの操作は非常に簡単で、いくつかの基本的な手順で構成されています。最初にライセンスを設定し、次に操作するファイルを選択し、ドキュメントの注釈（削除/編集/抽出/削除）を使用して何らかの方法で操作し、結果を保存する必要があります。詳細については、製品の[ドキュメント]（https://docs.groupdocs.com/annotation/java/getting-started/） または[例]（https://github.com/groupdocs-annotation/GroupDocs.Annotation-for-Java） セット。
+
+        GroupDocs.Annotationは定期的に更新され、お客様をサポ​​ートします。いつでも質問したり、アイデアを送信したり、新しいもののニーズについて教えてください。新しいバージョンで喜んで実装します。
     tabs:
       enable: true
       
+      ## TAB ONE ##
       tab_one:
         description: |
           以下は、Java用のGroupDocs.Annotationの概要です。
@@ -74,32 +86,35 @@ overview:
             *返信ベースのコメント
             *注釈の互換性
       
+      ## TAB TWO ##
       tab_two:
         description: |
           GroupDocs.Annotation for Javaは、Microsoft Office、PDF、画像など、一般的な[ドキュメントファイル形式]（https://docs.groupdocs.com/annotation/java/supported-document-formats/）をすべてサポートしています。
-
         left:
           enable: true
           table:
-            - title: "MicrosoftOfficeの形式"
+            # table loop
+            - title: "Microsoft Office Formats"
               content: |
-                * ** Word **：DOC、DOCX、DOCM、DOT、DOTX、DOTM、RTF
-                * ** Excel **：XLS、XLSX、XLSB、XLSM
-                * ** PowerPoint **：PPT、PPTX、PPS、PPSX
-                * ** Outlook **：EML、EMLX
-                * ** Visio **：VSS、VST、VSD、VSDX
+                * **Word**: [DOC](/annotation/java/add/doc/), [DOCX](/annotation/java/add/docx/), [DOCM](/annotation/java/add/docm/), [DOT](/annotation/java/add/dot/), [DOTX](/annotation/java/add/dotx/), [RTF](/annotation/java/add/rtf/)
+                * **Excel**: [XLS](/annotation/java/add/xls/), [XLSX](/annotation/java/add/xlsx/), [XLSB](/annotation/java/add/xlsb/), [XLSM](/annotation/java/add/xlsm/)
+                * **PowerPoint**: [PPT](/annotation/java/add/ppt/), [PPTX](/annotation/java/add/pptx/), [PPS](/annotation/java/add/pps/), [PPSX](/annotation/java/add/ppsx/), [POTM](/annotation/java/add/potm/), [POTX](/annotation/java/add/potx/), [PPSM](/annotation/java/add/ppsm/), [PPTM](/annotation/java/add/pptm/), [WMF](/annotation/java/add/wmf/), [EMF](/annotation/java/add/emf/)
+                * **Outlook**: [EML](/annotation/java/add/eml/), [EMLX](/annotation/java/add/emlx/), [MSG](/annotation/java/add/msg/)
+                * **Visio**: [VSS](/annotation/java/add/vss/), [VST](/annotation/java/add/vst/), [VSD](/annotation/java/add/vsd/), [VSDX](/annotation/java/add/vsdx/), [VSX](/annotation/java/add/vsx/)
 
         right:
           enable: true
           table:
+            # table loop
             - title: "その他のフォーマット"
               content: |
-                * **ポータブル**：PDF（PDF / A-1a、PDF / A-1b、PDF / A-2a）
-                * ** OpenDocument **：ODT、ODS、ODP
-                * **画像**：BMP、JPG、TIFF、TIF、PNG
-                * ** AutoCAD **：DWG、DXF
-                * **その他**：HTML
+                * **Portable**: [PDF](/annotation/java/add/pdf/) (PDF/A-1a, PDF/A-1b, PDF/A-2a)
+                * **OpenDocument**: [ODT](/annotation/java/add/odt/), [ODS](/annotation/java/add/ods/), [ODP](/annotation/java/add/odp/)
+                * **Images**: [BMP](/annotation/java/add/bmp/), [JPG](/annotation/java/add/jpg/), [JPEG](/annotation/java/add/jpeg/), [TIFF](/annotation/java/add/tiff/), [TIF](/annotation/java/add/tif/), [PNG](/annotation/java/add/png/), [GIF](/annotation/java/add/gif/), [DCM](/annotation/java/add/dcm/), [DICOM](/annotation/java/add/dicom/)
+                * **AutoCAD**: [DWG](/annotation/java/add/dwg/), [DXF](/annotation/java/add/dxf/), [CAD](/annotation/java/add/cad/)
+                * **Other**: [HTM](/annotation/java/add/htm/), [HTML](/annotation/java/add/html/), [CSV](/annotation/java/add/csv/), [DJVU](/annotation/java/add/djvu/), [OTP](/annotation/java/add/otp/), [OTT](/annotation/java/add/ott/)
 
+      ## TAB THREE ##
       tab_three:
         description: |
           GroupDocs.Annotation for Javaは、次のオペレーティングシステム、フレームワーク、およびパッケージマネージャーをサポートしています。
@@ -134,6 +149,7 @@ overview:
               content: |
                 * Maven
 
+############################# Features ############################
 features:
     enable: true
     title: "GroupDocs.Annotation for Java Features"
@@ -239,9 +255,11 @@ features:
         link: "https://docs.groupdocs.com/annotation/java/add-distance-annotation/"
         content: "Excel、PowerPoint、および図の距離注釈キャプションを表示する"
 
+############################# Support ############################
 support:
     enable: true
 
+############################# Solutions ############################
 solutions:
     enable: true
     title: "GroupDocs.Annotationは、他の一般的な開発環境向けのドキュメント表示APIを提供します"
@@ -253,6 +271,7 @@ solutions:
           platform: ".NET"
           link: "/annotation/net/"
 
+############################# Back to top ###############################
 back_to_top:
   enable: true
 ---

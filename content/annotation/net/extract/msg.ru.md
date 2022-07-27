@@ -1,93 +1,120 @@
+
 ---
 ############################# Static ############################
-layout: "auto-gen-annotation"
-date: 2021-05-13T12:45:02+03:00
+layout: "auto-gen" ###_DIMA_### layout: "auto-gen-annotation"
+date: 2022-07-05T12:44:18+03:00
 draft: false
+
+###_DIMA_### link rel="canonical" href="https://products.groupdocs.com/annotation/net/extract/msg"/>
+
 ############################# Head ############################
-head_title: "Извлечь и усилить Экспорт аннотаций из файлов MSG в C# .NET"
-head_description: "API извлечения аннотаций C# .NET для извлечения популярных типов аннотаций из файлов MSG, изображений, файлов чертежей и документов."
+head_title: "Извличение Аннотаций с MSG в Net приложении"
+head_description: "Net API для создания и Извличение популярных типов аннотаций с MSG, изображения, чертежи и форматы файлов документов."
+
 ############################# Header ############################
-title: "Извлечение аннотаций из MSG в C#"
-description: "Извлечение аннотаций из Microsoft Office, изображений, HTML, рисунков и других форматов файлов документов в любом типе приложения C# .NET."
+title: "Извличение MSG файла с Net"
+description: ""
 bg_image: "https://cms.admin.containerize.com/templates/aspose/App_Themes/V3/images/bg/header1.png"
 bg_overlay: false
 button:
     enable: true
     icon: "fas fa-arrow-down"
-    label: "Скачать бесплатную пробную версию"
+    label: "Download Free Trial"
     link: "https://downloads.groupdocs.com/annotation/net"
+
 ############################# SubMenu ############################
 submenu:
     enable: true
+
     left:
-        img_alt: "GroupDocs.Annotation for .NET"
+        img_alt: "GroupDocs.Annotation для Net"
         image: "https://cms.admin.containerize.com/templates/groupdocs/images/product-logos/90x90-noborder/groupdocs-annotation-net.png"
         product: "GroupDocs.Annotation"
-        platform: ".NET"
+        platform: "Net"
+
     middle:
         button:
             # button loop
             - link: "https://apireference.groupdocs.com/annotation/net"
-              text: "Справочник по API"
+              text: "API Reference"
             # button loop
             - link: "https://github.com/groupdocs-annotation"
-              text: "Примеры кода"
+              text: "Code Examples"
             # button loop
             - link: "https://products.groupdocs.app/annotation/family"
-              text: "Живые демонстрации"
+              text: "Live Demos"
             # button loop
             - link: "https://purchase.groupdocs.com/pricing/annotation/net"
-              text: "Цены"
+              text: "Pricing"
+
     right:
         link_download: "https://downloads.groupdocs.com/annotation"
         link_learn: "https://docs.groupdocs.com/annotation/net"
         link_buy: "https://purchase.groupdocs.com"
+
 ############################# About ############################
 about:
     enable: true
-    title: "О GroupDocs.Annotation для .NET API"
+    title: "О GroupDocs.Annotation для Net API"
     content: |
-        [GroupDocs.Annotation for .NET](/ru/annotation/net/) — это собственный API управления аннотациями .NET для чтения, [добавления](/annotation/net/add/msg/), [редактирования](/annotation/net/edit/msg/), [удаления](/annotation/net/remove/msg/), извлечения и экспорта аннотаций из изображений и форматов файлов документов. Пользователи могут легко извлекать комментарии, примечания, примечания и различные типы аннотаций, включая текст, графику и водяные знаки, из документов PDF, HTML, Microsoft Word, электронных таблиц Excel, диаграмм Visio, презентаций PowerPoint, рисунков, изображений и многих других форматов файлов. Функция обработки аннотаций может точно считывать аннотации из импортированных документов и позволяет экспортировать обратно в исходный или желаемый формат файла после реализации настройки аннотаций.
+        GroupDocs.Annotation for Net API это библиотека которая позволяет добавлять аннотации к файлам PDF, Word и другим документам на Mac, Windows или Ubuntu. [GroupDocs.Annotation для [PLATFORM]](/ru/annotation/net/) это собственный Net API для управления аннотациями с комплексной поддержкой для создания, добавления, редактирования, удаления, извлечения и экспорта аннотаций из изображений и других документов, весь список поддерживаемых документов вы можете посмотреть на [странице](https://docs.groupdocs.com/annotation/net/supported-document-formats/).
+
+        Эта библиотека позволяет работать не только с MSG но также и со многими другими форматами, такими как Word, Excel, PowerPoint, Outlook emails, Visio, Adobe, OpenDocument, OpenOffice, AutoCad и еще множеством других форматов.
+
+        GroupDocs.Annotation for Net API позволяет создавать и [добавлять](/ru/annotation/net/add/msg/) новые заметки, [редактировать](/ru/annotation/net/edit/msg/) аннотации, извлекать комментарии, примечания и [удалять](/ru/annotation/net/remove/msg/) их из документов. Библиотека поддерживает 13 различных типов аннотаций, включая Text, Polyline, Area, Underline, Point, Watermark, Arrow, Ellipse, Text Replacement, Distance, Text Field, Resource Redaction в документах PDF, HTML, Microsoft Word, электронных таблицах, диаграммах, презентациях, рисунках, изображениях и многих других форматах файлов.
+
+        В примере ниже продемонстрирована работа с MSG документом. В этом примере вы видите основные шаги в работе с GroupDocs.Annotation: установка лицензии, открытие файла для работы, создание аннотации, добавление объектов данных для настройки свойств аннотаций в соответствии с вашими требованиями и сохранение результата в нужное место. Более детально ознакомиться с возможностями библиотеки вы можете посмотрев наш [github](https://github.com/groupdocs-annotation/GroupDocs.Annotation-for-.Net)-аккаунт, или в нашей [документации](https://docs.groupdocs.com/annotation/net/getting-started/) к продутку.
+
 ############################# Steps ############################
 howTo:
 steps:
     enable: true
-    title_left: "Шаги для извлечения аннотаций из MSG"
+    title_left: "Шаги по Извличение аннотаций с MSG in Net"
     content_left: |
-        [GroupDocs.Annotation](/ru/annotation/net/) упрощает для разработчиков .NET извлечение аннотаций из файлов MSG в своих приложениях за счет выполнения нескольких простых шагов.
-        * Создание экземпляра объекта Annotator с входным путем или потоком документа.
-        * Создайте экземпляр объекта LoadOptions и установите ImportAnnotation = true.
+        [GroupDocs.Annotation](/annotation/java/) [GroupDocs.Annotation](/ru/annotation/net/) позволяет разработчикам Net легко аннотировать документы и извлекать аннотационную информацию из файлов MSG в любом приложении на основе Net, выполняя несколько простых шагов.
+        
+        * Создание объектов ответа с комментарием и датой.
+        * Создайте экземпляр объекта LoadOptions и вызовите SetImportAnnotations с аргументом true.
         * Определите переменную с типом List.
-        * Вызовите метод Get и верните результат в переменную выше.
-        * Создание экземпляра объекта XmlSerializer с типом List.
-        * Используя FileStreamobject, сериализуйте аннотации к файлу, как показано в примере ниже.
+        * Вызвать метод get и вернуть результат в переменную выше.
+    
     title_right: "Системные Требования"
     content_right: |
-        API GroupDocs.Annotation для .NET поддерживаются на всех основных платформах и операционных системах. Перед выполнением приведенного ниже кода убедитесь, что в вашей системе установлены следующие предварительные компоненты.
+        API GroupDocs.Annotation для Net поддерживаются на всех основных платформах и операционных системах. Перед выполнением приведенного ниже кода убедитесь, что в вашей системе установлены следующие предварительные компоненты.
+        
         * Операционные системы: Microsoft Windows, Linux, MacOS
         * Среды разработки: Visual Studio, Xamarin, MonoDevelop
         * Фреймворки: .NET Framework, .NET Standard, .NET Core, Mono
         * Загрузите последнюю версию GroupDocs.Annotation для .NET из [NuGet](https://www.nuget.org/packages/groupdocs.annotation).
+    
+
+############################# Preview ############################
+preview:
+    enable: true
+    
     code: |
         ```cs
-        // для использования этого примера входной файл ("annotated.msg") должен быть с аннотациями
-        using (Annotator annotator = new Annotator("annotated.msg"))
+        // Для использования этого примера входной файл ("annotated.bmp") должен быть с аннотациями
+        using (Annotator annotator = new Annotator("annotated.bmp"))
         {
-        	List annotations = annotator.Get();
-        	XmlSerializer formatter = new XmlSerializer(typeof(List));
-        	using (FileStream fs = new FileStream("annotations.xml", FileMode.Create))
+            List annotations = annotator.Get();
+            XmlSerializer formatter = new XmlSerializer(typeof(List));
+            using (FileStream fs = new FileStream("annotations.xml", FileMode.Create))
             {
-            	fs.SetLength(0);
+                fs.SetLength(0);
                 formatter.Serialize(fs, annotations);
             }
         }
         ```
+
 ############################# Demos ############################
 demos:
     enable: true
-    title: "Живые демонстрации для извлечения аннотаций"
+    title: "Живые демонстрации для аннотирования документов и изображений"
     content: |
-        Извлеките аннотацию из файла MSG прямо сейчас, посетив [живые демонстрации](https://products.groupdocs.app/annotation/family). Живая демонстрация имеет следующие преимущества
+        Извлеките аннотацию из файла MSG прямо сейчас, посетив [живые демонстрации](https://products.groupdocs.app/annotation/family).
+        Живая демонстрация имеет следующие преимущества
+
 ############################# About Formats ############################
 about_formats:
     enable: true
@@ -97,154 +124,191 @@ about_formats:
           title: "О формате файла MSG"
           content: |
             MSG — это формат файла, используемый Microsoft Outlook и Exchange для хранения сообщений электронной почты, контактов, встреч или других задач. Такие сообщения могут содержать одно или несколько полей электронной почты с указанием отправителя, получателя, темы, даты и тела сообщения или контактной информации, сведений о встрече и одной или нескольких спецификаций задачи. Свойства, составляющие объект Message, в том числе также являются частью файла MSG. Файл MSG имеет заголовки, основное тело сообщения и гиперссылки в виде простого текста ASCII. Файлы MSG также подходят для программ, которым требуется интерфейс программирования приложений обмена сообщениями Microsoft (MAPI).
-          link: "https://docs.fileformat.com/email/msg/"
+          link: "https://docs.fileformat.com/image/msg/"
+
 ############################# More Formats ############################
 more_formats:
     enable: true
     title: "Извлечение аннотаций из файлов других поддерживаемых форматов"
     content: |
-        API извлечения аннотаций .NET для документов и изображений. Экспортируйте аннотацию из некоторых популярных форматов файлов, как указано ниже.
-    format: 
+        Библиотека управления аннотациями Net для документов и форматов изображений. Добавьте свойства аннотации к некоторым популярным форматам файлов, как указано ниже.
+    format:
         # format loop
-        - name: "Извлечь аннотацию из PDF"
-          link: "/annotation/net/extract/pdf/"
+        - name: "Извличение Annotation с PDF"
+          link: "https://products.groupdocs.com/annotation/net/extract/pdf/"
           description: "Adobe Portable Document Format"
+
         # format loop
-        - name: "Извлечь аннотацию из DOC"
-          link: "/annotation/net/extract/doc/"
-          description: "Документ Microsoft Word"
+        - name: "Извличение Annotation с DOC"
+          link: "https://products.groupdocs.com/annotation/net/extract/doc/"
+          description: "Microsoft Word Document"
+
         # format loop
-        - name: "Извлечь аннотацию из DOCM"
-          link: "/annotation/net/extract/docm/"
-          description: "Документ Microsoft Word с поддержкой макросов"
+        - name: "Извличение Annotation с DOCM"
+          link: "https://products.groupdocs.com/annotation/net/extract/docm/"
+          description: "Microsoft Word Macro-Enabled Document"
+
         # format loop
-        - name: "Извлечь аннотацию из DOCX"
-          link: "/annotation/net/extract/docx/"
-          description: "Документ Microsoft Word с открытым XML"
+        - name: "Извличение Annotation с DOCX"
+          link: "https://products.groupdocs.com/annotation/net/extract/docx/"
+          description: "Microsoft Word Open XML Document"
+
         # format loop
-        - name: "Извлечь аннотацию из DOT"
-          link: "/annotation/net/extract/dot/"
-          description: "Шаблон документа Microsoft Word"
+        - name: "Извличение Annotation с DOT"
+          link: "https://products.groupdocs.com/annotation/net/extract/dot/"
+          description: "Microsoft Word Document Template"
+
         # format loop
-        - name: "Извлечь аннотацию из DOTX"
-          link: "/annotation/net/extract/dotx/"
-          description: "Шаблон документа Word Open XML"
+        - name: "Извличение Annotation с DOTX"
+          link: "https://products.groupdocs.com/annotation/net/extract/dotx/"
+          description: "Word Open XML Document Template"
+
         # format loop
-        - name: "Извлечь аннотацию из RTF"
-          link: "/annotation/net/extract/rtf/"
-          description: "Форматированный текстовый документ"
+        - name: "Извличение Annotation с RTF"
+          link: "https://products.groupdocs.com/annotation/net/extract/rtf/"
+          description: "Rich Text Document"
+
         # format loop
-        - name: "Извлечь аннотацию из ODT"
-          link: "/annotation/net/extract/odt/"
-          description: "Открыть текст документа"
+        - name: "Извличение Annotation с ODT"
+          link: "https://products.groupdocs.com/annotation/net/extract/odt/"
+          description: "Open Document Text"
+
         # format loop
-        - name: "Извлечь аннотацию из XLS"
-          link: "/annotation/net/extract/xls/"
-          description: "Формат двоичного файла Microsoft Excel"
+        - name: "Извличение Annotation с XLS"
+          link: "https://products.groupdocs.com/annotation/net/extract/xls/"
+          description: "Microsoft Excel Binary File Format"
+
         # format loop
-        - name: "Извлечь аннотацию из XLSX"
-          link: "/annotation/net/extract/xlsx/"
-          description: "Электронная таблица Microsoft Excel Open XML"
+        - name: "Извличение Annotation с XLSX"
+          link: "https://products.groupdocs.com/annotation/net/extract/xlsx/"
+          description: "Microsoft Excel Open XML Spreadsheet"
+
         # format loop
-        - name: "Извлечь аннотацию из XLSM"
-          link: "/annotation/net/extract/xlsm/"
-          description: "Электронная таблица Microsoft Excel с поддержкой макросов"
+        - name: "Извличение Annotation с XLSM"
+          link: "https://products.groupdocs.com/annotation/net/extract/xlsm/"
+          description: "Microsoft Excel Macro-Enabled Spreadsheet"
+
         # format loop
-        - name: "Извлечь аннотацию из XLSB"
-          link: "/annotation/net/extract/xlsb/"
-          description: "Двоичный лист Microsoft Excel"
+        - name: "Извличение Annotation с XLSB"
+          link: "https://products.groupdocs.com/annotation/net/extract/xlsb/"
+          description: "Microsoft Excel Binary Worksheet"
+
         # format loop
-        - name: "Извлечь аннотацию из ODS"
-          link: "/annotation/net/extract/ods/"
-          description: "Открыть электронную таблицу документов"
+        - name: "Извличение Annotation с ODS"
+          link: "https://products.groupdocs.com/annotation/net/extract/ods/"
+          description: "Open Document Spreadsheet"
+
         # format loop
-        - name: "Извлечь аннотацию из PPT"
-          link: "/annotation/net/extract/ppt/"
-          description: "Презентация PowerPoint"
+        - name: "Извличение Annotation с PPT"
+          link: "https://products.groupdocs.com/annotation/net/extract/ppt/"
+          description: "PowerPoint Presentation"
+
         # format loop
-        - name: "Извлечь аннотацию из PPTX"
-          link: "/annotation/net/extract/pptx/"
-          description: "Презентация PowerPoint Open XML"
+        - name: "Извличение Annotation с PPTX"
+          link: "https://products.groupdocs.com/annotation/net/extract/pptx/"
+          description: "PowerPoint Open XML Presentation"
+
         # format loop
-        - name: "Извлечь аннотацию из PPSX"
-          link: "/annotation/net/extract/ppsx/"
-          description: "Слайд-шоу PowerPoint Open XML"
+        - name: "Извличение Annotation с PPSX"
+          link: "https://products.groupdocs.com/annotation/net/extract/ppsx/"
+          description: "PowerPoint Open XML Slide Show"
+
         # format loop
-        - name: "Извлечь аннотацию из POTM"
-          link: "/annotation/net/extract/potm/"
-          description: "Шаблон Microsoft PowerPoint"
+        - name: "Извличение Annotation с POTM"
+          link: "https://products.groupdocs.com/annotation/net/extract/potm/"
+          description: "Microsoft PowerPoint Template"
+
         # format loop
-        - name: "Извлечь аннотацию из PPTM"
-          link: "/annotation/net/extract/pptm/"
-          description: "Презентация Microsoft PowerPoint"
+        - name: "Извличение Annotation с PPTM"
+          link: "https://products.groupdocs.com/annotation/net/extract/pptm/"
+          description: "Microsoft PowerPoint Presentation"
+
         # format loop
-        - name: "Извлечь аннотацию из PPS"
-          link: "/annotation/net/extract/pps/"
-          description: "Слайд-шоу Microsoft PowerPoint 97-2003"
+        - name: "Извличение Annotation с PPS"
+          link: "https://products.groupdocs.com/annotation/net/extract/pps/"
+          description: "Microsoft PowerPoint 97-2003 Slide Show"
+
         # format loop
-        - name: "Извлечь аннотацию из ODP"
-          link: "/annotation/net/extract/odp/"
-          description: "Презентация OpenDocument"
+        - name: "Извличение Annotation с ODP"
+          link: "https://products.groupdocs.com/annotation/net/extract/odp/"
+          description: "OpenDocument Presentation"
+
         # format loop
-        - name: "Извлечь аннотацию из HTML"
-          link: "/annotation/net/extract/html/"
-          description: "Язык гипертекстовой разметки"
+        - name: "Извличение Annotation с HTML"
+          link: "https://products.groupdocs.com/annotation/net/extract/html/"
+          description: "HyperText Markup Language"
+
         # format loop
-        - name: "Извлечь аннотацию из TIFF"
-          link: "/annotation/net/extract/tiff/"
-          description: "Формат файла изображения с тегами"
+        - name: "Извличение Annotation с TIFF"
+          link: "https://products.groupdocs.com/annotation/net/extract/tiff/"
+          description: "Tagged Image File Format"
+
         # format loop
-        - name: "Извлечь аннотацию из JPEG"
-          link: "/annotation/net/extract/jpeg/"
-          description: "Изображение в формате JPEG"
+        - name: "Извличение Annotation с JPEG"
+          link: "https://products.groupdocs.com/annotation/net/extract/jpeg/"
+          description: "JPEG Image"
+
         # format loop
-        - name: "Извлечь аннотацию из PNG"
-          link: "/annotation/net/extract/png/"
-          description: "Портативная сетевая графика"
+        - name: "Извличение Annotation с PNG"
+          link: "https://products.groupdocs.com/annotation/net/extract/png/"
+          description: "Portable Network Graphic"
+
         # format loop
-        - name: "Извлечь аннотацию из BMP"
-          link: "/annotation/net/extract/bmp/"
-          description: "Формат растрового файла"
+        - name: "Извличение Annotation с EML"
+          link: "https://products.groupdocs.com/annotation/net/extract/eml/"
+          description: "E-mail Message"
+
         # format loop
-        - name: "Извлечь аннотацию из EML"
-          link: "/annotation/net/extract/eml/"
-          description: "Сообщение электронной почты"
+        - name: "Извличение Annotation с MSG"
+          link: "https://products.groupdocs.com/annotation/net/extract/msg/"
+          description: "Microsoft Outlook E-mail Message"
+
         # format loop
-        - name: "Извлечь аннотацию из VSD"
-          link: "/annotation/net/extract/vsd/"
-          description: "Чертеж Microsoft Visio 2003-2010"
+        - name: "Извличение Annotation с VSD"
+          link: "https://products.groupdocs.com/annotation/net/extract/vsd/"
+          description: "Microsoft Visio 2003-2010 Drawing"
+
         # format loop
-        - name: "Извлечь аннотацию из VSDX"
-          link: "/annotation/net/extract/vsdx/"
-          description: "Рисование Microsoft Visio"
+        - name: "Извличение Annotation с VSDX"
+          link: "https://products.groupdocs.com/annotation/net/extract/vsdx/"
+          description: "Microsoft Visio Drawing"
+
         # format loop
-        - name: "Извлечь аннотацию из VSS"
-          link: "/annotation/net/extract/vss/"
-          description: "Трафарет Microsoft Visio 2003-2010"
+        - name: "Извличение Annotation с VSS"
+          link: "https://products.groupdocs.com/annotation/net/extract/vss/"
+          description: "Microsoft Visio 2003-2010 Stencil"
+
         # format loop
-        - name: "Извлечь аннотацию из VST"
-          link: "/annotation/net/extract/vst/"
-          description: "Трафарет Microsoft Visio 2013"
+        - name: "Извличение Annotation с VST"
+          link: "https://products.groupdocs.com/annotation/net/extract/vst/"
+          description: "Microsoft Visio 2013 Stencil"
+
         # format loop
-        - name: "Извлечь аннотацию из DWG"
-          link: "/annotation/net/extract/dwg/"
-          description: "Форматы проектных данных Autodesk"
+        - name: "Извличение Annotation с DWG"
+          link: "https://products.groupdocs.com/annotation/net/extract/dwg/"
+          description: "Autodesk Design Data Formats"
+
         # format loop
-        - name: "Извлечь аннотацию из DXF"
-          link: "/annotation/net/extract/dxf/"
-          description: "Обмен чертежами AutoCAD"
+        - name: "Извличение Annotation с DXF"
+          link: "https://products.groupdocs.com/annotation/net/extract/dxf/"
+          description: "AutoCAD Drawing Interchange"
+
         # format loop
-        - name: "Извлечь аннотацию из DCM"
-          link: "/annotation/net/extract/dcm/"
-          description: "Цифровая визуализация и коммуникации в медицине"
+        - name: "Извличение Annotation с DCM"
+          link: "https://products.groupdocs.com/annotation/net/extract/dcm/"
+          description: "Digital Imaging and Communications in Medicine"
+
         # format loop
-        - name: "Извлечь аннотацию из WMF"
-          link: "/annotation/net/extract/wmf/"
-          description: "Метафайл Windows"
+        - name: "Извличение Annotation с WMF"
+          link: "https://products.groupdocs.com/annotation/net/extract/wmf/"
+          description: "Windows Metafile"
+
         # format loop
-        - name: "Извлечь аннотацию из EMF"
-          link: "/annotation/net/extract/emf/"
-          description: "Расширенный формат метафайла"
+        - name: "Извличение Annotation с EMF"
+          link: "https://products.groupdocs.com/annotation/net/extract/emf/"
+          description: "Enhanced Metafile Format"
+
+
 ############################# Back to top ###############################
 back_to_top:
     enable: true

@@ -1,7 +1,7 @@
 ---
 ############################# Static ############################
 layout: "product"
-date: 2021-04-27T09:31:06+03:00
+date: 2022-07-05T12:44:18+03:00
 draft: false
 
 product: "Annotation"
@@ -28,7 +28,7 @@ submenu:
     
     left:
         img_alt: "GroupDocs.Annotation for Java"
-        image: "/border/groupdocs-annotation-java.svg"
+        image: "https://www.groupdocs.cloud/templates/groupdocs/images/product-logos/groupdocs-annotation-java.png"
         product: "GroupDocs.Annotation"
         platform: "Java"
 
@@ -59,13 +59,19 @@ submenu:
         link_learn: "https://docs.groupdocs.com/annotation/java/"
         link_buy: "https://purchase.groupdocs.com"
 
-############################# Visión de conjunto ############################
+############################# Overview ############################
 overview:
     enable: true
     content: |
-      GroupDocs.Annotation for Java API proporciona una funcionalidad de manipulación, gestión de anotaciones y documentos fácil de usar para usar en sus aplicaciones empresariales basadas en Java. Nuestra biblioteca de anotadores de Java le permite trabajar con muchos tipos de anotaciones, que incluyen texto, polilínea, área, subrayado, punto, marca de agua, flecha, elipse, reemplazo de texto, distancia, campo de texto, redacción de recursos, etc. También ofrece un conjunto completo de objetos de datos para personalizar las propiedades de anotación según sus requisitos dentro de todos los formatos de documentos admitidos, incluidos: PDF, HTML, oficina de Microsoft Word, hojas de cálculo de Excel, presentaciones de PowerPoint, Visio, correos electrónicos de Outlook, imágenes, metarchivos, dibujos CAD y varios otros formatos.
-        
-      La API brinda la capacidad de obtener miniaturas de páginas de documentos y admite la importación y exportación de anotaciones hacia y desde archivos PDF.
+      GroupDocs.Annotation Java API es un producto que le permite trabajar con anotaciones en documentos en diferentes plataformas y sistemas operativos, como Android, MacOS, Linux, Windows. GroupDocs.Annotation proporciona una biblioteca con API simple que brinda muchas ventajas: por ejemplo, si necesita mantener los datos confidenciales o elegir cuánta energía necesita para trabajar con la biblioteca, o cambiar parcialmente el trabajo con anotaciones, la biblioteca es muy ligero y flexible.
+
+        GroupDocs.Annotation for Java API le permite trabajar con diferentes tipos de anotaciones, que incluyen: texto, polilínea, área, subrayado, punto, marca de agua, flecha, elipse, reemplazo de texto, distancia, campo de texto, redacción de recursos, etc. Y es compatible con los formatos de documentos más populares, como: PDF, HTML, Microsoft Office Word, hojas de cálculo de Excel, presentaciones de PowerPoint, Visio, correos electrónicos de Outlook, imágenes, metarchivos, dibujos CAD y varios otros formatos. La API brinda la capacidad de obtener miniaturas de páginas de documentos y admite la importación y exportación de anotaciones hacia y desde archivos PDF.
+
+        Con la biblioteca, puede [agregar](/anotación/{{plataforma}}/agregar/bmp/), [editar](/anotar/{{plataforma}}/editar/bmp/), [extraer](/annotation/java/extract/bmp/) y [delete](/annotation/java/remove/bmp/) anotaciones de documentos, rotar documentos, cambiar la solución de miniaturas y esta no es una lista completa de todas las posibilidades . También ofrece un conjunto integral de objetos de datos para personalizar las propiedades de anotación según sus requisitos dentro de todos los formatos de documentos admitidos.
+
+        Trabajar con la API de GroupDocs.Annotation para Java es muy sencillo y consta de unos pocos pasos básicos. Al principio, debe configurar una licencia, luego seleccionar el archivo con el que desea trabajar, luego manipularlo de alguna manera con las anotaciones del documento (eliminar/editar/extraer/eliminar) y guardar el resultado. Para obtener más información, consulte la [documentación] del producto (https://docs.groupdocs.com/annotation/java/getting-started/) o nuestros [ejemplos] (https://github.com/groupdocs-annotation /GroupDocs.Annotation-for-Java) establecido.
+
+        GroupDocs.Annotation se actualiza regularmente y brinda soporte a sus clientes, siempre puede hacernos preguntas o enviarnos sus ideas o contarnos sus necesidades de algo nuevo y con gusto lo implementaremos en nuestras nuevas versiones.
     tabs:
       enable: true
       
@@ -89,18 +95,17 @@ overview:
       tab_two:
         description: |
           GroupDocs.Annotation para Java es compatible con todos los [formatos de archivo de documentos populares](https://docs.groupdocs.com/annotation/java/supported-document-formats/), incluidos: oficina de Microsoft, PDF, imágenes y muchos otros.
-
         left:
           enable: true
           table:
             # table loop
-            - title: "Formatos de oficina de Microsoft"
+            - title: "Microsoft Office Formats"
               content: |
-                * **Word**: DOC, DOCX, DOCM, DOT, DOTX, DOTM, RTF
-                * **Excel**: XLS, XLSX, XLSB, XLSM
-                * **PowerPoint**: PPT, PPTX, PPS, PPSX
-                * **Outlook**: EML, EMLX
-                * **Visio**: VSS, VST, VSD, VSDX
+                * **Word**: [DOC](/annotation/java/add/doc/), [DOCX](/annotation/java/add/docx/), [DOCM](/annotation/java/add/docm/), [DOT](/annotation/java/add/dot/), [DOTX](/annotation/java/add/dotx/), [RTF](/annotation/java/add/rtf/)
+                * **Excel**: [XLS](/annotation/java/add/xls/), [XLSX](/annotation/java/add/xlsx/), [XLSB](/annotation/java/add/xlsb/), [XLSM](/annotation/java/add/xlsm/)
+                * **PowerPoint**: [PPT](/annotation/java/add/ppt/), [PPTX](/annotation/java/add/pptx/), [PPS](/annotation/java/add/pps/), [PPSX](/annotation/java/add/ppsx/), [POTM](/annotation/java/add/potm/), [POTX](/annotation/java/add/potx/), [PPSM](/annotation/java/add/ppsm/), [PPTM](/annotation/java/add/pptm/), [WMF](/annotation/java/add/wmf/), [EMF](/annotation/java/add/emf/)
+                * **Outlook**: [EML](/annotation/java/add/eml/), [EMLX](/annotation/java/add/emlx/), [MSG](/annotation/java/add/msg/)
+                * **Visio**: [VSS](/annotation/java/add/vss/), [VST](/annotation/java/add/vst/), [VSD](/annotation/java/add/vsd/), [VSDX](/annotation/java/add/vsdx/), [VSX](/annotation/java/add/vsx/)
 
         right:
           enable: true
@@ -108,11 +113,11 @@ overview:
             # table loop
             - title: "Otros formatos"
               content: |
-                * **Portable**: PDF (PDF/A-1a, PDF/A-1b, PDF/A-2a)
-                * **OpenDocument**: ODT, ODS, ODP
-                * **Images**: BMP, JPG, TIFF, TIF, PNG
-                * **AutoCAD**: DWG, DXF
-                * **Other**: HTML
+                * **Portable**: [PDF](/annotation/java/add/pdf/) (PDF/A-1a, PDF/A-1b, PDF/A-2a)
+                * **OpenDocument**: [ODT](/annotation/java/add/odt/), [ODS](/annotation/java/add/ods/), [ODP](/annotation/java/add/odp/)
+                * **Images**: [BMP](/annotation/java/add/bmp/), [JPG](/annotation/java/add/jpg/), [JPEG](/annotation/java/add/jpeg/), [TIFF](/annotation/java/add/tiff/), [TIF](/annotation/java/add/tif/), [PNG](/annotation/java/add/png/), [GIF](/annotation/java/add/gif/), [DCM](/annotation/java/add/dcm/), [DICOM](/annotation/java/add/dicom/)
+                * **AutoCAD**: [DWG](/annotation/java/add/dwg/), [DXF](/annotation/java/add/dxf/), [CAD](/annotation/java/add/cad/)
+                * **Other**: [HTM](/annotation/java/add/htm/), [HTML](/annotation/java/add/html/), [CSV](/annotation/java/add/csv/), [DJVU](/annotation/java/add/djvu/), [OTP](/annotation/java/add/otp/), [OTT](/annotation/java/add/ott/)
 
       ## TAB THREE ##
       tab_three:
@@ -153,7 +158,7 @@ overview:
               content: |
                 * Maven
 
-############################# Características ############################
+############################# Features ############################
 features:
     enable: true
     title: "Funciones de GroupDocs.Annotation para Java"
@@ -212,7 +217,7 @@ features:
       # feature loop
       - icon: "fas fa-wrench"
         link: "https://docs.groupdocs.com/annotation/net/advanced-usage/"
-        content: "Import & Exportar anotaciones among Word Documents & PowerPoint Presentations"
+        content: "Import & Exportar anotaciones among Word Documents  &  PowerPoint Presentations"
 
       # feature loop
       - icon: "fas fa-columns"

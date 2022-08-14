@@ -1,21 +1,21 @@
 ---
 ############################# Static ############################
 layout: "product"
-date: 2022-07-05T12:44:18+03:00
+date: 2021-04-27T09:31:06+03:00
 draft: false
 
 product: "Annotation"
 product_tag: "annotation"
-platform: "Net"
+platform: ".NET"
 platform_tag: "net"
 
 ############################# Head ############################
-head_title: "Net Document Annotation API | View & Annotate PDF Word Excel PPTX Images"
-head_description: "Net Document Annotation API. View, tag, comment & annotate PDF Word DOCX, Excel XLSX, PPTX, EML EMLX, VSS VSD, OTP, CAD & image file formats."
+head_title: "C# .NET Document Annotation API | Annotate PDF Word Excel PPTX Image Files"
+head_description: "C# .NET Document Annotation API. View, tag, comment & annotate PDF Word DOC DOCX, Excel XLS XLSX, PPT PPTX, OTP, CAD, EMF WMF & image files."
 
 ############################# Header ############################
-title: "Document Annotation via Net API"
-description: "Build Net Applications with capabilities to View & Annotate PDF, HTML, MS Office and other document formats without installing any external software."
+title: "Annotate documents in .NET"
+description: "Use our .NET API to annotate PDF and Word documents, Excel sheets, Visio diagrams and more."
 button:
     enable: true
     icon: "fas fa-arrow-down"
@@ -27,10 +27,10 @@ submenu:
     enable: true
     
     left:
-        img_alt: "GroupDocs.Annotation for Net"
+        img_alt: "GroupDocs.Annotation for .NET"
         image: "https://www.groupdocs.cloud/templates/groupdocs/images/product-logos/groupdocs-annotation-net.png"
         product: "GroupDocs.Annotation"
-        platform: "Net"
+        platform: ".NET"
 
     middle:
         button:
@@ -63,23 +63,15 @@ submenu:
 overview:
     enable: true
     content: |
-      GroupDocs.Annotation Net API is a product that allows you to work with annotations in documents on different platforms and operating systems, such as Android, MacOS, Linux, Windows. GroupDocs.Annotation provides a library with simple API that gives many advantages: for example, if you need to keep the data confidential or choose how much power you need to work with the library, or partially change the work with annotations, the library is very lightweight and flexible.
-
-        GroupDocs.Annotation for Net API allows you to work with different types of annotations, which includes: Text, Polyline, Area, Underline, Point, Watermark, Arrow, Ellipse, Text Replacement, Distance, Text Field, Resource Redaction etc. And supports most popular documents formats such as: PDF, HTML, Microsoft Office Word, Excel spreadsheets, PowerPoint presentations, Visio, Outlook emails, images, metafiles, CAD drawing and various other formats. The API provides the ability to get thumbnails of document pages and supports importing and exporting annotation to and from PDF files.
-
-        Using library, you can [add](/annotation/net/add/bmp/), [edit](/annotation/net/edit/bmp/), [extract](/annotation/net/extract/bmp/) and [delete](/annotation/net/remove/bmp/) annotations from documents, rotate documents, change thumbnails solution and this is not a complete list of all the possibilities. It also offers a comprehensive set of data objects to customize annotation properties as per your requirements within all supported document formats.
-
-        Working with the GroupDocs.Annotation for Net API is very simple and consists of just a few basic steps. At first you need to setup a license, then select the file which you want to work with, then manipulate somehow with document annotations (delete/edit/extract/delete) and save the result. For more information please see product [documentation](https://docs.groupdocs.com/annotation/net/getting-started/) or our [examples](https://github.com/groupdocs-annotation/GroupDocs.Annotation-for-.Net) set.
-
-        GroupDocs.Annotation is regularly updated and provides support for its customers, you are always welcome to ask us a questions or send your ideas or tell us about your needs for something new and we will gladly implement it in our new versions.
+      GroupDocs.Annotation for .NET is a comprehensive set of APIs that helps you build document annotation management applications in C#, ASP.NET and other related .NET technologies. You can create and work with all popular annotation types, such as area, point, text, ellipse, link, underline, polyline, arrow, distance, watermark, image etc for PDF, HTML, Microsoft Office Word, Excel spreadsheets, PowerPoint presentations, Visio, images, CAD drawing and various other formats. The document annotator library allows you to export documents after adding annotations, comments or highlighted notes back to its original format. It also gives you a handy set of data objects through which you can customize annotations as per your requirements.
     tabs:
       enable: true
       
       ## TAB ONE ##
       tab_one:
         description: |
-          Following is an overview of GroupDocs.Annotation for Net:
-      
+          Following is an overview of GroupDocs.Annotation for .NET:
+
         right:
           enable: true
           icon: "fab fa-html5"
@@ -87,25 +79,25 @@ overview:
           content: |
             * Add Annotations
             * Export Annotations
-            * Import Annotations
+            * Import Annotations            
             * Reply Based Comments
             * Annotation Compatibility
       
       ## TAB TWO ##
       tab_two:
         description: |
-          GroupDocs.Annotation for Net supports all popular [document file formats](https://docs.groupdocs.com/annotation/net/supported-document-formats/) including: Microsoft Office, PDF, images and many others.
+          GroupDocs.Annotation for .NET supports all popular [document file formats](https://docs.groupdocs.com/annotation/net/supported-document-formats/) including: Microsoft Office, PDF, images and many others.
+
         left:
           enable: true
           table:
             # table loop
             - title: "Microsoft Office Formats"
               content: |
-                * **Word**: [DOC](/annotation/net/add/doc/), [DOCX](/annotation/net/add/docx/), [DOCM](/annotation/net/add/docm/), [DOT](/annotation/net/add/dot/), [DOTX](/annotation/net/add/dotx/), [RTF](/annotation/net/add/rtf/)
-                * **Excel**: [XLS](/annotation/net/add/xls/), [XLSX](/annotation/net/add/xlsx/), [XLSB](/annotation/net/add/xlsb/), [XLSM](/annotation/net/add/xlsm/)
-                * **PowerPoint**: [PPT](/annotation/net/add/ppt/), [PPTX](/annotation/net/add/pptx/), [PPS](/annotation/net/add/pps/), [PPSX](/annotation/net/add/ppsx/), [POTM](/annotation/net/add/potm/), [POTX](/annotation/net/add/potx/), [PPSM](/annotation/net/add/ppsm/), [PPTM](/annotation/net/add/pptm/), [WMF](/annotation/net/add/wmf/), [EMF](/annotation/net/add/emf/)
-                * **Outlook**: [EML](/annotation/net/add/eml/), [EMLX](/annotation/net/add/emlx/), [MSG](/annotation/net/add/msg/)
-                * **Visio**: [VSS](/annotation/net/add/vss/), [VST](/annotation/net/add/vst/), [VSD](/annotation/net/add/vsd/), [VSDX](/annotation/net/add/vsdx/), [VSX](/annotation/net/add/vsx/)
+                * **Microsoft Word**: DOC, DOCX, DOCM, DOT, DOTX, DOTM, RTF 
+                * **Microsoft Excel**: XLS, XLSX, XLSM, XLSB, CSV
+                * **Microsoft PowerPoint**: PPT, PPTX, PPS, PPSX
+                * **Microsoft Visio**: VSD, VSS, VSDX, VST, VSDM, VSSX, VSTM
 
         right:
           enable: true
@@ -113,17 +105,19 @@ overview:
             # table loop
             - title: "Other Formats"
               content: |
-                * **Portable**: [PDF](/annotation/net/add/pdf/) (PDF/A-1a, PDF/A-1b, PDF/A-2a)
-                * **OpenDocument**: [ODT](/annotation/net/add/odt/), [ODS](/annotation/net/add/ods/), [ODP](/annotation/net/add/odp/)
-                * **Images**: [BMP](/annotation/net/add/bmp/), [JPG](/annotation/net/add/jpg/), [JPEG](/annotation/net/add/jpeg/), [TIFF](/annotation/net/add/tiff/), [TIF](/annotation/net/add/tif/), [PNG](/annotation/net/add/png/), [GIF](/annotation/net/add/gif/), [DCM](/annotation/net/add/dcm/), [DICOM](/annotation/net/add/dicom/)
-                * **AutoCAD**: [DWG](/annotation/net/add/dwg/), [DXF](/annotation/net/add/dxf/), [CAD](/annotation/net/add/cad/)
-                * **Other**: [HTM](/annotation/net/add/htm/), [HTML](/annotation/net/add/html/), [CSV](/annotation/net/add/csv/), [DJVU](/annotation/net/add/djvu/), [OTP](/annotation/net/add/otp/), [OTT](/annotation/net/add/ott/)
+                * **Portable**: PDF (PDF/A-1a, PDF/A-1b, PDF/A-2a)
+                * **OpenDocument**: ODT, ODS, ODP
+                * **Images**: BMP, JPEG, PNG, TIFF
+                * **AutoCAD**: DWG, DXF
+                * **Metafiles**: EMF, WMF
+                * **Email**: EML, EMLX
+                * **Web**: HTM, HTML
 
       ## TAB THREE ##
       tab_three:
         description: |
-          GroupDocs.Annotation for Net supports following Operating Systems, Frameworks & Package Managers:
-      
+          GroupDocs.Annotation for .NET supports following Operating Systems, Frameworks & Package Managers:
+        
         left:
           enable: true
           table:
@@ -168,7 +162,7 @@ overview:
 ############################# Features ############################
 features:
     enable: true
-    title: "GroupDocs.Annotation for Net Features"
+    title: "GroupDocs.Annotation for .NET Features"
 
     feature:
       # feature loop

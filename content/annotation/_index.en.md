@@ -1,8 +1,7 @@
-
 ---
 ############################# Static ############################
 layout: "product"
-date: 2022-07-05T12:44:18+03:00
+date: 2021-04-27T09:31:06+03:00
 draft: false
 
 ############################# Head ############################
@@ -11,7 +10,7 @@ head_description: "Get all-in-one document annotation solution for .NET, Java an
 
 ############################# Header ############################
 title: "Document and Image Annotation Solution"
-description: "Annotate documents with our apps or build your own custom annotation applications across popular platforms using on premise or cloud APIs."
+description: "Annotate documents online for free or build your own custom annotator across popular platforms using our API"
 
 ############################# APIs ###############################
 apis:

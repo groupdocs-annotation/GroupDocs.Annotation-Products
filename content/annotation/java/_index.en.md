@@ -1,7 +1,7 @@
 ---
 ############################# Static ############################
 layout: "product"
-date: 2022-07-05T12:44:18+03:00
+date: 2021-04-27T09:31:06+03:00
 draft: false
 
 product: "Annotation"
@@ -14,8 +14,8 @@ head_title: "Java Document Annotation API | View & Annotate PDF Word Excel PPTX 
 head_description: "Java Document Annotation API. View, tag, comment & annotate PDF Word DOCX, Excel XLSX, PPTX, EML EMLX, VSS VSD, OTP, CAD & image file formats."
 
 ############################# Header ############################
-title: "Document Annotation via Java API"
-description: "Build Java Applications with capabilities to View & Annotate PDF, HTML, MS Office and other document formats without installing any external software."
+title: "Annotate documents using Java API"
+description: "Build your own Java Application with capabilities to View and Annotate PDF, Word, Excel and other document formats."
 button:
     enable: true
     icon: "fas fa-arrow-down"
@@ -63,15 +63,9 @@ submenu:
 overview:
     enable: true
     content: |
-      GroupDocs.Annotation Java API is a product that allows you to work with annotations in documents on different platforms and operating systems, such as Android, MacOS, Linux, Windows. GroupDocs.Annotation provides a library with simple API that gives many advantages: for example, if you need to keep the data confidential or choose how much power you need to work with the library, or partially change the work with annotations, the library is very lightweight and flexible.
-
-        GroupDocs.Annotation for Java API allows you to work with different types of annotations, which includes: Text, Polyline, Area, Underline, Point, Watermark, Arrow, Ellipse, Text Replacement, Distance, Text Field, Resource Redaction etc. And supports most popular documents formats such as: PDF, HTML, Microsoft Office Word, Excel spreadsheets, PowerPoint presentations, Visio, Outlook emails, images, metafiles, CAD drawing and various other formats. The API provides the ability to get thumbnails of document pages and supports importing and exporting annotation to and from PDF files.
-
-        Using library, you can [add](/annotation/java/add/bmp/), [edit](/annotation/java/edit/bmp/), [extract](/annotation/java/extract/bmp/) and [delete](/annotation/java/remove/bmp/) annotations from documents, rotate documents, change thumbnails solution and this is not a complete list of all the possibilities. It also offers a comprehensive set of data objects to customize annotation properties as per your requirements within all supported document formats.
-
-        Working with the GroupDocs.Annotation for Java API is very simple and consists of just a few basic steps. At first you need to setup a license, then select the file which you want to work with, then manipulate somehow with document annotations (delete/edit/extract/delete) and save the result. For more information please see product [documentation](https://docs.groupdocs.com/annotation/java/getting-started/) or our [examples](https://github.com/groupdocs-annotation/GroupDocs.Annotation-for-Java) set.
-
-        GroupDocs.Annotation is regularly updated and provides support for its customers, you are always welcome to ask us a questions or send your ideas or tell us about your needs for something new and we will gladly implement it in our new versions.
+      GroupDocs.Annotation for Java API provides easy to use document, annotation management, and manipulation functionality to be used in your Java-based business applications. Our Java annotator library allows you to work with many types of annotations, which include text, polyline, area, underline, point, watermark, arrow, ellipse, text replacement, distance, text field, resource redaction etc. It also offers a comprehensive set of data objects to customize annotation properties as per your requirements within all supported document formats including: PDF, HTML, Microsoft Office Word, Excel spreadsheets, PowerPoint presentations, Visio, Outlook emails, images, metafiles, CAD drawing and various other formats.  
+        
+      The API provides the ability to get thumbnails of document pages and supports importing and exporting annotation to and from PDF files.
     tabs:
       enable: true
       
@@ -95,17 +89,18 @@ overview:
       tab_two:
         description: |
           GroupDocs.Annotation for Java supports all popular [document file formats](https://docs.groupdocs.com/annotation/java/supported-document-formats/) including: Microsoft Office, PDF, images and many others.
+
         left:
           enable: true
           table:
             # table loop
             - title: "Microsoft Office Formats"
               content: |
-                * **Word**: [DOC](/annotation/java/add/doc/), [DOCX](/annotation/java/add/docx/), [DOCM](/annotation/java/add/docm/), [DOT](/annotation/java/add/dot/), [DOTX](/annotation/java/add/dotx/), [RTF](/annotation/java/add/rtf/)
-                * **Excel**: [XLS](/annotation/java/add/xls/), [XLSX](/annotation/java/add/xlsx/), [XLSB](/annotation/java/add/xlsb/), [XLSM](/annotation/java/add/xlsm/)
-                * **PowerPoint**: [PPT](/annotation/java/add/ppt/), [PPTX](/annotation/java/add/pptx/), [PPS](/annotation/java/add/pps/), [PPSX](/annotation/java/add/ppsx/), [POTM](/annotation/java/add/potm/), [POTX](/annotation/java/add/potx/), [PPSM](/annotation/java/add/ppsm/), [PPTM](/annotation/java/add/pptm/), [WMF](/annotation/java/add/wmf/), [EMF](/annotation/java/add/emf/)
-                * **Outlook**: [EML](/annotation/java/add/eml/), [EMLX](/annotation/java/add/emlx/), [MSG](/annotation/java/add/msg/)
-                * **Visio**: [VSS](/annotation/java/add/vss/), [VST](/annotation/java/add/vst/), [VSD](/annotation/java/add/vsd/), [VSDX](/annotation/java/add/vsdx/), [VSX](/annotation/java/add/vsx/)
+                * **Word**: DOC, DOCX, DOCM, DOT, DOTX, DOTM, RTF
+                * **Excel**: XLS, XLSX, XLSB, XLSM
+                * **PowerPoint**: PPT, PPTX, PPS, PPSX
+                * **Outlook**: EML, EMLX
+                * **Visio**: VSS, VST, VSD, VSDX
 
         right:
           enable: true
@@ -113,11 +108,11 @@ overview:
             # table loop
             - title: "Other Formats"
               content: |
-                * **Portable**: [PDF](/annotation/java/add/pdf/) (PDF/A-1a, PDF/A-1b, PDF/A-2a)
-                * **OpenDocument**: [ODT](/annotation/java/add/odt/), [ODS](/annotation/java/add/ods/), [ODP](/annotation/java/add/odp/)
-                * **Images**: [BMP](/annotation/java/add/bmp/), [JPG](/annotation/java/add/jpg/), [JPEG](/annotation/java/add/jpeg/), [TIFF](/annotation/java/add/tiff/), [TIF](/annotation/java/add/tif/), [PNG](/annotation/java/add/png/), [GIF](/annotation/java/add/gif/), [DCM](/annotation/java/add/dcm/), [DICOM](/annotation/java/add/dicom/)
-                * **AutoCAD**: [DWG](/annotation/java/add/dwg/), [DXF](/annotation/java/add/dxf/), [CAD](/annotation/java/add/cad/)
-                * **Other**: [HTM](/annotation/java/add/htm/), [HTML](/annotation/java/add/html/), [CSV](/annotation/java/add/csv/), [DJVU](/annotation/java/add/djvu/), [OTP](/annotation/java/add/otp/), [OTT](/annotation/java/add/ott/)
+                * **Portable**: PDF (PDF/A-1a, PDF/A-1b, PDF/A-2a)
+                * **OpenDocument**: ODT, ODS, ODP
+                * **Images**: BMP, JPG, TIFF, TIF, PNG
+                * **AutoCAD**: DWG, DXF
+                * **Other**: HTML
 
       ## TAB THREE ##
       tab_three:

@@ -67,7 +67,7 @@ overview:
 
         GroupDocs.Annotation for Java API le permite trabajar con diferentes tipos de anotaciones, que incluyen: texto, polilínea, área, subrayado, punto, marca de agua, flecha, elipse, reemplazo de texto, distancia, campo de texto, redacción de recursos, etc. Y es compatible con los formatos de documentos más populares, como: PDF, HTML, Microsoft Office Word, hojas de cálculo de Excel, presentaciones de PowerPoint, Visio, correos electrónicos de Outlook, imágenes, metarchivos, dibujos CAD y varios otros formatos. La API brinda la capacidad de obtener miniaturas de páginas de documentos y admite la importación y exportación de anotaciones hacia y desde archivos PDF.
 
-        Con la biblioteca, puede [agregar](/anotación/{{plataforma}}/agregar/bmp/), [editar](/anotar/{{plataforma}}/editar/bmp/), [extraer](/annotation/java/extract/bmp/) y [delete](/annotation/java/remove/bmp/) anotaciones de documentos, rotar documentos, cambiar la solución de miniaturas y esta no es una lista completa de todas las posibilidades . También ofrece un conjunto integral de objetos de datos para personalizar las propiedades de anotación según sus requisitos dentro de todos los formatos de documentos admitidos.
+        Con la biblioteca, puede [agregar](/anotación/{{plataforma}}/bmp/), [editar](/anotar/{{plataforma}}/bmp/), [extraer](/annotation/java/bmp/) y [delete](/annotation/java/bmp/) anotaciones de documentos, rotar documentos, cambiar la solución de miniaturas y esta no es una lista completa de todas las posibilidades . También ofrece un conjunto integral de objetos de datos para personalizar las propiedades de anotación según sus requisitos dentro de todos los formatos de documentos admitidos.
 
         Trabajar con la API de GroupDocs.Annotation para Java es muy sencillo y consta de unos pocos pasos básicos. Al principio, debe configurar una licencia, luego seleccionar el archivo con el que desea trabajar, luego manipularlo de alguna manera con las anotaciones del documento (eliminar/editar/extraer/eliminar) y guardar el resultado. Para obtener más información, consulte la [documentación] del producto (https://docs.groupdocs.com/annotation/java/getting-started/) o nuestros [ejemplos] (https://github.com/groupdocs-annotation /GroupDocs.Annotation-for-Java) establecido.
 
@@ -101,11 +101,11 @@ overview:
             # table loop
             - title: "Microsoft Office Formats"
               content: |
-                * **Word**: [DOC](/annotation/java/add/doc/), [DOCX](/annotation/java/add/docx/), [DOCM](/annotation/java/add/docm/), [DOT](/annotation/java/add/dot/), [DOTX](/annotation/java/add/dotx/), [RTF](/annotation/java/add/rtf/)
-                * **Excel**: [XLS](/annotation/java/add/xls/), [XLSX](/annotation/java/add/xlsx/), [XLSB](/annotation/java/add/xlsb/), [XLSM](/annotation/java/add/xlsm/)
-                * **PowerPoint**: [PPT](/annotation/java/add/ppt/), [PPTX](/annotation/java/add/pptx/), [PPS](/annotation/java/add/pps/), [PPSX](/annotation/java/add/ppsx/), [POTM](/annotation/java/add/potm/), [POTX](/annotation/java/add/potx/), [PPSM](/annotation/java/add/ppsm/), [PPTM](/annotation/java/add/pptm/), [WMF](/annotation/java/add/wmf/), [EMF](/annotation/java/add/emf/)
-                * **Outlook**: [EML](/annotation/java/add/eml/), [EMLX](/annotation/java/add/emlx/), [MSG](/annotation/java/add/msg/)
-                * **Visio**: [VSS](/annotation/java/add/vss/), [VST](/annotation/java/add/vst/), [VSD](/annotation/java/add/vsd/), [VSDX](/annotation/java/add/vsdx/), [VSX](/annotation/java/add/vsx/)
+                * **Word**: [DOC](/annotation/java/doc/), [DOCX](/annotation/java/docx/), [DOCM](/annotation/java/docm/), [DOT](/annotation/java/dot/), [DOTX](/annotation/java/dotx/), [RTF](/annotation/java/rtf/)
+                * **Excel**: [XLS](/annotation/java/xls/), [XLSX](/annotation/java/xlsx/), [XLSB](/annotation/java/xlsb/), [XLSM](/annotation/java/xlsm/)
+                * **PowerPoint**: [PPT](/annotation/java/ppt/), [PPTX](/annotation/java/pptx/), [PPS](/annotation/java/pps/), [PPSX](/annotation/java/ppsx/), [POTM](/annotation/java/potm/), [POTX](/annotation/java/potx/), [PPSM](/annotation/java/ppsm/), [PPTM](/annotation/java/pptm/), [WMF](/annotation/java/wmf/), [EMF](/annotation/java/emf/)
+                * **Outlook**: [EML](/annotation/java/eml/), [EMLX](/annotation/java/emlx/), [MSG](/annotation/java/msg/)
+                * **Visio**: [VSS](/annotation/java/vss/), [VST](/annotation/java/vst/), [VSD](/annotation/java/vsd/), [VSDX](/annotation/java/vsdx/), [VSX](/annotation/java/vsx/)
 
         right:
           enable: true
@@ -113,11 +113,11 @@ overview:
             # table loop
             - title: "Otros formatos"
               content: |
-                * **Portable**: [PDF](/annotation/java/add/pdf/) (PDF/A-1a, PDF/A-1b, PDF/A-2a)
-                * **OpenDocument**: [ODT](/annotation/java/add/odt/), [ODS](/annotation/java/add/ods/), [ODP](/annotation/java/add/odp/)
-                * **Images**: [BMP](/annotation/java/add/bmp/), [JPG](/annotation/java/add/jpg/), [JPEG](/annotation/java/add/jpeg/), [TIFF](/annotation/java/add/tiff/), [TIF](/annotation/java/add/tif/), [PNG](/annotation/java/add/png/), [GIF](/annotation/java/add/gif/), [DCM](/annotation/java/add/dcm/), [DICOM](/annotation/java/add/dicom/)
-                * **AutoCAD**: [DWG](/annotation/java/add/dwg/), [DXF](/annotation/java/add/dxf/), [CAD](/annotation/java/add/cad/)
-                * **Other**: [HTM](/annotation/java/add/htm/), [HTML](/annotation/java/add/html/), [CSV](/annotation/java/add/csv/), [DJVU](/annotation/java/add/djvu/), [OTP](/annotation/java/add/otp/), [OTT](/annotation/java/add/ott/)
+                * **Portable**: [PDF](/annotation/java/pdf/) (PDF/A-1a, PDF/A-1b, PDF/A-2a)
+                * **OpenDocument**: [ODT](/annotation/java/odt/), [ODS](/annotation/java/ods/), [ODP](/annotation/java/odp/)
+                * **Images**: [BMP](/annotation/java/bmp/), [JPG](/annotation/java/jpg/), [JPEG](/annotation/java/jpeg/), [TIFF](/annotation/java/tiff/), [TIF](/annotation/java/tif/), [PNG](/annotation/java/png/), [GIF](/annotation/java/gif/), [DCM](/annotation/java/dcm/), [DICOM](/annotation/java/dicom/)
+                * **AutoCAD**: [DWG](/annotation/java/dwg/), [DXF](/annotation/java/dxf/), [CAD](/annotation/java/cad/)
+                * **Other**: [HTM](/annotation/java/htm/), [HTML](/annotation/java/html/), [CSV](/annotation/java/csv/), [DJVU](/annotation/java/djvu/), [OTP](/annotation/java/otp/), [OTT](/annotation/java/ott/)
 
       ## TAB THREE ##
       tab_three:

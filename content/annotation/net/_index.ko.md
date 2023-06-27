@@ -62,7 +62,7 @@ overview:
 
         {{플랫폼}} API용 GroupDocs.Annotation을 사용하면 텍스트, 폴리라인, 영역, 밑줄, 점, 워터마크, 화살표, 타원, 텍스트 대체, 거리, 텍스트 필드, 리소스 수정 등 다양한 유형의 주석으로 작업할 수 있습니다. PDF, HTML, Microsoft Office Word, Excel 스프레드시트, PowerPoint 프레젠테이션, Visio, Outlook 이메일, 이미지, 메타파일, CAD 도면 및 기타 다양한 형식과 같은 가장 널리 사용되는 문서 형식을 지원합니다. API는 문서 페이지의 축소판을 가져오는 기능을 제공하고 PDF 파일에서 주석 가져오기 및 내보내기를 지원합니다.
 
-        라이브러리를 사용하여 [추가하다](/annotation/net/add/bmp/), [편집하다](/annotation/net/edit/bmp/), [발췌](/annotation /net/extract/bmp/) 및 [삭제](/annotation/net/remove/bmp/) 문서에서 주석, 문서 회전, 축소판 솔루션 변경 및 이것은 전체 목록이 아닙니다. 가능성. 또한 지원되는 모든 문서 형식 내에서 요구 사항에 따라 주석 속성을 사용자 지정할 수 있는 포괄적인 데이터 개체 집합을 제공합니다.
+        라이브러리를 사용하여 [추가하다](/annotation/net/bmp/), [편집하다](/annotation/net/bmp/), [발췌](/annotation /net/bmp/) 및 [삭제](/annotation/net/bmp/) 문서에서 주석, 문서 회전, 축소판 솔루션 변경 및 이것은 전체 목록이 아닙니다. 가능성. 또한 지원되는 모든 문서 형식 내에서 요구 사항에 따라 주석 속성을 사용자 지정할 수 있는 포괄적인 데이터 개체 집합을 제공합니다.
 
         Net API용 GroupDocs.Annotation 작업은 매우 간단하며 몇 가지 기본 단계로 구성됩니다. 먼저 라이선스를 설정하고 작업할 파일을 선택한 다음 문서 주석으로 어떻게든 조작(삭제/편집/추출/삭제)하고 결과를 저장해야 합니다. 자세한 내용은 제품 [문서](https://docs.groupdocs.com/annotation/net/getting-started/) 또는 [예제](https://github.com/groupdocs-annotation)를 참조하세요. /GroupDocs.Annotation-for-.Net)이 설정되었습니다.
 
@@ -96,11 +96,11 @@ overview:
             # table loop
             - title: "Microsoft Office Formats"
               content: |
-                * **Word**: [DOC](/annotation/net/add/doc/), [DOCX](/annotation/net/add/docx/), [DOCM](/annotation/net/add/docm/), [DOT](/annotation/net/add/dot/), [DOTX](/annotation/net/add/dotx/), [RTF](/annotation/net/add/rtf/)
-                * **Excel**: [XLS](/annotation/net/add/xls/), [XLSX](/annotation/net/add/xlsx/), [XLSB](/annotation/net/add/xlsb/), [XLSM](/annotation/net/add/xlsm/)
-                * **PowerPoint**: [PPT](/annotation/net/add/ppt/), [PPTX](/annotation/net/add/pptx/), [PPS](/annotation/net/add/pps/), [PPSX](/annotation/net/add/ppsx/), [POTM](/annotation/net/add/potm/), [POTX](/annotation/net/add/potx/), [PPSM](/annotation/net/add/ppsm/), [PPTM](/annotation/net/add/pptm/), [WMF](/annotation/net/add/wmf/), [EMF](/annotation/net/add/emf/)
-                * **Outlook**: [EML](/annotation/net/add/eml/), [EMLX](/annotation/net/add/emlx/), [MSG](/annotation/net/add/msg/)
-                * **Visio**: [VSS](/annotation/net/add/vss/), [VST](/annotation/net/add/vst/), [VSD](/annotation/net/add/vsd/), [VSDX](/annotation/net/add/vsdx/), [VSX](/annotation/net/add/vsx/)
+                * **Word**: [DOC](/annotation/net/doc/), [DOCX](/annotation/net/docx/), [DOCM](/annotation/net/docm/), [DOT](/annotation/net/dot/), [DOTX](/annotation/net/dotx/), [RTF](/annotation/net/rtf/)
+                * **Excel**: [XLS](/annotation/net/xls/), [XLSX](/annotation/net/xlsx/), [XLSB](/annotation/net/xlsb/), [XLSM](/annotation/net/xlsm/)
+                * **PowerPoint**: [PPT](/annotation/net/ppt/), [PPTX](/annotation/net/pptx/), [PPS](/annotation/net/pps/), [PPSX](/annotation/net/ppsx/), [POTM](/annotation/net/potm/), [POTX](/annotation/net/potx/), [PPSM](/annotation/net/ppsm/), [PPTM](/annotation/net/pptm/), [WMF](/annotation/net/wmf/), [EMF](/annotation/net/emf/)
+                * **Outlook**: [EML](/annotation/net/eml/), [EMLX](/annotation/net/emlx/), [MSG](/annotation/net/msg/)
+                * **Visio**: [VSS](/annotation/net/vss/), [VST](/annotation/net/vst/), [VSD](/annotation/net/vsd/), [VSDX](/annotation/net/vsdx/), [VSX](/annotation/net/vsx/)
 
         right:
           enable: true
@@ -108,11 +108,11 @@ overview:
             # table loop
             - title: "기타 형식"
               content: |
-                * **Portable**: [PDF](/annotation/net/add/pdf/) (PDF/A-1a, PDF/A-1b, PDF/A-2a)
-                * **OpenDocument**: [ODT](/annotation/net/add/odt/), [ODS](/annotation/net/add/ods/), [ODP](/annotation/net/add/odp/)
-                * **Images**: [BMP](/annotation/net/add/bmp/), [JPG](/annotation/net/add/jpg/), [JPEG](/annotation/net/add/jpeg/), [TIFF](/annotation/net/add/tiff/), [TIF](/annotation/net/add/tif/), [PNG](/annotation/net/add/png/), [GIF](/annotation/net/add/gif/), [DCM](/annotation/net/add/dcm/), [DICOM](/annotation/net/add/dicom/)
-                * **AutoCAD**: [DWG](/annotation/net/add/dwg/), [DXF](/annotation/net/add/dxf/), [CAD](/annotation/net/add/cad/)
-                * **Other**: [HTM](/annotation/net/add/htm/), [HTML](/annotation/net/add/html/), [CSV](/annotation/net/add/csv/), [DJVU](/annotation/net/add/djvu/), [OTP](/annotation/net/add/otp/), [OTT](/annotation/net/add/ott/)
+                * **Portable**: [PDF](/annotation/net/pdf/) (PDF/A-1a, PDF/A-1b, PDF/A-2a)
+                * **OpenDocument**: [ODT](/annotation/net/odt/), [ODS](/annotation/net/ods/), [ODP](/annotation/net/odp/)
+                * **Images**: [BMP](/annotation/net/bmp/), [JPG](/annotation/net/jpg/), [JPEG](/annotation/net/jpeg/), [TIFF](/annotation/net/tiff/), [TIF](/annotation/net/tif/), [PNG](/annotation/net/png/), [GIF](/annotation/net/gif/), [DCM](/annotation/net/dcm/), [DICOM](/annotation/net/dicom/)
+                * **AutoCAD**: [DWG](/annotation/net/dwg/), [DXF](/annotation/net/dxf/), [CAD](/annotation/net/cad/)
+                * **Other**: [HTM](/annotation/net/htm/), [HTML](/annotation/net/html/), [CSV](/annotation/net/csv/), [DJVU](/annotation/net/djvu/), [OTP](/annotation/net/otp/), [OTT](/annotation/net/ott/)
 
       ## TAB THREE ##
       tab_three:

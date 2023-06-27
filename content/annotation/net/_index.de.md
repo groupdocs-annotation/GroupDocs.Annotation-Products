@@ -67,7 +67,7 @@ overview:
 
         GroupDocs.Annotation for Net API stelt u in staat om met verschillende soorten annotaties te werken, waaronder: tekst, polylijn, gebied, onderstrepen, punt, watermerk, pijl, ellips, tekstvervanging, afstand, tekstveld, bronredactie enz. En ondersteunt de meest populaire documentformaten zoals: PDF, HTML, Microsoft Office Word, Excel-spreadsheets, PowerPoint-presentaties, Visio, Outlook-e-mails, afbeeldingen, metabestanden, CAD-tekeningen en verschillende andere formaten. De API biedt de mogelijkheid om miniaturen van documentpagina's te krijgen en ondersteunt het importeren en exporteren van annotaties van en naar PDF-bestanden.
 
-        Met de bibliotheek kunt u [toevoegen](/annotation/net/add/bmp/), [bewerk](/annotation/net/edit/bmp/), [extract](/annotation/net/extract/bmp/) en [verwijderen](/annotation/net/remove/bmp/) annotaties van documenten, documenten roteren, thumbnails wijzigen oplossing en dit is geen volledige lijst van alle mogelijkheden . Het biedt ook een uitgebreide set gegevensobjecten om annotatie-eigenschappen aan te passen aan uw vereisten binnen alle ondersteunde documentindelingen.
+        Met de bibliotheek kunt u [toevoegen](/annotation/net/bmp/), [bewerk](/annotation/net/bmp/), [extract](/annotation/net/bmp/) en [verwijderen](/annotation/net/bmp/) annotaties van documenten, documenten roteren, thumbnails wijzigen oplossing en dit is geen volledige lijst van alle mogelijkheden . Het biedt ook een uitgebreide set gegevensobjecten om annotatie-eigenschappen aan te passen aan uw vereisten binnen alle ondersteunde documentindelingen.
 
         Werken met de GroupDocs.Annotation for Net API is heel eenvoudig en bestaat uit slechts een paar basisstappen. Eerst moet je een licentie instellen, dan het bestand selecteren waarmee je wilt werken, dan op de een of andere manier manipuleren met documentannotaties (verwijderen/bewerken/uitpakken/verwijderen) en het resultaat opslaan. Zie voor meer informatie product [documentatie](https://docs.groupdocs.com/annotation/net/getting-started/) of onze [voorbeelden](https://github.com/groupdocs-annotation /GroupDocs.Annotation-for-.Net) ingesteld.
 
@@ -101,11 +101,11 @@ overview:
             # table loop
             - title: "Microsoft Office Formats"
               content: |
-                * **Word**: [DOC](/annotation/net/add/doc/), [DOCX](/annotation/net/add/docx/), [DOCM](/annotation/net/add/docm/), [DOT](/annotation/net/add/dot/), [DOTX](/annotation/net/add/dotx/), [RTF](/annotation/net/add/rtf/)
-                * **Excel**: [XLS](/annotation/net/add/xls/), [XLSX](/annotation/net/add/xlsx/), [XLSB](/annotation/net/add/xlsb/), [XLSM](/annotation/net/add/xlsm/)
-                * **PowerPoint**: [PPT](/annotation/net/add/ppt/), [PPTX](/annotation/net/add/pptx/), [PPS](/annotation/net/add/pps/), [PPSX](/annotation/net/add/ppsx/), [POTM](/annotation/net/add/potm/), [POTX](/annotation/net/add/potx/), [PPSM](/annotation/net/add/ppsm/), [PPTM](/annotation/net/add/pptm/), [WMF](/annotation/net/add/wmf/), [EMF](/annotation/net/add/emf/)
-                * **Outlook**: [EML](/annotation/net/add/eml/), [EMLX](/annotation/net/add/emlx/), [MSG](/annotation/net/add/msg/)
-                * **Visio**: [VSS](/annotation/net/add/vss/), [VST](/annotation/net/add/vst/), [VSD](/annotation/net/add/vsd/), [VSDX](/annotation/net/add/vsdx/), [VSX](/annotation/net/add/vsx/)
+                * **Word**: [DOC](/annotation/net/doc/), [DOCX](/annotation/net/docx/), [DOCM](/annotation/net/docm/), [DOT](/annotation/net/dot/), [DOTX](/annotation/net/dotx/), [RTF](/annotation/net/rtf/)
+                * **Excel**: [XLS](/annotation/net/xls/), [XLSX](/annotation/net/xlsx/), [XLSB](/annotation/net/xlsb/), [XLSM](/annotation/net/xlsm/)
+                * **PowerPoint**: [PPT](/annotation/net/ppt/), [PPTX](/annotation/net/pptx/), [PPS](/annotation/net/pps/), [PPSX](/annotation/net/ppsx/), [POTM](/annotation/net/potm/), [POTX](/annotation/net/potx/), [PPSM](/annotation/net/ppsm/), [PPTM](/annotation/net/pptm/), [WMF](/annotation/net/wmf/), [EMF](/annotation/net/emf/)
+                * **Outlook**: [EML](/annotation/net/eml/), [EMLX](/annotation/net/emlx/), [MSG](/annotation/net/msg/)
+                * **Visio**: [VSS](/annotation/net/vss/), [VST](/annotation/net/vst/), [VSD](/annotation/net/vsd/), [VSDX](/annotation/net/vsdx/), [VSX](/annotation/net/vsx/)
 
         right:
           enable: true
@@ -113,11 +113,11 @@ overview:
             # table loop
             - title: "Andere Formate"
               content: |
-                * **Portable**: [PDF](/annotation/net/add/pdf/) (PDF/A-1a, PDF/A-1b, PDF/A-2a)
-                * **OpenDocument**: [ODT](/annotation/net/add/odt/), [ODS](/annotation/net/add/ods/), [ODP](/annotation/net/add/odp/)
-                * **Images**: [BMP](/annotation/net/add/bmp/), [JPG](/annotation/net/add/jpg/), [JPEG](/annotation/net/add/jpeg/), [TIFF](/annotation/net/add/tiff/), [TIF](/annotation/net/add/tif/), [PNG](/annotation/net/add/png/), [GIF](/annotation/net/add/gif/), [DCM](/annotation/net/add/dcm/), [DICOM](/annotation/net/add/dicom/)
-                * **AutoCAD**: [DWG](/annotation/net/add/dwg/), [DXF](/annotation/net/add/dxf/), [CAD](/annotation/net/add/cad/)
-                * **Other**: [HTM](/annotation/net/add/htm/), [HTML](/annotation/net/add/html/), [CSV](/annotation/net/add/csv/), [DJVU](/annotation/net/add/djvu/), [OTP](/annotation/net/add/otp/), [OTT](/annotation/net/add/ott/)
+                * **Portable**: [PDF](/annotation/net/pdf/) (PDF/A-1a, PDF/A-1b, PDF/A-2a)
+                * **OpenDocument**: [ODT](/annotation/net/odt/), [ODS](/annotation/net/ods/), [ODP](/annotation/net/odp/)
+                * **Images**: [BMP](/annotation/net/bmp/), [JPG](/annotation/net/jpg/), [JPEG](/annotation/net/jpeg/), [TIFF](/annotation/net/tiff/), [TIF](/annotation/net/tif/), [PNG](/annotation/net/png/), [GIF](/annotation/net/gif/), [DCM](/annotation/net/dcm/), [DICOM](/annotation/net/dicom/)
+                * **AutoCAD**: [DWG](/annotation/net/dwg/), [DXF](/annotation/net/dxf/), [CAD](/annotation/net/cad/)
+                * **Other**: [HTM](/annotation/net/htm/), [HTML](/annotation/net/html/), [CSV](/annotation/net/csv/), [DJVU](/annotation/net/djvu/), [OTP](/annotation/net/otp/), [OTT](/annotation/net/ott/)
 
       ## TAB THREE ##
       tab_three:

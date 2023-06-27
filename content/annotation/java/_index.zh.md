@@ -63,11 +63,11 @@ submenu:
 overview:
     enable: true
     content: |
-      GroupDocs.Annotation Java API 是一款产品，可让您在不同平台和操作系统（如 Android、MacOS、Linux、Windows）上处理文档中的注释。 GroupDocs.Annotation 提供了一个具有简单 API 的库，该库具有许多优点：例如，如果您需要对数据保密或选择使用该库需要多少功率，或者使用注释部分更改工作，则该库非常轻巧灵活。
+      GroupDocs.Annotation Java API 是一款产品，可让您在不同平台和操作系统（如 Android、MacOS、Linux、Windows）上处理文档中的注释。 GroupDocs.Annotation 提供了一个具有简单 API 的库，该库具有许多优点: 例如，如果您需要对数据保密或选择使用该库需要多少功率，或者使用注释部分更改工作，则该库非常轻巧灵活。
 
-        GroupDocs.Annotation for Java API 允许您使用不同类型的注释，包括：文本、折线、区域、下划线、点、水印、箭头、椭圆、文本替换、距离、文本字段、资源编辑等. 并支持最流行的文档格式，如：PDF、HTML、Microsoft Office Word、Excel 电子表格、PowerPoint 演示文稿、Visio、Outlook 电子邮件、图像、元文件、CAD 绘图和各种其他格式。 API 提供了获取文档页面缩略图的能力，并支持在 PDF 文件中导入和导出注释。
+        GroupDocs.Annotation for Java API 允许您使用不同类型的注释，包括: 文本、折线、区域、下划线、点、水印、箭头、椭圆、文本替换、距离、文本字段、资源编辑等. 并支持最流行的文档格式，如: PDF、HTML、Microsoft Office Word、Excel 电子表格、PowerPoint 演示文稿、Visio、Outlook 电子邮件、图像、元文件、CAD 绘图和各种其他格式。 API 提供了获取文档页面缩略图的能力，并支持在 PDF 文件中导入和导出注释。
 
-        使用库，您可以添加 [添加](/annotation/java/add/bmp/)、[编辑](/annotation/java/edit/bmp/)、[提炼](/annotation /java/extract/bmp/) 和 [删除](/annotation/java/remove/bmp/) 文档中的注释，旋转文档，更改缩略图解决方案，这不是所有的完整列表可能性。它还提供了一套全面的数据对象，可根据您在所有支持的文档格式中的要求自定义注释属性。
+        使用库，您可以添加 [添加](/annotation/java/bmp/)、[编辑](/annotation/java/bmp/)、[提炼](/annotation /java/bmp/) 和 [删除](/annotation/java/bmp/) 文档中的注释，旋转文档，更改缩略图解决方案，这不是所有的完整列表可能性。它还提供了一套全面的数据对象，可根据您在所有支持的文档格式中的要求自定义注释属性。
 
         使用 Java API 的 GroupDocs.Annotation 非常简单，只包含几个基本步骤。首先，您需要设置许可证，然后选择要使用的文件，然后以某种方式使用文档注释（删除/编辑/提取/删除）进行操作并保存结果。有关更多信息，请参阅产品 [文档](https://docs.groupdocs.com/annotation/java/getting-started/) 或我们的 [示例](https://github.com/groupdocs-annotation /GroupDocs.Annotation-for-Java) 设置。
 
@@ -78,7 +78,7 @@ overview:
       ## TAB ONE ##
       tab_one:
         description: |
-          以下是 GroupDocs.Annotation for Java 的概述：
+          以下是 GroupDocs.Annotation for Java 的概述: 
       
         right:
           enable: true
@@ -94,18 +94,18 @@ overview:
       ## TAB TWO ##
       tab_two:
         description: |
-          GroupDocs.Annotation for Java 支持所有流行的 [文档文件格式](https://docs.groupdocs.com/annotation/java/supported-document-formats/)，包括：微软办公软件、PDF、图像等。
+          GroupDocs.Annotation for Java 支持所有流行的 [文档文件格式](https://docs.groupdocs.com/annotation/java/supported-document-formats/)，包括: 微软办公软件、PDF、图像等。
         left:
           enable: true
           table:
             # table loop
             - title: "Microsoft Office Formats"
               content: |
-                * **Word**: [DOC](/annotation/java/add/doc/), [DOCX](/annotation/java/add/docx/), [DOCM](/annotation/java/add/docm/), [DOT](/annotation/java/add/dot/), [DOTX](/annotation/java/add/dotx/), [RTF](/annotation/java/add/rtf/)
-                * **Excel**: [XLS](/annotation/java/add/xls/), [XLSX](/annotation/java/add/xlsx/), [XLSB](/annotation/java/add/xlsb/), [XLSM](/annotation/java/add/xlsm/)
-                * **PowerPoint**: [PPT](/annotation/java/add/ppt/), [PPTX](/annotation/java/add/pptx/), [PPS](/annotation/java/add/pps/), [PPSX](/annotation/java/add/ppsx/), [POTM](/annotation/java/add/potm/), [POTX](/annotation/java/add/potx/), [PPSM](/annotation/java/add/ppsm/), [PPTM](/annotation/java/add/pptm/), [WMF](/annotation/java/add/wmf/), [EMF](/annotation/java/add/emf/)
-                * **Outlook**: [EML](/annotation/java/add/eml/), [EMLX](/annotation/java/add/emlx/), [MSG](/annotation/java/add/msg/)
-                * **Visio**: [VSS](/annotation/java/add/vss/), [VST](/annotation/java/add/vst/), [VSD](/annotation/java/add/vsd/), [VSDX](/annotation/java/add/vsdx/), [VSX](/annotation/java/add/vsx/)
+                * **Word**: [DOC](/annotation/java/doc/), [DOCX](/annotation/java/docx/), [DOCM](/annotation/java/docm/), [DOT](/annotation/java/dot/), [DOTX](/annotation/java/dotx/), [RTF](/annotation/java/rtf/)
+                * **Excel**: [XLS](/annotation/java/xls/), [XLSX](/annotation/java/xlsx/), [XLSB](/annotation/java/xlsb/), [XLSM](/annotation/java/xlsm/)
+                * **PowerPoint**: [PPT](/annotation/java/ppt/), [PPTX](/annotation/java/pptx/), [PPS](/annotation/java/pps/), [PPSX](/annotation/java/ppsx/), [POTM](/annotation/java/potm/), [POTX](/annotation/java/potx/), [PPSM](/annotation/java/ppsm/), [PPTM](/annotation/java/pptm/), [WMF](/annotation/java/wmf/), [EMF](/annotation/java/emf/)
+                * **Outlook**: [EML](/annotation/java/eml/), [EMLX](/annotation/java/emlx/), [MSG](/annotation/java/msg/)
+                * **Visio**: [VSS](/annotation/java/vss/), [VST](/annotation/java/vst/), [VSD](/annotation/java/vsd/), [VSDX](/annotation/java/vsdx/), [VSX](/annotation/java/vsx/)
 
         right:
           enable: true
@@ -113,16 +113,16 @@ overview:
             # table loop
             - title: "微软办公格式"
               content: |
-                * **Portable**: [PDF](/annotation/java/add/pdf/) (PDF/A-1a, PDF/A-1b, PDF/A-2a)
-                * **OpenDocument**: [ODT](/annotation/java/add/odt/), [ODS](/annotation/java/add/ods/), [ODP](/annotation/java/add/odp/)
-                * **Images**: [BMP](/annotation/java/add/bmp/), [JPG](/annotation/java/add/jpg/), [JPEG](/annotation/java/add/jpeg/), [TIFF](/annotation/java/add/tiff/), [TIF](/annotation/java/add/tif/), [PNG](/annotation/java/add/png/), [GIF](/annotation/java/add/gif/), [DCM](/annotation/java/add/dcm/), [DICOM](/annotation/java/add/dicom/)
-                * **AutoCAD**: [DWG](/annotation/java/add/dwg/), [DXF](/annotation/java/add/dxf/), [CAD](/annotation/java/add/cad/)
-                * **Other**: [HTM](/annotation/java/add/htm/), [HTML](/annotation/java/add/html/), [CSV](/annotation/java/add/csv/), [DJVU](/annotation/java/add/djvu/), [OTP](/annotation/java/add/otp/), [OTT](/annotation/java/add/ott/)
+                * **Portable**: [PDF](/annotation/java/pdf/) (PDF/A-1a, PDF/A-1b, PDF/A-2a)
+                * **OpenDocument**: [ODT](/annotation/java/odt/), [ODS](/annotation/java/ods/), [ODP](/annotation/java/odp/)
+                * **Images**: [BMP](/annotation/java/bmp/), [JPG](/annotation/java/jpg/), [JPEG](/annotation/java/jpeg/), [TIFF](/annotation/java/tiff/), [TIF](/annotation/java/tif/), [PNG](/annotation/java/png/), [GIF](/annotation/java/gif/), [DCM](/annotation/java/dcm/), [DICOM](/annotation/java/dicom/)
+                * **AutoCAD**: [DWG](/annotation/java/dwg/), [DXF](/annotation/java/dxf/), [CAD](/annotation/java/cad/)
+                * **Other**: [HTM](/annotation/java/htm/), [HTML](/annotation/java/html/), [CSV](/annotation/java/csv/), [DJVU](/annotation/java/djvu/), [OTP](/annotation/java/otp/), [OTT](/annotation/java/ott/)
 
       ## TAB THREE ##
       tab_three:
         description: |
-          GroupDocs.Annotation for Java 支持以下操作系统、框架和包管理器：
+          GroupDocs.Annotation for Java 支持以下操作系统、框架和包管理器: 
       
         left:
           enable: true

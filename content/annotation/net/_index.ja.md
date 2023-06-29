@@ -294,6 +294,7 @@ solutions:
     title: "GroupDocs.Annotationは、他の一般的な開発環境向けのドキュメント表示APIを提供します"
 
     solution:
+        # solution loop
         - img_alt: "GroupDocs.Annotation for Java"
           image: "https://www.groupdocs.cloud/templates/groupdocs/images/product-logos/groupdocs-annotation-java.png"
           product: "GroupDocs.Annotation"

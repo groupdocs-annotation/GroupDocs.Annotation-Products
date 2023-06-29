@@ -326,7 +326,7 @@ solutions:
     solution:
         # solution loop
         - img_alt: "GroupDocs.Annotation for Java"
-          image: "/border/groupdocs-annotation-java.svg"
+          image: "https://www.groupdocs.cloud/templates/groupdocs/images/product-logos/groupdocs-annotation-java.png"
           product: "GroupDocs.Annotation"
           platform: "Java"
           link: "/annotation/java/"

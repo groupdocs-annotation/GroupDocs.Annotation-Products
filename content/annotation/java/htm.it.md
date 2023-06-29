@@ -12,7 +12,7 @@ head_title: "Rimuovere Annotazioni da HTM nell'applicazione Java"
 head_description: "Java API per creare e Rimuovere tipi di annotazioni popolari da HTM, immagini, disegni e formati di file di documenti."
 
 ############################# Header ############################
-title: "Annota {{FORMATO}} {{azione.preposizioni}} {{Piattaforma}}"
+title: "Annota HTM da Java"
 description: ""
 bg_image: "https://cms.admin.containerize.com/templates/aspose/App_Themes/V3/images/bg/header1.png"
 bg_overlay: false

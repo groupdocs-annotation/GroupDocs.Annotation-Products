@@ -301,7 +301,7 @@ solutions:
     solution:
         # solution loop
         - img_alt: "GroupDocs.Annotation for .NET"
-          image: "/border/groupdocs-annotation-net.svg"
+          image: "https://www.groupdocs.cloud/templates/groupdocs/images/product-logos/groupdocs-annotation-net.png"
           product: "GroupDocs.Annotation"
           platform: ".NET"
           link: "/annotation/net/"

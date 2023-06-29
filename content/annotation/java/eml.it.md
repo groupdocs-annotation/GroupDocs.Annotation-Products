@@ -12,7 +12,7 @@ head_title: "Rimuovere Annotazioni da EML nell'applicazione Java"
 head_description: "Java API per creare e Rimuovere tipi di annotazioni popolari da EML, immagini, disegni e formati di file di documenti."
 
 ############################# Header ############################
-title: "Annota {{FORMATO}} {{azione.preposizioni}} {{Piattaforma}}"
+title: "Annota EML da Java"
 description: ""
 bg_image: "https://cms.admin.containerize.com/templates/aspose/App_Themes/V3/images/bg/header1.png"
 bg_overlay: false

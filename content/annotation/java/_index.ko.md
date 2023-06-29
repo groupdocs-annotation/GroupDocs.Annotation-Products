@@ -267,6 +267,7 @@ solutions:
     title: "GroupDocs.Annotation은 다른 인기 있는 개발 환경을 위한 문서 보기 API를 제공합니다."
 
     solution:
+        # solution loop
         - img_alt: "GroupDocs.Annotation for .NET"
           image: "https://www.groupdocs.cloud/templates/groupdocs/images/product-logos/groupdocs-annotation-net.png"
           product: "GroupDocs.Annotation"

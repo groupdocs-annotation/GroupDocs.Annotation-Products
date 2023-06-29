@@ -12,7 +12,7 @@ head_title: "Rimuovere Annotazioni da VST nell'applicazione Net"
 head_description: "Net API per creare e Rimuovere tipi di annotazioni popolari da VST, immagini, disegni e formati di file di documenti."
 
 ############################# Header ############################
-title: "Annota {{FORMATO}} {{azione.preposizioni}} {{Piattaforma}}"
+title: "Annota VST da Net"
 description: ""
 bg_image: "https://cms.admin.containerize.com/templates/aspose/App_Themes/V3/images/bg/header1.png"
 bg_overlay: false

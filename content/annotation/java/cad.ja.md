@@ -8,8 +8,8 @@ draft: false
 ###_DIMA_### link rel="canonical" href="https://products.groupdocs.com/annotation/java/cad"/>
 
 ############################# Head ############################
-head_title: "Java アプリケーションの 削除 注釈 から CAD"
-head_description: "Java API と 削除 の一般的な注釈タイプ から CAD、画像、図面、ドキュメント ファイル形式を作成します。"
+head_title: "Java CAD アノテーションAPI C#でアノテートする"
+head_description: "Java API と 注釈 の一般的な注釈タイプ から CAD、画像、図面、ドキュメント ファイル形式を作成します。"
 
 ############################# Header ############################
 title: "注釈を付ける CAD から Java"
@@ -270,10 +270,10 @@ preview_Extract:
 ############################# Demos ############################
 demos:
     enable: true
-    title: "注釈を抽出するライブデモ"
+    title: "ドキュメントや画像への注釈の追加、削除、編集、抽出のライブデモ"
     content: |
-        [GroupDocs.Annotation Live Demos](https://products.groupdocs.app/annotation/family) Web サイトにアクセスして、今すぐ CAD ファイルから注釈を表示して削除します。
-        ライブデモには次のようなメリットがあります
+        [GroupDocs.Annotation Live Demos](https://products.groupdocs.app/annotation/family)サイトで、今すぐCADファイルにアノテーションを追加、削除、編集、抽出できます。
+        ライブデモには以下の利点があります。
 
 ############################# About Formats ############################
 about_formats:

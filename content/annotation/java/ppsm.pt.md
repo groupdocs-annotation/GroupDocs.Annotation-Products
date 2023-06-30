@@ -8,8 +8,8 @@ draft: false
 ###_DIMA_### link rel="canonical" href="https://products.groupdocs.com/annotation/java/ppsm"/>
 
 ############################# Head ############################
-head_title: "Remover Anotações de PPSM no aplicativo Java"
-head_description: "Java API para criar e Remover tipos de anotação populares de PPSM, imagens, desenhos e formatos de arquivo de documento."
+head_title: "Java PPSM API de anotação Anotar em C#"
+head_description: "Java API para criar e Anotar tipos de anotação populares de PPSM, imagens, desenhos e formatos de arquivo de documento."
 
 ############################# Header ############################
 title: "Anote PPSM de Java"
@@ -270,9 +270,9 @@ preview_Extract:
 ############################# Demos ############################
 demos:
     enable: true
-    title: "Demonstrações ao vivo para extrair anotações"
+    title: "Demonstrações ao vivo para adicionar, remover, editar e extrair anotações de documentos e imagens"
     content: |
-        Visualize e remova as anotações do arquivo PPSM agora mesmo visitando o site [GroupDocs.Annotation Live Demos](https://products.groupdocs.app/annotation/family).
+        Adicione, remova, edite e extraia anotações para o arquivo PPSM agora mesmo, visitando o site [GroupDocs.Annotation Live Demos] (https://products.groupdocs.app/annotation/family).
         A demonstração ao vivo tem os seguintes benefícios
 
 ############################# About Formats ############################

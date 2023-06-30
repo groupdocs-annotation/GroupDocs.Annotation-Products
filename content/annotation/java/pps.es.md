@@ -8,8 +8,8 @@ draft: false
 ###_DIMA_### link rel="canonical" href="https://products.groupdocs.com/annotation/java/pps"/>
 
 ############################# Head ############################
-head_title: "{{Acción}} Anotaciones {{acción.preposiciones}} {{FORMATO}} en {{Plataforma}} Aplicación"
-head_description: "Java API para crear y Eliminar tipos de anotaciones populares de PPS, imágenes, dibujos y formatos de archivos de documentos."
+head_title: "Java PPS API de anotación Anotar en C#"
+head_description: "Java API para crear y Anotar tipos de anotaciones populares de PPS, imágenes, dibujos y formatos de archivos de documentos."
 
 ############################# Header ############################
 title: "Anotar PPS de Java"
@@ -270,10 +270,10 @@ preview_Extract:
 ############################# Demos ############################
 demos:
     enable: true
-    title: "Demostraciones en vivo para extraer anotaciones"
+    title: "Demostraciones en directo para añadir, eliminar, editar y extraer anotaciones en documentos e imágenes"
     content: |
-        Vea y elimine las anotaciones del archivo PPS ahora mismo visitando el sitio web [GroupDocs.Annotation Live Demos](https://products.groupdocs.app/annotation/family).
-        La demostración en vivo tiene los siguientes beneficios
+        Añada, elimine, edite y extraiga anotaciones en archivos PPS ahora mismo visitando el sitio web [GroupDocs.Annotation Live Demos](https://products.groupdocs.app/annotation/family).
+        La demostración en directo ofrece las siguientes ventajas
 
 ############################# About Formats ############################
 about_formats:

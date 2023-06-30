@@ -8,8 +8,8 @@ draft: false
 ###_DIMA_### link rel="canonical" href="https://products.groupdocs.com/annotation/net/xlsb"/>
 
 ############################# Head ############################
-head_title: "Remover Anotações de XLSB no aplicativo Net"
-head_description: "Net API para criar e Remover tipos de anotação populares de XLSB, imagens, desenhos e formatos de arquivo de documento."
+head_title: "Net XLSB API de anotação Anotar em C#"
+head_description: "Net API para criar e Anotar tipos de anotação populares de XLSB, imagens, desenhos e formatos de arquivo de documento."
 
 ############################# Header ############################
 title: "Anote XLSB de Net"
@@ -266,9 +266,9 @@ preview_Extract:
 ############################# Demos ############################
 demos:
     enable: true
-    title: "Demonstrações ao vivo para extrair anotações"
+    title: "Demonstrações ao vivo para adicionar, remover, editar e extrair anotações de documentos e imagens"
     content: |
-        Visualize e remova as anotações do arquivo XLSB agora mesmo visitando o site [GroupDocs.Annotation Live Demos](https://products.groupdocs.app/annotation/family).
+        Adicione, remova, edite e extraia anotações para o arquivo XLSB agora mesmo, visitando o site [GroupDocs.Annotation Live Demos] (https://products.groupdocs.app/annotation/family).
         A demonstração ao vivo tem os seguintes benefícios
 
 ############################# About Formats ############################

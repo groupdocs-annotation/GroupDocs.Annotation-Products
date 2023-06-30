@@ -2,17 +2,17 @@
 ---
 ############################# Static ############################
 layout: "auto-gen-annotation"
-date: 
+date: 07/05/2022 12:44:18
 draft: false
 
 ###_DIMA_### link rel="canonical" href="https://products.groupdocs.com/annotation/java/potm"/>
 
 ############################# Head ############################
-head_title: ""
-head_description: ""
+head_title: "Java POTM Anotasi API Anotasi dalam C#"
+head_description: "Java API untuk membuat dan Menganotasi jenis anotasi populer dari POTM, gambar, gambar, dan format file dokumen."
 
 ############################# Header ############################
-title: ""
+title: "Beri anotasi POTM dari Java"
 description: ""
 bg_image: "https://cms.admin.containerize.com/templates/aspose/App_Themes/V3/images/bg/header1.png"
 bg_overlay: false
@@ -27,7 +27,7 @@ submenu:
     enable: true
 
     left:
-        img_alt: ""
+        img_alt: "GroupDocs.Anotasi untuk Java"
         image: "https://cms.admin.containerize.com/templates/groupdocs/images/product-logos/90x90-noborder/groupdocs-annotation-java.png"
         product: "GroupDocs.Annotation"
         platform: "Java"
@@ -55,84 +55,225 @@ submenu:
 ############################# About ############################
 about:
     enable: true
-    title: ""
+    title: "Tentang GroupDocs.Annotation untuk Java API"
     content: |
-        
+        GroupDocs.Annotation for Java API adalah pustaka yang memungkinkan Anda menambahkan anotasi ke PDF, Word, dan dokumen lain di Mac, Windows, atau Ubuntu. [GroupDocs.Annotation for Java](/annotation/java) adalah API asli Java untuk mengelola anotasi dengan dukungan komprehensif untuk membuat, menambahkan, mengedit, menghapus, mengekstrak, dan mengekspor anotasi dari gambar dan berbagai dokumen lainnya. Daftar lengkap format dokumen yang didukung dapat Anda lihat di [halaman](https://docs.groupdocs.com/annotation/java/supported-document-formats/) ini.
+
+        Pustaka ini memungkinkan Anda bekerja tidak hanya dengan dokumen POTM tetapi juga dengan banyak jenis dokumen lainnya seperti Word, Excel, PowerPoint, email Outlook, Visio, Adobe, OpenDocument, OpenOffice, Photoshop, AutoCad, dan banyak lainnya.
+
+        GroupDocs.Annotation untuk Java API memungkinkan Anda membuat dan menambahkan catatan baru, mengedit anotasi, mengekstrak komentar, anotasi, dan menghapusnya dari dokumen. Perpustakaan mendukung 13 jenis anotasi yang berbeda, termasuk Teks, Polyline, Area, Garis Bawah, Titik, Tanda Air, Panah, Ellipse, Penggantian Teks, Jarak, Bidang Teks, Redaksi Sumber Daya dalam PDF, HTML, dokumen Microsoft Word, spreadsheet, diagram, presentasi, gambar, gambar dan banyak format file lainnya.
+
+        Contoh (silakan lihat di bawah) mendemonstrasikan bekerja dengan dokumen POTM, dalam contoh ini Anda dapat melihat langkah-langkah utama tentang cara bekerja dengan GroupDocs. Anotasi: Menyiapkan lisensi, membuka dokumen yang ingin Anda kerjakan, membuat anotasi, menambahkan objek data untuk mengatur properti anotasi sesuai dengan kebutuhan Anda dan menyimpan hasilnya ke tempat yang diperlukan. Anda juga dapat melihat lebih detail tentang fitur yang didukung di [halaman] github kami (https://github.com/groupdocs-annotation/GroupDocs.Annotation-for-Java), atau di [dokumentasi produk kami ](https://docs.groupdocs.com/annotation/java/getting-started/).
 
 ############################# Steps ############################
 howTo_Add:
 steps_Add:
     enable: true
-    title_left: ""
+    title_left: "Langkah-langkah untuk Menambahkan Anotasi dari POTM di Java"
     content_left: |
-        [GroupDocs.Annotation](/annotation/java/) 
-        
-    title_right: ""
+        [GroupDocs.Annotation](/annotation/java/) memudahkan pengembang Java untuk menambahkan berbagai jenis anotasi ke file POTM dalam aplikasi berbasis Java apa pun dengan menerapkan beberapa langkah mudah.
+        * Buat objek Balas dengan komentar dan tanggal.
+        * Buat objek AreaAnnotation, atur opsi area dan tambahkan balasan.
+        * Buat objek Annotator dan tambahkan anotasi area.
+        * Simpan file keluaran.
+    title_right: "Persyaratan sistem"
     content_right: |
-        
-        
+        GroupDocs.Annotation untuk Java API didukung di semua platform dan sistem operasi utama. Sebelum menjalankan kode di bawah ini, harap pastikan bahwa Anda telah menginstal prasyarat berikut di sistem Anda.
+        * Sistem Operasi: Microsoft Windows, Linux, MacOS
+        * Lingkungan Pengembangan: NetBeans, Intellij IDEA, Eclipse dll
+        * Java Runtime Environment: Java 7 (1.7) dan yang lebih baru
+        * Dapatkan versi terbaru GroupDocs.Annotation untuk Java dari [GroupDocs Artifact Repository](https://repository.groupdocs.com/webapp/#/artifacts/browse/tree/General/repo/com/groupdocs/groupdocs-annotation)
 
 ############################# Preview ############################
 preview_Add:
     enable: true
-    
+    title: "Pratinjau anotasi dan contoh kode"
+    content: |
+        ![Gambar pratinjau anotasi](https://docs.groupdocs.com/annotation/java/images/add-area-annotation.png)
     code: |
+        ``` jawa
+        // Buat instance kelas Balas dan tambahkan komentar
+        Reply firstReply = new Reply();
+        firstReply.setComment("Komentar pertama");
+        firstReply.setRepliedOn(Calendar.getInstance().getTime());
         
+        Reply secondReply = new Reply();
+        secondReply.setComment("Komentar kedua");
+        secondReply.setRepliedOn(Calendar.getInstance().getTime());
+        
+        List<Reply> replies = new ArrayList<Reply>();
+        replies.add(firstReply);
+        replies.add(secondReply);
+        
+        // Buat instance kelas AreaAnnotation dan setel opsi
+        AreaAnnotation area = new AreaAnnotation();
+        area.setBackgroundColor(65535);
+        area.setBox(new Rectangle baru(100, 100, 100, 100));
+        area.setCreatedOn(Calendar.getInstance().getTime());
+        area.setMessage("Ini adalah anotasi area");
+        area.setOpacity(0.7);
+        area.setPageNumber(0);
+        area.setPenColor(65535);
+        area.setPenStyle(PenStyle.Dot);
+        area.setPenWidth((byte) 3);
+        area.setReplies(replies);
+        
+        // Buat instance kelas Annotator
+        Annotator annotator = new Annotator("input.bmp");
+        
+        // Tambahkan anotasi
+        anotator.add(area);
+        
+        // Simpan ke file
+        annotator.save("output.bmp");
+        annotator.dispose();
+        ```
 
 ############################# Steps ############################
 howTo_Remove:
 steps_Remove:
     enable: true
-    title_left: ""
+    title_left: "Langkah-langkah untuk Menghapus Anotasi dari POTM di Java"
     content_left: |
-        [GroupDocs.Annotation](/annotation/java/) 
-        
+        [GroupDocs.Annotation](/annotation/java/) mempermudah pengembang Java untuk menghapus detail anotasi dari file POTM dalam aplikasi berbasis Java apa pun dengan menerapkan beberapa langkah mudah.
+        * Buat objek Balas dengan komentar dan tanggal.
+        * Instansiasi objek SaveOptions dan atur AnnotationTypes = AnnotationType.None.
+        * Panggil metode penyimpanan dengan jalur atau aliran dokumen yang dihasilkan dan objek SaveOptions.
 
 ############################# Preview ############################
 preview_Remove:
     enable: true
     
     code: |
-        
+        ``` jawa
+        // Buat instance kelas Annotator
+        Annotator annotator = new Annotator("C://input.bmp");
+
+        // Hapus anotasi berdasarkan tipe yang ditetapkan Tidak ada
+        SaveOptions saveOptions = new SaveOptions();
+        saveOptions.setAnnotationTypes(AnnotationType.None);
+
+        // Simpan anotasi ke file keluaran
+        annotator.save("C://output.bmp", saveOptions);
+        annotator.dispose();
+        ```
 
 ############################# Steps ############################
 howTo_Edit:
 steps_Edit:
     enable: true
-    title_left: ""
+    title_left: "Langkah-langkah untuk Mengedit Anotasi dari POTM di Java"
     content_left: |
-        [GroupDocs.Annotation](/annotation/java/) 
-        
+        [GroupDocs.Annotation](/annotation/java/) mempermudah pengembang Java untuk memperbarui berbagai properti anotasi dari file POTM dalam aplikasi berbasis Java apa pun dengan menerapkan beberapa langkah mudah.
+        * Instansiasi objek Annotator dengan jalur atau aliran dokumen masukan dengan LoadOptions yang dibuat dengan ImportAnnotations = true.
+        * Buat beberapa implementasi AnnotationBase dan tetapkan Id dari anotasi yang ada (jika anotasi dengan Id tersebut tidak ditemukan, tidak ada yang akan diubah) atau daftar jalur anotasi (semua anotasi yang ada akan dihapus).
+        * Panggil metode pembaruan objek Annotator dengan anotasi yang diteruskan.
+        * Panggil metode penyimpanan dengan jalur atau aliran dokumen yang dihasilkan dan objek SaveOptions.
 
 ############################# Preview ############################
 preview_Edit:
     enable: true
     
     code: |
+        ``` jawa
+        String outputPath = "UpdateAnnotation.bmp";
+
+        // Buat instance kelas Annotator
+        Annotator annotator = new Annotator("input.bmp");
         
+        // Buat instance kelas Balas untuk contoh pertama dan tambahkan komentar
+        Reply reply1 = new Reply();
+        reply1.setComment("Komentar pertama asli");
+        reply1.setRepliedOn(Calendar.getInstance().getTime());
+        
+        Reply reply2 = new Reply();
+        reply2.setComment("Komentar kedua asli");
+        reply2.setRepliedOn(Calendar.getInstance().getTime());
+        
+        java.util.List replies = new ArrayList();
+        replies.add(reply1);
+        replies.add(reply2);
+        
+        // Buat instance kelas AreaAnnotation dan setel opsi
+        AreaAnnotation original = new AreaAnnotation();
+        original.setId(1);
+        original.setBackgroundColor(65535);
+        original.setBox(new Rectangle(100, 100, 100, 100));
+        original.setCreatedOn(Calendar.getInstance().getTime());
+        original.setMessage("Ini adalah anotasi asli");
+        original.setReplies(replies);
+        
+        // Tambahkan anotasi asli
+        annotator.add(original);
+        annotator.save(outputPath);
+        annotator.dispose();
+        
+        LoadOptions loadOptions = LoadOptions baru();
+        
+        // Buka dokumen beranotasi
+        Annotator annotator1 = new Annotator(outputPath, loadOptions);
+        
+        // Buat instance kelas Balas untuk memperbarui contoh pertama
+        Reply reply3 = new Reply();
+        reply3.setComment("Komentar pertama diperbarui");
+        reply3.setRepliedOn(Calendar.getInstance().getTime());
+        
+        Reply reply4 = new Reply();
+        reply4.setComment("Komentar kedua diperbarui");
+        reply4.setRepliedOn(Calendar.getInstance().getTime());
+        
+        java.util.List replies1 = new ArrayList();
+        replies1.add(reply3);
+        replies1.add(reply4);
+
+        // Sarankan kami ingin mengubah beberapa properti dari anotasi yang ada
+        AreaAnnotation updated = new AreaAnnotation();
+        updated.setId(1);
+        updated.setBackgroundColor(255);
+        updated.setBox(new Rectangle baru(0, 0, 50, 200));
+        updated.setCreatedOn(Calendar.getInstance().getTime());
+        updated.setMessage("Ini adalah anotasi yang diperbarui");
+        updated.setReplies(replies1);
+        
+        // Perbarui dan simpan anotasi
+        annotator1.update(updated);
+        annotator1.save(outputPath);
+        annotator1.dispose();
+        ```
 
 ############################# Steps ############################
 howTo_Extract:
 steps_Extract:
     enable: true
-    title_left: ""
+    title_left: "Langkah-langkah untuk Mengekstrak Anotasi dari POTM di Java"
     content_left: |
-        [GroupDocs.Annotation](/annotation/java/) 
-        
+        [GroupDocs.Annotation](/annotation/java/) memudahkan pengembang Java untuk menganotasi dokumen dan mengekstrak informasi anotasi dari file POTM dalam aplikasi berbasis Java apa pun dengan menerapkan beberapa langkah mudah.
+        * Buat objek Balas dengan komentar dan tanggal.
+        * Instansiasi objek LoadOptions dan panggil SetImportAnnotations dengan argumen yang benar.
+        * Tentukan variabel dengan jenis Daftar.
+        * Panggil metode dapatkan dan kembalikan hasilnya ke variabel di atas.
 
 ############################# Preview ############################
 preview_Extract:
     enable: true
     
     code: |
+        ``` jawa
+        // Untuk menggunakan file input contoh ini ("annotated.bmp") harus dengan anotasi
+        LoadOptions loadOptions = LoadOptions baru();
         
+        // Buat instance kelas Annotator dan dapatkan anotasi
+        final Annotator annotator = new Annotator("annotated.bmp", loadOptions);
+        List annotations = annotator.get();
+        ```
 
 ############################# Demos ############################
 demos:
     enable: true
-    title: ""
+    title: "Demo Langsung untuk Menambah, Menghapus, Mengedit, Mengekstrak Anotasi ke Dokumen dan Gambar"
     content: |
-        
+        Tambahkan, hapus, edit, dan ekstrak anotasi ke file POTM sekarang juga dengan mengunjungi situs web [GroupDocs.Annotation Live Demos](https://products.groupdocs.app/annotation/family).
+        Demo langsung memiliki manfaat berikut
 
 ############################# About Formats ############################
 about_formats:
@@ -140,17 +281,17 @@ about_formats:
     format:
         # format loop
         - icon: "far fa-file-potm"
-          title: ""
+          title: "Tentang POTM Format Berkas"
           content: |
-            
+            File dengan ekstensi POTM adalah file template Microsoft PowerPoint dengan dukungan untuk Macro. File POTM dibuat dengan PowerPoint 2007 atau lebih tinggi dan berisi pengaturan default yang dapat digunakan untuk membuat file presentasi lebih lanjut. Pengaturan ini dapat mencakup gaya, latar belakang, palet warna, font, dan default bersama dengan makro yang terdiri dari fungsi khusus untuk melakukan tugas tertentu. Mereka juga dapat dibuka oleh versi PowerPoint sebelumnya dengan dukungan dokumen Open XML terinstal. File POTM dapat dibuka di Microsoft PowerPoint untuk diedit seperti file PowerPoint lainnya.
           link: "https://docs.fileformat.com/image/potm/"
 
 ############################# More Formats ############################
 more_formats:
     enable: true
-    title: ""
+    title: "Bekerja dengan Format Dokumen Populer Lainnya"
     content: |
-        
+        Perbarui properti anotasi dari beberapa format file populer seperti yang dinyatakan di bawah ini.
     format:
         # format loop
         - name: "Annotate PDF document"

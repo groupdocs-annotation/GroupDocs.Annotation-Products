@@ -8,8 +8,8 @@ draft: false
 ###_DIMA_### link rel="canonical" href="https://products.groupdocs.com/annotation/java/msg"/>
 
 ############################# Head ############################
-head_title: "Remove Annotations from MSG in Java Application"
-head_description: "Java API to create and Remove popular annotation types from MSG, images, drawings and document file formats."
+head_title: "Java MSG Annotation API Annotate in C#"
+head_description: "Java API to create and Annotate popular annotation types from MSG, images, drawings and document file formats."
 
 ############################# Header ############################
 title: "Annotate MSG from Java"
@@ -280,9 +280,9 @@ preview_Extract:
 ############################# Demos ############################
 demos:
     enable: true
-    title: "Live Demos to Extract Annotations"
+    title: "Live Demos to Add, Remove, Edit, Extract Annotations to Documents and Images"
     content: |
-        View and remove annotations from MSG file right now by visiting [GroupDocs.Annotation Live Demos](https://products.groupdocs.app/annotation/family) website.
+        Add, remove, edit and extract annotations to MSG file right now by visiting [GroupDocs.Annotation Live Demos](https://products.groupdocs.app/annotation/family) website.
         The live demo has the following benefits
 
 ############################# About Formats ############################

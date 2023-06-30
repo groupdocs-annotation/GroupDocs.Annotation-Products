@@ -8,8 +8,8 @@ draft: false
 ###_DIMA_### link rel="canonical" href="https://products.groupdocs.com/annotation/java/emlx"/>
 
 ############################# Head ############################
-head_title: "Entfernen Anmerkungen aus EMLX in der Java-Anwendung"
-head_description: "Java API zum Erstellen und Entfernen beliebter Anmerkungstypen aus EMLX, Bilder, Zeichnungen und Dokumentdateiformate."
+head_title: "Java EMLX Annotation API Annotate in C#"
+head_description: "Java API zum Erstellen und Kommentieren Sie beliebter Anmerkungstypen aus EMLX, Bilder, Zeichnungen und Dokumentdateiformate."
 
 ############################# Header ############################
 title: "Kommentieren Sie EMLX aus Java"
@@ -270,10 +270,10 @@ preview_Extract:
 ############################# Demos ############################
 demos:
     enable: true
-    title: "Live-Demos zum Extrahieren von Anmerkungen"
+    title: "Live-Demos zum Hinzufügen, Entfernen, Bearbeiten und Extrahieren von Kommentaren zu Dokumenten und Bildern"
     content: |
-        Sehen Sie sich jetzt Anmerkungen aus der Datei EMLX an und entfernen Sie sie, indem Sie die Website [GroupDocs.Annotation Live Demos](https://products.groupdocs.app/annotation/family) besuchen.
-        Die Live-Demo bietet folgende Vorteile
+        Fügen Sie jetzt Anmerkungen zu EMLX-Dateien hinzu, entfernen, bearbeiten und extrahieren Sie sie, indem Sie die [GroupDocs.Annotation Live Demos](https://products.groupdocs.app/annotation/family) Website besuchen.
+        Die Live-Demo hat die folgenden Vorteile
 
 ############################# About Formats ############################
 about_formats:

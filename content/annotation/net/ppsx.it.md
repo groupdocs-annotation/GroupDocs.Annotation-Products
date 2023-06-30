@@ -8,8 +8,8 @@ draft: false
 ###_DIMA_### link rel="canonical" href="https://products.groupdocs.com/annotation/net/ppsx"/>
 
 ############################# Head ############################
-head_title: "Rimuovere Annotazioni da PPSX nell'applicazione Net"
-head_description: "Net API per creare e Rimuovere tipi di annotazioni popolari da PPSX, immagini, disegni e formati di file di documenti."
+head_title: "Net PPSX API di annotazione Annotate in C#"
+head_description: "Net API per creare e Annotate tipi di annotazioni popolari da PPSX, immagini, disegni e formati di file di documenti."
 
 ############################# Header ############################
 title: "Annota PPSX da Net"
@@ -266,10 +266,10 @@ preview_Extract:
 ############################# Demos ############################
 demos:
     enable: true
-    title: "Demo dal vivo per estrarre annotazioni"
+    title: "Dimostrazioni dal vivo per aggiungere, rimuovere, modificare ed estrarre annotazioni da documenti e immagini"
     content: |
-        Visualizza e rimuovi subito le annotazioni dal file PPSX visitando il sito web [GroupDocs.Annotation Live Demos](https://products.groupdocs.app/annotation/family).
-        La demo dal vivo ha i seguenti vantaggi
+        Aggiungete, rimuovete, modificate ed estraete annotazioni al file PPSX in questo momento visitando il sito web [GroupDocs.Annotation Live Demos](https://products.groupdocs.app/annotation/family).
+        La demo dal vivo offre i seguenti vantaggi
 
 ############################# About Formats ############################
 about_formats:

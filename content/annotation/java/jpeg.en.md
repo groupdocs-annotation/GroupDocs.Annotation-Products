@@ -8,8 +8,8 @@ draft: false
 ###_DIMA_### link rel="canonical" href="https://products.groupdocs.com/annotation/java/jpeg"/>
 
 ############################# Head ############################
-head_title: "Remove Annotations from JPEG in Java Application"
-head_description: "Java API to create and Remove popular annotation types from JPEG, images, drawings and document file formats."
+head_title: "Java JPEG Annotation API Annotate in C#"
+head_description: "Java API to create and Annotate popular annotation types from JPEG, images, drawings and document file formats."
 
 ############################# Header ############################
 title: "Annotate JPEG from Java"
@@ -280,9 +280,9 @@ preview_Extract:
 ############################# Demos ############################
 demos:
     enable: true
-    title: "Live Demos to Extract Annotations"
+    title: "Live Demos to Add, Remove, Edit, Extract Annotations to Documents and Images"
     content: |
-        View and remove annotations from JPEG file right now by visiting [GroupDocs.Annotation Live Demos](https://products.groupdocs.app/annotation/family) website.
+        Add, remove, edit and extract annotations to JPEG file right now by visiting [GroupDocs.Annotation Live Demos](https://products.groupdocs.app/annotation/family) website.
         The live demo has the following benefits
 
 ############################# About Formats ############################

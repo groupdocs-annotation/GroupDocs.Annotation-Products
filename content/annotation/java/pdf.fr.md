@@ -8,8 +8,8 @@ draft: false
 ###_DIMA_### link rel="canonical" href="https://products.groupdocs.com/annotation/java/pdf"/>
 
 ############################# Head ############################
-head_title: "Retirer Annotations depuis PDF dans l'application Java"
-head_description: "Java API pour créer et Retirer types d'annotations populaires depuis PDF, images, dessins et formats de fichiers de documents."
+head_title: "Java PDF Annotation API Annoter en C#"
+head_description: "Java API pour créer et Annoter types d'annotations populaires depuis PDF, images, dessins et formats de fichiers de documents."
 
 ############################# Header ############################
 title: "Annotez PDF depuis Java"
@@ -270,10 +270,10 @@ preview_Extract:
 ############################# Demos ############################
 demos:
     enable: true
-    title: "Démos en direct pour extraire les annotations"
+    title: "Démonstrations en direct pour ajouter, supprimer, modifier et extraire des annotations dans des documents et des images"
     content: |
-        Affichez et supprimez les annotations du fichier PDF dès maintenant en visitant le site Web [GroupDocs.Annotation Live Demos](https://products.groupdocs.app/annotation/family).
-        La démo en direct présente les avantages suivants
+        Ajoutez, supprimez, modifiez et extrayez des annotations au fichier PDF dès maintenant en visitant le site Web [GroupDocs.Annotation Live Demos](https://products.groupdocs.app/annotation/family).
+        La démonstration en direct présente les avantages suivants
 
 ############################# About Formats ############################
 about_formats:

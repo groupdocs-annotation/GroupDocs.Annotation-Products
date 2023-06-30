@@ -8,8 +8,8 @@ draft: false
 ###_DIMA_### link rel="canonical" href="https://products.groupdocs.com/annotation/net/emlx"/>
 
 ############################# Head ############################
-head_title: "消除 注解 从 EMLX 在 Net 应用程序中"
-head_description: "用于创建 Net API 和 消除 流行注释类型 从 EMLX、图像、绘图和文档文件格式。"
+head_title: "Net EMLX C#中的注解API注解"
+head_description: "用于创建 Net API 和 注释 流行注释类型 从 EMLX、图像、绘图和文档文件格式。"
 
 ############################# Header ############################
 title: "注释 EMLX 从 Net"
@@ -267,10 +267,10 @@ preview_Extract:
 ############################# Demos ############################
 demos:
     enable: true
-    title: "提取注释的现场演示"
+    title: "添加、删除、编辑、提取文档和图像的注释的实时演示"
     content: |
-        立即访问 [GroupDocs.Annotation 实时演示](https://products.groupdocs.app/annotation/family) 网站，查看并删除 EMLX 文件中的注释。
-        现场演示有以下好处
+        现在就可以通过访问[GroupDocs.Annotation Live Demos](https://products.groupdocs.app/annotation/family)网站添加、删除、编辑和提取注释到EMLX文件。
+        该实时演示有以下好处
 
 ############################# About Formats ############################
 about_formats:

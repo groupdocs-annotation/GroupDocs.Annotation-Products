@@ -8,8 +8,8 @@ draft: false
 ###_DIMA_### link rel="canonical" href="https://products.groupdocs.com/annotation/net/html"/>
 
 ############################# Head ############################
-head_title: "Remove Annotations from HTML in Net Application"
-head_description: "Net API to create and Remove popular annotation types from HTML, images, drawings and document file formats."
+head_title: "Net HTML Annotation API Annotate in C#"
+head_description: "Net API to create and Annotate popular annotation types from HTML, images, drawings and document file formats."
 
 ############################# Header ############################
 title: "Annotate HTML from Net"
@@ -276,9 +276,9 @@ preview_Extract:
 ############################# Demos ############################
 demos:
     enable: true
-    title: "Live Demos to Extract Annotations"
+    title: "Live Demos to Add, Remove, Edit, Extract Annotations to Documents and Images"
     content: |
-        View and remove annotations from HTML file right now by visiting [GroupDocs.Annotation Live Demos](https://products.groupdocs.app/annotation/family) website.
+        Add, remove, edit and extract annotations to HTML file right now by visiting [GroupDocs.Annotation Live Demos](https://products.groupdocs.app/annotation/family) website.
         The live demo has the following benefits
 
 ############################# About Formats ############################

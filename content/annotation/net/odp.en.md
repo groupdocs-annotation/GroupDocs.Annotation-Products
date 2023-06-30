@@ -8,8 +8,8 @@ draft: false
 ###_DIMA_### link rel="canonical" href="https://products.groupdocs.com/annotation/net/odp"/>
 
 ############################# Head ############################
-head_title: "Remove Annotations from ODP in Net Application"
-head_description: "Net API to create and Remove popular annotation types from ODP, images, drawings and document file formats."
+head_title: "Net ODP Annotation API Annotate in C#"
+head_description: "Net API to create and Annotate popular annotation types from ODP, images, drawings and document file formats."
 
 ############################# Header ############################
 title: "Annotate ODP from Net"
@@ -276,9 +276,9 @@ preview_Extract:
 ############################# Demos ############################
 demos:
     enable: true
-    title: "Live Demos to Extract Annotations"
+    title: "Live Demos to Add, Remove, Edit, Extract Annotations to Documents and Images"
     content: |
-        View and remove annotations from ODP file right now by visiting [GroupDocs.Annotation Live Demos](https://products.groupdocs.app/annotation/family) website.
+        Add, remove, edit and extract annotations to ODP file right now by visiting [GroupDocs.Annotation Live Demos](https://products.groupdocs.app/annotation/family) website.
         The live demo has the following benefits
 
 ############################# About Formats ############################

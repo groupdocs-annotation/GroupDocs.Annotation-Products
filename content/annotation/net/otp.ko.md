@@ -8,8 +8,8 @@ draft: false
 ###_DIMA_### link rel="canonical" href="https://products.groupdocs.com/annotation/net/otp"/>
 
 ############################# Head ############################
-head_title: "제거하다 주석 ~에서 OTP Net 애플리케이션"
-head_description: "Net 생성 API 및 제거하다 인기 있는 주석 유형 ~에서 OTP, 이미지, 도면 및 문서 파일 형식."
+head_title: "Net OTP 주석 API C#으로 주석 달기"
+head_description: "Net 생성 API 및 주석 달기 인기 있는 주석 유형 ~에서 OTP, 이미지, 도면 및 문서 파일 형식."
 
 ############################# Header ############################
 title: "주석 OTP ~에서 {{플랫폼}}"
@@ -266,10 +266,10 @@ preview_Extract:
 ############################# Demos ############################
 demos:
     enable: true
-    title: "주석 추출을 위한 라이브 데모"
+    title: "문서 및 이미지에 주석을 추가, 제거, 편집, 추출하는 라이브 데모"
     content: |
-        지금 바로 [GroupDocs.Annotation Live Demos](https://products.groupdocs.app/annotation/family) 웹사이트를 방문하여 OTP 파일에서 주석을 보고 제거하세요.
-        라이브 데모에는 다음과 같은 이점이 있습니다.
+        지금 바로 [GroupDocs.Annotation Live Demos](https://products.groupdocs.app/annotation/family) 웹사이트를 방문하여 OTP 파일에 주석을 추가, 제거, 편집 및 추출하세요.
+        라이브 데모에는 다음과 같은 이점이 있습니다
 
 ############################# About Formats ############################
 about_formats:

@@ -8,8 +8,8 @@ draft: false
 ###_DIMA_### link rel="canonical" href="https://products.groupdocs.com/annotation/net/pptm"/>
 
 ############################# Head ############################
-head_title: "Net アプリケーションの 削除 注釈 から PPTM"
-head_description: "Net API と 削除 の一般的な注釈タイプ から PPTM、画像、図面、ドキュメント ファイル形式を作成します。"
+head_title: "Net PPTM アノテーションAPI C#でアノテートする"
+head_description: "Net API と 注釈 の一般的な注釈タイプ から PPTM、画像、図面、ドキュメント ファイル形式を作成します。"
 
 ############################# Header ############################
 title: "注釈を付ける PPTM から Net"
@@ -266,10 +266,10 @@ preview_Extract:
 ############################# Demos ############################
 demos:
     enable: true
-    title: "注釈を抽出するライブデモ"
+    title: "ドキュメントや画像への注釈の追加、削除、編集、抽出のライブデモ"
     content: |
-        [GroupDocs.Annotation Live Demos](https://products.groupdocs.app/annotation/family) Web サイトにアクセスして、今すぐ PPTM ファイルから注釈を表示して削除します。
-        ライブデモには次のようなメリットがあります
+        [GroupDocs.Annotation Live Demos](https://products.groupdocs.app/annotation/family)サイトで、今すぐPPTMファイルにアノテーションを追加、削除、編集、抽出できます。
+        ライブデモには以下の利点があります。
 
 ############################# About Formats ############################
 about_formats:

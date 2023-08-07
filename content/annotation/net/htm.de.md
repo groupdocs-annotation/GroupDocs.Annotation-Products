@@ -1,101 +1,63 @@
-
 ---
 ############################# Static ############################
 layout: "auto-gen-annotation"
-date: 07/05/2022 12:44:18
-draft: false
-
-###_DIMA_### link rel="canonical" href="https://products.groupdocs.com/annotation/net/htm"/>
 
 ############################# Head ############################
-head_title: "Net HTM Annotation API Annotate in C#"
-head_description: "Net API zum Erstellen und Kommentieren Sie beliebter Anmerkungstypen aus HTM, Bilder, Zeichnungen und Dokumentdateiformate."
+head_title: "Net HTM Annotation API Annotation in C#"
+head_description: "Net-API zum Erstellen und Kommentieren beliebter Anmerkungstypen aus HTM, Bildern, Zeichnungen und Dokumentdateiformaten."
 
 ############################# Header ############################
-title: "Kommentieren Sie HTM aus Net"
+title: "Kommentieren Sie HTM aus dem Netz"
 description: ""
 bg_image: "https://cms.admin.containerize.com/templates/aspose/App_Themes/V3/images/bg/header1.png"
 bg_overlay: false
 button:
     enable: true
     icon: "fas fa-arrow-down"
-    label: "Download Free Trial"
+    label: "Download kostenlose Testversion"
     link: "https://downloads.groupdocs.com/annotation/net"
-
-############################# SubMenu ############################
-submenu:
-    enable: true
-
-    left:
-        img_alt: "GroupDocs.Annotation für Net"
-        image: "https://cms.admin.containerize.com/templates/groupdocs/images/product-logos/90x90-noborder/groupdocs-annotation-net.png"
-        product: "GroupDocs.Annotation"
-        platform: "Net"
-
-    middle:
-        button:
-            # button loop
-            - link: "https://apireference.groupdocs.com/annotation/net"
-              text: "API Reference"
-            # button loop
-            - link: "https://github.com/groupdocs-annotation"
-              text: "Code Examples"
-            # button loop
-            - link: "https://products.groupdocs.app/annotation/family"
-              text: "Live Demos"
-            # button loop
-            - link: "https://purchase.groupdocs.com/pricing/annotation/net"
-              text: "Pricing"
-
-    right:
-        link_download: "https://downloads.groupdocs.com/annotation"
-        link_learn: "https://docs.groupdocs.com/annotation/net"
-        link_buy: "https://purchase.groupdocs.com"
 
 ############################# About ############################
 about:
     enable: true
-    title: "Über GroupDocs.Annotation für die Net-API"
+    title: "Über GroupDocs.Annotation für Net API"
     content: |
-        GroupDocs.Annotation for Net API ist eine Bibliothek, mit der Sie Anmerkungen zu PDF-, Word- und anderen Dokumenten auf Mac, Windows oder Ubuntu hinzufügen können. [GroupDocs.Annotation für Net](/annotation/net) ist eine native Net-API zum Verwalten von Anmerkungen mit umfassender Unterstützung für das Erstellen, Hinzufügen, Bearbeiten, Löschen, Extrahieren und Exportieren von Anmerkungen Bilder und verschiedene andere Dokumente. Die vollständige Liste der unterstützten Dokumentformate finden Sie auf dieser [Seite](https://docs.groupdocs.com/annotation/net/supported-document-formats/).
-
+        GroupDocs.Annotation for Net API ist eine Bibliothek, mit der Sie Anmerkungen zu PDF-, Word- und anderen Dokumenten auf Mac, Windows oder Ubuntu hinzufügen können. [GroupDocs.Annotation for Net](/annotation/net) ist eine native Net-API zum Verwalten von Anmerkungen mit umfassender Unterstützung für das Erstellen, Hinzufügen, Bearbeiten, Löschen, Extrahieren und Exportieren von Anmerkungen aus Bildern und verschiedenen anderen Dokumenten. Die vollständige Liste der unterstützten Dokumentformate finden Sie auf dieser [Seite](https://docs.groupdocs.com/annotation/net/supported-document-formats/).
         Mit dieser Bibliothek können Sie nicht nur mit HTM-Dokumenten arbeiten, sondern auch mit vielen anderen Dokumenttypen wie Word, Excel, PowerPoint, Outlook-E-Mails, Visio, Adobe, OpenDocument, OpenOffice, Photoshop, AutoCad und vielen anderen.
-
-        Mit der GroupDocs.Annotation for Net-API können Sie neue Notizen erstellen und hinzufügen, edit Annotationen, extract Kommentare und Anmerkungen und entfernen sie aus Dokumenten. Die Bibliothek unterstützt 13 verschiedene Anmerkungstypen, darunter Text, Polylinie, Fläche, Unterstreichung, Punkt, Wasserzeichen, Pfeil, Ellipse, Textersetzung, Abstand, Textfeld, Ressourcenschwärzung in PDF, HTML, Microsoft Word-Dokumenten, Tabellenkalkulationen, Diagrammen, Präsentationen, Zeichnungen, Bilder und viele andere Dateiformate.
-
-        Das Beispiel (siehe unten) zeigt die Arbeit mit einem HTM-Dokument. In diesem Beispiel können Sie die Hauptschritte für die Arbeit mit GroupDocs sehen. Anmerkung: Richten Sie eine Lizenz ein, öffnen Sie ein Dokument, mit dem Sie arbeiten möchten, und erstellen Sie ein Annotation, Hinzufügen von Datenobjekten zum Festlegen von Annotationseigenschaften gemäß Ihren Anforderungen und Speichern des Ergebnisses am erforderlichen Ort. Außerdem können Sie einen detaillierteren Blick auf die unterstützten Funktionen auf unserer Github-[Seite](https://github.com/groupdocs-annotation/GroupDocs.Annotation-for-.Net) oder in unserer Produkt [dokumentation](https://docs.groupdocs.com/annotation/net/getting-started/).
+        Mit der GroupDocs.Annotation for Net-API können Sie neue Notizen erstellen und hinzufügen, Anmerkungen bearbeiten, Kommentare und Anmerkungen extrahieren und aus Dokumenten entfernen. Die Bibliothek unterstützt 13 verschiedene Anmerkungstypen, darunter Text, Polylinie, Fläche, Unterstreichung, Punkt, Wasserzeichen, Pfeil, Ellipse, Textersetzung, Abstand, Textfeld, Ressourcenschwärzung in PDF, HTML, Microsoft Word-Dokumenten, Tabellenkalkulationen, Diagrammen, Präsentationen, Zeichnungen, Bilder und viele andere Dateiformate.
+        Das Beispiel (siehe unten) zeigt die Arbeit mit dem Dokument HTM. In diesem Beispiel können Sie die Hauptschritte für die Arbeit mit GroupDocs.Annotation sehen: Richten Sie eine Lizenz ein, öffnen Sie ein Dokument, mit dem Sie arbeiten möchten, und erstellen Sie ein Annotation, Hinzufügen von Datenobjekten zum Festlegen von Annotationseigenschaften gemäß Ihren Anforderungen und Speichern des Ergebnisses am erforderlichen Ort. Außerdem können Sie einen detaillierteren Blick auf die unterstützten Funktionen auf unserer Github-[Seite](https://github.com/groupdocs-annotation/GroupDocs.Annotation-for-.NET) oder in unserer Produkt-[Dokumentation](https://github.com/groupdocs-annotation/GroupDocs.Annotation-for-.NET) werfen ://docs.groupdocs.com/annotation/net/getting-started/).
 
 ############################# Steps ############################
 howTo_Add:
 steps_Add:
     enable: true
-    title_left: "Schritte zum Hinzufügen von Anmerkungen aus HTM in Net"
+    title_left: "Schritte zum Hinzufügen von Anmerkungen zu HTM in Net"
     content_left: |
-        [GroupDocs.Annotation](/annotation/java/) erleichtert Net-Entwicklern das Hinzufügen verschiedener Anmerkungstypen zu HTM-Dateien in jeder Net-basierten Anwendung durch die Implementierung einiger einfacher Schritte.
-        * Antwortobjekte mit Kommentar und Datum erstellen.
-        * Erstellen Sie ein AreaAnnotation-Objekt, legen Sie Bereichsoptionen fest und fügen Sie Antworten hinzu.
-        * Erstellen Sie ein Annotator-Objekt und fügen Sie eine Bereichsanmerkung hinzu.
-        * Ausgabedatei speichern.
+        [GroupDocs.Annotation](/annotation/net/) macht es für Net-Entwickler einfach, verschiedene Annotationstypen zu HTM-Dateien in jeder Net-basierten Anwendung hinzuzufügen, indem sie ein paar einfache Schritte implementieren.
+        *   Erstellen Sie Antwortobjekte mit Kommentar und Datum.
+        *   Erstellen Sie ein AreaAnnotation-Objekt, legen Sie Bereichsoptionen fest und fügen Sie Antworten hinzu.
+        *   Erstellen Sie ein Annotator-Objekt und fügen Sie eine Bereichsanmerkung hinzu.
+        *   Ausgabedatei speichern.
     title_right: "System Anforderungen"
     content_right: |
-        GroupDocs.Annotation für Net-APIs werden auf allen wichtigen Plattformen und Betriebssystemen unterstützt. Bevor Sie den folgenden Code ausführen, stellen Sie bitte sicher, dass die folgenden Voraussetzungen auf Ihrem System installiert sind.
-        * Betriebssysteme: Microsoft Windows, Linux, MacOS
-        * Entwicklungsumgebungen: Visual Studio, Xamarin, MonoDevelop
-        * Frameworks: .NET Framework, .NET Standard, .NET Core, Mono
-        * Laden Sie die neueste Version von GroupDocs.Annotation für .NET von [NuGet] herunter (https://www.nuget.org/packages/groupdocs.annotation).
+        GroupDocs.Annotation for Net APIs werden auf allen wichtigen Plattformen und Betriebssystemen unterstützt. Bevor Sie den folgenden Code ausführen, stellen Sie bitte sicher, dass die folgenden Voraussetzungen auf Ihrem System installiert sind.
+        *   Betriebssysteme: Microsoft Windows, Linux, MacOS
+        *   Entwicklungsumgebungen: Visual Studio, Xamarin, MonoDevelop
+        *   Frameworks: .NET Framework, .NET Standard, .NET Core, Mono
+        *   Laden Sie die neueste Version von GroupDocs.Annotation für .NET von [NuGet] herunter (https://www.nuget.org/packages/groupdocs.annotation).
 
 ############################# Preview ############################
 preview_Add:
     enable: true
-    Titel: „Anmerkungsvorschau und Codebeispiel“
+    title: Anmerkungsvorschau und Codebeispiel
     content: |
-        ![Annotation preview image](https://docs.groupdocs.com/annotation/java/images/add-text-field-annotation.png)
+        ![Annotation preview image]https://docs.groupdocs.com/annotation/java/images/add-text-field-annotation.png
     code: |
-        „cs
-        //Textfeldanmerkung vom lokalen Datenträger zum Dokument hinzufügen
+        ```cs
+        //Add text field annotation to the document from local disk
         using (Annotator annotator = new Annotator("input.bmp"))
         {
-            TextFieldAnnotation textField = neue TextFieldAnnotation
+            TextFieldAnnotation textField = new TextFieldAnnotation
             {
                 BackgroundColor = 65535,
                 Box = new Rectangle(100, 100, 100, 100),
@@ -103,7 +65,7 @@ preview_Add:
                 Text = "Some text",
                 FontColor = 65535,
                 FontSize = 12,
-                Message = „Dies ist eine Textfeldanmerkung“,
+                Message = "This is text field annotation",
                 Opacity = 0.7,
                 PageNumber = 0,
                 PenStyle = PenStyle.Dot,
@@ -114,12 +76,12 @@ preview_Add:
                 {
                     new Reply
                     {
-                        Comment = „Erster Kommentar“,
+                        Comment = "First comment",
                         RepliedOn = DateTime.Now
                     },
                     new Reply
                     {
-                        Comment = „Zweiter Kommentar“,
+                        Comment = "Second comment",
                         RepliedOn = DateTime.Now
                     }
                 }
@@ -127,7 +89,7 @@ preview_Add:
             annotator.Add(textField);
             annotator.Save("result.bmp");
         }
-        „
+        ```
 
 ############################# Steps ############################
 howTo_Remove:
@@ -135,18 +97,17 @@ steps_Remove:
     enable: true
     title_left: "Schritte zum Entfernen von Anmerkungen aus HTM in Net"
     content_left: |
-        [GroupDocs.Annotation](/annotation/java/) erleichtert Net-Entwicklern das Entfernen von Anmerkungsdetails aus HTM-Dateien in jeder Net-basierten Anwendung durch die Implementierung einiger einfacher Schritte.
-        * Antwortobjekte mit Kommentar und Datum erstellen.
-        * Instanziieren Sie das SaveOptions-Objekt und legen Sie AnnotationTypes = AnnotationType.None fest.
-        * Rufen Sie die Speichermethode mit dem resultierenden Dokumentpfad oder -stream und dem SaveOptions-Objekt auf.
+        [GroupDocs.Annotation](/annotation/net/) erleichtert Net-Entwicklern das Entfernen von Anmerkungsdetails aus HTM-Dateien in jeder Net-basierten Anwendung durch die Implementierung einiger einfacher Schritte.
+        *   Erstellen Sie Antwortobjekte mit Kommentar und Datum.
+        *   Instanziieren Sie das SaveOptions-Objekt und legen Sie AnnotationTypes = AnnotationType.None fest.
+        *   Rufen Sie die Speichermethode mit dem resultierenden Dokumentpfad oder -stream und dem SaveOptions-Objekt auf.
 
 ############################# Preview ############################
 preview_Remove:
     enable: true
-    
     code: |
-        „cs
-        // 1- So entfernen Sie Anmerkungen mithilfe des Anmerkungsindex aus einem Dokument
+        ```cs
+        // 1- How to remove annotation from document using annotation index
         
         using (Annotator annotator = new Annotator("result.bmp"))
         {
@@ -154,7 +115,7 @@ preview_Remove:
             annotator.Save("removed.bmp");
         }
         
-        // 2- So entfernen Sie Anmerkungen mithilfe des Annotationsobjekts aus einem Dokument
+        // 2- How to remove annotation from document using annotation object
         
         using (Annotator annotator = new Annotator("result.bmp"))
         {
@@ -163,16 +124,16 @@ preview_Remove:
             annotator.Save("removed.bmp");
         }
         
-        // 3- So entfernen Sie einige Anmerkungen aus dem Dokument mithilfe einer ID-Liste
+        // 3- How to remove some annotations from document using list of ID’s
         
         using (Annotator annotator = new Annotator("result.bmp"))
         {
-            var idList = neue Liste{1, 2, 3};
+            var idList = new List{1, 2, 3};
             annotator.Remove(idList);
             annotator.Save("removed.bmp");
         }
         
-        // 4- So entfernen Sie einige Anmerkungen mithilfe der Anmerkungsliste aus dem Dokument
+        // 4- How to remove some annotations from document using list of annotations
         
         using (Annotator annotator = new Annotator("result.bmp"))
         {
@@ -180,7 +141,7 @@ preview_Remove:
             annotator.Remove(tmp);
             annotator.Save("removed.bmp");
         }
-        „
+        ```
 
 ############################# Steps ############################
 howTo_Edit:
@@ -188,49 +149,48 @@ steps_Edit:
     enable: true
     title_left: "Schritte zum Bearbeiten von Anmerkungen aus HTM in Net"
     content_left: |
-        [GroupDocs.Annotation](/annotation/java/) erleichtert Net-Entwicklern das Aktualisieren verschiedener Anmerkungseigenschaften aus HTM-Dateien in jeder Net-basierten Anwendung durch die Implementierung einiger einfacher Schritte.
-        * Instanziieren Sie das Annotator-Objekt mit dem Pfad oder Stream des Eingabedokuments mit instanziierten LoadOptions mit ImportAnnotations = true.
-        * Erstellen Sie eine AnnotationBase-Implementierung und legen Sie die ID der vorhandenen Anmerkung fest (wenn die Anmerkung mit dieser ID nicht gefunden wird, wird nichts geändert) oder die Pfadliste der Anmerkungen (alle vorhandenen Anmerkungen werden entfernt).
-        * Rufen Sie die Update-Methode des Annotator-Objekts mit übergebenen Annotationen auf.
-        * Rufen Sie die Speichermethode mit dem resultierenden Dokumentpfad oder -stream und dem SaveOptions-Objekt auf.
+        [GroupDocs.Annotation](/annotation/net/) erleichtert Net-Entwicklern das Aktualisieren verschiedener Annotationseigenschaften aus HTM-Dateien in jeder Net-basierten Anwendung durch die Implementierung einiger einfacher Schritte.
+        *   Instanziieren Sie das Annotator-Objekt mit dem Pfad oder Stream des Eingabedokuments mit instanziierten LoadOptions mit ImportAnnotations = true.
+        *   Erstellen Sie eine AnnotationBase-Implementierung und legen Sie die ID der vorhandenen Anmerkung fest (wenn die Anmerkung mit dieser ID nicht gefunden wird, wird nichts geändert) oder die Pfadliste der Anmerkungen (alle vorhandenen Anmerkungen werden entfernt).
+        *   Rufen Sie die Update-Methode des Annotator-Objekts mit übergebenen Annotationen auf.
+        *   Rufen Sie die Speichermethode mit dem resultierenden Dokumentpfad oder -stream und dem SaveOptions-Objekt auf.
 
 ############################# Preview ############################
 preview_Edit:
     enable: true
-    
     code: |
-        „cs
-        // Kommentiertes Dokument öffnen
+        ```cs
+        // open annotated document
         using (Annotator annotator = new Annotator("result.bmp"))
         {
-            //angenommen, wir werden einige Eigenschaften vorhandener Anmerkungen ändern
-                AreaAnnotation updated = neue AreaAnnotation
+            //assuming we are going to change some properties of existing annotation
+                AreaAnnotation updated = new AreaAnnotation
                     {
-                            // Es ist wichtig, die vorhandene Anmerkungs-ID festzulegen
+                            // It's important to set existed annotation Id
                             Id = 1,
                             BackgroundColor = 255,
                             Box = new Rectangle(0, 0, 50, 200),
                             CreatedOn = DateTime.Now,
-                            Message = „Dies ist eine aktualisierte Anmerkung“,
+                            Message = "This is updated annotation",
                             Replies = new List
                             {
                                 new Reply
                                 {
-                                    Comment = „Erster Kommentar aktualisiert“,
+                                    Comment = "Updated first comment",
                                     RepliedOn = DateTime.Now
                                 },
                                 new Reply
                                 {
-                                    Comment = „Zweiter Kommentar aktualisiert“,
+                                    Comment = "Updated second comment",
                                     RepliedOn = DateTime.Now
                                 }
                             }
                         };
-                // Anmerkung aktualisieren
-                annotator.Update(aktualisiert);
+                // update annotation
+                annotator.Update(updated);
                 annotator.Save("result.bmp");
         }
-        „
+        ```
 
 ############################# Steps ############################
 howTo_Extract:
@@ -238,19 +198,18 @@ steps_Extract:
     enable: true
     title_left: "Schritte zum Extrahieren von Anmerkungen aus HTM in Net"
     content_left: |
-        [GroupDocs.Annotation](/annotation/java/) macht es Net-Entwicklern einfach, Dokumente mit Anmerkungen zu versehen und Anmerkungsinformationen aus HTM-Dateien in jeder Net-basierten Anwendung zu extrahieren, indem sie ein paar einfache Schritte implementieren.
-        * Antwortobjekte mit Kommentar und Datum erstellen.
-        * Instanziieren Sie das LoadOptions-Objekt und rufen Sie SetImportAnnotations mit dem Argument true auf.
-        * Definieren Sie eine Variable vom Typ Liste.
-        * Rufen Sie die get-Methode auf und geben Sie das Ergebnis an die obige Variable zurück.
+        [GroupDocs.Annotation](/annotation/net/) macht es Netzentwicklern leicht, Dokumente mit Anmerkungen zu versehen und Anmerkungsinformationen aus HTM-Dateien in jeder netzbasierten Anwendung zu extrahieren, indem sie ein paar einfache Schritte implementieren.
+        *   Erstellen Sie Antwortobjekte mit Kommentar und Datum.
+        *   Instanziieren Sie das LoadOptions-Objekt und rufen Sie SetImportAnnotations mit dem Argument true auf.
+        *   Definieren Sie eine Variable vom Typ List.
+        *   Rufen Sie die get-Methode auf und geben Sie das Ergebnis an die obige Variable zurück.
 
 ############################# Preview ############################
 preview_Extract:
     enable: true
-    
     code: |
-        „cs
-        // Für die Verwendung dieses Beispiels muss die Eingabedatei („annotated.bmp“) Anmerkungen enthalten
+        ```cs
+        // for using this example input file ("annotated.bmp") must be with annotations
         using (Annotator annotator = new Annotator("annotated.bmp"))
         {
             List annotations = annotator.Get();
@@ -261,15 +220,15 @@ preview_Extract:
                 formatter.Serialize(fs, annotations);
             }
         }
-        „
+        ```
 
 ############################# Demos ############################
 demos:
     enable: true
-    title: "Live-Demos zum Hinzufügen, Entfernen, Bearbeiten und Extrahieren von Kommentaren zu Dokumenten und Bildern"
+    title: "Live-Demos zum Hinzufügen, Entfernen, Bearbeiten und Extrahieren von Anmerkungen zu Dokumenten und Bildern"
     content: |
-        Fügen Sie jetzt Anmerkungen zu HTM-Dateien hinzu, entfernen, bearbeiten und extrahieren Sie sie, indem Sie die [GroupDocs.Annotation Live Demos](https://products.groupdocs.app/annotation/family) Website besuchen.
-        Die Live-Demo hat die folgenden Vorteile
+        Fügen Sie jetzt Anmerkungen zur Datei HTM hinzu, entfernen Sie sie, bearbeiten Sie sie und extrahieren Sie sie, indem Sie die Website [GroupDocs.Annotation Live Demos](https://products.groupdocs.app/annotation/family) besuchen.
+Die Live-Demo bietet folgende Vorteile
 
 ############################# About Formats ############################
 about_formats:
@@ -277,9 +236,10 @@ about_formats:
     format:
         # format loop
         - icon: "far fa-file-htm"
-          title: "Informationen zum HTM-Dateiformat"
+          title: "Informationen zum Dateiformat HTM"
           content: |
-            Dateien mit der Erweiterung HTM stellen eine Hypertext Markup Language zum Erstellen von Webseiten zur Anzeige in Webbrowsern wie Google Chrome, Internet Explorer, Firefox und vielen anderen dar. Es definiert die Markups zum Erstellen statischer Seiten, die im World Wide Web (WWW) veröffentlicht werden, damit andere darauf zugreifen können. Diese Markups teilen den Browsern mit, wie sie den Inhalt einer Webseite anzeigen sollen. Solche Seiten können einfachen Text, Bilder, Hyperlinks zu anderen Seiten, Videos und andere Medieninformationen enthalten. Wenn eine Webseite veröffentlicht wird, können Sie einen Blick auf den Markup-Code dahinter werfen, indem Sie sich die Seitenquelle ansehen. Moderne Browser ermöglichen die Untersuchung jedes Abschnitts einer Webseite, in dem jede Unterteilung oder jedes Markup-Element in der HTM-Quelle ausgearbeitet wird.
+            Dateien mit der Erweiterung HTM stellen eine Hypertext Markup Language zum Erstellen von Webseiten zur Anzeige in Webbrowsern wie Google Chrome, Internet Explorer, Firefox und vielen anderen dar. Es definiert die Markups zum Erstellen statischer Seiten, die im World Wide Web (WWW) veröffentlicht werden, damit andere darauf zugreifen können. Diese Markups teilen den Browsern mit, wie sie den Inhalt einer Webseite anzeigen sollen. Solche Seiten können einfachen Text, Bilder, Hyperlinks zu anderen Seiten, Videos und andere Medieninformationen enthalten. Wenn eine Webseite veröffentlicht wird, können Sie einen Blick auf den Markup-Code dahinter werfen, indem Sie die Seitenquelle anzeigen. Moderne Browser ermöglichen die Untersuchung jedes Abschnitts einer Webseite, in dem jede Unterteilung oder jedes Markup-Element in der HTM-Quelle ausgearbeitet wird.
+
           link: "https://docs.fileformat.com/image/htm/"
 
 ############################# More Formats ############################

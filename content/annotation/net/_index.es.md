@@ -1,7 +1,7 @@
 ---
 ############################# Static ############################
 layout: "product"
-date: 2022-07-05T12:44:18+03:00
+date: 2022-02-23T12:00:00+02:00
 draft: false
 
 product: "Annotation"
@@ -10,19 +10,19 @@ platform: "Net"
 platform_tag: "net"
 
 ############################# Head ############################
-head_title: "API de anotación de documentos de Net | Ver y anotar imágenes PDF Word Excel PPTX"
-head_description: "API de anotación de documentos de Net. Ver, etiquetar, comentar y anotar PDF Word DOCX, Excel XLSX, PPTX, EML EMLX, VSS VSD, OTP, CAD y formatos de archivo de imagen."
+head_title: "API de anotación de documentos de red | Ver y anotar PDF Word Excel PPTX Imágenes"
+head_description: "API de anotación de documentos de red. Ver, etiquetar, comentar y anotar PDF Word DOCX, Excel XLSX, PPTX, EML EMLX, VSS VSD, OTP, CAD y formatos de archivo de imagen."
 
-############################# Header ############################
-title: "Anotación de documentos a través de la API de Net"
-description: "Cree aplicaciones Net con capacidades para ver y anotar PDF, HTML, MS Office y otros formatos de documentos sin instalar ningún software externo."
+############################# Header ##########################
+title: "Anotación de documentos a través de Net API"
+description: "Cree aplicaciones de red con capacidades para ver y anotar PDF, HTML, MS Office y otros formatos de documentos sin instalar ningún software externo."
 button:
     enable: true
     icon: "fas fa-arrow-down"
     label: "Descargue prueba gratis"
     link: "https://downloads.groupdocs.com/annotation/net"
 
-############################# SubMenu ############################
+############################# SubMenu #########################
 submenu:
     enable: true
     
@@ -35,20 +35,12 @@ submenu:
     middle:
         button:
             # button loop
-            - link: "#overview"
-              text: "Visión de conjunto"
-
-            # button loop
             - link: "#features"
               text: "Características"
 
             # button loop
-            - link: "#support"
-              text: "Support"
-
-            # button loop
             - link: "https://products.groupdocs.app/annotation"
-              text: "Live Demo"
+              text: "demostraciones en vivo"
 
             # button loop
             - link: "https://purchase.groupdocs.com/pricing/annotation/net"
@@ -65,36 +57,37 @@ overview:
     content: |
       GroupDocs.Annotation Net API es un producto que le permite trabajar con anotaciones en documentos en diferentes plataformas y sistemas operativos, como Android, MacOS, Linux, Windows. GroupDocs.Annotation proporciona una biblioteca con API simple que brinda muchas ventajas: por ejemplo, si necesita mantener los datos confidenciales o elegir cuánta energía necesita para trabajar con la biblioteca, o cambiar parcialmente el trabajo con anotaciones, la biblioteca es muy ligero y flexible.
 
-        GroupDocs.Annotation for Net API le permite trabajar con diferentes tipos de anotaciones, que incluyen: texto, polilínea, área, subrayado, punto, marca de agua, flecha, elipse, reemplazo de texto, distancia, campo de texto, redacción de recursos, etc. Y es compatible con los formatos de documentos más populares, como: PDF, HTML, Microsoft Office Word, hojas de cálculo de Excel, presentaciones de PowerPoint, Visio, correos electrónicos de Outlook, imágenes, metarchivos, dibujos CAD y varios otros formatos. La API brinda la capacidad de obtener miniaturas de páginas de documentos y admite la importación y exportación de anotaciones hacia y desde archivos PDF.
+      GroupDocs.Annotation for Net API le permite trabajar con diferentes tipos de anotaciones, que incluyen: texto, polilínea, área, subrayado, punto, marca de agua, flecha, elipse, reemplazo de texto, distancia, campo de texto, redacción de recursos, etc. formatos de documentos populares como: PDF, HTML, Microsoft Office Word, hojas de cálculo de Excel, presentaciones de PowerPoint, Visio, correos electrónicos de Outlook, imágenes, metarchivos, dibujos CAD y varios otros formatos. La API brinda la capacidad de obtener miniaturas de páginas de documentos y admite la importación y exportación de anotaciones hacia y desde archivos PDF.
 
-        Con la biblioteca, puede [agregar](/anotación/{{plataforma}}/bmp/), [editar](/anotar/{{plataforma}}/bmp/), [extraer](/annotation/net/bmp/) y [delete](/annotation/net/bmp/) anotaciones de documentos, rotar documentos, cambiar la solución de miniaturas y esta no es una lista completa de todas las posibilidades . También ofrece un conjunto integral de objetos de datos para personalizar las propiedades de anotación según sus requisitos dentro de todos los formatos de documentos admitidos.
+      Con la biblioteca, puede agregar, editar, extraer y eliminar anotaciones de documentos, rotar documentos, cambiar la solución de miniaturas y esta no es una lista completa de todas las posibilidades. También ofrece un conjunto completo de objetos de datos para personalizar las propiedades de anotación según sus requisitos dentro de todos los formatos de documentos admitidos.
 
-        Trabajar con la API de GroupDocs.Annotation para Net es muy sencillo y consta de unos pocos pasos básicos. Al principio, debe configurar una licencia, luego seleccionar el archivo con el que desea trabajar, luego manipularlo de alguna manera con las anotaciones del documento (eliminar/editar/extraer/eliminar) y guardar el resultado. Para obtener más información, consulte la [documentación] del producto (https://docs.groupdocs.com/annotation/net/getting-started/) o nuestros [ejemplos] (https://github.com/groupdocs-annotation /GroupDocs.Annotation-for-.Net) establecido.
-
-        GroupDocs.Annotation se actualiza regularmente y brinda soporte a sus clientes, siempre puede hacernos preguntas o enviarnos sus ideas o contarnos sus necesidades de algo nuevo y con gusto lo implementaremos en nuestras nuevas versiones.
+      Trabajar con GroupDocs.Annotation for Net API es muy simple y consta de unos pocos pasos básicos. Al principio, debe configurar una licencia, luego seleccionar el archivo con el que desea trabajar, luego manipularlo de alguna manera con las anotaciones del documento (eliminar/editar/extraer/eliminar) y guardar el resultado. Para obtener más información, consulte la documentación del producto o nuestro conjunto de ejemplos.
+      
+      GroupDocs.Annotation se actualiza regularmente y brinda soporte a sus clientes, siempre puede hacernos preguntas o enviarnos sus ideas o contarnos sobre sus necesidades de algo nuevo y con gusto lo implementaremos en nuestras nuevas versiones.
     tabs:
       enable: true
       
       ## TAB ONE ##
       tab_one:
         description: |
-          A continuación se muestra una descripción general de GroupDocs.Annotation para Net:
+          A continuación se muestra una descripción general de GroupDocs.Annotation for Net:
       
         right:
           enable: true
           icon: "fab fa-html5"
-          title: "Visión de conjunto"
+          title:  Descripción general
           content: |
             * Agregar anotaciones
-            * Exportar anotaciones
+            * Exportar anotaciones 
             * Importar anotaciones
-            * Comentarios basados en respuestas
+            * Comentarios basados ​​en respuestas
             * Compatibilidad de anotaciones
       
       ## TAB TWO ##
       tab_two:
         description: |
-          GroupDocs.Annotation para Net es compatible con todos los [formatos de archivo de documentos populares](https://docs.groupdocs.com/annotation/net/supported-document-formats/), incluidos: oficina de Microsoft, PDF, imágenes y muchos otros.
+          GroupDocs.Annotation for Net es compatible con todos los [formatos de archivo de documentos] populares (https://docs.groupdocs.com/annotation/Net/supported-document-formats/), incluidos: Microsoft Office, PDF, imágenes y muchos otros.
+
         left:
           enable: true
           table:
@@ -111,7 +104,7 @@ overview:
           enable: true
           table:
             # table loop
-            - title: "Otros formatos"
+            - title: "Other Formats"
               content: |
                 * **Portable**: [PDF](/annotation/net/pdf/) (PDF/A-1a, PDF/A-1b, PDF/A-2a)
                 * **OpenDocument**: [ODT](/annotation/net/odt/), [ODS](/annotation/net/ods/), [ODP](/annotation/net/odp/)
@@ -122,14 +115,14 @@ overview:
       ## TAB THREE ##
       tab_three:
         description: |
-          GroupDocs.Annotation para Net es compatible con los siguientes sistemas operativos, marcos y administradores de paquetes:
-      
+          GroupDocs.Annotation for Net es compatible con los siguientes sistemas operativos, marcos y administradores de paquetes:
+        
         left:
           enable: true
           table:
             # table loop
             - icon: "fab fa-windows"
-              title: "Sistemas operativos"
+              title:  Sistemas operativos
               content: |
                 * Windows Desktop (x86 & x64)
                 * Windows Server (x86 & x64)
@@ -139,25 +132,25 @@ overview:
 
             # table loop
             - icon: "fas fa-code"
-              title: "Marcos compatibles"
+              title:  Marcos compatibles
               content: |
-                * .NET estándar 2.0
-                * .NET Framework 2.0 o superior
-                * .NET Core 2.0 o superior
-                * Mono Framework 1.2 o superior
+                * .NET Standard 2.0
+                * .NET Framework 2.0 or higher
+                * .NET Core 2.0 or higher
+                * Mono Framework 1.2 or higher
 
         right:
           enable: true
           table:
             # table loop
             - icon: "fas fa-box"
-              title: "Gerente de empaquetación"
+              title:  Gerente de empaquetación
               content: |
                 * NuGet
             
             # table loop
             - icon: "fas fa-tools"
-              title: "Entornos de desarrollo"
+              title:  Entornos de desarrollo
               content: |
                 * Microsoft Visual Studio
                 * Xamarin.Android
@@ -168,154 +161,154 @@ overview:
 ############################# Features ############################
 features:
     enable: true
-    title: "Funciones de GroupDocs.Annotation para Net"
+    title: GroupDocs.Annotation para funciones de red
 
     feature:
       # feature loop
       - icon: "fas fa-copy"
         link: "https://docs.groupdocs.com/annotation/net/basic-usage/"
-        content: "Agregar, editar y eliminar anotaciones y respuestas"
+        content: Agregar, editar y eliminar anotaciones y respuestas
 
       # feature loop
       - icon: "fas fa-eye"
         link: "https://docs.groupdocs.com/annotation/net/export-annotations/"
-        content: "Exportar anotaciones to Document"
+        content: Exportar anotaciones a documento
 
       # feature loop
       - icon: "fas fa-bolt"
         link: "https://docs.groupdocs.com/annotation/net/evaluation-limitations-and-licensing-of-groupdocs-annotation/"
-        content: "Licencia medida: facturación controlada pagando según el uso de la API"
+        content: Licencia medida - Facturación controlada pagando según el uso de la API
       
       # feature loop
       - icon: "fas fa-code"
         link: "https://docs.groupdocs.com/annotation/net/extract-annotations-from-document/"
-        content: "Llamada de función única para obtener todas las anotaciones de un documento"
+        content: Llamada de función única para obtener todas las anotaciones de un documento
 
       # feature loop
       - icon: "fas fa-cloud"
         link: "https://docs.groupdocs.com/annotation/net/add-point-annotation/"
-        content: "Asignar valor a la anotación de punto o mover el valor de punto existente"
+        content: Asignar valor a la anotación de punto o mover el valor de punto existente
 
       # feature loop
       - icon: "fas fa-remove-format"
         link: "https://docs.groupdocs.com/annotation/net/add-link-annotation/"
-        content: "Agregar anotación de enlace a diapositivas de PDF, Word y PowerPoint"
+        content: Agregar anotación de enlace a diapositivas de PDF, Word y PowerPoint
 
       # feature loop
       - icon: "fas fa-comment-slash"
         link: "https://docs.groupdocs.com/annotation/net/basic-usage/"
-        content: "Establecer el color de fondo de una anotación o eliminar todas las anotaciones del documento"
+        content: Establecer el color de fondo de una anotación o eliminar todas las anotaciones del documento
 
       # feature loop
       - icon: "fas fa-border-all"
         link: "https://docs.groupdocs.com/annotation/net/generate-document-pages-preview/"
-        content: "Anote archivos PDF con precisión: obtenga una representación de imagen del documento PDF y vistas previas de la página de caché"
+        content: Anote archivos PDF con precisión: obtenga una representación de imagen del documento PDF y vistas previas de la página de caché
 
       # feature loop
       - icon: "fas fa-wrench"
         link: "https://docs.groupdocs.com/annotation/net/import-annotations/"
-        content: "Obtenga las coordenadas de texto de la anotación de texto en la representación de imagen del documento"
+        content: Obtenga las coordenadas de texto de la anotación de texto en la representación de imagen del documento
 
       # feature loop
       - icon: "fas fa-columns"
         link: "https://docs.groupdocs.com/annotation/net/add-area-annotation/"
-        content: "Enlace los comentarios del usuario a la anotación del área y soporte para comentarios anidados"
+        content: Enlace los comentarios del usuario a la anotación del área y soporte para comentarios anidados
 
       # feature loop
       - icon: "fas fa-file-word"
         link: "https://docs.groupdocs.com/annotation/net/add-arrow-annotation/"
-        content: "Use la anotación de flecha para señalar contenido particular"
+        content: Use la anotación de flecha para señalar contenido particular
 
       # feature loop
       - icon: "fas fa-envelope"
         link: "https://docs.groupdocs.com/annotation/net/add-distance-annotation/"
-        content: "Utilice la anotación de distancia para dibujar una línea que represente la distancia entre objetos"
+        content: Utilice la anotación de distancia para dibujar una línea que represente la distancia entre objetos
 
       # feature loop
       - icon: "fas fa-print"
         link: "https://docs.groupdocs.com/annotation/net/add-point-annotation/"
-        content: "Anotación basada en puntos que, cuando se hace clic, aparece una ventana para agregar comentarios"
+        content: Anotación basada en puntos que, cuando se hace clic, aparece una ventana para agregar comentarios
 
       # feature loop
       - icon: "fas fa-file-archive"
         link: "https://docs.groupdocs.com/annotation/net/add-polyline-annotation/"
-        content: "Crear una secuencia conectada de segmentos de línea creados como una anotación de polilínea"
+        content: Crear una secuencia conectada de segmentos de línea creados como una anotación de polilínea
 
       # feature loop
       - icon: "fas fa-lock"
         link: "https://docs.groupdocs.com/annotation/net/add-ellipse-annotation/"
-        content: "Cree segmentos de línea recta, segmentos de arco o una combinación de ambos"
+        content: Cree segmentos de línea recta, segmentos de arco o una combinación de ambos
 
       # feature loop
       - icon: "fas fa-file-code"
         link: "https://docs.groupdocs.com/annotation/net/add-area-annotation/"
-        content: "Marcar áreas del documento propuestas para redacción"
+        content: Marcar áreas del documento propuestas para redacción
       
       # feature loop
       - icon: "fas fa-fill-drip"
         link: "https://docs.groupdocs.com/annotation/net/add-image-annotation/"
-        content: "Agregue anotaciones de imagen a PDF, diagramas, Word, Excel, presentaciones e imágenes"
+        content: Agregue anotaciones de imagen a PDF, diagramas, Word, Excel, presentaciones e imágenes
 
       # feature loop
       - icon: "fas fa-file-excel"
         link: "https://docs.groupdocs.com/annotation/net/add-annotation-to-the-document/"
-        content: "Agregar campo de texto y sello basado en texto o marca de agua en el documento"
+        content: Agregar campo de texto y sello basado en texto o marca de agua en el documento
 
       # feature loop
       - icon: "fas fa-heading"
         link: "https://docs.groupdocs.com/annotation/net/add-annotation-to-the-document/"
-        content: "Tachar, Subrayar o Reemplazar Texto Particular en un Documento"
+        content: Tachar, Subrayar o Reemplazar Texto Particular en un Documento
 
       # feature loop
       - icon: "fas fa-project-diagram"
         link: "https://docs.groupdocs.com/annotation/net/update-annotations/"
-        content: "Cambiar el tamaño de la anotación asignando nuevos parámetros de alto y ancho"
+        content: Cambiar el tamaño de la anotación asignando nuevos parámetros de alto y ancho
 
       # feature loop
       - icon: "fas fa-cube"
         link: "https://docs.groupdocs.com/annotation/net/generate-document-pages-preview/"
-        content: "Obtener miniaturas de páginas de documentos. Administre una variedad de documentos anotados para imágenes y diagramas"
+        content: Obtener miniaturas de páginas de documentos. Administre una variedad de documentos anotados para imágenes y diagramas
 
       # feature loop
       - icon: "fab fa-uncharted"
         link: "https://docs.groupdocs.com/annotation/net/export-annotations/"
-        content: "Exportar anotaciones a un d Trabajar con archivos TIFF de varias páginas"
+        content: Exportar anotaciones y trabajar con archivos TIFF de varias páginas
   
       # feature loop
       - icon: "fab fa-uncharted"
         link: "https://docs.groupdocs.com/annotation/net/add-watermark-annotation/"
-        content: "Ajustar la alineación vertical y horizontal para la anotación de marca de agua"
+        content: Ajustar la alineación vertical y horizontal para la anotación de marca de agua
   
       # feature loop
       - icon: "fab fa-uncharted"
         link: "https://docs.groupdocs.com/annotation/net/add-text-field-annotation/"
-        content: "Agregar alineación horizontal de texto para campo de texto"
+        content: Agregar alineación horizontal de texto para campo de texto
 
       # feature loop
       - icon: "fab fa-uncharted"
         link: "https://docs.groupdocs.com/annotation/net/document-text-info/"
-        content: "Obtenga información sobre las líneas de texto del documento (texto, ancho, alto, sangrías)"
+        content: Obtenga información sobre las líneas de texto del documento (texto, ancho, alto, sangrías)
 
     more_feature:
       # more_feature_loop
-      - title: "Soporte para Múltiples Tipos de Anotación"
+      - title: Soporte para Múltiples Tipos de Anotación
         content: |
           GroupDocs.Annotation for .NET le permite trabajar con varios tipos de anotaciones. Esto brinda libertad y facilidad de comunicación mientras colabora con su equipo en las tareas. Puede usar anotaciones, como anotaciones de área (marcar un área como un rectángulo y agregarle notas), anotaciones de puntos (pegar comentarios en cualquier punto del documento), anotaciones de texto (agregar comentarios al texto seleccionado), anotaciones tachadas/subrayadas ( aplicado a un párrafo), anotación de polilínea (dibuja formas y líneas a mano alzada), anotación de flecha (puntero de flecha con comentarios adjuntos), anotación de elipse (muestra texto dentro de la elipse), anotación de distancia (dibuja una línea que representa la distancia entre objetos), vínculo anotación (agregar enlaces web a formatos de documentos admitidos) y anotación de marca de agua (se puede agregar un sello de texto o una marca de agua en el documento).
 
           ```cs
-          // Inicializar lista de AnnotationInfo
+          // Initialize list of AnnotationInfo
           List<AnnotationInfo> annotations = new List<AnnotationInfo>();
-          // Inicializar anotación de texto
+          // Initialize text annotation
           AnnotationInfo textAnnotation = new AnnotationInfo
           {
             Box = new Rectangle((float)265.44, (float)153.86, 206, 36), Type = AnnotationType.Text 
           };
-          // Agregar anotación a la lista
+          // Add annotation to list
           annotations.Add(textAnnotation);
-          // Obtener flujo de archivo de entrada
+          // Get input file stream
           Stream inputFile = new FileStream("D:/input.pdf", FileMode.Open, File
           .ReadWrite);
-          // Exportar anotación y guardar archivo de salida
+          // Export annotation and save output file
           CommonUtilities.SaveOutputDocument(inputFile, annotations, DocumentType.Pdf);
           ```
 
@@ -326,7 +319,7 @@ support:
 ############################# Solutions ############################
 solutions:
     enable: true
-    title: "GroupDocs.Annotation ofrece API de visualización de documentos para otros entornos de desarrollo populares"
+    title: GroupDocs.Annotation ofrece API de visualización de documentos para otros entornos de desarrollo populares
 
     solution:
         # solution loop

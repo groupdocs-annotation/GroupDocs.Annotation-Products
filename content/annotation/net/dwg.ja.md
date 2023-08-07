@@ -1,98 +1,60 @@
-
 ---
 ############################# Static ############################
 layout: "auto-gen-annotation"
-date: 07/05/2022 12:44:18
-draft: false
-
-###_DIMA_### link rel="canonical" href="https://products.groupdocs.com/annotation/net/dwg"/>
 
 ############################# Head ############################
-head_title: "Net DWG アノテーションAPI C#でアノテートする"
-head_description: "Net API と 注釈 の一般的な注釈タイプ から DWG、画像、図面、ドキュメント ファイル形式を作成します。"
+head_title: "Net DWG 注釈 API C# で注釈を付ける"
+head_description: "DWG、画像、図面、ドキュメント ファイル形式から一般的な注釈タイプを作成して注釈を付けるための Net API。"
 
 ############################# Header ############################
-title: "注釈を付ける DWG から Net"
+title: "ネットから DWG に注釈を付ける"
 description: ""
 bg_image: "https://cms.admin.containerize.com/templates/aspose/App_Themes/V3/images/bg/header1.png"
 bg_overlay: false
 button:
     enable: true
     icon: "fas fa-arrow-down"
-    label: "Download Free Trial"
+    label: "無料トライアルをダウンロード"
     link: "https://downloads.groupdocs.com/annotation/net"
-
-############################# SubMenu ############################
-submenu:
-    enable: true
-
-    left:
-        img_alt: "Net の GroupDocs.Annotation"
-        image: "https://cms.admin.containerize.com/templates/groupdocs/images/product-logos/90x90-noborder/groupdocs-annotation-net.png"
-        product: "GroupDocs.Annotation"
-        platform: "Net"
-
-    middle:
-        button:
-            # button loop
-            - link: "https://apireference.groupdocs.com/annotation/net"
-              text: "API Reference"
-            # button loop
-            - link: "https://github.com/groupdocs-annotation"
-              text: "Code Examples"
-            # button loop
-            - link: "https://products.groupdocs.app/annotation/family"
-              text: "Live Demos"
-            # button loop
-            - link: "https://purchase.groupdocs.com/pricing/annotation/net"
-              text: "Pricing"
-
-    right:
-        link_download: "https://downloads.groupdocs.com/annotation"
-        link_learn: "https://docs.groupdocs.com/annotation/net"
-        link_buy: "https://purchase.groupdocs.com"
 
 ############################# About ############################
 about:
     enable: true
     title: "Net API の GroupDocs.Annotation について"
     content: |
-        GroupDocs.Annotation for Net API は、Mac、Windows、または Ubuntu 上の PDF、Word、その他のドキュメントに注釈を追加できるライブラリです。 [GroupDocs.Annotation for Net](/annotation/net) は、注釈を管理するためのネイティブ Net API であり、注釈の作成、追加、編集、削除、抽出、エクスポートを包括的にサポートしています。画像やその他のさまざまなドキュメント。サポートされているドキュメント形式の完全なリストは、この [ページ](https://docs.groupdocs.com/annotation/net/supported-document-formats/) で確認できます。
-
+        GroupDocs.Annotation for Net API は、Mac、Windows、または Ubuntu 上の PDF、Word、その他のドキュメントに注釈を追加できるライブラリです。 [GroupDocs.Annotation for Net](/annotation/net) は、画像やその他のさまざまなドキュメントからの注釈の作成、追加、編集、削除、抽出、エクスポートを包括的にサポートする注釈管理用のネイティブ Net API です。サポートされているドキュメント形式の完全なリストは、この[ページ](https://docs.groupdocs.com/annotation/net/supported-document-formats/)で確認できます。
         このライブラリを使用すると、DWG ドキュメントだけでなく、Word、Excel、PowerPoint、Outlook 電子メール、Visio、Adobe、OpenDocument、OpenOffice、Photoshop、AutoCad など、他の多くのタイプのドキュメントでも作業できます。
-
-        GroupDocs.Annotation for Net API を使用すると、新しいメモ、エディット 注釈、抜粋 を作成および追加できます。コメント、注釈をドキュメントから 削除 します。このライブラリは、テキスト、ポリライン、エリア、下線、点、透かし、矢印、楕円、テキスト置換、距離、テキスト フィールド、PDF、HTML、Microsoft Word ドキュメント、スプレッドシート、図、プレゼンテーション、図面、画像、その他多くのファイル形式。
-
-        例 (下記を参照) は、DWG ドキュメントの操作を示しています。この例では、GroupDocs.Annotation を使用する方法の主な手順を確認できます。ライセンスを設定し、操作したいドキュメントを開き、注釈を追加し、要件に従って注釈プロパティを設定し、結果を必要な場所に保存します。また、サポートされている機能の詳細については、github [ページ](https://github.com/groupdocs-annotation/GroupDocs.Annotation-for-.Net) または製品  で確認できます。 [ドキュメント](https://docs.groupdocs.com/annotation/net/getting-started/)。
+        GroupDocs.Annotation for Net API を使用すると、新しいメモの作成と追加、注釈の編集、コメントや注釈の抽出、ドキュメントからの削除が可能になります。このライブラリは、テキスト、ポリライン、エリア、下線、点、透かし、矢印、楕円、テキスト置換、距離、テキスト フィールド、PDF、HTML、Microsoft Word ドキュメント、スプレッドシート、図、プレゼンテーション、図面、画像、その他多くのファイル形式。
+        例 (以下を参照) は、DWG ドキュメントの操作を示しています。この例では、GroupDocs.Annotation を使用する方法の主な手順を確認できます。ライセンスを設定し、操作したいドキュメントを開き、注釈を追加し、要件に従って注釈プロパティを設定し、結果を必要な場所に保存します。また、サポートされている機能の詳細については、github [ページ](https://github.com/groupdocs-annotation/GroupDocs.Annotation-for-.NET) または製品 [ドキュメント](https ://docs.groupdocs.com/annotation/net/getting-started/)。
 
 ############################# Steps ############################
 howTo_Add:
 steps_Add:
     enable: true
-    title_left: "Net に注釈 から DWG を追加する手順"
+    title_left: "Net で DWG に注釈を追加する手順"
     content_left: |
-        [GroupDocs.Annotation](/annotation/java/) これにより、Net 開発者は、いくつかの簡単な手順を実装することで、Net ベースのアプリケーション内の DWG ファイルにさまざまな注釈タイプを簡単に追加できます。
-        * コメントと日付を含む Reply オブジェクトを作成します。
-        * AreaAnnotation オブジェクトを作成し、エリア オプションを設定し、応答を追加します。
-        * Annotator オブジェクトを作成し、エリア アノテーションを追加します。
-        * 出力ファイルを保存します。
+        [GroupDocs.Annotation](/annotation/net/) これにより、ネット開発者は、いくつかの簡単な手順を実装するだけで、ネットベースのアプリケーション内の DWG ファイルにさまざまな注釈タイプを簡単に追加できます。
+        *   コメントと日付を含む Reply オブジェクトを作成します。
+        *   AreaAnnotation オブジェクトを作成し、エリア オプションを設定し、応答を追加します。
+        *   Annotator オブジェクトを作成し、領域の注釈を追加します。
+        *   出力ファイルを保存します。
     title_right: "システム要求"
     content_right: |
         Net API の GroupDocs.Annotation は、すべての主要なプラットフォームとオペレーティング システムでサポートされています。以下のコードを実行する前に、次の前提条件がシステムにインストールされていることを確認してください。
-        * オペレーティング システム: Microsoft Windows、Linux、MacOS
-        * 開発環境: Visual Studio、Xamarin、MonoDevelop
-        * フレームワーク: .NET Framework、.NET Standard、.NET Core、Mono
-        * 最新バージョンの GroupDocs.Annotation for .NET を [NuGet](https://www.nuget.org/packages/groupdocs.annotation) からダウンロードします。
+        *   オペレーティング システム: Microsoft Windows、Linux、MacOS
+        *   開発環境: Visual Studio、Xamarin、MonoDevelop
+        *   フレームワーク: .NET Framework、.NET Standard、.NET Core、Mono
+        *   [NuGet](https://www.nuget.org/packages/groupdocs.annotation) から .NET 用の GroupDocs.Annotation の最新バージョンをダウンロードします。
 
 ############################# Preview ############################
 preview_Add:
     enable: true
-    タイトル: 「アノテーションのプレビューとコードサンプル」
+    title: 注釈のプレビューとコードサンプル
     content: |
-        ![Annotation preview image](https://docs.groupdocs.com/annotation/java/images/add-text-field-annotation.png)
+        ![Annotation preview image]https://docs.groupdocs.com/annotation/java/images/add-text-field-annotation.png
     code: |
         ```cs
-        //ローカルディスクからドキュメントにテキストフィールドの注釈を追加します
+        //Add text field annotation to the document from local disk
         using (Annotator annotator = new Annotator("input.bmp"))
         {
             TextFieldAnnotation textField = new TextFieldAnnotation
@@ -100,26 +62,26 @@ preview_Add:
                 BackgroundColor = 65535,
                 Box = new Rectangle(100, 100, 100, 100),
                 CreatedOn = DateTime.Now,
-                Text = "テキスト",
+                Text = "Some text",
                 FontColor = 65535,
                 FontSize = 12,
-                Message = "これはテキスト フィールドの注釈です",
+                Message = "This is text field annotation",
                 Opacity = 0.7,
                 PageNumber = 0,
-                PenStyle = PenStyle.Dot、
+                PenStyle = PenStyle.Dot,
                 PenWidth = 3,
-                FontFamily = "Arial"、
-                Texthorizo​​ntalAlignment = horizo​​ntalAlignment.Center、
+                FontFamily = "Arial",
+                TextHorizontalAlignment = HorizontalAlignment.Center,
                 Replies = new List
                 {
                     new Reply
                     {
-                        Comment = "最初のコメント",
+                        Comment = "First comment",
                         RepliedOn = DateTime.Now
-                    }、
+                    },
                     new Reply
                     {
-                        Comment = "2 番目のコメント",
+                        Comment = "Second comment",
                         RepliedOn = DateTime.Now
                     }
                 }
@@ -133,20 +95,19 @@ preview_Add:
 howTo_Remove:
 steps_Remove:
     enable: true
-    title_left: "Net の注釈 から DWG を削除する手順"
+    title_left: "Net の DWG から注釈を削除する手順"
     content_left: |
-        [GroupDocs.Annotation](/annotation/java/) これにより、Net 開発者は、いくつかの簡単な手順を実装することで、Net ベースのアプリケーション内の DWG ファイルから注釈の詳細を簡単に削除できるようになります。
-        * コメントと日付を含む Reply オブジェクトを作成します。
-        * SaveOptions オブジェクトをインスタンス化し、AnnotationTypes = AnnotationType.None を設定します。
-        * 結果のドキュメント パスまたはストリームと SaveOptions オブジェクトを使用して save メソッドを呼び出します。
+        [GroupDocs.Annotation](/annotation/net/) これにより、ネット開発者は、いくつかの簡単な手順を実装することで、ネットベースのアプリケーション内の DWG ファイルから注釈の詳細を簡単に削除できるようになります。
+        *   コメントと日付を含む Reply オブジェクトを作成します。
+        *   SaveOptions オブジェクトをインスタンス化し、AnnotationTypes = AnnotationType.None を設定します。
+        *   結果のドキュメント パスまたはストリームと SaveOptions オブジェクトを使用して save メソッドを呼び出します。
 
 ############################# Preview ############################
 preview_Remove:
     enable: true
-    
     code: |
         ```cs
-        // 1- 注釈インデックスを使用してドキュメントから注釈を削除する方法
+        // 1- How to remove annotation from document using annotation index
         
         using (Annotator annotator = new Annotator("result.bmp"))
         {
@@ -154,7 +115,7 @@ preview_Remove:
             annotator.Save("removed.bmp");
         }
         
-        // 2- 注釈オブジェクトを使用してドキュメントから注釈を削除する方法
+        // 2- How to remove annotation from document using annotation object
         
         using (Annotator annotator = new Annotator("result.bmp"))
         {
@@ -163,7 +124,7 @@ preview_Remove:
             annotator.Save("removed.bmp");
         }
         
-        // 3- ID のリストを使用してドキュメントから一部の注釈を削除する方法
+        // 3- How to remove some annotations from document using list of ID’s
         
         using (Annotator annotator = new Annotator("result.bmp"))
         {
@@ -172,7 +133,7 @@ preview_Remove:
             annotator.Save("removed.bmp");
         }
         
-        // 4- 注釈のリストを使用してドキュメントから一部の注釈を削除する方法
+        // 4- How to remove some annotations from document using list of annotations
         
         using (Annotator annotator = new Annotator("result.bmp"))
         {
@@ -186,48 +147,47 @@ preview_Remove:
 howTo_Edit:
 steps_Edit:
     enable: true
-    title_left: "{{プラットフォーム}} で注釈 から DWG を編集する手順"
+    title_left: "Net で DWG から注釈を編集する手順"
     content_left: |
-        [GroupDocs.Annotation](/annotation/java/) これにより、Net 開発者は、いくつかの簡単な手順を実装することで、Net ベースのアプリケーション内の DWG ファイルからさまざまな注釈プロパティを簡単に更新できるようになります。
-        * ImportAnnotations = true でインスタンス化された LoadOptions を使用して、入力ドキュメント パスまたはストリームを使用して Annotator オブジェクトをインスタンス化します。
-        * AnnotationBase 実装を作成し、存在するアノテーションの ID (その ID を持つアノテーションが見つからない場合は何も変更されません) またはアノテーションのパス リスト (存在するすべてのアノテーションが削除されます) を設定します。
-        * 渡されたアノテーションを使用して Annotator オブジェクトの update メソッドを呼び出します。
-        * 結果のドキュメント パスまたはストリームと SaveOptions オブジェクトを使用して save メソッドを呼び出します。
+        [GroupDocs.Annotation](/annotation/net/) これにより、ネット開発者は、いくつかの簡単な手順を実装することで、ネットベースのアプリケーション内の DWG ファイルからさまざまな注釈プロパティを簡単に更新できるようになります。
+        *   ImportAnnotations = true でインスタンス化された LoadOptions を使用して、入力ドキュメント パスまたはストリームを使用して Annotator オブジェクトをインスタンス化します。
+        *   AnnotationBase 実装を作成し、存在するアノテーションの ID (その ID を持つアノテーションが見つからない場合は何も変更されません) またはアノテーションのパス リスト (存在するすべてのアノテーションが削除されます) を設定します。
+        *   渡されたアノテーションを使用して Annotator オブジェクトの update メソッドを呼び出します。
+        *   結果のドキュメント パスまたはストリームと SaveOptions オブジェクトを使用して save メソッドを呼び出します。
 
 ############################# Preview ############################
 preview_Edit:
     enable: true
-    
     code: |
         ```cs
-        // 注釈付きドキュメントを開く
+        // open annotated document
         using (Annotator annotator = new Annotator("result.bmp"))
         {
-            // 既存のアノテーションのいくつかのプロパティを変更すると仮定します
+            //assuming we are going to change some properties of existing annotation
                 AreaAnnotation updated = new AreaAnnotation
                     {
-                            // 存在するアノテーション ID を設定することが重要です
+                            // It's important to set existed annotation Id
                             Id = 1,
                             BackgroundColor = 255,
                             Box = new Rectangle(0, 0, 50, 200),
                             CreatedOn = DateTime.Now,
-                            Message = "これは更新された注釈です",
+                            Message = "This is updated annotation",
                             Replies = new List
                             {
                                 new Reply
                                 {
-                                    Comment = "最初のコメントを更新",
+                                    Comment = "Updated first comment",
                                     RepliedOn = DateTime.Now
-                                }、
+                                },
                                 new Reply
                                 {
-                                    Comment = "2 番目のコメントを更新",
+                                    Comment = "Updated second comment",
                                     RepliedOn = DateTime.Now
                                 }
                             }
                         };
-                // アノテーションを更新します
-                annotator.Update(更新);
+                // update annotation
+                annotator.Update(updated);
                 annotator.Save("result.bmp");
         }
         ```
@@ -236,21 +196,20 @@ preview_Edit:
 howTo_Extract:
 steps_Extract:
     enable: true
-    title_left: "Net で注釈 から DWG を抽出する手順"
+    title_left: "Net の DWG から注釈を抽出する手順"
     content_left: |
-        [GroupDocs.Annotation](/annotation/java/) これにより、Net 開発者は、いくつかの簡単な手順を実装することで、Net ベースのアプリケーション内の DWG ファイルからドキュメントに注釈を付けたり、注釈情報を抽出したりすることが簡単になります。
-        * コメントと日付を含む Reply オブジェクトを作成します。
-        * LoadOptions オブジェクトをインスタンス化し、true 引数を指定して SetImportAnnotations を呼び出します。
-        * リスト型の変数を定義します。
-        * get メソッドを呼び出し、結果を上記の変数に返します。
+        [GroupDocs.Annotation](/annotation/net/) これにより、ネット開発者は、いくつかの簡単な手順を実装することで、ネットベースのアプリケーション内のドキュメントに注釈を付けたり、DWG ファイルから注釈情報を抽出したりすることが簡単になります。
+        *   コメントと日付を含む Reply オブジェクトを作成します。
+        *   LoadOptions オブジェクトをインスタンス化し、true 引数を指定して SetImportAnnotations を呼び出します。
+        *   List型の変数を定義します。
+        *   get メソッドを呼び出し、結果を上記の変数に返します。
 
 ############################# Preview ############################
 preview_Extract:
     enable: true
-    
     code: |
         ```cs
-        // この例を使用するには、入力ファイル ("annotated.bmp") に注釈が付いている必要があります
+        // for using this example input file ("annotated.bmp") must be with annotations
         using (Annotator annotator = new Annotator("annotated.bmp"))
         {
             List annotations = annotator.Get();
@@ -266,10 +225,10 @@ preview_Extract:
 ############################# Demos ############################
 demos:
     enable: true
-    title: "ドキュメントや画像への注釈の追加、削除、編集、抽出のライブデモ"
+    title: "ドキュメントや画像に注釈を追加、削除、編集、抽出するライブデモ"
     content: |
-        [GroupDocs.Annotation Live Demos](https://products.groupdocs.app/annotation/family)サイトで、今すぐDWGファイルにアノテーションを追加、削除、編集、抽出できます。
-        ライブデモには以下の利点があります。
+        [GroupDocs.Annotation Live Demos](https://products.groupdocs.app/annotation/family) Web サイトにアクセスして、今すぐ DWG ファイルに注釈を追加、削除、編集、抽出します。
+ライブデモには次のようなメリットがあります
 
 ############################# About Formats ############################
 about_formats:
@@ -280,6 +239,7 @@ about_formats:
           title: "DWG ファイル形式について"
           content: |
             DWG 拡張子を持つファイルは、2D および 3D 設計データを含めるために使用される独自のバイナリ ファイルを表します。 ASCII ファイルである DXF と同様に、DWG は CAD (コンピュータ支援設計) 図面のバイナリ ファイル形式を表します。これには、CAD ファイルの内容を表現するためのベクター イメージとメタデータが含まれています。 Autodesk の無料 DWG TrueView など、Windows オペレーティング システムで DWG ファイルを表示するために利用できる無料のビューアがあります。 DWG ファイルへのアクセスをサポートするサードパーティ製アプリケーションは他にもあります。
+
           link: "https://docs.fileformat.com/image/dwg/"
 
 ############################# More Formats ############################

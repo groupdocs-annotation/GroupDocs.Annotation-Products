@@ -1,7 +1,7 @@
 ---
 ############################# Static ############################
 layout: "product"
-date: 2022-07-05T12:44:18+03:00
+date: 2022-02-23T12:00:00+02:00
 draft: false
 
 product: "Annotation"
@@ -10,19 +10,19 @@ platform: "Net"
 platform_tag: "net"
 
 ############################# Head ############################
-head_title: "NetドキュメントアノテーションAPI| PDF WordExcelPPTX画像の表示と注釈"
-head_description: "Netドキュメント注釈API。 PDF Word DOCX、Excel XLSX、PPTX、EML EMLX、VSS VSD、OTP、CAD、および画像ファイル形式の表示、タグ付け、コメント、および注釈付け."
+head_title: "ネットドキュメントアノテーションAPI | PDF Word Excel PPTX 画像の表示と注釈付け"
+head_description: "ネットドキュメントアノテーションAPI。 PDF Word DOCX、Excel XLSX、PPTX、EML EMLX、VSS VSD、OTP、CAD、画像ファイル形式を表示、タグ付け、コメント、注釈を付けます。"
 
-############################# Header ############################
-title: "NetAPIを介したドキュメント注釈"
-description: "外部ソフトウェアをインストールせずに、PDF、HTML、MS Office、およびその他のドキュメント形式を表示および注釈付けする機能を備えたNetアプリケーションを構築します."
+############################# Header ##########################
+title: "Net API を介したドキュメント アノテーション"
+description: "外部ソフトウェアをインストールせずに、PDF、HTML、MS Office、その他のドキュメント形式を表示および注釈を付ける機能を備えたネット アプリケーションを構築します。"
 button:
     enable: true
     icon: "fas fa-arrow-down"
     label: "無料トライアルをダウンロード"
     link: "https://downloads.groupdocs.com/annotation/net"
 
-############################# SubMenu ############################
+############################# SubMenu #########################
 submenu:
     enable: true
     
@@ -34,18 +34,15 @@ submenu:
 
     middle:
         button:
-            - link: "#overview"
-              text: "概要"
-
+            # button loop
             - link: "#features"
               text: "特徴"
 
-            - link: "#support"
-              text: "サポート"
-
+            # button loop
             - link: "https://products.groupdocs.app/annotation"
               text: "ライブデモ"
 
+            # button loop
             - link: "https://purchase.groupdocs.com/pricing/annotation/net"
               text: "価格設定"
 
@@ -58,38 +55,39 @@ submenu:
 overview:
     enable: true
     content: |
-      GroupDocs.Annotation Net APIは、Android、MacOS、Linux、Windowsなどのさまざまなプラットフォームやオペレーティングシステムでドキュメントの注釈を操作できるようにする製品です。 GroupDocs.Annotationは、多くの利点を提供するシンプルなAPIを備えたライブラリを提供します。たとえば、データの機密性を維持する必要がある場合、ライブラリを操作するために必要な電力を選択する必要がある場合、または注釈を使用して作業を部分的に変更する必要がある場合、ライブラリは非常に優れています。軽量で柔軟性があります。
+      GroupDocs.Annotation Net API は、Android、MacOS、Linux、Windows などのさまざまなプラットフォームやオペレーティング システム上でドキュメント内の注釈を操作できるようにする製品です。 GroupDocs.Annotation は、多くの利点をもたらすシンプルな API を備えたライブラリを提供します。たとえば、データの機密性を維持する必要がある場合、ライブラリの操作に必要な電力量を選択する必要がある場合、または注釈を使用して作業を部分的に変更する必要がある場合、ライブラリは非常に便利です。軽量かつ柔軟。
 
-        GroupDocs.Annotation for Net APIを使用すると、テキスト、ポリライン、エリア、アンダーライン、ポイント、透かし、矢印、楕円、テキスト置換、距離、テキストフィールド、リソース編集などのさまざまな種類の注釈を操作できます。 。また、PDF、HTML、Microsoft Office Word、Excelスプレッドシート、PowerPointプレゼンテーション、Visio、Outlook電子メール、画像、メタファイル、CAD描画、その他のさまざまな形式など、最も一般的なドキュメント形式をサポートしています。 APIは、ドキュメントページのサムネイルを取得する機能を提供し、PDFファイルとの間の注釈のインポートとエクスポートをサポートします。
+      GroupDocs.Annotation for Net API を使用すると、テキスト、ポリライン、面、下線、点、透かし、矢印、楕円、テキスト置換、距離、テキスト フィールド、リソースの墨消しなど、さまざまなタイプの注釈を操作できます。また、ほとんどの機能をサポートしています。 PDF、HTML、Microsoft Office Word、Excel スプレッドシート、PowerPoint プレゼンテーション、Visio、Outlook 電子メール、画像、メタファイル、CAD 図面、その他さまざまな形式などの一般的なドキュメント形式。この API は、ドキュメント ページのサムネイルを取得する機能を提供し、PDF ファイルへの注釈のインポートと PDF ファイルからの注釈のエクスポートをサポートします。
 
-        ライブラリを使用して、[追加]（/annotation/net/bmp/）、[編集]（/annotation/net/bmp/）、[エキス]（/annotation/net/bmp/） および[消去]（/annotation/net/bmp/） ドキュメントからの注釈、ドキュメントのローテーション、サムネイルソリューションの変更、これはすべての可能性の完全なリストではありません。また、サポートされているすべてのドキュメント形式内の要件に従って注釈プロパティをカスタマイズするための包括的なデータオブジェクトのセットも提供します。
+      ライブラリを使用すると、ドキュメントの注釈の追加、編集、抽出、削除、ドキュメントの回転、サムネイル ソリューションの変更が可能ですが、これはすべての可能性の完全なリストではありません。また、サポートされているすべてのドキュメント形式内で要件に応じて注釈プロパティをカスタマイズするためのデータ オブジェクトの包括的なセットも提供します。
 
-        Net APIのGroupDocs.Annotationの操作は非常に簡単で、いくつかの基本的な手順で構成されています。最初にライセンスを設定し、次に操作するファイルを選択し、ドキュメントの注釈（削除/編集/抽出/削除）を使用して何らかの方法で操作し、結果を保存する必要があります。詳細については、製品の[ドキュメント]（https://docs.groupdocs.com/annotation/net/getting-started/） または[例]（https://github.com/groupdocs-annotation/GroupDocs.Annotation-for-.Net） セット。
-
-        GroupDocs.Annotationは定期的に更新され、お客様をサポ​​ートします。いつでも質問したり、アイデアを送信したり、新しいもののニーズについて教えてください。新しいバージョンで喜んで実装します。
+      GroupDocs.Annotation for Net API の操作は非常に簡単で、いくつかの基本的な手順だけで構成されます。最初にライセンスを設定し、次に操作したいファイルを選択し、ドキュメントの注釈を使用して何らかの操作 (削除/編集/抽出/削除) を行い、結果を保存する必要があります。詳細については、製品ドキュメントまたはサンプル セットを参照してください。
+      
+      GroupDocs.Annotation は定期的に更新され、顧客にサポートを提供します。いつでも私たちに質問したり、アイデアを送ったり、何か新しいものに対するニーズを教えてください。喜んで新しいバージョンに実装します。
     tabs:
       enable: true
       
       ## TAB ONE ##
       tab_one:
         description: |
-          以下は、Net用のGroupDocs.Annotationの概要です。
+          以下は、GroupDocs.Annotation for Net の概要です。
       
         right:
           enable: true
           icon: "fab fa-html5"
-          title: "概要"
+          title:  概要
           content: |
-            *注釈を追加
-            *注釈のエクスポート
-            *注釈のインポート
-            *返信ベースのコメント
-            *注釈の互換性
+            * 注釈の追加
+            * 注釈のエクスポート 
+            * 注釈のインポート
+            * 返信ベースのコメント
+            * 注釈の互換性
       
       ## TAB TWO ##
       tab_two:
         description: |
-          GroupDocs.Annotation for Netは、Microsoft Office、PDF、画像など、一般的な[ドキュメントファイル形式]（https://docs.groupdocs.com/annotation/net/supported-document-formats/）をすべてサポートしています。
+          GroupDocs.Annotation for Net は、Microsoft Office、PDF、画像、その他多くの一般的な [ドキュメント ファイル形式](https://docs.groupdocs.com/annotation/Net/supported-document-formats/) をすべてサポートしています。
+
         left:
           enable: true
           table:
@@ -106,7 +104,7 @@ overview:
           enable: true
           table:
             # table loop
-            - title: "その他のフォーマット"
+            - title: "Other Formats"
               content: |
                 * **Portable**: [PDF](/annotation/net/pdf/) (PDF/A-1a, PDF/A-1b, PDF/A-2a)
                 * **OpenDocument**: [ODT](/annotation/net/odt/), [ODS](/annotation/net/ods/), [ODP](/annotation/net/odp/)
@@ -117,38 +115,42 @@ overview:
       ## TAB THREE ##
       tab_three:
         description: |
-          GroupDocs.Annotation for Netは、次のオペレーティングシステム、フレームワーク、およびパッケージマネージャーをサポートしています。
-      
+          GroupDocs.Annotation for Net は、次のオペレーティング システム、フレームワーク、パッケージ マネージャーをサポートしています。
+        
         left:
           enable: true
           table:
+            # table loop
             - icon: "fab fa-windows"
-              title: "オペレーティングシステム"
+              title:  オペレーティングシステム
               content: |
-                * Windowsデスクトップ（x86およびx64）
-                * Windows Server（x86およびx64）
+                * Windows Desktop (x86 & x64)
+                * Windows Server (x86 & x64)
                 * Windows Azure
                 * Linux
-                * マックOS
+                * MacOS
 
+            # table loop
             - icon: "fas fa-code"
-              title: "サポートされているフレームワーク"
+              title:  サポートされているフレームワーク
               content: |
                 * .NET Standard 2.0
-                * .NETFramework2.0以降
-                * .NETCore2.0以降
-                * MonoFramework1.2以降
+                * .NET Framework 2.0 or higher
+                * .NET Core 2.0 or higher
+                * Mono Framework 1.2 or higher
 
         right:
           enable: true
           table:
+            # table loop
             - icon: "fas fa-box"
-              title: "パッケージマネージャー"
+              title:  パッケージマネージャー
               content: |
                 * NuGet
             
+            # table loop
             - icon: "fas fa-tools"
-              title: "開発環境"
+              title:  開発環境
               content: |
                 * Microsoft Visual Studio
                 * Xamarin.Android
@@ -159,128 +161,154 @@ overview:
 ############################# Features ############################
 features:
     enable: true
-    title: "GroupDocs.Annotation for Net Features"
+    title: ネット機能の GroupDocs.Annotation
 
     feature:
+      # feature loop
       - icon: "fas fa-copy"
         link: "https://docs.groupdocs.com/annotation/net/basic-usage/"
-        content: "注釈と返信の追加、編集、削除"
+        content: 注釈と返信の追加、編集、削除
 
+      # feature loop
       - icon: "fas fa-eye"
         link: "https://docs.groupdocs.com/annotation/net/export-annotations/"
-        content: "注釈をドキュメントにエクスポート"
+        content: 注釈をドキュメントにエクスポート
 
+      # feature loop
       - icon: "fas fa-bolt"
         link: "https://docs.groupdocs.com/annotation/net/evaluation-limitations-and-licensing-of-groupdocs-annotation/"
-        content: "従量制ライセンス–APIの使用状況に応じて支払うことで請求を管理"
+        content: 従量制ライセンス – API の使用量に応じて支払うことで請求を制御
       
+      # feature loop
       - icon: "fas fa-code"
         link: "https://docs.groupdocs.com/annotation/net/extract-annotations-from-document/"
-        content: "ドキュメントのすべての注釈を取得するための単一の関数呼び出し"
+        content: ドキュメントのすべての注釈をフェッチするための単一関数呼び出し
 
+      # feature loop
       - icon: "fas fa-cloud"
         link: "https://docs.groupdocs.com/annotation/net/add-point-annotation/"
-        content: "ポイント注釈に値を割り当てるか、既存のポイント値を移動します"
+        content: ポイント注釈に値を割り当てるか、既存のポイント値を移動する
 
+      # feature loop
       - icon: "fas fa-remove-format"
         link: "https://docs.groupdocs.com/annotation/net/add-link-annotation/"
-        content: "PDF、Word、PowerPointのスライドにリンク注釈を追加する"
+        content: PDF、Word、PowerPoint スライドにリンク注釈を追加
 
+      # feature loop
       - icon: "fas fa-comment-slash"
         link: "https://docs.groupdocs.com/annotation/net/basic-usage/"
-        content: "注釈の背景色を設定するか、ドキュメントからすべての注釈を削除します"
+        content: 注釈の背景色を設定する、またはドキュメントからすべての注釈を削除する
 
+      # feature loop
       - icon: "fas fa-border-all"
         link: "https://docs.groupdocs.com/annotation/net/generate-document-pages-preview/"
-        content: "正確にPDFファイルに注釈を付ける–PDFドキュメントの画像表現とキャッシュページプレビューを取得"
+        content: PDF ファイルに正確に注釈を付ける – PDF ドキュメントの画像表現を取得し、ページ プレビューをキャッシュ
 
+      # feature loop
       - icon: "fas fa-wrench"
         link: "https://docs.groupdocs.com/annotation/net/import-annotations/"
-        content: "ドキュメントの画像表現でテキスト注釈のテキスト座標を取得する"
+        content: ドキュメントの画像表現内のテキスト注釈のテキスト座標を取得する
 
+      # feature loop
       - icon: "fas fa-columns"
         link: "https://docs.groupdocs.com/annotation/net/add-area-annotation/"
-        content: "ユーザーコメントをエリアアノテーションとネストされたコメントのサポートにリンクする"
+        content: ユーザーコメントをエリア注釈にリンクし、ネストされたコメントをサポート
 
+      # feature loop
       - icon: "fas fa-file-word"
         link: "https://docs.groupdocs.com/annotation/net/add-arrow-annotation/"
-        content: "特定のコンテンツを指すために矢印注釈を使用する"
+        content: 特定のコンテンツを指すために矢印注釈を使用する
 
+      # feature loop
       - icon: "fas fa-envelope"
         link: "https://docs.groupdocs.com/annotation/net/add-distance-annotation/"
-        content: "距離注釈を使用して、オブジェクト間の距離を表す線を描画します"
+        content: 距離注釈を使用してオブジェクト間の距離を表す線を描画する
 
+      # feature loop
       - icon: "fas fa-print"
         link: "https://docs.groupdocs.com/annotation/net/add-point-annotation/"
-        content: "クリックするとウィンドウがポップしてコメントが追加されるポイントベースの注釈"
+        content: クリックするとコメントを追加するウィンドウが開くポイントベースの注釈
 
+      # feature loop
       - icon: "fas fa-file-archive"
         link: "https://docs.groupdocs.com/annotation/net/add-polyline-annotation/"
-        content: "ポリライン注釈として作成された線分の接続シーケンスを作成します"
+        content: ポリライン注釈として作成された線分の接続シーケンスの作成
 
+      # feature loop
       - icon: "fas fa-lock"
         link: "https://docs.groupdocs.com/annotation/net/add-ellipse-annotation/"
-        content: "直線セグメント、円弧セグメント、または両方の組み合わせを作成します"
+        content: 直線セグメント、円弧セグメント、または両方の組み合わせを作成します。
 
+      # feature loop
       - icon: "fas fa-file-code"
         link: "https://docs.groupdocs.com/annotation/net/add-area-annotation/"
-        content: "改訂の提案されたドキュメント領域にマークを付ける"
+        content: 墨消しが提案されている文書領域にマークを付ける
       
+      # feature loop
       - icon: "fas fa-fill-drip"
         link: "https://docs.groupdocs.com/annotation/net/add-image-annotation/"
-        content: "PDF、図、Word、Excel、プレゼンテーション、画像に画像注釈を追加する"
+        content: PDF、図、Word、Excel、プレゼンテーション、画像に画像注釈を追加
 
+      # feature loop
       - icon: "fas fa-file-excel"
         link: "https://docs.groupdocs.com/annotation/net/add-annotation-to-the-document/"
-        content: "ドキュメントにテキストフィールドとテキストベースのスタンプまたは透かしを追加する"
+        content: テキストフィールドとテキストベースのスタンプまたは透かしをドキュメントに追加
 
+      # feature loop
       - icon: "fas fa-heading"
         link: "https://docs.groupdocs.com/annotation/net/add-annotation-to-the-document/"
-        content: "ドキュメント内の特定のテキストを取り消し線、下線、または置換"
+        content: 文書内の特定のテキストに取り消し線、下線を引く、または置換する
 
+      # feature loop
       - icon: "fas fa-project-diagram"
         link: "https://docs.groupdocs.com/annotation/net/update-annotations/"
-        content: "新しい高さと幅のパラメータを割り当てて、注釈のサイズを変更します"
+        content: 新しい高さと幅のパラメータを割り当てて注釈のサイズを変更する
 
+      # feature loop
       - icon: "fas fa-cube"
         link: "https://docs.groupdocs.com/annotation/net/generate-document-pages-preview/"
-        content: "ドキュメントページのサムネイルを取得します。画像と図のさまざまな注釈付きドキュメントを管理する"
+        content: ドキュメントページのサムネイルを取得します。画像や図の注釈付きのさまざまなドキュメントを管理
 
+      # feature loop
       - icon: "fab fa-uncharted"
         link: "https://docs.groupdocs.com/annotation/net/export-annotations/"
-        content: "複数ページのTIFFファイルに注釈をエクスポートして操作する"
+        content: 注釈を複数ページの TIFF ファイルにエクスポートして操作する
   
+      # feature loop
       - icon: "fab fa-uncharted"
         link: "https://docs.groupdocs.com/annotation/net/add-watermark-annotation/"
-        content: "透かし注釈の垂直方向と水平方向の配置を調整する"
+        content: 透かし注釈の垂直方向と水平方向の配置を調整する
   
+      # feature loop
       - icon: "fab fa-uncharted"
         link: "https://docs.groupdocs.com/annotation/net/add-text-field-annotation/"
-        content: "テキストフィールドのテキストの水平方向の配置を追加する"
+        content: テキストフィールドにテキストの水平方向の配置を追加
 
+      # feature loop
       - icon: "fab fa-uncharted"
         link: "https://docs.groupdocs.com/annotation/net/document-text-info/"
-        content: "ドキュメントのテキスト行（テキスト、幅、高さ、インデント）に関する情報を取得します"
+        content: ドキュメントのテキスト行に関する情報を取得します (テキスト、幅、高さ、インデント)。
 
     more_feature:
-      - title: "複数のタイプの注釈のサポート"
+      # more_feature_loop
+      - title: 複数のタイプの注釈のサポート
         content: |
-          GroupDocs.Annotation for .NETを使用すると、さまざまなタイプの注釈を操作できます。これにより、タスクでチームと協力しながら、コミュニケーションの自由と容易さが得られます。エリア注釈（エリアを長方形としてマークしてメモを追加）、ポイント注釈（ドキュメント内の任意のポイントにコメントを貼り付ける）、テキスト注釈（選択したテキストにコメントを追加）、取り消し線/下線注釈（段落に適用）、ポリライン注釈（図形とフリーハンドの線を描画）、矢印注釈（コメントが添付された矢印ポインター）、楕円注釈（楕円内にテキストを表示）、距離注釈（オブジェクト間の距離を表す線を描画）、リンク注釈（サポートされているドキュメント形式へのWebリンクを追加）、および注釈（テキストスタンプまたは透かしをドキュメントに追加できます）。
+          GroupDocs.Annotation for .NET を使用すると、さまざまな種類の注釈を操作できます。これにより、タスクでチームと共同作業する際のコミュニケーションが自由になり、容易になります。エリア注釈 (領域を四角形としてマークし、そこにメモを追加します)、ポイント注釈 (文書内の任意の位置にコメントを貼り付けます)、テキスト注釈 (選択したテキストにコメントを追加します)、取り消し線/下線注釈 (段落に適用)、ポリライン注釈 (図形とフリーハンドの線を描画)、矢印注釈 (コメントが添付された矢印ポインタ)、楕円注釈 (楕円の内側にテキストを表示)、距離注釈 (オブジェクト間の距離を表す線を描画)、リンク注釈 (サポートされているドキュメント形式に Web リンクを追加)、および透かし注釈 (テキスト スタンプまたは透かしをドキュメントに追加できます)。
 
           ```cs
-          //AnnotationInfoのリストを初期化します
+          // Initialize list of AnnotationInfo
           List<AnnotationInfo> annotations = new List<AnnotationInfo>();
-          //テキスト注釈を初期化します
+          // Initialize text annotation
           AnnotationInfo textAnnotation = new AnnotationInfo
           {
             Box = new Rectangle((float)265.44, (float)153.86, 206, 36), Type = AnnotationType.Text 
           };
-          //リストに注釈を追加します
+          // Add annotation to list
           annotations.Add(textAnnotation);
-          //入力ファイルストリームを取得します
+          // Get input file stream
           Stream inputFile = new FileStream("D:/input.pdf", FileMode.Open, File
           .ReadWrite);
-          //注釈をエクスポートし、出力ファイルを保存します
+          // Export annotation and save output file
           CommonUtilities.SaveOutputDocument(inputFile, annotations, DocumentType.Pdf);
           ```
 
@@ -291,7 +319,7 @@ support:
 ############################# Solutions ############################
 solutions:
     enable: true
-    title: "GroupDocs.Annotationは、他の一般的な開発環境向けのドキュメント表示APIを提供します"
+    title: GroupDocs.Annotation は、他の一般的な開発環境向けのドキュメント表示 API を提供します
 
     solution:
         # solution loop

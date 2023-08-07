@@ -1,15 +1,10 @@
-
 ---
 ############################# Static ############################
 layout: "auto-gen-annotation"
-date: 07/05/2022 12:44:18
-draft: false
-
-###_DIMA_### link rel="canonical" href="https://products.groupdocs.com/annotation/net/pptx"/>
 
 ############################# Head ############################
-head_title: "Net PPTX API di annotazione Annotate in C#"
-head_description: "Net API per creare e Annotate tipi di annotazioni popolari da PPTX, immagini, disegni e formati di file di documenti."
+head_title: "Net PPTX API di annotazione Annota in C#"
+head_description: "Net API per creare e annotare tipi di annotazioni popolari da PPTX, immagini, disegni e formati di file di documenti."
 
 ############################# Header ############################
 title: "Annota PPTX da Net"
@@ -19,80 +14,47 @@ bg_overlay: false
 button:
     enable: true
     icon: "fas fa-arrow-down"
-    label: "Download Free Trial"
+    label: "Scarica la prova gratuita"
     link: "https://downloads.groupdocs.com/annotation/net"
-
-############################# SubMenu ############################
-submenu:
-    enable: true
-
-    left:
-        img_alt: "GroupDocs.Annotation per Net"
-        image: "https://cms.admin.containerize.com/templates/groupdocs/images/product-logos/90x90-noborder/groupdocs-annotation-net.png"
-        product: "GroupDocs.Annotation"
-        platform: "Net"
-
-    middle:
-        button:
-            # button loop
-            - link: "https://apireference.groupdocs.com/annotation/net"
-              text: "API Reference"
-            # button loop
-            - link: "https://github.com/groupdocs-annotation"
-              text: "Code Examples"
-            # button loop
-            - link: "https://products.groupdocs.app/annotation/family"
-              text: "Live Demos"
-            # button loop
-            - link: "https://purchase.groupdocs.com/pricing/annotation/net"
-              text: "Pricing"
-
-    right:
-        link_download: "https://downloads.groupdocs.com/annotation"
-        link_learn: "https://docs.groupdocs.com/annotation/net"
-        link_buy: "https://purchase.groupdocs.com"
 
 ############################# About ############################
 about:
     enable: true
     title: "Informazioni su GroupDocs.Annotation per Net API"
     content: |
-        GroupDocs.Annotation for Net API è una libreria che ti consente di aggiungere annotazioni a PDF, Word e altri documenti su Mac, Windows o Ubuntu. [GroupDocs.Annotation for Net](/annotation/net) è un'API nativa di Net per la gestione delle annotazioni con supporto completo per la creazione, l'aggiunta, la modifica, l'eliminazione, l'estrazione e l'esportazione di annotazioni da immagini e vari altri documenti. L'elenco completo dei formati di documenti supportati è disponibile in questa [pagina](https://docs.groupdocs.com/annotation/net/supported-document-formats/).
-
-        Questa libreria ti consente di lavorare non solo con il documento PPTX ma anche con molti altri tipi di documenti come Word, Excel, PowerPoint, email di Outlook, Visio, Adobe, OpenDocument, OpenOffice, Photoshop, AutoCad e molti altri.
-
-        L'API GroupDocs.Annotation per Net ti consente di creare e aggiungere nuove note, edit annotazioni, extract commenti, annotazioni e remove dai documenti. La libreria supporta 13 diversi tipi di annotazione, tra cui Testo, Polilinea, Area, Sottolineato, Punto, Filigrana, Freccia, Ellisse, Sostituzione testo, Distanza, Campo di testo, Redazione risorsa in PDF, HTML, documenti Microsoft Word, fogli di calcolo, diagrammi, presentazioni, disegni, immagini e molti altri formati di file.
-
-        L'esempio (vedi sotto) mostra come lavorare con il documento PPTX, in questo esempio puoi vedere i passaggi principali di come lavorare con GroupDocs. Annotazione: imposta una licenza, apri un documento con cui vuoi lavorare, crea un annotazione, aggiunta di oggetti dati per impostare le proprietà di annotazione in base alle proprie esigenze e salvataggio del risultato nella posizione necessaria. Inoltre puoi dare uno sguardo più dettagliato alle funzionalità supportate sulla nostra github [pagina](https://github.com/groupdocs-annotation/GroupDocs.Annotation-for-.Net), o nella nostra [documentazione](https://docs.groupdocs.com/annotation/net/getting-started/).
+        GroupDocs.Annotation for Net API è una libreria che consente di aggiungere annotazioni a PDF, Word e altri documenti su Mac, Windows o Ubuntu. [GroupDocs.Annotation for Net](/annotation/net) è un'API Net nativa per la gestione delle annotazioni con supporto completo per la creazione, l'aggiunta, la modifica, l'eliminazione, l'estrazione e l'esportazione di annotazioni da immagini e vari altri documenti. L'elenco completo dei formati di documenti supportati è disponibile in questa [pagina](https://docs.groupdocs.com/annotation/net/supported-document-formats/).
+        Questa libreria ti consente di lavorare non solo con il documento PPTX ma anche con molti altri tipi di documenti come Word, Excel, PowerPoint, e-mail di Outlook, Visio, Adobe, OpenDocument, OpenOffice, Photoshop, AutoCad e molti altri.
+        L'API GroupDocs.Annotation per Net consente di creare e aggiungere nuove note, modificare annotazioni, estrarre commenti, annotazioni e rimuoverle dai documenti. La libreria supporta 13 diversi tipi di annotazione, tra cui Testo, Polilinea, Area, Sottolineato, Punto, Filigrana, Freccia, Ellisse, Sostituzione testo, Distanza, Campo di testo, Redazione risorsa in PDF, HTML, documenti Microsoft Word, fogli di calcolo, diagrammi, presentazioni, disegni, immagini e molti altri formati di file.
+        L'esempio (vedi sotto) mostra come lavorare con il documento PPTX, in questo esempio puoi vedere i passaggi principali di come lavorare con GroupDocs. Annotazione: impostare una licenza, aprire un documento con cui vuoi lavorare, creare un annotazione, aggiunta di oggetti dati per impostare le proprietà di annotazione in base alle proprie esigenze e salvataggio del risultato nella posizione necessaria. Inoltre, puoi dare un'occhiata più dettagliata alle funzionalità supportate sulla nostra [pagina] github (https://github.com/groupdocs-annotation/GroupDocs.Annotation-for-.NET) o nella [documentazione] del nostro prodotto (https https://docs.groupdocs.com/annotation/net/getting-started/).
 
 ############################# Steps ############################
 howTo_Add:
 steps_Add:
     enable: true
-    title_left: "Passaggi per aggiungere annotazioni da PPTX in Net"
+    title_left: "Passaggi per aggiungere annotazioni a PPTX in Net"
     content_left: |
-        [GroupDocs.Annotation](/annotation/java/) rende facile per gli sviluppatori Net aggiungere vari tipi di annotazioni ai file PPTX all'interno di qualsiasi applicazione basata su Net implementando pochi semplici passaggi.
-        * Crea oggetti di risposta con commento e data.
-        * Crea un oggetto AreaAnnotation, imposta le opzioni dell'area e aggiungi risposte.
-        * Crea un oggetto Annotator e aggiungi un'annotazione dell'area.
-        * Salva il file di output.
+        [GroupDocs.Annotation](/annotation/net/) rende facile per gli sviluppatori Net aggiungere vari tipi di annotazioni ai file PPTX all'interno di qualsiasi applicazione basata su Net implementando pochi semplici passaggi.
+        *   Crea oggetti Reply con commento e data.
+        *   Crea un oggetto AreaAnnotation, imposta le opzioni dell'area e aggiungi le risposte.
+        *   Crea un oggetto Annotator e aggiungi l'annotazione dell'area.
+        *   Salva il file di output.
     title_right: "Requisiti di sistema"
     content_right: |
-        Le API GroupDocs.Annotation per Net sono supportate su tutte le principali piattaforme e sistemi operativi. Prima di eseguire il codice seguente, assicurati di avere i seguenti prerequisiti installati sul tuo sistema.
-        * Sistemi operativi: Microsoft Windows, Linux, MacOS
-        * Ambienti di sviluppo: Visual Studio, Xamarin, MonoDevelop
-        * Framework: .NET Framework, .NET Standard, .NET Core, Mono
-        * Scarica l'ultima versione di GroupDocs.Annotation per .NET da [NuGet](https://www.nuget.org/packages/groupdocs.annotation)
+        GroupDocs.Annotation for Net APIs è supportato su tutte le principali piattaforme e sistemi operativi. Prima di eseguire il codice seguente, assicurati di avere i seguenti prerequisiti installati sul tuo sistema.
+        *   Sistemi operativi: Microsoft Windows, Linux, MacOS
+        *   Ambienti di sviluppo: Visual Studio, Xamarin, MonoDevelop
+        *   Framework: .NET Framework, .NET Standard, .NET Core, Mono
+        *   Scarica l'ultima versione di GroupDocs.Annotation per .NET da [NuGet](https://www.nuget.org/packages/groupdocs.annotation)
 
 ############################# Preview ############################
 preview_Add:
     enable: true
-    title: "Anteprima dell'annotazione ed esempio di codice"
+    title: Anteprima dell'annotazione ed esempio di codice
     content: |
-        ![Annotation preview image](https://docs.groupdocs.com/annotation/java/images/add-text-field-annotation.png)
+        ![Annotation preview image]https://docs.groupdocs.com/annotation/java/images/add-text-field-annotation.png
     code: |
         ```cs
-        //Aggiungi l'annotazione del campo di testo al documento dal disco locale
+        //Add text field annotation to the document from local disk
         using (Annotator annotator = new Annotator("input.bmp"))
         {
             TextFieldAnnotation textField = new TextFieldAnnotation
@@ -103,7 +65,7 @@ preview_Add:
                 Text = "Some text",
                 FontColor = 65535,
                 FontSize = 12,
-                Message = "Questa è un'annotazione del campo di testo",
+                Message = "This is text field annotation",
                 Opacity = 0.7,
                 PageNumber = 0,
                 PenStyle = PenStyle.Dot,
@@ -114,12 +76,12 @@ preview_Add:
                 {
                     new Reply
                     {
-                        Comment = "Primo commento",
+                        Comment = "First comment",
                         RepliedOn = DateTime.Now
                     },
                     new Reply
                     {
-                        Comment = "Secondo commento",
+                        Comment = "Second comment",
                         RepliedOn = DateTime.Now
                     }
                 }
@@ -135,18 +97,17 @@ steps_Remove:
     enable: true
     title_left: "Passaggi per rimuovere le annotazioni da PPTX in Net"
     content_left: |
-        [GroupDocs.Annotation](/annotation/java/) rende più facile per gli sviluppatori Net rimuovere i dettagli delle annotazioni dai file PPTX all'interno di qualsiasi applicazione basata su Net implementando alcuni semplici passaggi.
-        * Crea oggetti di risposta con commento e data.
-        * Crea un'istanza dell'oggetto SaveOptions e imposta AnnotationTypes = AnnotationType.None.
-        * Richiama il metodo di salvataggio con il percorso o il flusso del documento risultante e l'oggetto SaveOptions.
+        [GroupDocs.Annotation](/annotation/net/) rende più facile per gli sviluppatori Net rimuovere i dettagli delle annotazioni dai file PPTX all'interno di qualsiasi applicazione basata su Net implementando alcuni semplici passaggi.
+        *   Crea oggetti Reply con commento e data.
+        *   Crea un'istanza dell'oggetto SaveOptions e imposta AnnotationTypes = AnnotationType.None.
+        *   Chiama il metodo di salvataggio con il percorso o il flusso del documento risultante e l'oggetto SaveOptions.
 
 ############################# Preview ############################
 preview_Remove:
     enable: true
-    
     code: |
         ```cs
-        // 1- Come rimuovere l'annotazione dal documento utilizzando l'indice di annotazione
+        // 1- How to remove annotation from document using annotation index
         
         using (Annotator annotator = new Annotator("result.bmp"))
         {
@@ -154,7 +115,7 @@ preview_Remove:
             annotator.Save("removed.bmp");
         }
         
-        // 2- Come rimuovere l'annotazione dal documento utilizzando l'oggetto annotazione
+        // 2- How to remove annotation from document using annotation object
         
         using (Annotator annotator = new Annotator("result.bmp"))
         {
@@ -163,7 +124,7 @@ preview_Remove:
             annotator.Save("removed.bmp");
         }
         
-        // 3- Come rimuovere alcune annotazioni dal documento utilizzando l'elenco degli ID
+        // 3- How to remove some annotations from document using list of ID’s
         
         using (Annotator annotator = new Annotator("result.bmp"))
         {
@@ -172,7 +133,7 @@ preview_Remove:
             annotator.Save("removed.bmp");
         }
         
-        // 4- Come rimuovere alcune annotazioni dal documento utilizzando l'elenco di annotazioni
+        // 4- How to remove some annotations from document using list of annotations
         
         using (Annotator annotator = new Annotator("result.bmp"))
         {
@@ -188,45 +149,44 @@ steps_Edit:
     enable: true
     title_left: "Passaggi per modificare le annotazioni da PPTX in Net"
     content_left: |
-        [GroupDocs.Annotation](/annotation/java/) rende più facile per gli sviluppatori Net aggiornare varie proprietà di annotazione da file PPTX all'interno di qualsiasi applicazione basata su Net implementando pochi semplici passaggi.
-        * Crea un'istanza dell'oggetto Annotator con il percorso o il flusso del documento di input con LoadOptions istanziato con ImportAnnotations = true.
-        * Crea un'implementazione AnnotationBase e imposta l'ID dell'annotazione esistente (se l'annotazione con quell'ID non viene trovata, non verrà modificato nulla) o l'elenco dei percorsi delle annotazioni (tutte le annotazioni esistenti verranno rimosse).
-        * Chiama il metodo di aggiornamento dell'oggetto Annotator con annotazioni passate.
-        * Richiama il metodo di salvataggio con il percorso o il flusso del documento risultante e l'oggetto SaveOptions.
+        [GroupDocs.Annotation](/annotation/net/) rende più facile per gli sviluppatori Net aggiornare varie proprietà di annotazione dai file PPTX all'interno di qualsiasi applicazione basata su Net implementando alcuni semplici passaggi.
+        *   Crea un'istanza dell'oggetto Annotator con il percorso o il flusso del documento di input con LoadOptions istanziato con ImportAnnotations = true.
+        *   Crea un'implementazione AnnotationBase e imposta l'ID dell'annotazione esistente (se l'annotazione con quell'ID non viene trovata, non verrà modificato nulla) o l'elenco dei percorsi delle annotazioni (tutte le annotazioni esistenti verranno rimosse).
+        *   Chiama il metodo di aggiornamento dell'oggetto Annotator con annotazioni passate.
+        *   Chiama il metodo di salvataggio con il percorso o il flusso del documento risultante e l'oggetto SaveOptions.
 
 ############################# Preview ############################
 preview_Edit:
     enable: true
-    
     code: |
         ```cs
-        // apre il documento annotato
+        // open annotated document
         using (Annotator annotator = new Annotator("result.bmp"))
         {
-            //assumendo che cambieremo alcune proprietà dell'annotazione esistente
-                AreaAnnotation updated = nuova AreaAnnotation
+            //assuming we are going to change some properties of existing annotation
+                AreaAnnotation updated = new AreaAnnotation
                     {
-                            // È importante impostare l'ID dell'annotazione esistente
+                            // It's important to set existed annotation Id
                             Id = 1,
                             BackgroundColor = 255,
                             Box = new Rectangle(0, 0, 50, 200),
                             CreatedOn = DateTime.Now,
-                            Messaggio = "Questa è un'annotazione aggiornata",
+                            Message = "This is updated annotation",
                             Replies = new List
                             {
                                 new Reply
                                 {
-                                    Comment = "Primo commento aggiornato",
+                                    Comment = "Updated first comment",
                                     RepliedOn = DateTime.Now
                                 },
                                 new Reply
                                 {
-                                    Comment = "Secondo commento aggiornato",
+                                    Comment = "Updated second comment",
                                     RepliedOn = DateTime.Now
                                 }
                             }
                         };
-                // aggiorna l'annotazione
+                // update annotation
                 annotator.Update(updated);
                 annotator.Save("result.bmp");
         }
@@ -238,19 +198,18 @@ steps_Extract:
     enable: true
     title_left: "Passaggi per estrarre le annotazioni da PPTX in Net"
     content_left: |
-        [GroupDocs.Annotation](/annotation/java/) rende facile per gli sviluppatori Net annotare documenti ed estrarre informazioni di annotazione da file PPTX all'interno di qualsiasi applicazione basata su Net implementando pochi semplici passaggi.
-        * Crea oggetti di risposta con commento e data.
-        * Crea un'istanza dell'oggetto LoadOptions e chiama SetImportAnnotations con argomento vero.
-        * Definire variabile con tipo List.
-        * Chiama il metodo get e restituisci il risultato alla variabile sopra.
+        [GroupDocs.Annotation](/annotation/net/) rende facile per gli sviluppatori Net annotare documenti ed estrarre informazioni di annotazione da file PPTX all'interno di qualsiasi applicazione basata su Net implementando pochi semplici passaggi.
+        *   Crea oggetti Reply con commento e data.
+        *   Crea un'istanza dell'oggetto LoadOptions e chiama SetImportAnnotations con argomento vero.
+        *   Definisci variabile con tipo List.
+        *   Chiama il metodo get e restituisci il risultato alla variabile sopra.
 
 ############################# Preview ############################
 preview_Extract:
     enable: true
-    
     code: |
         ```cs
-        // per utilizzare questo file di input di esempio ("annotated.bmp") deve essere con annotazioni
+        // for using this example input file ("annotated.bmp") must be with annotations
         using (Annotator annotator = new Annotator("annotated.bmp"))
         {
             List annotations = annotator.Get();
@@ -266,10 +225,10 @@ preview_Extract:
 ############################# Demos ############################
 demos:
     enable: true
-    title: "Dimostrazioni dal vivo per aggiungere, rimuovere, modificare ed estrarre annotazioni da documenti e immagini"
+    title: "Demo dal vivo per aggiungere, rimuovere, modificare ed estrarre annotazioni a documenti e immagini"
     content: |
-        Aggiungete, rimuovete, modificate ed estraete annotazioni al file PPTX in questo momento visitando il sito web [GroupDocs.Annotation Live Demos](https://products.groupdocs.app/annotation/family).
-        La demo dal vivo offre i seguenti vantaggi
+        Aggiungi, rimuovi, modifica ed estrai subito le annotazioni dal file PPTX visitando il sito web [GroupDocs.Annotation Live Demos](https://products.groupdocs.app/annotation/family).
+La demo dal vivo ha i seguenti vantaggi
 
 ############################# About Formats ############################
 about_formats:
@@ -280,6 +239,7 @@ about_formats:
           title: "Informazioni sul formato file PPTX"
           content: |
             I file con estensione PPTX sono file di presentazione creati con la popolare applicazione Microsoft PowerPoint. A differenza della versione precedente del formato di file di presentazione PPT che era binario, il formato PPTX si basa sul formato di file di presentazione XML aperto di Microsoft PowerPoint. Un file di presentazione è una raccolta di diapositive in cui ogni diapositiva può contenere testo, immagini, formattazione, animazioni e altri media. Queste diapositive vengono presentate al pubblico sotto forma di presentazioni con impostazioni di presentazione personalizzate.
+
           link: "https://docs.fileformat.com/image/pptx/"
 
 ############################# More Formats ############################

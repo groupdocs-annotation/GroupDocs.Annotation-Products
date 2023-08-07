@@ -1,15 +1,10 @@
-
 ---
 ############################# Static ############################
 layout: "auto-gen-annotation"
-date: 07/05/2022 12:44:18
-draft: false
-
-###_DIMA_### link rel="canonical" href="https://products.groupdocs.com/annotation/net/xls"/>
 
 ############################# Head ############################
 head_title: "Net XLS API de anotación Anotar en C#"
-head_description: "Net API para crear y Anotar tipos de anotaciones populares de XLS, imágenes, dibujos y formatos de archivos de documentos."
+head_description: "Net API para crear y anotar tipos de anotaciones populares de XLS, imágenes, dibujos y formatos de archivos de documentos."
 
 ############################# Header ############################
 title: "Anotar XLS de Net"
@@ -19,80 +14,47 @@ bg_overlay: false
 button:
     enable: true
     icon: "fas fa-arrow-down"
-    label: "Download Free Trial"
+    label: "Descargue prueba gratis"
     link: "https://downloads.groupdocs.com/annotation/net"
-
-############################# SubMenu ############################
-submenu:
-    enable: true
-
-    left:
-        img_alt: "GroupDocs.Anotación para Net"
-        image: "https://cms.admin.containerize.com/templates/groupdocs/images/product-logos/90x90-noborder/groupdocs-annotation-net.png"
-        product: "GroupDocs.Annotation"
-        platform: "Net"
-
-    middle:
-        button:
-            # button loop
-            - link: "https://apireference.groupdocs.com/annotation/net"
-              text: "API Reference"
-            # button loop
-            - link: "https://github.com/groupdocs-annotation"
-              text: "Code Examples"
-            # button loop
-            - link: "https://products.groupdocs.app/annotation/family"
-              text: "Live Demos"
-            # button loop
-            - link: "https://purchase.groupdocs.com/pricing/annotation/net"
-              text: "Pricing"
-
-    right:
-        link_download: "https://downloads.groupdocs.com/annotation"
-        link_learn: "https://docs.groupdocs.com/annotation/net"
-        link_buy: "https://purchase.groupdocs.com"
 
 ############################# About ############################
 about:
     enable: true
     title: "Acerca de GroupDocs.Annotation para Net API"
     content: |
-        GroupDocs.Annotation for Net API es una biblioteca que le permite agregar anotaciones a PDF, Word y otros documentos en Mac, Windows o Ubuntu. [GroupDocs.Annotation for Net](/annotation/net) es una API Net nativa para administrar anotaciones con soporte integral para crear, agregar, editar, eliminar, extraer y exportar anotaciones de imágenes y varios otros documentos. La lista completa de formatos de documentos compatibles se puede ver en esta [página](https://docs.groupdocs.com/annotation/net/supported-document-formats/).
-
-        Esta biblioteca le permite trabajar no solo con documentos XLS, sino también con muchos otros tipos de documentos como Word, Excel, PowerPoint, correos electrónicos de Outlook, Visio, Adobe, OpenDocument, OpenOffice, Photoshop, AutoCad y muchos otros.
-
-        La API de GroupDocs.Annotation para Net le permite crear y agregar nuevas notas, editar anotaciones, extract comentarios, anotaciones y eliminar de los documentos. La biblioteca admite 13 tipos de anotaciones diferentes, incluidos Texto, Polilínea, Área, Subrayado, Punto, Marca de agua, Flecha, Elipse, Reemplazo de texto, Distancia, Campo de texto, Redacción de recursos en PDF, HTML, documentos de Microsoft Word, hojas de cálculo, diagramas, presentaciones, dibujos, imágenes y muchos otros formatos de archivo.
-
-        El ejemplo (consulte a continuación) demuestra cómo trabajar con el documento XLS, en este ejemplo puede ver los pasos principales de cómo trabajar con GroupDocs. anotación, agregando objetos de datos para establecer las propiedades de la anotación de acuerdo con sus requisitos y guardando el resultado en el lugar necesario. También puede echar un vistazo más detallado a las funciones admitidas en nuestra de github [página](https://github.com/groupdocs-annotation/GroupDocs.Annotation-for-.Net), o en nuestro producto [documentación](https://docs.groupdocs.com/annotation/net/getting-started/).
+        GroupDocs.Annotation for Net API es una biblioteca que le permite agregar anotaciones a PDF, Word y otros documentos en Mac, Windows o Ubuntu. [GroupDocs.Annotation for Net](/annotation/net) es una API de red nativa para administrar anotaciones con soporte completo para crear, agregar, editar, eliminar, extraer y exportar anotaciones de imágenes y otros documentos. La lista completa de formatos de documentos compatibles se puede ver en esta [página] (https://docs.groupdocs.com/annotation/net/supported-document-formats/).
+        Esta biblioteca le permite trabajar no solo con documentos XLS sino también con muchos otros tipos de documentos como Word, Excel, PowerPoint, correos electrónicos de Outlook, Visio, Adobe, OpenDocument, OpenOffice, Photoshop, AutoCad y muchos otros.
+        GroupDocs.Annotation for Net API le permite crear y agregar nuevas notas, editar anotaciones, extraer comentarios, anotaciones y eliminarlas de los documentos. La biblioteca admite 13 tipos de anotaciones diferentes, incluidos Texto, Polilínea, Área, Subrayado, Punto, Marca de agua, Flecha, Elipse, Reemplazo de texto, Distancia, Campo de texto, Redacción de recursos en PDF, HTML, documentos de Microsoft Word, hojas de cálculo, diagramas, presentaciones, dibujos, imágenes y muchos otros formatos de archivo.
+        El ejemplo (consulte a continuación) demuestra cómo trabajar con el documento XLS, en este ejemplo puede ver los pasos principales de cómo trabajar con GroupDocs. anotación, agregando objetos de datos para establecer las propiedades de la anotación de acuerdo con sus requisitos y guardando el resultado en el lugar necesario. También puede echar un vistazo más detallado a las funciones admitidas en nuestra [página] de github (https://github.com/groupdocs-annotation/GroupDocs.Annotation-for-.NET), o en nuestra [documentación] del producto (https ://docs.groupdocs.com/annotation/net/getting-started/).
 
 ############################# Steps ############################
 howTo_Add:
 steps_Add:
     enable: true
-    title_left: "Pasos para agregar anotaciones de XLS en Net"
+    title_left: "Pasos para agregar anotaciones a XLS en Net"
     content_left: |
-        [GroupDocs.Annotation](/annotation/java/) facilita a los desarrolladores de Net agregar varios tipos de anotaciones a los archivos XLS dentro de cualquier aplicación basada en Net mediante la implementación de unos sencillos pasos.
-        * Crear objetos de respuesta con comentario y fecha.
-        * Crear objeto AreaAnnotation, establecer opciones de área y agregar respuestas.
-        * Crear objeto Annotator y agregar anotación de área.
-        * Guardar archivo de salida.
+        [GroupDocs.Annotation](/annotation/net/) facilita a los desarrolladores de Net agregar varios tipos de anotaciones a los archivos XLS dentro de cualquier aplicación basada en Net mediante la implementación de unos sencillos pasos.
+        *   Cree objetos de respuesta con comentario y fecha.
+        *   Cree un objeto AreaAnnotation, establezca opciones de área y agregue respuestas.
+        *   Cree un objeto Annotator y agregue una anotación de área.
+        *   Guardar archivo de salida.
     title_right: "Requisitos del sistema"
     content_right: |
-        Las API de GroupDocs.Annotation para Net son compatibles con las principales plataformas y sistemas operativos. Antes de ejecutar el código a continuación, asegúrese de tener instalados los siguientes requisitos previos en su sistema.
-        * Sistemas Operativos: Microsoft Windows, Linux, Mac OS
-        * Entornos de desarrollo: Visual Studio, Xamarin, MonoDevelop
-        * Marcos: .NET Framework, .NET Standard, .NET Core, Mono
-        * Descargue la última versión de GroupDocs.Annotation para .NET desde [NuGet](https://www.nuget.org/packages/groupdocs.annotation)
+        Las API de GroupDocs.Annotation for Net son compatibles con todas las principales plataformas y sistemas operativos. Antes de ejecutar el código a continuación, asegúrese de tener los siguientes requisitos previos instalados en su sistema.
+        *   Sistemas operativos: Microsoft Windows, Linux, Mac OS
+        *   Entornos de desarrollo: Visual Studio, Xamarin, MonoDevelop
+        *   Marcos: .NET Framework, .NET Standard, .NET Core, Mono
+        *   Descargue la última versión de GroupDocs.Annotation para .NET desde [NuGet](https://www.nuget.org/packages/groupdocs.annotation)
 
 ############################# Preview ############################
 preview_Add:
     enable: true
-    title: "Vista previa de la anotación y ejemplo de código"
+    title: Vista previa de anotaciones y ejemplo de código
     content: |
-        ![Annotation preview image](https://docs.groupdocs.com/annotation/java/images/add-text-field-annotation.png)
+        ![Annotation preview image]https://docs.groupdocs.com/annotation/java/images/add-text-field-annotation.png
     code: |
         ```cs
-        //Añadir anotación de campo de texto al documento desde el disco local
+        //Add text field annotation to the document from local disk
         using (Annotator annotator = new Annotator("input.bmp"))
         {
             TextFieldAnnotation textField = new TextFieldAnnotation
@@ -103,7 +65,7 @@ preview_Add:
                 Text = "Some text",
                 FontColor = 65535,
                 FontSize = 12,
-                Message = "Esta es una anotación de campo de texto",
+                Message = "This is text field annotation",
                 Opacity = 0.7,
                 PageNumber = 0,
                 PenStyle = PenStyle.Dot,
@@ -114,18 +76,18 @@ preview_Add:
                 {
                     new Reply
                     {
-                        Comment = "Primer comentario",
+                        Comment = "First comment",
                         RepliedOn = DateTime.Now
                     },
                     new Reply
                     {
-                        Comment = "Segundo comentario",
+                        Comment = "Second comment",
                         RepliedOn = DateTime.Now
                     }
                 }
             };
             annotator.Add(textField);
-            annotator.Save("resultado.bmp");
+            annotator.Save("result.bmp");
         }
         ```
 
@@ -135,18 +97,17 @@ steps_Remove:
     enable: true
     title_left: "Pasos para eliminar anotaciones de XLS en Net"
     content_left: |
-        [GroupDocs.Annotation](/annotation/java/) hace que sea más fácil para los desarrolladores de Net eliminar los detalles de las anotaciones de los archivos XLS dentro de cualquier aplicación basada en Net mediante la implementación de unos sencillos pasos.
-        * Crear objetos de respuesta con comentario y fecha.
-        * Crea una instancia del objeto SaveOptions y establece AnnotationTypes = AnnotationType.None.
-        * Llame al método de guardar con la ruta del documento resultante o la secuencia y el objeto SaveOptions.
+        [GroupDocs.Annotation](/annotation/net/) hace que sea más fácil para los desarrolladores de Net eliminar los detalles de las anotaciones de los archivos XLS dentro de cualquier aplicación basada en Net mediante la implementación de unos sencillos pasos.
+        *   Cree objetos de respuesta con comentario y fecha.
+        *   Crea una instancia del objeto SaveOptions y establece AnnotationTypes = AnnotationType.None.
+        *   Llame al método save con la ruta del documento resultante o la secuencia y el objeto SaveOptions.
 
 ############################# Preview ############################
 preview_Remove:
     enable: true
-    
     code: |
         ```cs
-        // 1- Cómo eliminar la anotación del documento usando el índice de anotación
+        // 1- How to remove annotation from document using annotation index
         
         using (Annotator annotator = new Annotator("result.bmp"))
         {
@@ -154,7 +115,7 @@ preview_Remove:
             annotator.Save("removed.bmp");
         }
         
-        // 2- Cómo eliminar la anotación del documento usando el objeto de anotación
+        // 2- How to remove annotation from document using annotation object
         
         using (Annotator annotator = new Annotator("result.bmp"))
         {
@@ -163,7 +124,7 @@ preview_Remove:
             annotator.Save("removed.bmp");
         }
         
-        // 3- Cómo eliminar algunas anotaciones del documento usando una lista de ID
+        // 3- How to remove some annotations from document using list of ID’s
         
         using (Annotator annotator = new Annotator("result.bmp"))
         {
@@ -172,7 +133,7 @@ preview_Remove:
             annotator.Save("removed.bmp");
         }
         
-        // 4- Cómo eliminar algunas anotaciones del documento usando la lista de anotaciones
+        // 4- How to remove some annotations from document using list of annotations
         
         using (Annotator annotator = new Annotator("result.bmp"))
         {
@@ -188,45 +149,44 @@ steps_Edit:
     enable: true
     title_left: "Pasos para editar anotaciones de XLS en Net"
     content_left: |
-        [GroupDocs.Annotation](/annotation/java/) hace que sea más fácil para los desarrolladores de Net actualizar varias propiedades de anotación de archivos XLS dentro de cualquier aplicación basada en Net mediante la implementación de unos sencillos pasos.
-        * Crear una instancia del objeto Annotator con la ruta del documento de entrada o la secuencia con LoadOptions instanciadas con ImportAnnotations = true.
-        * Cree alguna implementación de AnnotationBase y establezca el Id. de la anotación existente (si no se encuentra la anotación con ese Id., no se cambiará nada) o la lista de rutas de las anotaciones (se eliminarán todas las anotaciones existentes).
-        * Llamar al método de actualización del objeto Annotator con anotaciones pasadas.
-        * Llame al método de guardar con la ruta del documento resultante o la secuencia y el objeto SaveOptions.
+        [GroupDocs.Annotation](/annotation/net/) hace que sea más fácil para los desarrolladores de Net actualizar varias propiedades de anotación de los archivos XLS dentro de cualquier aplicación basada en Net mediante la implementación de unos sencillos pasos.
+        *   Cree una instancia del objeto Annotator con la ruta del documento de entrada o flujo con LoadOptions instanciado con ImportAnnotations = true.
+        *   Cree alguna implementación de AnnotationBase y establezca el Id. de la anotación existente (si no se encuentra la anotación con ese Id., no se cambiará nada) o la lista de rutas de las anotaciones (se eliminarán todas las anotaciones existentes).
+        *   Llame al método de actualización del objeto Annotator con anotaciones pasadas.
+        *   Llame al método save con la ruta del documento resultante o la secuencia y el objeto SaveOptions.
 
 ############################# Preview ############################
 preview_Edit:
     enable: true
-    
     code: |
         ```cs
-        // abrir documento anotado
+        // open annotated document
         using (Annotator annotator = new Annotator("result.bmp"))
         {
-            //suponiendo que vamos a cambiar algunas propiedades de la anotación existente
-                AreaAnnotation updated = nueva AreaAnnotation
+            //assuming we are going to change some properties of existing annotation
+                AreaAnnotation updated = new AreaAnnotation
                     {
-                            // Es importante establecer el Id. de anotación existente
+                            // It's important to set existed annotation Id
                             Id = 1,
                             BackgroundColor = 255,
                             Box = new Rectangle(0, 0, 50, 200),
                             CreatedOn = DateTime.Now,
-                            Message = "Esta es una anotación actualizada",
+                            Message = "This is updated annotation",
                             Replies = new List
                             {
                                 new Reply
                                 {
-                                    Comment = "Primer comentario actualizado",
+                                    Comment = "Updated first comment",
                                     RepliedOn = DateTime.Now
                                 },
                                 new Reply
                                 {
-                                    Comment = "Segundo comentario actualizado",
+                                    Comment = "Updated second comment",
                                     RepliedOn = DateTime.Now
                                 }
                             }
                         };
-                // actualizar anotación
+                // update annotation
                 annotator.Update(updated);
                 annotator.Save("result.bmp");
         }
@@ -238,19 +198,18 @@ steps_Extract:
     enable: true
     title_left: "Pasos para extraer anotaciones de XLS en Net"
     content_left: |
-        [GroupDocs.Annotation](/annotation/java/) facilita a los desarrolladores de Net anotar documentos y extraer información de anotaciones de archivos XLS dentro de cualquier aplicación basada en Net mediante la implementación de unos sencillos pasos.
-        * Crear objetos de respuesta con comentario y fecha.
-        * Crea una instancia del objeto LoadOptions y llama a SetImportAnnotations con un argumento verdadero.
-        * Definir variable con tipo Lista.
-        * Llame al método get y devuelva el resultado a la variable anterior.
+        [GroupDocs.Annotation](/annotation/net/) facilita a los desarrolladores de Net anotar documentos y extraer información de anotaciones de archivos XLS dentro de cualquier aplicación basada en Net mediante la implementación de unos sencillos pasos.
+        *   Cree objetos de respuesta con comentario y fecha.
+        *   Cree una instancia del objeto LoadOptions y llame a SetImportAnnotations con un argumento verdadero.
+        *   Definir variable con tipo Lista.
+        *   Llame al método get y devuelva el resultado a la variable anterior.
 
 ############################# Preview ############################
 preview_Extract:
     enable: true
-    
     code: |
         ```cs
-        // para usar este archivo de entrada de ejemplo ("anotado.bmp") debe tener anotaciones
+        // for using this example input file ("annotated.bmp") must be with annotations
         using (Annotator annotator = new Annotator("annotated.bmp"))
         {
             List annotations = annotator.Get();
@@ -266,10 +225,10 @@ preview_Extract:
 ############################# Demos ############################
 demos:
     enable: true
-    title: "Demostraciones en directo para añadir, eliminar, editar y extraer anotaciones en documentos e imágenes"
+    title: "Demostraciones en vivo para agregar, eliminar, editar y extraer anotaciones en documentos e imágenes"
     content: |
-        Añada, elimine, edite y extraiga anotaciones en archivos XLS ahora mismo visitando el sitio web [GroupDocs.Annotation Live Demos](https://products.groupdocs.app/annotation/family).
-        La demostración en directo ofrece las siguientes ventajas
+        Agregue, elimine, edite y extraiga anotaciones en el archivo XLS ahora mismo visitando el sitio web [GroupDocs.Annotation Live Demos](https://products.groupdocs.app/annotation/family).
+La demostración en vivo tiene los siguientes beneficios
 
 ############################# About Formats ############################
 about_formats:
@@ -280,6 +239,7 @@ about_formats:
           title: "Acerca del formato de archivo XLS"
           content: |
             Los archivos con extensión XLS representan el formato de archivo binario de Excel. Estos archivos pueden crearse con Microsoft Excel, así como con otros programas de hojas de cálculo similares, como OpenOffice Calc o Apple Numbers. El archivo guardado por Excel se conoce como Libro de trabajo, donde cada libro de trabajo puede tener una o más hojas de trabajo. Los datos se almacenan y muestran a los usuarios en formato de tabla en la hoja de trabajo y pueden abarcar valores numéricos, datos de texto, fórmulas, conexiones de datos externos, imágenes y gráficos. Las aplicaciones como Microsoft Excel le permiten exportar datos de libros de trabajo a varios formatos diferentes, incluidos PDF, CSV, XLSX, TXT, HTML, XPS y muchos otros. El formato de archivo XLS se reemplazó con un formato más abierto y estructurado, XLSX, con el lanzamiento de Microsoft Excel 2007. Las últimas versiones aún brindan soporte para crear y leer archivos XLS, aunque XLSX es la primera opción de uso ahora.
+
           link: "https://docs.fileformat.com/image/xls/"
 
 ############################# More Formats ############################

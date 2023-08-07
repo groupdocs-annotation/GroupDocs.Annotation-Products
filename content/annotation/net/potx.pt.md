@@ -1,101 +1,63 @@
-
 ---
 ############################# Static ############################
 layout: "auto-gen-annotation"
-date: 07/05/2022 12:44:18
-draft: false
-
-###_DIMA_### link rel="canonical" href="https://products.groupdocs.com/annotation/net/potx"/>
 
 ############################# Head ############################
-head_title: "Net POTX API de anotação Anotar em C#"
-head_description: "Net API para criar e Anotar tipos de anotação populares de POTX, imagens, desenhos e formatos de arquivo de documento."
+head_title: "Net POTX API de anotação anotar em C #"
+head_description: "Net API para criar e anotar tipos de anotação populares de POTX, imagens, desenhos e formatos de arquivo de documento."
 
 ############################# Header ############################
-title: "Anote POTX de Net"
+title: "Anote POTX da rede"
 description: ""
 bg_image: "https://cms.admin.containerize.com/templates/aspose/App_Themes/V3/images/bg/header1.png"
 bg_overlay: false
 button:
     enable: true
     icon: "fas fa-arrow-down"
-    label: "Download Free Trial"
+    label: "Baixar Teste Gratuito"
     link: "https://downloads.groupdocs.com/annotation/net"
-
-############################# SubMenu ############################
-submenu:
-    enable: true
-
-    left:
-        img_alt: "GroupDocs.Annotation para Net"
-        image: "https://cms.admin.containerize.com/templates/groupdocs/images/product-logos/90x90-noborder/groupdocs-annotation-net.png"
-        product: "GroupDocs.Annotation"
-        platform: "Net"
-
-    middle:
-        button:
-            # button loop
-            - link: "https://apireference.groupdocs.com/annotation/net"
-              text: "API Reference"
-            # button loop
-            - link: "https://github.com/groupdocs-annotation"
-              text: "Code Examples"
-            # button loop
-            - link: "https://products.groupdocs.app/annotation/family"
-              text: "Live Demos"
-            # button loop
-            - link: "https://purchase.groupdocs.com/pricing/annotation/net"
-              text: "Pricing"
-
-    right:
-        link_download: "https://downloads.groupdocs.com/annotation"
-        link_learn: "https://docs.groupdocs.com/annotation/net"
-        link_buy: "https://purchase.groupdocs.com"
 
 ############################# About ############################
 about:
     enable: true
-    title: "Sobre GroupDocs.Annotation para Net API"
+    title: "Sobre GroupDocs.Annotation for Net API"
     content: |
-        GroupDocs.Annotation for Net API é uma biblioteca que permite adicionar anotações a PDF, Word e outros documentos no Mac, Windows ou Ubuntu. [GroupDocs.Annotation for Net](/annotation/net) é uma API nativa da Net para gerenciar anotações com suporte abrangente para criar, adicionar, editar, excluir, extrair e exportar anotações de imagens e vários outros documentos. A lista completa de formatos de documento suportados pode ser vista nesta [page](https://docs.groupdocs.com/annotation/net/supported-document-formats/).
-
-        Esta biblioteca permite que você trabalhe não apenas com documentos POTX, mas também com muitos outros tipos de documentos, como Word, Excel, PowerPoint, e-mails do Outlook, Visio, Adobe, OpenDocument, OpenOffice, Photoshop, AutoCad e muitos outros.
-
-        A API GroupDocs.Annotation para Net permite que você crie e adicione novas notas, edit anotações, extract comentários, anotações e remove dos documentos. A biblioteca suporta 13 tipos diferentes de anotação, incluindo Texto, Polilinha, Área, Sublinhado, Ponto, Marca d'água, Seta, Elipse, Substituição de Texto, Distância, Campo de Texto, Redação de Recursos em PDF, HTML, documentos do Microsoft Word, planilhas, diagramas, apresentações, desenhos, imagens e muitos outros formatos de arquivo.
-
-        O exemplo (veja abaixo) demonstra como trabalhar com documento POTX, neste exemplo você pode ver as principais etapas de como trabalhar com GroupDocs.Annotation: Configurar uma licença, abrir um documento com o qual deseja trabalhar, criar um anotação, adicionando objetos de dados para definir as propriedades de anotação de acordo com seus requisitos e salvando o resultado no local necessário. Além disso, você pode dar uma olhada mais detalhada nos recursos suportados em nosso github [page](https://github.com/groupdocs-annotation/GroupDocs.Annotation-for-.Net) ou em nosso produto [documentation](https://docs.groupdocs.com/annotation/net/getting-started/).
+        GroupDocs.Annotation for Net API é uma biblioteca que permite adicionar anotações a PDF, Word e outros documentos no Mac, Windows ou Ubuntu. [GroupDocs.Annotation for Net](/annotation/net) é uma API de rede nativa para gerenciar anotações com suporte abrangente para criar, adicionar, editar, excluir, extrair e exportar anotações de imagens e vários outros documentos. A lista completa de formatos de documentos suportados pode ser vista nesta [página](https://docs.groupdocs.com/annotation/net/supported-document-formats/).
+        Esta biblioteca permite que você trabalhe não apenas com documento POTX, mas também com muitos outros tipos de documentos, como Word, Excel, PowerPoint, e-mails do Outlook, Visio, Adobe, OpenDocument, OpenOffice, Photoshop, AutoCad e muitos outros.
+        O GroupDocs.Annotation for Net API permite criar e adicionar novas notas, editar anotações, extrair comentários, anotações e removê-los de documentos. A biblioteca suporta 13 tipos diferentes de anotação, incluindo Texto, Polilinha, Área, Sublinhado, Ponto, Marca d'água, Seta, Elipse, Substituição de Texto, Distância, Campo de Texto, Redação de Recursos em PDF, HTML, documentos do Microsoft Word, planilhas, diagramas, apresentações, desenhos, imagens e muitos outros formatos de arquivo.
+        O exemplo (veja abaixo) demonstra como trabalhar com o documento POTX, neste exemplo você pode ver as principais etapas de como trabalhar com GroupDocs.Annotation: Configurar uma licença, abrir um documento com o qual deseja trabalhar, criar um anotação, adicionando objetos de dados para definir as propriedades de anotação de acordo com seus requisitos e salvando o resultado no local necessário. Além disso, você pode dar uma olhada mais detalhada nos recursos suportados em nossa [página] do github (https://github.com/groupdocs-annotation/GroupDocs.Annotation-for-.NET) ou em nossa [documentação] do produto (https ://docs.groupdocs.com/annotation/net/getting-started/).
 
 ############################# Steps ############################
 howTo_Add:
 steps_Add:
     enable: true
-    title_left: "Etapas para adicionar anotações de POTX em Net"
+    title_left: "Etapas para adicionar anotações a POTX na rede"
     content_left: |
-        [GroupDocs.Annotation](/annotation/java/) facilita para os desenvolvedores Net adicionar vários tipos de anotação a arquivos POTX em qualquer aplicativo baseado em Net implementando algumas etapas fáceis.
-        * Crie objetos de resposta com comentário e data.
-        * Criar objeto AreaAnnotation, definir opções de área e adicionar respostas.
-        * Criar objeto Anotador e adicionar anotação de área.
-        * Salvar arquivo de saída.
+        [GroupDocs.Annotation](/annotation/net/) facilita para os desenvolvedores da rede adicionar vários tipos de anotação a arquivos POTX em qualquer aplicativo baseado na rede, implementando algumas etapas fáceis.
+        *   Crie objetos Reply com comentário e data.
+        *   Crie um objeto AreaAnnotation, defina opções de área e adicione respostas.
+        *   Crie o objeto Anotador e adicione a anotação de área.
+        *   Salve o arquivo de saída.
     title_right: "Requisitos de sistema"
     content_right: |
-        As APIs GroupDocs.Annotation para Net são suportadas em todas as principais plataformas e sistemas operacionais. Antes de executar o código abaixo, certifique-se de ter os seguintes pré-requisitos instalados em seu sistema.
-        * Sistemas operacionais: Microsoft Windows, Linux, MacOS
-        * Ambientes de desenvolvimento: Visual Studio, Xamarin, MonoDevelop
-        * Estruturas: .NET Framework, .NET Standard, .NET Core, Mono
-        * Baixe a versão mais recente do GroupDocs.Annotation para .NET de [NuGet](https://www.nuget.org/packages/groupdocs.annotation)
+        GroupDocs.Annotation for Net APIs são suportados em todas as principais plataformas e sistemas operacionais. Antes de executar o código abaixo, certifique-se de ter os seguintes pré-requisitos instalados em seu sistema.
+        *   Sistemas Operacionais: Microsoft Windows, Linux, MacOS
+        *   Ambientes de desenvolvimento: Visual Studio, Xamarin, MonoDevelop
+        *   Estruturas: .NET Framework, .NET Standard, .NET Core, Mono
+        *   Baixe a versão mais recente do GroupDocs.Annotation para .NET de [NuGet](https://www.nuget.org/packages/groupdocs.annotation)
 
 ############################# Preview ############################
 preview_Add:
     enable: true
-    title: "Visualização da anotação e amostra de código"
+    title: Visualização de anotação e amostra de código
     content: |
-        ![Annotation preview image](https://docs.groupdocs.com/annotation/java/images/add-text-field-annotation.png)
+        ![Annotation preview image]https://docs.groupdocs.com/annotation/java/images/add-text-field-annotation.png
     code: |
         ```cs
-        //Adiciona anotação de campo de texto ao documento a partir do disco local
+        //Add text field annotation to the document from local disk
         using (Annotator annotator = new Annotator("input.bmp"))
         {
-            TextFieldAnnotation textField = novo TextFieldAnnotation
+            TextFieldAnnotation textField = new TextFieldAnnotation
             {
                 BackgroundColor = 65535,
                 Box = new Rectangle(100, 100, 100, 100),
@@ -103,7 +65,7 @@ preview_Add:
                 Text = "Some text",
                 FontColor = 65535,
                 FontSize = 12,
-                Message = "Esta é uma anotação de campo de texto",
+                Message = "This is text field annotation",
                 Opacity = 0.7,
                 PageNumber = 0,
                 PenStyle = PenStyle.Dot,
@@ -114,12 +76,12 @@ preview_Add:
                 {
                     new Reply
                     {
-                        Comment = "Primeiro comentário",
+                        Comment = "First comment",
                         RepliedOn = DateTime.Now
                     },
                     new Reply
                     {
-                        Comment = "Segundo comentário",
+                        Comment = "Second comment",
                         RepliedOn = DateTime.Now
                     }
                 }
@@ -133,20 +95,19 @@ preview_Add:
 howTo_Remove:
 steps_Remove:
     enable: true
-    title_left: "Etapas para remover anotações de POTX em Net"
+    title_left: "Etapas para remover anotações de POTX na rede"
     content_left: |
-        [GroupDocs.Annotation](/annotation/java/) torna mais fácil para os desenvolvedores Net remover detalhes de anotação de arquivos POTX em qualquer aplicativo baseado em Net implementando algumas etapas fáceis.
-        * Crie objetos de resposta com comentário e data.
-        * Instancie o objeto SaveOptions e defina AnnotationTypes = AnnotationType.None.
-        * Chame o método save com o caminho ou fluxo do documento resultante e o objeto SaveOptions.
+        [GroupDocs.Annotation](/annotation/net/) torna mais fácil para os desenvolvedores da rede remover detalhes de anotação de arquivos POTX dentro de qualquer aplicativo baseado na rede, implementando algumas etapas fáceis.
+        *   Crie objetos Reply com comentário e data.
+        *   Instancie o objeto SaveOptions e defina AnnotationTypes = AnnotationType.None.
+        *   Chame o método save com o caminho ou fluxo do documento resultante e o objeto SaveOptions.
 
 ############################# Preview ############################
 preview_Remove:
     enable: true
-    
     code: |
         ```cs
-        // 1- Como remover a anotação do documento usando o índice de anotação
+        // 1- How to remove annotation from document using annotation index
         
         using (Annotator annotator = new Annotator("result.bmp"))
         {
@@ -154,7 +115,7 @@ preview_Remove:
             annotator.Save("removed.bmp");
         }
         
-        // 2- Como remover anotação de documento usando objeto de anotação
+        // 2- How to remove annotation from document using annotation object
         
         using (Annotator annotator = new Annotator("result.bmp"))
         {
@@ -163,7 +124,7 @@ preview_Remove:
             annotator.Save("removed.bmp");
         }
         
-        // 3- Como remover algumas anotações do documento usando lista de ID's
+        // 3- How to remove some annotations from document using list of ID’s
         
         using (Annotator annotator = new Annotator("result.bmp"))
         {
@@ -172,7 +133,7 @@ preview_Remove:
             annotator.Save("removed.bmp");
         }
         
-        // 4- Como remover algumas anotações do documento usando lista de anotações
+        // 4- How to remove some annotations from document using list of annotations
         
         using (Annotator annotator = new Annotator("result.bmp"))
         {
@@ -186,47 +147,46 @@ preview_Remove:
 howTo_Edit:
 steps_Edit:
     enable: true
-    title_left: "Etapas para editar anotações de POTX em Net"
+    title_left: "Etapas para editar anotações de POTX na rede"
     content_left: |
-        [GroupDocs.Annotation](/annotation/java/) torna mais fácil para os desenvolvedores Net atualizar várias propriedades de anotação de arquivos POTX dentro de qualquer aplicativo baseado em Net implementando algumas etapas fáceis.
-        * Instanciar objeto Anotador com caminho de documento de entrada ou fluxo com LoadOptions instanciado com ImportAnnotations = true.
-        * Crie alguma implementação AnnotationBase e defina o Id da anotação existente (se a anotação com esse Id não for encontrada, nada será alterado) ou a lista de caminho das anotações (todas as anotações existentes serão removidas).
-        * Chame o método de atualização do objeto Anotador com as anotações passadas.
-        * Chame o método save com o caminho ou fluxo do documento resultante e o objeto SaveOptions.
+        [GroupDocs.Annotation](/annotation/net/) torna mais fácil para os desenvolvedores da rede atualizar várias propriedades de anotação de arquivos POTX dentro de qualquer aplicativo baseado na rede, implementando algumas etapas fáceis.
+        *   Instanciar objeto Anotador com caminho de documento de entrada ou fluxo com LoadOptions instanciado com ImportAnnotations = true.
+        *   Crie alguma implementação AnnotationBase e defina o Id da anotação existente (se a anotação com esse Id não for encontrada, nada será alterado) ou a lista de caminhos das anotações (todas as anotações existentes serão removidas).
+        *   Chame o método de atualização do objeto Anotador com as anotações passadas.
+        *   Chame o método save com o caminho ou fluxo do documento resultante e o objeto SaveOptions.
 
 ############################# Preview ############################
 preview_Edit:
     enable: true
-    
     code: |
         ```cs
-        // abre o documento anotado
+        // open annotated document
         using (Annotator annotator = new Annotator("result.bmp"))
         {
-            //assumindo que vamos alterar algumas propriedades da anotação existente
-                AreaAnnotation updated = novo AreaAnnotation
+            //assuming we are going to change some properties of existing annotation
+                AreaAnnotation updated = new AreaAnnotation
                     {
-                            // É importante definir o ID de anotação existente
+                            // It's important to set existed annotation Id
                             Id = 1,
                             BackgroundColor = 255,
                             Box = new Rectangle(0, 0, 50, 200),
                             CreatedOn = DateTime.Now,
-                            Mensagem = "Esta é uma anotação atualizada",
+                            Message = "This is updated annotation",
                             Replies = new List
                             {
                                 new Reply
                                 {
-                                    Comment = "Primeiro comentário atualizado",
+                                    Comment = "Updated first comment",
                                     RepliedOn = DateTime.Now
                                 },
                                 new Reply
                                 {
-                                    Comment = "Segundo comentário atualizado",
+                                    Comment = "Updated second comment",
                                     RepliedOn = DateTime.Now
                                 }
                             }
                         };
-                // atualiza anotação
+                // update annotation
                 annotator.Update(updated);
                 annotator.Save("result.bmp");
         }
@@ -236,21 +196,20 @@ preview_Edit:
 howTo_Extract:
 steps_Extract:
     enable: true
-    title_left: "Etapas para extrair anotações de POTX em Net"
+    title_left: "Etapas para extrair anotações de POTX na rede"
     content_left: |
-        [GroupDocs.Annotation](/annotation/java/) facilita para os desenvolvedores Net anotar documentos e extrair informações de anotação de arquivos POTX em qualquer aplicativo baseado em Net implementando algumas etapas fáceis.
-        * Crie objetos de resposta com comentário e data.
-        * Instancie o objeto LoadOptions e chame SetImportAnnotations com o argumento verdadeiro.
-        * Definir variável com tipo Lista.
-        * Chame o método get e retorne o resultado para a variável acima.
+        [GroupDocs.Annotation](/annotation/net/) torna mais fácil para os desenvolvedores da rede anotar documentos e extrair informações de anotação de arquivos POTX em qualquer aplicativo baseado na rede, implementando algumas etapas fáceis.
+        *   Crie objetos Reply com comentário e data.
+        *   Instancie o objeto LoadOptions e chame SetImportAnnotations com o argumento true.
+        *   Defina a variável com o tipo Lista.
+        *   Chame o método get e retorne o resultado para a variável acima.
 
 ############################# Preview ############################
 preview_Extract:
     enable: true
-    
     code: |
         ```cs
-        // para usar este arquivo de entrada de exemplo ("annotated.bmp") deve estar com anotações
+        // for using this example input file ("annotated.bmp") must be with annotations
         using (Annotator annotator = new Annotator("annotated.bmp"))
         {
             List annotations = annotator.Get();
@@ -266,10 +225,10 @@ preview_Extract:
 ############################# Demos ############################
 demos:
     enable: true
-    title: "Demonstrações ao vivo para adicionar, remover, editar e extrair anotações de documentos e imagens"
+    title: "Demonstrações ao vivo para adicionar, remover, editar e extrair anotações em documentos e imagens"
     content: |
-        Adicione, remova, edite e extraia anotações para o arquivo POTX agora mesmo, visitando o site [GroupDocs.Annotation Live Demos] (https://products.groupdocs.app/annotation/family).
-        A demonstração ao vivo tem os seguintes benefícios
+        Adicione, remova, edite e extraia anotações para o arquivo POTX agora mesmo visitando o site [GroupDocs.Annotation Live Demos](https://products.groupdocs.app/annotation/family).
+A demonstração ao vivo tem os seguintes benefícios
 
 ############################# About Formats ############################
 about_formats:
@@ -280,6 +239,7 @@ about_formats:
           title: "Sobre o formato de arquivo POTX"
           content: |
             Arquivos com extensão .POTX representam apresentações de modelo do Microsoft PowerPoint criadas com o Microsoft PowerPoint 2007 e superior. Este formato foi criado para substituir o formato de arquivo POT que é baseado no formato de arquivo binário e é compatível com o PowerPoint 97-2003. Os arquivos gerados podem ser usados ​​para criar apresentações com o mesmo layout e outras configurações necessárias para serem aplicadas a novos arquivos. Essas configurações podem incluir estilos, planos de fundo, paleta de cores, fontes e padrões. Esses arquivos são gerados para criar arquivos de modelo prontos para uso para uso oficial.
+
           link: "https://docs.fileformat.com/image/potx/"
 
 ############################# More Formats ############################

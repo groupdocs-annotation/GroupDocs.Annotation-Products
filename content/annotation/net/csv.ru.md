@@ -1,101 +1,60 @@
-
 ---
 ############################# Static ############################
 layout: "auto-gen-annotation"
-date: 2022-07-05T12:44:18+03:00
-draft: false
-
-###_DIMA_### link rel="canonical" href="https://products.groupdocs.com/annotation/net/csv"/>
 
 ############################# Head ############################
-head_title: "Net CSV API аннотаций Аннотировать в C#"
-head_description: "Net API для создания и Удаление популярных типов аннотаций с CSV, изображения, чертежи и форматы файлов документов."
+head_title: "Net CSV Annotation API Annotate в C#"
+head_description: "Net API для создания и аннотирования популярных типов аннотаций из CSV, изображений, рисунков и форматов файлов документов."
 
 ############################# Header ############################
-title: "Удаление CSV файла с Net"
+title: "Аннотировать CSV из сети"
 description: ""
 bg_image: "https://cms.admin.containerize.com/templates/aspose/App_Themes/V3/images/bg/header1.png"
 bg_overlay: false
 button:
     enable: true
     icon: "fas fa-arrow-down"
-    label: "Download Free Trial"
+    label: "Скачать бесплатную пробную версию"
     link: "https://downloads.groupdocs.com/annotation/net"
-
-############################# SubMenu ############################
-submenu:
-    enable: true
-
-    left:
-        img_alt: "GroupDocs.Annotation для Net"
-        image: "https://cms.admin.containerize.com/templates/groupdocs/images/product-logos/90x90-noborder/groupdocs-annotation-net.png"
-        product: "GroupDocs.Annotation"
-        platform: "Net"
-
-    middle:
-        button:
-            # button loop
-            - link: "https://apireference.groupdocs.com/annotation/net"
-              text: "API Reference"
-            # button loop
-            - link: "https://github.com/groupdocs-annotation"
-              text: "Code Examples"
-            # button loop
-            - link: "https://products.groupdocs.app/annotation/family"
-              text: "Live Demos"
-            # button loop
-            - link: "https://purchase.groupdocs.com/pricing/annotation/net"
-              text: "Pricing"
-
-    right:
-        link_download: "https://downloads.groupdocs.com/annotation"
-        link_learn: "https://docs.groupdocs.com/annotation/net"
-        link_buy: "https://purchase.groupdocs.com"
 
 ############################# About ############################
 about:
     enable: true
     title: "О GroupDocs.Annotation для Net API"
     content: |
-        GroupDocs.Annotation for Net API это библиотека которая позволяет добавлять аннотации к файлам PDF, Word и другим документам на Mac, Windows или Ubuntu. [GroupDocs.Annotation для Net](/ru/annotation/net/) это собственный Net API для управления аннотациями с комплексной поддержкой для создания, добавления, редактирования, удаления, извлечения и экспорта аннотаций из изображений и других документов, весь список поддерживаемых документов вы можете посмотреть на [странице](https://docs.groupdocs.com/annotation/net/supported-document-formats/).
-
-        Эта библиотека позволяет работать не только с CSV но также и со многими другими форматами, такими как Word, Excel, PowerPoint, Outlook emails, Visio, Adobe, OpenDocument, OpenOffice, AutoCad и еще множеством других форматов.
-
-        GroupDocs.Annotation for Net API позволяет создавать и добавлять новые заметки, редактировать аннотации, извлекать комментарии, примечания и удалять их из документов. Библиотека поддерживает 13 различных типов аннотаций, включая Text, Polyline, Area, Underline, Point, Watermark, Arrow, Ellipse, Text Replacement, Distance, Text Field, Resource Redaction в документах PDF, HTML, Microsoft Word, электронных таблицах, диаграммах, презентациях, рисунках, изображениях и многих других форматах файлов.
-
-        В примере ниже продемонстрирована работа с CSV документом. В этом примере вы видите основные шаги в работе с GroupDocs.Annotation: установка лицензии, открытие файла для работы, создание аннотации, добавление объектов данных для настройки свойств аннотаций в соответствии с вашими требованиями и сохранение результата в нужное место. Более детально ознакомиться с возможностями библиотеки вы можете посмотрев наш [github](https://github.com/groupdocs-annotation/GroupDocs.Annotation-for-.Net)-аккаунт, или в нашей [документации](https://docs.groupdocs.com/annotation/net/getting-started/) к продутку.
+        GroupDocs.Annotation for Net API — это библиотека, позволяющая добавлять аннотации в PDF, Word и другие документы на Mac, Windows или Ubuntu. [GroupDocs.Annotation for Net](/annotation/net) — это собственный Net API для управления аннотациями с комплексной поддержкой создания, добавления, редактирования, удаления, извлечения и экспорта аннотаций из изображений и различных других документов. Полный список поддерживаемых форматов документов вы можете увидеть на этой [странице](https://docs.groupdocs.com/annotation/net/supported-document-formats/).
+        Эта библиотека позволяет работать не только с документом CSV, но и со многими другими типами документов, такими как Word, Excel, PowerPoint, сообщения электронной почты Outlook, Visio, Adobe, OpenDocument, OpenOffice, Photoshop, AutoCad и многими другими.
+        GroupDocs.Annotation for Net API позволяет создавать и добавлять новые заметки, редактировать аннотации, извлекать комментарии, аннотации и удалять их из документов. Библиотека поддерживает 13 различных типов аннотаций, включая текст, полилинию, область, подчеркивание, точку, водяной знак, стрелку, эллипс, замену текста, расстояние, текстовое поле, редактирование ресурсов в PDF, HTML, документах Microsoft Word, электронных таблицах, диаграммах, презентациях, чертежи, изображения и многие другие форматы файлов.
+        Пример (см. ниже) демонстрирует работу с документом CSV, в этом примере вы можете увидеть основные шаги работы с GroupDocs. аннотацию, добавляя объекты данных для установки свойств аннотации в соответствии с вашими требованиями и сохраняя результат в нужном месте. Также вы можете более подробно ознакомиться с поддерживаемыми функциями на нашей [странице] github (https://github.com/groupdocs-annotation/GroupDocs.Annotation-for-.NET) или в [документации] нашего продукта (https ://docs.groupdocs.com/annotation/net/getting-started/).
 
 ############################# Steps ############################
 howTo_Add:
 steps_Add:
     enable: true
-    title_left: ""
+    title_left: "Действия по добавлению аннотаций к CSV в сети"
     content_left: |
-        [GroupDocs.Annotation](/annotation/java/) [GroupDocs.Annotation](/ru/annotation/net/) позволяет разработчикам Net легко добавлять различные типы аннотаций к файлам CSV в любом приложении на основе Net, выполняя несколько простых шагов.
-        
-        * Создание объектов ответа с комментарием и датой.
-        * Создайте экземпляр объекта SaveOptions и установите AnnotationTypes = AnnotationType.None.
-        * Вызовите метод сохранения с результирующим путем или потоком документа и объектом SaveOptions.
-    
+        [GroupDocs.Annotation](/annotation/net/) позволяет сетевым разработчикам легко добавлять различные типы аннотаций к файлам CSV в любом сетевом приложении, выполняя несколько простых шагов.
+        *   Создайте объекты ответа с комментарием и датой.
+        *   Создайте объект AreaAnnotation, установите параметры области и добавьте ответы.
+        *   Создайте объект Annotator и добавьте аннотацию области.
+        *   Сохраните выходной файл.
     title_right: "Системные Требования"
     content_right: |
-        API GroupDocs.Annotation для Net поддерживаются на всех основных платформах и операционных системах. Перед выполнением приведенного ниже кода убедитесь, что в вашей системе установлены следующие предварительные компоненты.
-        
-        * Операционные системы: Microsoft Windows, Linux, MacOS
-        * Среды разработки: Visual Studio, Xamarin, MonoDevelop
-        * Фреймворки: .NET Framework, .NET Standard, .NET Core, Mono
-        * Загрузите последнюю версию GroupDocs.Annotation для .NET из [NuGet](https://www.nuget.org/packages/groupdocs.annotation).
-    
+        GroupDocs.Annotation for Net API поддерживаются на всех основных платформах и операционных системах. Перед выполнением приведенного ниже кода убедитесь, что в вашей системе установлены следующие предварительные компоненты.
+        *   Операционные системы: Microsoft Windows, Linux, MacOS
+        *   Среды разработки: Visual Studio, Xamarin, MonoDevelop.
+        *   Фреймворки: .NET Framework, .NET Standard, .NET Core, Mono
+        *   Загрузите последнюю версию GroupDocs.Annotation для .NET из [NuGet](https://www.nuget.org/packages/groupdocs.annotation).
 
 ############################# Preview ############################
 preview_Add:
     enable: true
-    title: "Предварительный просмотр аннотации и пример кода"
+    title: Предварительный просмотр аннотации и пример кода
     content: |
-        ![Annotation preview image](https://docs.groupdocs.com/annotation/java/images/add-text-field-annotation.png)
+        ![Annotation preview image]https://docs.groupdocs.com/annotation/java/images/add-text-field-annotation.png
     code: |
         ```cs
-        // Добавляем аннотацию текстового поля к документу с локального диска
+        //Add text field annotation to the document from local disk
         using (Annotator annotator = new Annotator("input.bmp"))
         {
             TextFieldAnnotation textField = new TextFieldAnnotation
@@ -136,42 +95,46 @@ preview_Add:
 howTo_Remove:
 steps_Remove:
     enable: true
-    title_left: ""
+    title_left: "Действия по удалению аннотаций из CSV в сети"
     content_left: |
-        [GroupDocs.Annotation](/annotation/java/) [GroupDocs.Annotation](/ru/annotation/net упрощает разработчикам Net удаление деталей аннотаций из файлов CSV в любом приложении на основе Net за счет выполнения нескольких простых шагов.
-        
-        * Создание объектов ответа с комментарием и датой.
-        * Создайте экземпляр объекта SaveOptions и установите AnnotationTypes = AnnotationType.None.
-        * Вызовите метод сохранения с результирующим путем или потоком документа и объектом SaveOptions.
-    
+        [GroupDocs.Annotation](/annotation/net/) упрощает сетевым разработчикам удаление деталей аннотаций из файлов CSV в любом сетевом приложении путем выполнения нескольких простых шагов.
+        *   Создайте объекты ответа с комментарием и датой.
+        *   Создайте экземпляр объекта SaveOptions и установите AnnotationTypes = AnnotationType.None.
+        *   Вызовите метод сохранения с результирующим путем или потоком документа и объектом SaveOptions.
 
 ############################# Preview ############################
 preview_Remove:
     enable: true
-    
     code: |
         ```cs
-        // 1- Как удалить аннотацию из документа, используя индекс аннотации
+        // 1- How to remove annotation from document using annotation index
+        
         using (Annotator annotator = new Annotator("result.bmp"))
         {
             annotator.Remove(0);
             annotator.Save("removed.bmp");
         }
-        // 2- Как удалить аннотацию из документа с помощью объекта аннотации
+        
+        // 2- How to remove annotation from document using annotation object
+        
         using (Annotator annotator = new Annotator("result.bmp"))
         {
             var tmp = annotator.Get();
             annotator.Remove(tmp[0]);
             annotator.Save("removed.bmp");
         }
-        // 3- Как удалить некоторые аннотации из документа, используя список идентификаторов
+        
+        // 3- How to remove some annotations from document using list of ID’s
+        
         using (Annotator annotator = new Annotator("result.bmp"))
         {
             var idList = new List{1, 2, 3};
             annotator.Remove(idList);
             annotator.Save("removed.bmp");
         }
-        // 4- Как удалить некоторые аннотации из документа, используя список аннотаций
+        
+        // 4- How to remove some annotations from document using list of annotations
+        
         using (Annotator annotator = new Annotator("result.bmp"))
         {
             var tmp = annotator.Get();
@@ -184,52 +147,48 @@ preview_Remove:
 howTo_Edit:
 steps_Edit:
     enable: true
-    title_left: ""
+    title_left: "Действия по редактированию аннотаций из CSV в сети"
     content_left: |
-        [GroupDocs.Annotation](/annotation/java/) [GroupDocs.Annotation](/ru/annotation/net/) упрощает разработчикам Net обновление различных свойств аннотаций из файлов CSV в любом приложении на основе Net за счет выполнения нескольких простых шагов.
-        
-        * Создание экземпляра объекта Annotator с входным путем к документу или потоком с экземпляром LoadOptions с ImportAnnotations = true.
-        * Создайте некоторую реализацию AnnotationBase и установите идентификатор существующей аннотации (если аннотация с этим идентификатором не найдена, ничего не изменится) или список путей аннотаций (все существующие аннотации будут удалены).
-        * Вызвать метод обновления объекта Annotator с переданными аннотациями.
-        * Вызовите метод сохранения с результирующим путем или потоком документа и объектом SaveOptions.
-    
+        [GroupDocs.Annotation](/annotation/net/) упрощает сетевым разработчикам обновление различных свойств аннотаций из файлов CSV в любом сетевом приложении за счет выполнения нескольких простых шагов.
+        *   Создайте экземпляр объекта Annotator с путем или потоком входного документа с созданным экземпляром LoadOptions с ImportAnnotations = true.
+        *   Создайте некоторую реализацию AnnotationBase и установите идентификатор существующей аннотации (если аннотация с этим идентификатором не найдена, ничего не изменится) или список путей аннотаций (все существующие аннотации будут удалены).
+        *   Вызвать метод обновления объекта Annotator с переданными аннотациями.
+        *   Вызовите метод сохранения с результирующим путем или потоком документа и объектом SaveOptions.
 
 ############################# Preview ############################
 preview_Edit:
     enable: true
-    
     code: |
         ```cs
-        // открыть аннотированный документ
+        // open annotated document
         using (Annotator annotator = new Annotator("result.bmp"))
         {
-            // предполагается, что мы собираемся изменить некоторые свойства существующей аннотации
+            //assuming we are going to change some properties of existing annotation
                 AreaAnnotation updated = new AreaAnnotation
-                {
-                      // Важно установить идентификатор существующей аннотации
-                      Id = 1,
-                      BackgroundColor = 255,
-                      Box = new Rectangle(0, 0, 50, 200),
-                      CreatedOn = DateTime.Now,
-                      Message = "This is updated annotation",
-                      Replies = new List
-                      {
-                           new Reply
-                           {
-                                Comment = "Updated first comment",
-                                RepliedOn = DateTime.Now
-                           },
-                           new Reply
-                           {
-                                Comment = "Updated second comment",
-                                RepliedOn = DateTime.Now
-                           }
-                    }
-               };
-               // обновить аннотацию
-               annotator.Update(updated);
-               annotator.Save("result.bmp");
-            }
+                    {
+                            // It's important to set existed annotation Id
+                            Id = 1,
+                            BackgroundColor = 255,
+                            Box = new Rectangle(0, 0, 50, 200),
+                            CreatedOn = DateTime.Now,
+                            Message = "This is updated annotation",
+                            Replies = new List
+                            {
+                                new Reply
+                                {
+                                    Comment = "Updated first comment",
+                                    RepliedOn = DateTime.Now
+                                },
+                                new Reply
+                                {
+                                    Comment = "Updated second comment",
+                                    RepliedOn = DateTime.Now
+                                }
+                            }
+                        };
+                // update annotation
+                annotator.Update(updated);
+                annotator.Save("result.bmp");
         }
         ```
 
@@ -237,23 +196,20 @@ preview_Edit:
 howTo_Extract:
 steps_Extract:
     enable: true
-    title_left: ""
+    title_left: "Действия по извлечению аннотаций из CSV в сети"
     content_left: |
-        [GroupDocs.Annotation](/annotation/java/) [GroupDocs.Annotation](/ru/annotation/net/) позволяет разработчикам Net легко аннотировать документы и извлекать аннотационную информацию из файлов CSV в любом приложении на основе Net, выполняя несколько простых шагов.
-        
-        * Создание объектов ответа с комментарием и датой.
-        * Создайте экземпляр объекта LoadOptions и вызовите SetImportAnnotations с аргументом true.
-        * Определите переменную с типом List.
-        * Вызвать метод get и вернуть результат в переменную выше.
-    
+        [GroupDocs.Annotation](/annotation/net/) позволяет сетевым разработчикам легко аннотировать документы и извлекать аннотационную информацию из CSV файлов в любом сетевом приложении, выполняя несколько простых шагов.
+        *   Создайте объекты ответа с комментарием и датой.
+        *   Создайте экземпляр объекта LoadOptions и вызовите SetImportAnnotations с аргументом true.
+        *   Определите переменную с типом List.
+        *   Вызовите метод get и верните результат в переменную выше.
 
 ############################# Preview ############################
 preview_Extract:
     enable: true
-    
     code: |
         ```cs
-        // Для использования этого примера входной файл ("annotated.bmp") должен быть с аннотациями
+        // for using this example input file ("annotated.bmp") must be with annotations
         using (Annotator annotator = new Annotator("annotated.bmp"))
         {
             List annotations = annotator.Get();
@@ -271,8 +227,8 @@ demos:
     enable: true
     title: "Живые демонстрации для добавления, удаления, редактирования, извлечения аннотаций к документам и изображениям"
     content: |
-        Добавляйте, удаляйте, редактируйте и извлекайте аннотации из файла CSV прямо сейчас, посетив сайт [GroupDocs.Annotation Live Demos](https://products.groupdocs.app/annotation/family).
-        Живая демонстрация имеет следующие преимущества
+        Добавляйте, удаляйте, редактируйте и извлекайте аннотации к файлу CSV прямо сейчас, посетив веб-сайт [GroupDocs.Annotation Live Demos](https://products.groupdocs.app/annotation/family).
+Живая демонстрация имеет следующие преимущества
 
 ############################# About Formats ############################
 about_formats:
@@ -282,15 +238,16 @@ about_formats:
         - icon: "far fa-file-csv"
           title: "О формате файла CSV"
           content: |
-            Файлы с расширением CSV (значения, разделенные запятыми) представляют собой простые текстовые файлы, содержащие записи данных со значениями, разделенными запятыми. Каждая строка в CSV-файле — это new запись из набора записей, содержащихся в файле. Такие файлы формируются, когда предполагается перенос данных из одной системы хранения в другую. Поскольку все приложения умеют распознавать записи через запятую, импорт таких файлов данных в базу данных осуществляется очень удобно. Почти все приложения для работы с электронными таблицами, такие как Microsoft Excel или OpenOffice Calc, могут импортировать CSV без особых усилий. Данные, импортированные из таких файлов, располагаются в ячейках электронной таблицы для представления пользователю.
+            Файлы с расширением CSV (значения, разделенные запятыми) представляют собой простые текстовые файлы, которые содержат записи данных со значениями, разделенными запятыми. Каждая строка в CSV-файле — это новая запись из набора записей, содержащихся в файле. Такие файлы формируются, когда предполагается перенос данных из одной системы хранения в другую. Поскольку все приложения умеют распознавать записи через запятую, импорт таких файлов данных в базу данных осуществляется очень удобно. Почти все приложения для работы с электронными таблицами, такие как Microsoft Excel или OpenOffice Calc, могут импортировать CSV без особых усилий. Данные, импортированные из таких файлов, располагаются в ячейках электронной таблицы для представления пользователю.
+
           link: "https://docs.fileformat.com/image/csv/"
 
 ############################# More Formats ############################
 more_formats:
     enable: true
-    title: ""
+    title: "Работа с другими популярными форматами документов"
     content: |
-        Библиотека управления аннотациями Net для документов и форматов изображений. Добавьте свойства аннотации к некоторым популярным форматам файлов, как указано ниже.
+        Обновите свойства аннотаций из некоторых популярных форматов файлов, как указано ниже.
     format:
         # format loop
         - name: "Annotate PDF document"

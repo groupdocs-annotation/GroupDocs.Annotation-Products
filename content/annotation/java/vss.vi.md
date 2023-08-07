@@ -231,8 +231,7 @@ demos:
     enable: true
     title: "Bản demo trực tiếp để thêm, xóa, chỉnh sửa, trích xuất chú thích vào tài liệu và hình ảnh"
     content: |
-        Thêm, xóa, chỉnh sửa và trích xuất chú thích vào tệp VSS ngay bây giờ bằng cách truy cập trang web [GroupDocs.Annotation Live Demos](https://products.groupdocs.app/annotation/family).
-Bản demo trực tiếp có những lợi ích sau
+        Thêm, xóa, chỉnh sửa và trích xuất chú thích vào tệp VSS ngay bây giờ bằng cách truy cập trang web [GroupDocs.Annotation Live Demos](https://products.groupdocs.app/annotation/family). Bản demo trực tiếp có những lợi ích sau
 
 ############################# About Formats ############################
 about_formats:

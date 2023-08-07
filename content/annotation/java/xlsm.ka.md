@@ -231,8 +231,7 @@ demos:
     enable: true
     title: "ცოცხალი დემოები დოკუმენტებსა და სურათებზე ანოტაციების დასამატებლად, ამოსაღებად, რედაქტირებისთვის"
     content: |
-        დაამატეთ, წაშალეთ, დაარედაქტირეთ და ამოიღეთ ანოტაციები XLSM ფაილში ახლავე, ეწვიეთ [GroupDocs.Annotation Live Demos](https://products.groupdocs.app/annotation/family) ვებსაიტს.
-ცოცხალი დემოს აქვს შემდეგი უპირატესობები
+        დაამატეთ, წაშალეთ, დაარედაქტირეთ და ამოიღეთ ანოტაციები XLSM ფაილში ახლავე, ეწვიეთ [GroupDocs.Annotation Live Demos](https://products.groupdocs.app/annotation/family) ვებსაიტს. ცოცხალი დემოს აქვს შემდეგი უპირატესობები
 
 ############################# About Formats ############################
 about_formats:

@@ -227,8 +227,7 @@ demos:
     enable: true
     title: "Demostracions en directe per afegir, eliminar, editar i extreure anotacions a documents i imatges"
     content: |
-        Afegiu, suprimiu, editeu i extreu anotacions al fitxer VSX ara mateix visitant el lloc web [GroupDocs.Annotation Live Demos](https://products.groupdocs.app/annotation/family).
-La demostració en directe té els següents avantatges
+        Afegiu, suprimiu, editeu i extreu anotacions al fitxer VSX ara mateix visitant el lloc web [GroupDocs.Annotation Live Demos](https://products.groupdocs.app/annotation/family). La demostració en directe té els següents avantatges
 
 ############################# About Formats ############################
 about_formats:

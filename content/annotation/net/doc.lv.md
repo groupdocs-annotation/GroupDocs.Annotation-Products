@@ -227,8 +227,7 @@ demos:
     enable: true
     title: "Tiešraides demonstrācijas, lai pievienotu, noņemtu, rediģētu un izvilktu anotācijas dokumentiem un attēliem"
     content: |
-        Pievienojiet, noņemiet, rediģējiet un izvelciet anotācijas failam DOC tūlīt, apmeklējot vietni [GroupDocs.Annotation Live Demos](https://products.groupdocs.app/annotation/family).
-Tiešraides demonstrācijai ir šādas priekšrocības
+        Pievienojiet, noņemiet, rediģējiet un izvelciet anotācijas failam DOC tūlīt, apmeklējot vietni [GroupDocs.Annotation Live Demos](https://products.groupdocs.app/annotation/family). Tiešraides demonstrācijai ir šādas priekšrocības
 
 ############################# About Formats ############################
 about_formats:

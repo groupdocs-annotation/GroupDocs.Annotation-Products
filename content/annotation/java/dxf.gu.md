@@ -231,8 +231,7 @@ demos:
     enable: true
     title: "દસ્તાવેજો અને છબીઓમાં ઍનોટેશન ઉમેરવા, દૂર કરવા, સંપાદિત કરવા, બહાર કાઢવા માટે લાઇવ ડેમો"
     content: |
-        હમણાં જ [GroupDocs.Annotation Live Demos](https://products.groupdocs.app/annotation/family) વેબસાઇટની મુલાકાત લઈને DXF ફાઇલમાં ઍનોટેશન ઉમેરો, દૂર કરો, સંપાદિત કરો અને બહાર કાઢો.
-લાઇવ ડેમોના નીચેના ફાયદા છે
+        હમણાં જ [GroupDocs.Annotation Live Demos](https://products.groupdocs.app/annotation/family) વેબસાઇટની મુલાકાત લઈને DXF ફાઇલમાં ઍનોટેશન ઉમેરો, દૂર કરો, સંપાદિત કરો અને બહાર કાઢો. લાઇવ ડેમોના નીચેના ફાયદા છે
 
 ############################# About Formats ############################
 about_formats:

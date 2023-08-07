@@ -231,8 +231,7 @@ demos:
     enable: true
     title: "Živé ukážky na pridanie, odstránenie, úpravu, extrahovanie anotácií do dokumentov a obrázkov"
     content: |
-        Pridávajte, odstraňujte, upravujte a extrahujte anotácie do súboru OTT práve teraz na webovej lokalite [GroupDocs.Annotation Live Demos](https://products.groupdocs.app/annotation/family).
-Živá ukážka má nasledujúce výhody
+        Pridávajte, odstraňujte, upravujte a extrahujte anotácie do súboru OTT práve teraz na webovej lokalite [GroupDocs.Annotation Live Demos](https://products.groupdocs.app/annotation/family). Živá ukážka má nasledujúce výhody
 
 ############################# About Formats ############################
 about_formats:

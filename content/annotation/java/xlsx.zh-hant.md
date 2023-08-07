@@ -231,8 +231,7 @@ demos:
     enable: true
     title: "現場演示添加、刪除、編輯、提取文檔和圖像的註釋"
     content: |
-        立即訪問 [GroupDocs.Annotation 現場演示](https://products.groupdocs.app/annotation/family) 網站，向 XLSX 文件添加、刪除、編輯和提取註釋。
-現場演示有以下好處
+        立即訪問 [GroupDocs.Annotation 現場演示](https://products.groupdocs.app/annotation/family) 網站，向 XLSX 文件添加、刪除、編輯和提取註釋。 現場演示有以下好處
 
 ############################# About Formats ############################
 about_formats:

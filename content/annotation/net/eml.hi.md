@@ -227,8 +227,7 @@ demos:
     enable: true
     title: "दस्तावेज़ों और छवियों में एनोटेशन जोड़ने, हटाने, संपादित करने, निकालने के लिए लाइव डेमो"
     content: |
-        अभी [GroupDocs.Annotation Live Demos](https://products.groupdocs.app/annotation/family) वेबसाइट पर जाकर EML फ़ाइल में एनोटेशन जोड़ें, हटाएं, संपादित करें और निकालें।
-लाइव डेमो के निम्नलिखित लाभ हैं
+        अभी [GroupDocs.Annotation Live Demos](https://products.groupdocs.app/annotation/family) वेबसाइट पर जाकर EML फ़ाइल में एनोटेशन जोड़ें, हटाएं, संपादित करें और निकालें। लाइव डेमो के निम्नलिखित लाभ हैं
 
 ############################# About Formats ############################
 about_formats:

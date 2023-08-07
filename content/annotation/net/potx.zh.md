@@ -227,8 +227,7 @@ demos:
     enable: true
     title: "现场演示添加、删除、编辑、提取文档和图像的注释"
     content: |
-        立即访问 [GroupDocs.Annotation 现场演示](https://products.groupdocs.app/annotation/family) 网站，向 POTX 文件添加、删除、编辑和提取注释。
-现场演示有以下好处
+        立即访问 [GroupDocs.Annotation 现场演示](https://products.groupdocs.app/annotation/family) 网站，向 POTX 文件添加、删除、编辑和提取注释。 现场演示有以下好处
 
 ############################# About Formats ############################
 about_formats:

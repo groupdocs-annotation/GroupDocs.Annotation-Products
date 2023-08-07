@@ -231,8 +231,7 @@ demos:
     enable: true
     title: "Lifandi kynningar til að bæta við, fjarlægja, breyta, draga út athugasemdir við skjöl og myndir"
     content: |
-        Bættu við, fjarlægðu, breyttu og dragðu út athugasemdir við DICOM skrána núna með því að fara á vefsíðu [GroupDocs.Annotation Live Demos](https://products.groupdocs.app/annotation/family).
-Lifandi kynningin hefur eftirfarandi kosti
+        Bættu við, fjarlægðu, breyttu og dragðu út athugasemdir við DICOM skrána núna með því að fara á vefsíðu [GroupDocs.Annotation Live Demos](https://products.groupdocs.app/annotation/family). Lifandi kynningin hefur eftirfarandi kosti
 
 ############################# About Formats ############################
 about_formats:

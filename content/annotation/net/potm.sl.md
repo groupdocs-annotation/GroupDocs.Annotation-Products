@@ -227,8 +227,7 @@ demos:
     enable: true
     title: "Predstavitve v živo za dodajanje, odstranjevanje, urejanje, ekstrahiranje opomb v dokumente in slike"
     content: |
-        Takoj dodajte, odstranite, uredite in izvlecite opombe v datoteko POTM tako, da obiščete spletno mesto [GroupDocs.Annotation Live Demos](https://products.groupdocs.app/annotation/family).
-Predstavitev v živo ima naslednje prednosti
+        Takoj dodajte, odstranite, uredite in izvlecite opombe v datoteko POTM tako, da obiščete spletno mesto [GroupDocs.Annotation Live Demos](https://products.groupdocs.app/annotation/family). Predstavitev v živo ima naslednje prednosti
 
 ############################# About Formats ############################
 about_formats:

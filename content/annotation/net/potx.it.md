@@ -227,8 +227,7 @@ demos:
     enable: true
     title: "Demo dal vivo per aggiungere, rimuovere, modificare ed estrarre annotazioni a documenti e immagini"
     content: |
-        Aggiungi, rimuovi, modifica ed estrai subito le annotazioni dal file POTX visitando il sito web [GroupDocs.Annotation Live Demos](https://products.groupdocs.app/annotation/family).
-La demo dal vivo ha i seguenti vantaggi
+        Aggiungi, rimuovi, modifica ed estrai subito le annotazioni dal file POTX visitando il sito web [GroupDocs.Annotation Live Demos](https://products.groupdocs.app/annotation/family). La demo dal vivo ha i seguenti vantaggi
 
 ############################# About Formats ############################
 about_formats:

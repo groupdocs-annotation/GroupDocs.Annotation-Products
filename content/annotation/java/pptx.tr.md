@@ -231,8 +231,7 @@ demos:
     enable: true
     title: "Belgelere ve Görüntülere Ek Açıklamalar Eklemek, Kaldırmak, Düzenlemek, Çıkarmak için Canlı Demolar"
     content: |
-        Hemen şimdi [GroupDocs.Annotation Canlı Demolar](https://products.groupdocs.app/annotation/family) web sitesini ziyaret ederek PPTX dosyasına ek açıklama ekleyin, kaldırın, düzenleyin ve çıkarın.
-Canlı demo aşağıdaki avantajlara sahiptir
+        Hemen şimdi [GroupDocs.Annotation Canlı Demolar](https://products.groupdocs.app/annotation/family) web sitesini ziyaret ederek PPTX dosyasına ek açıklama ekleyin, kaldırın, düzenleyin ve çıkarın. Canlı demo aşağıdaki avantajlara sahiptir
 
 ############################# About Formats ############################
 about_formats:

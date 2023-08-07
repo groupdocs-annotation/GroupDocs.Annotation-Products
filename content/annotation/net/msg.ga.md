@@ -227,8 +227,7 @@ demos:
     enable: true
     title: "Taispeántais Bheo le Cur Leis, Bain Amach, Cuir in Eagar, Anótálacha a Bhaint as Doiciméid agus Íomhánna"
     content: |
-        Cuir nótaí le MSG leis, bain, cuir in eagar agus bain amach iad faoi láthair trí chuairt a thabhairt ar [GroupDocs.Annotation Live Demos](https://products.groupdocs.app/annotation/family).
-Tá na buntáistí seo a leanas ag an taispeántas beo
+        Cuir nótaí le MSG leis, bain, cuir in eagar agus bain amach iad faoi láthair trí chuairt a thabhairt ar [GroupDocs.Annotation Live Demos](https://products.groupdocs.app/annotation/family). Tá na buntáistí seo a leanas ag an taispeántas beo
 
 ############################# About Formats ############################
 about_formats:

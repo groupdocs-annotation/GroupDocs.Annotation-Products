@@ -231,8 +231,7 @@ demos:
     enable: true
     title: "Demo Langsung untuk Tambah, Alih Keluar, Edit, Ekstrak Anotasi pada Dokumen dan Imej"
     content: |
-        Tambahkan, alih keluar, edit dan ekstrak anotasi pada fail GIF sekarang dengan melawati tapak web [GroupDocs.Annotation Live Demos](https://products.groupdocs.app/annotation/family).
-Demo langsung mempunyai faedah berikut
+        Tambahkan, alih keluar, edit dan ekstrak anotasi pada fail GIF sekarang dengan melawati tapak web [GroupDocs.Annotation Live Demos](https://products.groupdocs.app/annotation/family). Demo langsung mempunyai faedah berikut
 
 ############################# About Formats ############################
 about_formats:

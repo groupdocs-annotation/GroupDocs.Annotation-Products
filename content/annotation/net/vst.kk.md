@@ -227,8 +227,7 @@ demos:
     enable: true
     title: "Құжаттар мен кескіндерге аннотацияларды қосу, жою, өңдеу, шығару үшін тікелей көрсетілімдер"
     content: |
-        Дәл қазір [GroupDocs.Annotation Live Demos](https://products.groupdocs.app/annotation/family) веб-сайтына кіру арқылы VST файлына аннотацияларды қосу, жою, өңдеу және шығару.
-Тікелей демонстрацияның келесі артықшылықтары бар
+        Дәл қазір [GroupDocs.Annotation Live Demos](https://products.groupdocs.app/annotation/family) веб-сайтына кіру арқылы VST файлына аннотацияларды қосу, жою, өңдеу және шығару. Тікелей демонстрацияның келесі артықшылықтары бар
 
 ############################# About Formats ############################
 about_formats:

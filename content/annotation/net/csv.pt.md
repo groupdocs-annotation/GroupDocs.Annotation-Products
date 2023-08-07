@@ -227,8 +227,7 @@ demos:
     enable: true
     title: "Demonstrações ao vivo para adicionar, remover, editar e extrair anotações em documentos e imagens"
     content: |
-        Adicione, remova, edite e extraia anotações para o arquivo CSV agora mesmo visitando o site [GroupDocs.Annotation Live Demos](https://products.groupdocs.app/annotation/family).
-A demonstração ao vivo tem os seguintes benefícios
+        Adicione, remova, edite e extraia anotações para o arquivo CSV agora mesmo visitando o site [GroupDocs.Annotation Live Demos](https://products.groupdocs.app/annotation/family). A demonstração ao vivo tem os seguintes benefícios
 
 ############################# About Formats ############################
 about_formats:

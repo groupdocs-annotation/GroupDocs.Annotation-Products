@@ -231,8 +231,7 @@ demos:
     enable: true
     title: "دستاویزات اور تصاویر میں تشریحات شامل کرنے، ہٹانے، ترمیم کرنے، نکالنے کے لیے لائیو ڈیمو"
     content: |
-        ابھی [GroupDocs.Annotation Live Demos](https://products.groupdocs.app/annotation/family) ویب سائٹ پر جا کر DOTX فائل میں تشریحات شامل کریں، ہٹائیں، ترمیم کریں اور نکالیں۔
-لائیو ڈیمو کے درج ذیل فوائد ہیں۔
+        ابھی [GroupDocs.Annotation Live Demos](https://products.groupdocs.app/annotation/family) ویب سائٹ پر جا کر DOTX فائل میں تشریحات شامل کریں، ہٹائیں، ترمیم کریں اور نکالیں۔ لائیو ڈیمو کے درج ذیل فوائد ہیں۔
 
 ############################# About Formats ############################
 about_formats:

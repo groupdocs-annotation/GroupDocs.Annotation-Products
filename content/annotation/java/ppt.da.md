@@ -231,8 +231,7 @@ demos:
     enable: true
     title: "Live-demoer til at tilføje, fjerne, redigere, udtrække annoteringer til dokumenter og billeder"
     content: |
-        Tilføj, fjern, rediger og udpak annoteringer til filen PPT lige nu ved at besøge webstedet [GroupDocs.Annotation Live Demos](https://products.groupdocs.app/annotation/family).
-Livedemoen har følgende fordele
+        Tilføj, fjern, rediger og udpak annoteringer til filen PPT lige nu ved at besøge webstedet [GroupDocs.Annotation Live Demos](https://products.groupdocs.app/annotation/family). Livedemoen har følgende fordele
 
 ############################# About Formats ############################
 about_formats:

@@ -231,8 +231,7 @@ demos:
     enable: true
     title: "การสาธิตสดเพื่อเพิ่ม ลบ แก้ไข แยกคำอธิบายประกอบในเอกสารและรูปภาพ"
     content: |
-        เพิ่ม ลบ แก้ไข และแยกคำอธิบายประกอบลงในไฟล์ BMP ทันทีโดยไปที่เว็บไซต์ [GroupDocs.Annotation Live Demos](https://products.groupdocs.app/annotation/family)
-การสาธิตสดมีประโยชน์ดังต่อไปนี้
+        เพิ่ม ลบ แก้ไข และแยกคำอธิบายประกอบลงในไฟล์ BMP ทันทีโดยไปที่เว็บไซต์ [GroupDocs.Annotation Live Demos](https://products.groupdocs.app/annotation/family) การสาธิตสดมีประโยชน์ดังต่อไปนี้
 
 ############################# About Formats ############################
 about_formats:

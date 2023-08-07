@@ -231,8 +231,7 @@ demos:
     enable: true
     title: "Tiesioginės demonstracinės versijos, skirtos dokumentų ir vaizdų komentarams pridėti, pašalinti, redaguoti, išgauti"
     content: |
-        Pridėkite, pašalinkite, redaguokite ir išskleiskite komentarus prie PPTM failo dabar, apsilankę [GroupDocs.Annotation Live Demos](https://products.groupdocs.app/annotation/family) svetainėje.
-Tiesioginė demonstracinė versija turi šiuos privalumus
+        Pridėkite, pašalinkite, redaguokite ir išskleiskite komentarus prie PPTM failo dabar, apsilankę [GroupDocs.Annotation Live Demos](https://products.groupdocs.app/annotation/family) svetainėje. Tiesioginė demonstracinė versija turi šiuos privalumus
 
 ############################# About Formats ############################
 about_formats:

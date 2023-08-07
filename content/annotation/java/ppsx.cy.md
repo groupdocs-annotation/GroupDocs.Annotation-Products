@@ -231,8 +231,7 @@ demos:
     enable: true
     title: "Demos Byw i'w Ychwanegu, Tynnu, Golygu, Tynnu Anodiadau i Ddogfennau a Delweddau"
     content: |
-        Ychwanegu, dileu, golygu a thynnu anodiadau i ffeil PPSX ar hyn o bryd drwy ymweld â gwefan [GroupDocs.Annotation Live Demos](https://products.groupdocs.app/annotation/family).
-Mae gan y demo byw y buddion canlynol
+        Ychwanegu, dileu, golygu a thynnu anodiadau i ffeil PPSX ar hyn o bryd drwy ymweld â gwefan [GroupDocs.Annotation Live Demos](https://products.groupdocs.app/annotation/family). Mae gan y demo byw y buddion canlynol
 
 ############################# About Formats ############################
 about_formats:

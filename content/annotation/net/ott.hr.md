@@ -227,8 +227,7 @@ demos:
     enable: true
     title: "Demonstracije uživo za dodavanje, uklanjanje, uređivanje, izdvajanje komentara na dokumente i slike"
     content: |
-        Dodajte, uklonite, uredite i ekstrahirajte komentare u datoteku OTT odmah tako da posjetite [GroupDocs.Annotation Live Demos](https://products.groupdocs.app/annotation/family) web mjesto.
-Demo uživo ima sljedeće prednosti
+        Dodajte, uklonite, uredite i ekstrahirajte komentare u datoteku OTT odmah tako da posjetite [GroupDocs.Annotation Live Demos](https://products.groupdocs.app/annotation/family) web mjesto. Demo uživo ima sljedeće prednosti
 
 ############################# About Formats ############################
 about_formats:

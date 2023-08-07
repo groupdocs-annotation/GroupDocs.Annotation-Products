@@ -231,8 +231,7 @@ demos:
     enable: true
     title: "Demoyên Zindî ku lê zêde bikin, jêbirin, biguherînin, şîroveyan ji belge û wêneyan derxin"
     content: |
-        Bi seredana malpera [GroupDocs.Annotation Demos Zindî](https://products.groupdocs.app/annotation/family) niha li pelê JPG şîroveyan zêde bikin, jêbikin, biguherînin û derxin.
-Demoya zindî xwedî feydeyên jêrîn e
+        Bi seredana malpera [GroupDocs.Annotation Demos Zindî](https://products.groupdocs.app/annotation/family) niha li pelê JPG şîroveyan zêde bikin, jêbikin, biguherînin û derxin. Demoya zindî xwedî feydeyên jêrîn e
 
 ############################# About Formats ############################
 about_formats:

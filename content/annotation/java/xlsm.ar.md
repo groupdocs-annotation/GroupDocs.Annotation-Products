@@ -231,8 +231,7 @@ demos:
     enable: true
     title: "العروض التوضيحية الحية لإضافة التعليقات التوضيحية إلى المستندات والصور وإزالتها وتحريرها واستخراجها"
     content: |
-        قم بإضافة التعليقات التوضيحية وإزالتها وتعديلها واستخراجها إلى ملف XLSM الآن من خلال زيارة موقع ويب [GroupDocs.Annotation Live Demos] (https://products.groupdocs.app/annotation/family).
-يحتوي العرض التوضيحي المباشر على الفوائد التالية
+        قم بإضافة التعليقات التوضيحية وإزالتها وتعديلها واستخراجها إلى ملف XLSM الآن من خلال زيارة موقع ويب [GroupDocs.Annotation Live Demos] (https://products.groupdocs.app/annotation/family). يحتوي العرض التوضيحي المباشر على الفوائد التالية
 
 ############################# About Formats ############################
 about_formats:

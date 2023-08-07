@@ -227,8 +227,7 @@ demos:
     enable: true
     title: "Demo live pentru a adăuga, elimina, edita și extrage adnotări la documente și imagini"
     content: |
-        Adăugați, eliminați, editați și extrageți adnotări în fișierul DJVU chiar acum, vizitând site-ul web [GroupDocs.Annotation Live Demos](https://products.groupdocs.app/annotation/family).
-Demo-ul live are următoarele beneficii
+        Adăugați, eliminați, editați și extrageți adnotări în fișierul DJVU chiar acum, vizitând site-ul web [GroupDocs.Annotation Live Demos](https://products.groupdocs.app/annotation/family). Demo-ul live are următoarele beneficii
 
 ############################# About Formats ############################
 about_formats:

@@ -231,8 +231,7 @@ demos:
     enable: true
     title: "Regstreekse demonstrasies om by te voeg, te verwyder, te wysig, aantekeninge by dokumente en prente te onttrek"
     content: |
-        Voeg, verwyder, redigeer en onttrek aantekeninge by HTM-lêer op die oomblik deur [GroupDocs.Annotation Live Demos](https://products.groupdocs.app/annotation/family) webwerf te besoek.
-Die lewendige demo het die volgende voordele
+        Voeg, verwyder, redigeer en onttrek aantekeninge by HTM-lêer op die oomblik deur [GroupDocs.Annotation Live Demos](https://products.groupdocs.app/annotation/family) webwerf te besoek. Die lewendige demo het die volgende voordele
 
 ############################# About Formats ############################
 about_formats:

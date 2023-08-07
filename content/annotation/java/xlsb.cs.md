@@ -231,8 +231,7 @@ demos:
     enable: true
     title: "Živé ukázky pro přidání, odebrání, úpravu, extrahování anotací do dokumentů a obrázků"
     content: |
-        Přidávejte, odebírejte, upravujte a extrahujte anotace do souboru XLSB právě teď na webu [GroupDocs.Annotation Live Demos](https://products.groupdocs.app/annotation/family).
-Živé demo má následující výhody
+        Přidávejte, odebírejte, upravujte a extrahujte anotace do souboru XLSB právě teď na webu [GroupDocs.Annotation Live Demos](https://products.groupdocs.app/annotation/family). Živé demo má následující výhody
 
 ############################# About Formats ############################
 about_formats:

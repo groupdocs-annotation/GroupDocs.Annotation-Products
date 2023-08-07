@@ -231,8 +231,7 @@ demos:
     enable: true
     title: "Demo Langsung untuk Menambah, Menghapus, Mengedit, Mengekstrak Anotasi ke Dokumen dan Gambar"
     content: |
-        Tambahkan, hapus, edit, dan ekstrak anotasi ke file DOCX sekarang juga dengan mengunjungi situs web [GroupDocs.Annotation Live Demos](https://products.groupdocs.app/annotation/family).
-Demo langsung memiliki manfaat berikut
+        Tambahkan, hapus, edit, dan ekstrak anotasi ke file DOCX sekarang juga dengan mengunjungi situs web [GroupDocs.Annotation Live Demos](https://products.groupdocs.app/annotation/family). Demo langsung memiliki manfaat berikut
 
 ############################# About Formats ############################
 about_formats:

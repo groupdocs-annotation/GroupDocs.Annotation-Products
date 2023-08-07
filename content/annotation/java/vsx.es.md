@@ -231,8 +231,7 @@ demos:
     enable: true
     title: "Demostraciones en vivo para agregar, eliminar, editar y extraer anotaciones en documentos e imágenes"
     content: |
-        Agregue, elimine, edite y extraiga anotaciones en el archivo VSX ahora mismo visitando el sitio web [GroupDocs.Annotation Live Demos](https://products.groupdocs.app/annotation/family).
-La demostración en vivo tiene los siguientes beneficios
+        Agregue, elimine, edite y extraiga anotaciones en el archivo VSX ahora mismo visitando el sitio web [GroupDocs.Annotation Live Demos](https://products.groupdocs.app/annotation/family). La demostración en vivo tiene los siguientes beneficios
 
 ############################# About Formats ############################
 about_formats:

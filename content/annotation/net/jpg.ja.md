@@ -227,8 +227,7 @@ demos:
     enable: true
     title: "ドキュメントや画像に注釈を追加、削除、編集、抽出するライブデモ"
     content: |
-        [GroupDocs.Annotation Live Demos](https://products.groupdocs.app/annotation/family) Web サイトにアクセスして、今すぐ JPG ファイルに注釈を追加、削除、編集、抽出します。
-ライブデモには次のようなメリットがあります
+        [GroupDocs.Annotation Live Demos](https://products.groupdocs.app/annotation/family) Web サイトにアクセスして、今すぐ JPG ファイルに注釈を追加、削除、編集、抽出します。 ライブデモには次のようなメリットがあります
 
 ############################# About Formats ############################
 about_formats:

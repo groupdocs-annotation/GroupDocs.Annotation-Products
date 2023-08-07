@@ -227,8 +227,7 @@ demos:
     enable: true
     title: "문서 및 이미지에 주석을 추가, 제거, 편집, 추출하는 라이브 데모"
     content: |
-        지금 바로 [GroupDocs.Annotation Live Demos](https://products.groupdocs.app/annotation/family) 웹사이트를 방문하여 주석을 ODT 파일에 추가, 제거, 편집 및 추출하세요.
-라이브 데모에는 다음과 같은 이점이 있습니다.
+        지금 바로 [GroupDocs.Annotation Live Demos](https://products.groupdocs.app/annotation/family) 웹사이트를 방문하여 주석을 ODT 파일에 추가, 제거, 편집 및 추출하세요. 라이브 데모에는 다음과 같은 이점이 있습니다.
 
 ############################# About Formats ############################
 about_formats:

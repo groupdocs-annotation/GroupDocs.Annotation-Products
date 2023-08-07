@@ -231,8 +231,7 @@ demos:
     enable: true
     title: "Reaalajas demod dokumentide ja piltide märkuste lisamiseks, eemaldamiseks, redigeerimiseks ja ekstraktimiseks"
     content: |
-        Lisage, eemaldage, muutke ja ekstraktige faili PPSX märkusi kohe, külastades veebisaiti [GroupDocs.Annotation Live Demos](https://products.groupdocs.app/annotation/family).
-Reaalajas demol on järgmised eelised
+        Lisage, eemaldage, muutke ja ekstraktige faili PPSX märkusi kohe, külastades veebisaiti [GroupDocs.Annotation Live Demos](https://products.groupdocs.app/annotation/family). Reaalajas demol on järgmised eelised
 
 ############################# About Formats ############################
 about_formats:

@@ -227,8 +227,7 @@ demos:
     enable: true
     title: "Живі демонстрації для додавання, видалення, редагування та вилучення анотацій до документів і зображень"
     content: |
-        Додавайте, видаляйте, редагуйте та витягуйте анотації до файлу PPS прямо зараз, відвідавши веб-сайт [GroupDocs.Annotation Live Demos](https://products.groupdocs.app/annotation/family).
-Жива демонстрація має такі переваги
+        Додавайте, видаляйте, редагуйте та витягуйте анотації до файлу PPS прямо зараз, відвідавши веб-сайт [GroupDocs.Annotation Live Demos](https://products.groupdocs.app/annotation/family). Жива демонстрація має такі переваги
 
 ############################# About Formats ############################
 about_formats:

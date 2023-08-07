@@ -227,8 +227,7 @@ demos:
     enable: true
     title: "Live-demoer for å legge til, fjerne, redigere, trekke ut merknader til dokumenter og bilder"
     content: |
-        Legg til, fjern, rediger og trekk ut merknader til DOTX-filen akkurat nå ved å gå til nettstedet [GroupDocs.Annotation Live Demos](https://products.groupdocs.app/annotation/family).
-Live-demoen har følgende fordeler
+        Legg til, fjern, rediger og trekk ut merknader til DOTX-filen akkurat nå ved å gå til nettstedet [GroupDocs.Annotation Live Demos](https://products.groupdocs.app/annotation/family). Live-demoen har følgende fordeler
 
 ############################# About Formats ############################
 about_formats:

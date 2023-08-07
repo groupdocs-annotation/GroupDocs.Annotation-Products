@@ -227,8 +227,7 @@ demos:
     enable: true
     title: "Demo na żywo, aby dodawać, usuwać, edytować, wyodrębniać adnotacje do dokumentów i obrazów"
     content: |
-        Dodawaj, usuwaj, edytuj i wyodrębniaj adnotacje do pliku PPSM już teraz, odwiedzając witrynę [GroupDocs.Annotation Live Demos](https://products.groupdocs.app/annotation/family).
-Demo na żywo ma następujące zalety
+        Dodawaj, usuwaj, edytuj i wyodrębniaj adnotacje do pliku PPSM już teraz, odwiedzając witrynę [GroupDocs.Annotation Live Demos](https://products.groupdocs.app/annotation/family). Demo na żywo ma następujące zalety
 
 ############################# About Formats ############################
 about_formats:

@@ -231,8 +231,7 @@ demos:
     enable: true
     title: "Live-demos att lägga till, ta bort, redigera, extrahera kommentarer till dokument och bilder"
     content: |
-        Lägg till, ta bort, redigera och extrahera kommentarer till filen VSX just nu genom att besöka webbplatsen [GroupDocs.Annotation Live Demos](https://products.groupdocs.app/annotation/family).
-Livedemon har följande fördelar
+        Lägg till, ta bort, redigera och extrahera kommentarer till filen VSX just nu genom att besöka webbplatsen [GroupDocs.Annotation Live Demos](https://products.groupdocs.app/annotation/family). Livedemon har följande fördelar
 
 ############################# About Formats ############################
 about_formats:

@@ -227,8 +227,7 @@ demos:
     enable: true
     title: "Élő bemutatók dokumentumok és képek megjegyzéseinek hozzáadásához, eltávolításához, szerkesztéséhez és kivonásához"
     content: |
-        A [GroupDocs.Annotation Live Demos](https://products.groupdocs.app/annotation/family) webhely meglátogatásával azonnal adhat hozzá, távolíthat el, szerkesszen és bontsa ki a megjegyzéseket a OTP fájlba.
-Az élő demónak a következő előnyei vannak
+        A [GroupDocs.Annotation Live Demos](https://products.groupdocs.app/annotation/family) webhely meglátogatásával azonnal adhat hozzá, távolíthat el, szerkesszen és bontsa ki a megjegyzéseket a OTP fájlba. Az élő demónak a következő előnyei vannak
 
 ############################# About Formats ############################
 about_formats:

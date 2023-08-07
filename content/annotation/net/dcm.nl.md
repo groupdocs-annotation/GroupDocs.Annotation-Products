@@ -227,8 +227,7 @@ demos:
     enable: true
     title: "Live demo's om annotaties aan documenten en afbeeldingen toe te voegen, te verwijderen, te bewerken en te extraheren"
     content: |
-        Voeg nu annotaties toe aan, verwijder, bewerk en extraheer annotaties naar het bestand DCM door naar de website [GroupDocs.Annotation Live Demos](https://products.groupdocs.app/annotation/family) te gaan.
-De live demo heeft de volgende voordelen
+        Voeg nu annotaties toe aan, verwijder, bewerk en extraheer annotaties naar het bestand DCM door naar de website [GroupDocs.Annotation Live Demos](https://products.groupdocs.app/annotation/family) te gaan. De live demo heeft de volgende voordelen
 
 ############################# About Formats ############################
 about_formats:

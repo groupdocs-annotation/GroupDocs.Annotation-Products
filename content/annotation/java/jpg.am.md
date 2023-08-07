@@ -231,8 +231,7 @@ demos:
     enable: true
     title: "ለማከል፣ ለማስወገድ፣ ለማርትዕ፣ ማብራሪያዎችን ወደ ሰነዶች እና ምስሎች ለማውጣት የቀጥታ ማሳያዎች"
     content: |
-        የ[GroupDocs.Annotation Live Demos](https://products.groupdocs.app/annotation/family) ድር ጣቢያን በመጎብኘት ማብራሪያዎችን አሁን ወደ JPG ፋይል ያክሉ፣ ያስወግዱ፣ ያርትዑ እና ያውጡ።
-የቀጥታ ማሳያው የሚከተሉት ጥቅሞች አሉት
+        የ[GroupDocs.Annotation Live Demos](https://products.groupdocs.app/annotation/family) ድር ጣቢያን በመጎብኘት ማብራሪያዎችን አሁን ወደ JPG ፋይል ያክሉ፣ ያስወግዱ፣ ያርትዑ እና ያውጡ። የቀጥታ ማሳያው የሚከተሉት ጥቅሞች አሉት
 
 ############################# About Formats ############################
 about_formats:

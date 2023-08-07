@@ -227,8 +227,7 @@ demos:
     enable: true
     title: "Live-esittelyt asiakirjojen ja kuvien huomautusten lisäämiseen, poistamiseen, muokkaamiseen ja poimimiseen"
     content: |
-        Lisää, poista, muokkaa ja pura merkintöjä tiedostoon PPTM heti käymällä [GroupDocs.Annotation Live Demos](https://products.groupdocs.app/annotation/family) -sivustolla.
-Live-demolla on seuraavat edut
+        Lisää, poista, muokkaa ja pura merkintöjä tiedostoon PPTM heti käymällä [GroupDocs.Annotation Live Demos](https://products.groupdocs.app/annotation/family) -sivustolla. Live-demolla on seuraavat edut
 
 ############################# About Formats ############################
 about_formats:

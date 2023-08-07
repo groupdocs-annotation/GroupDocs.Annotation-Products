@@ -231,8 +231,7 @@ demos:
     enable: true
     title: "Live-Demos zum Hinzufügen, Entfernen, Bearbeiten und Extrahieren von Anmerkungen zu Dokumenten und Bildern"
     content: |
-        Fügen Sie jetzt Anmerkungen zur Datei PPTM hinzu, entfernen Sie sie, bearbeiten Sie sie und extrahieren Sie sie, indem Sie die Website [GroupDocs.Annotation Live Demos](https://products.groupdocs.app/annotation/family) besuchen.
-Die Live-Demo bietet folgende Vorteile
+        Fügen Sie jetzt Anmerkungen zur Datei PPTM hinzu, entfernen Sie sie, bearbeiten Sie sie und extrahieren Sie sie, indem Sie die Website [GroupDocs.Annotation Live Demos](https://products.groupdocs.app/annotation/family) besuchen. Die Live-Demo bietet folgende Vorteile
 
 ############################# About Formats ############################
 about_formats:

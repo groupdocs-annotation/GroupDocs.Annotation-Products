@@ -227,8 +227,7 @@ demos:
     enable: true
     title: "دموهای زنده برای افزودن، حذف، ویرایش، استخراج حاشیه نویسی به اسناد و تصاویر"
     content: |
-        همین حالا با مراجعه به وب سایت [GroupDocs.Annotation Live Demos] (https://products.groupdocs.app/annotation/family)، یادداشت ها را به فایل BMP اضافه، حذف، ویرایش و استخراج کنید.
-نسخه ی نمایشی زنده دارای مزایای زیر است
+        همین حالا با مراجعه به وب سایت [GroupDocs.Annotation Live Demos] (https://products.groupdocs.app/annotation/family)، یادداشت ها را به فایل BMP اضافه، حذف، ویرایش و استخراج کنید. نسخه ی نمایشی زنده دارای مزایای زیر است
 
 ############################# About Formats ############################
 about_formats:

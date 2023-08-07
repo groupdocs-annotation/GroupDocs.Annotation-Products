@@ -227,8 +227,7 @@ demos:
     enable: true
     title: "Démonstrations en direct pour ajouter, supprimer, modifier, extraire des annotations sur des documents et des images"
     content: |
-        Ajoutez, supprimez, modifiez et extrayez des annotations dans le fichier VST dès maintenant en visitant le site Web [GroupDocs.Annotation Live Demos](https://products.groupdocs.app/annotation/family).
-La démo en direct présente les avantages suivants
+        Ajoutez, supprimez, modifiez et extrayez des annotations dans le fichier VST dès maintenant en visitant le site Web [GroupDocs.Annotation Live Demos](https://products.groupdocs.app/annotation/family). La démo en direct présente les avantages suivants
 
 ############################# About Formats ############################
 about_formats:

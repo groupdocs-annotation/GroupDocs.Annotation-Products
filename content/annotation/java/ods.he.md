@@ -231,8 +231,7 @@ demos:
     enable: true
     title: "הדגמות חיות להוספה, הסרה, עריכה, חילוץ הערות למסמכים ותמונות"
     content: |
-        הוסף, הסר, ערוך וחלץ הערות לקובץ ODS כעת על ידי ביקור באתר [GroupDocs.Annotation Live Demos](https://products.groupdocs.app/annotation/family).
-להדגמה החיה יש את היתרונות הבאים
+        הוסף, הסר, ערוך וחלץ הערות לקובץ ODS כעת על ידי ביקור באתר [GroupDocs.Annotation Live Demos](https://products.groupdocs.app/annotation/family). להדגמה החיה יש את היתרונות הבאים
 
 ############################# About Formats ############################
 about_formats:

@@ -1,116 +1,78 @@
-
 ---
 ############################# Static ############################
 layout: "auto-gen-annotation"
-date: 07/05/2022 12:44:18
-draft: false
-
-###_DIMA_### link rel="canonical" href="https://products.groupdocs.com/annotation/java/jpg"/>
 
 ############################# Head ############################
-head_title: "Java JPG 주석 API C#으로 주석 달기"
-head_description: "Java 생성 API 및 주석 달기 인기 있는 주석 유형 ~에서 JPG, 이미지, 도면 및 문서 파일 형식."
+head_title: "Java JPG 주석 API C# 주석"
+head_description: "JPG, 이미지, 그림 및 문서 파일 형식에서 인기 있는 주석 유형을 만들고 주석을 추가하는 Java API."
 
 ############################# Header ############################
-title: "주석 JPG ~에서 {{플랫폼}}"
+title: "자바에서 JPG에 주석 달기"
 description: ""
 bg_image: "https://cms.admin.containerize.com/templates/aspose/App_Themes/V3/images/bg/header1.png"
 bg_overlay: false
 button:
     enable: true
     icon: "fas fa-arrow-down"
-    label: "Download Free Trial"
+    label: "무료 평가판 다운로드"
     link: "https://downloads.groupdocs.com/annotation/java"
-
-############################# SubMenu ############################
-submenu:
-    enable: true
-
-    left:
-        img_alt: "Java에 대한 GroupDocs.Annotation"
-        image: "https://cms.admin.containerize.com/templates/groupdocs/images/product-logos/90x90-noborder/groupdocs-annotation-java.png"
-        product: "GroupDocs.Annotation"
-        platform: "Java"
-
-    middle:
-        button:
-            # button loop
-            - link: "https://apireference.groupdocs.com/annotation/java"
-              text: "API Reference"
-            # button loop
-            - link: "https://github.com/groupdocs-annotation"
-              text: "Code Examples"
-            # button loop
-            - link: "https://products.groupdocs.app/annotation/family"
-              text: "Live Demos"
-            # button loop
-            - link: "https://purchase.groupdocs.com/pricing/annotation/java"
-              text: "Pricing"
-
-    right:
-        link_download: "https://downloads.groupdocs.com/annotation"
-        link_learn: "https://docs.groupdocs.com/annotation/java"
-        link_buy: "https://purchase.groupdocs.com"
 
 ############################# About ############################
 about:
     enable: true
     title: "Java API용 GroupDocs.Annotation 정보"
     content: |
-        GroupDocs.Annotation for Java API는 Mac, Windows 또는 Ubuntu에서 PDF, Word 및 기타 문서에 주석을 추가할 수 있는 라이브러리입니다. [GroupDocs.Annotation for Java](/annotation/java)은 주석 생성, 추가, 편집, 삭제, 추출 및 내보내기를 포괄적으로 지원하는 주석 관리를 위한 기본 Java API입니다. 이미지 및 기타 다양한 문서. 이 [page](https://docs.groupdocs.com/annotation/java/supported-document-formats/)에서 볼 수 있는 지원되는 문서 형식의 전체 목록입니다.
-
+        GroupDocs.Annotation for Java API는 Mac, Windows 또는 Ubuntu에서 PDF, Word 및 기타 문서에 주석을 추가할 수 있는 라이브러리입니다. [GroupDocs.Annotation for Java](/annotation/java)는 이미지 및 기타 다양한 문서에서 주석 생성, 추가, 편집, 삭제, 추출 및 내보내기를 포괄적으로 지원하는 주석 관리를 위한 기본 Java API입니다. 이 [페이지](https://docs.groupdocs.com/annotation/java/supported-document-formats/)에서 볼 수 있는 지원되는 문서 형식의 전체 목록입니다.
         이 라이브러리를 사용하면 JPG 문서뿐만 아니라 Word, Excel, PowerPoint, Outlook 이메일, Visio, Adobe, OpenDocument, OpenOffice, Photoshop, AutoCad 및 기타 여러 유형의 문서와 함께 작업할 수 있습니다.
-
-        Java API용 GroupDocs.Annotation을 사용하면 새 메모, edit 주석, extract 을 만들고 추가할 수 있습니다. 주석, 주석 및 문서에서 remove. 라이브러리는 텍스트, 다중선, 영역, 밑줄, 포인트, 워터마크, 화살표, 타원, 텍스트 대체, 거리, 텍스트 필드, PDF, HTML, Microsoft Word 문서, 스프레드시트, 다이어그램, 프레젠테이션, 도면, 이미지 및 기타 여러 파일 형식.
-
-        예제(아래 참조)는 JPG 문서 작업을 보여줍니다. 이 예제에서는 GroupDocs 작업 방법의 주요 단계를 볼 수 있습니다. 주석: 라이선스 설정, 작업할 문서 열기, 주석, 데이터 개체를 추가하여 요구 사항에 따라 주석 속성을 설정하고 결과를 필요한 위치에 저장합니다. 또한 github [page](https://github.com/groupdocs-annotation/GroupDocs.Annotation-for-Java) 또는 제품 문서]에서 지원되는 기능에 대해 자세히 살펴볼 수 있습니다 [documentation](https://docs.groupdocs.com/annotation/java/getting-started/).
+        GroupDocs.Annotation for Java API를 사용하면 새 메모를 만들고 추가하고, 주석을 편집하고, 주석과 주석을 추출하고, 문서에서 제거할 수 있습니다. 라이브러리는 텍스트, 다중선, 영역, 밑줄, 포인트, 워터마크, 화살표, 타원, 텍스트 대체, 거리, 텍스트 필드, PDF, HTML, Microsoft Word 문서, 스프레드시트, 다이어그램, 프레젠테이션, 그림, 이미지 및 기타 여러 파일 형식.
+        예제(아래 참조)는 JPG 문서 작업을 보여줍니다. 이 예제에서는 GroupDocs 작업 방법의 주요 단계를 볼 수 있습니다. 주석: 라이선스 설정, 작업할 문서 열기, 주석, 데이터 개체를 추가하여 요구 사항에 따라 주석 속성을 설정하고 결과를 필요한 위치에 저장합니다. 또한 github [페이지](https://github.com/groupdocs-annotation/GroupDocs.Annotation-for-Java) 또는 제품 [문서](https: //docs.groupdocs.com/annotation/java/getting-started/).
 
 ############################# Steps ############################
 howTo_Add:
 steps_Add:
     enable: true
-    title_left: "Java에서 ~에서 JPG 주석을 추가하는 단계"
+    title_left: "Java에서 JPG에 주석을 추가하는 단계"
     content_left: |
-        [GroupDocs.Annotation](/annotation/java/) Java 개발자가 몇 가지 간단한 단계를 구현하여 모든 Java 기반 애플리케이션 내의 JPG 파일에 다양한 주석 유형을 쉽게 추가할 수 있습니다.
-        * 댓글과 날짜가 포함된 회신 개체를 만듭니다.
-        * AreaAnnotation 개체를 만들고 영역 옵션을 설정하고 답글을 추가합니다.
-        * Annotator 개체를 만들고 영역 주석을 추가합니다.
-        * 출력 파일을 저장합니다.
+        [GroupDocs.Annotation](/annotation/java/) Java 개발자가 몇 가지 간단한 단계를 구현하여 Java 기반 응용 프로그램 내의 JPG 파일에 다양한 주석 유형을 쉽게 추가할 수 있습니다.
+        *   댓글과 날짜가 포함된 Reply 객체를 생성합니다.
+        *   AreaAnnotation 개체를 만들고 영역 옵션을 설정하고 답글을 추가합니다.
+        *   Annotator 객체를 생성하고 영역 주석을 추가합니다.
+        *   출력 파일을 저장합니다.
     title_right: "시스템 요구 사항"
     content_right: |
-        Java API용 GroupDocs.Annotation은 모든 주요 플랫폼 및 운영 체제에서 지원됩니다. 아래 코드를 실행하기 전에 시스템에 다음 필수 구성 요소가 설치되어 있는지 확인하십시오.
-        * 운영 체제: Microsoft Windows, Linux, MacOS
-        * 개발 환경: NetBeans, Intellij IDEA, Eclipse 등
-        * Java 런타임 환경: Java 7(1.7) 이상
-        * [GroupDocs Artifact Repository](https://repository.groupdocs.com/webapp/#/artifacts/browse/tree/General/repo/com/groupdocs/groupdocs-annotation)에서 최신 버전의 Java용 GroupDocs.Annotation을 다운로드하세요.
+        GroupDocs.Annotation for Java API는 모든 주요 플랫폼 및 운영 체제에서 지원됩니다. 아래 코드를 실행하기 전에 시스템에 다음 필수 구성 요소가 설치되어 있는지 확인하십시오.
+        *   운영 체제: 마이크로소프트 윈도우, 리눅스, 맥OS
+        *   개발 환경: NetBeans, Intellij IDEA, Eclipse 등
+        *   Java 런타임 환경: Java 7(1.7) 이상
+        *   [GroupDocs Artifact Repository](https://repository.groupdocs.com/webapp/#/artifacts/browse/tree/General/repo/com/groupdocs/groupdocs-annotation)에서 최신 버전의 Java용 GroupDocs.Annotation을 다운로드하세요.
 
 ############################# Preview ############################
 preview_Add:
     enable: true
-    title: "주석 미리보기 및 코드 샘플"
+    title: 주석 미리보기 및 코드 샘플
     content: |
         ![Annotation preview image](https://docs.groupdocs.com/annotation/java/images/add-area-annotation.png)
     code: |
-        ```자바
-        // Reply 클래스 인스턴스 생성 및 주석 추가
+        ```java
+        // Create an instance of Reply class and add comments
         Reply firstReply = new Reply();
-        firstReply.setComment("첫 댓글");
+        firstReply.setComment("First comment");
         firstReply.setRepliedOn(Calendar.getInstance().getTime());
         
         Reply secondReply = new Reply();
-        secondReply.setComment("두 번째 댓글");
+        secondReply.setComment("Second comment");
         secondReply.setRepliedOn(Calendar.getInstance().getTime());
         
         List<Reply> replies = new ArrayList<Reply>();
         replies.add(firstReply);
         replies.add(secondReply);
         
-        // AreaAnnotation 클래스의 인스턴스 생성 및 옵션 설정
+        // Create an instance of AreaAnnotation class and set options
         AreaAnnotation area = new AreaAnnotation();
         area.setBackgroundColor(65535);
         area.setBox(new Rectangle(100, 100, 100, 100));
         area.setCreatedOn(Calendar.getInstance().getTime());
-        area.setMessage("영역 주석입니다.");
+        area.setMessage("This is area annotation");
         area.setOpacity(0.7);
         area.setPageNumber(0);
         area.setPenColor(65535);
@@ -118,14 +80,14 @@ preview_Add:
         area.setPenWidth((byte) 3);
         area.setReplies(replies);
         
-        // Annotator 클래스의 인스턴스 생성
+        // Create an instance of Annotator class
         Annotator annotator = new Annotator("input.bmp");
         
-        // 주석 추가
+        // Add annotation
         annotator.add(area);
         
-        // 파일에 저장
-        annotator.save("출력.bmp");
+        // Save to file
+        annotator.save("output.bmp");
         annotator.dispose();
         ```
 
@@ -133,27 +95,26 @@ preview_Add:
 howTo_Remove:
 steps_Remove:
     enable: true
-    title_left: "Java에서 ~에서 JPG 주석을 제거하는 단계"
+    title_left: "Java의 JPG에서 주석을 제거하는 단계"
     content_left: |
-        [GroupDocs.Annotation](/annotation/java/) Java 개발자가 몇 가지 간단한 단계를 구현하여 모든 Java 기반 애플리케이션 내의 JPG 파일에서 주석 세부 정보를 쉽게 제거할 수 있습니다.
-        * 댓글과 날짜가 포함된 회신 개체를 만듭니다.
-        * SaveOptions 개체를 인스턴스화하고 AnnotationTypes = AnnotationType.None을 설정합니다.
-        * 결과 문서 경로 또는 스트림 및 SaveOptions 개체와 함께 저장 메서드를 호출합니다.
+        [GroupDocs.Annotation](/annotation/java/) Java 개발자가 몇 가지 간단한 단계를 구현하여 Java 기반 응용 프로그램 내의 JPG 파일에서 주석 세부 정보를 쉽게 제거할 수 있습니다.
+        *   댓글과 날짜가 포함된 Reply 객체를 생성합니다.
+        *   SaveOptions 개체를 인스턴스화하고 AnnotationTypes = AnnotationType.None을 설정합니다.
+        *   결과 문서 경로 또는 스트림과 SaveOptions 개체를 사용하여 저장 메서드를 호출합니다.
 
 ############################# Preview ############################
 preview_Remove:
     enable: true
-    
     code: |
-        ```자바
-        // Annotator 클래스의 인스턴스 생성
+        ```java
+        // Create an instance of Annotator class 
         Annotator annotator = new Annotator("C://input.bmp");
 
-        // 세트 유형으로 주석 제거 없음
+        // Remove annotation by set type None 
         SaveOptions saveOptions = new SaveOptions();
         saveOptions.setAnnotationTypes(AnnotationType.None);
 
-        // 출력 파일에 주석 저장
+        // Save annotation to output file
         annotator.save("C://output.bmp", saveOptions);
         annotator.dispose();
         ```
@@ -162,80 +123,79 @@ preview_Remove:
 howTo_Edit:
 steps_Edit:
     enable: true
-    title_left: "Java에서 주석 ~에서 JPG을 편집하는 단계"
+    title_left: "Java에서 JPG의 주석을 편집하는 단계"
     content_left: |
-        [GroupDocs.Annotation](/annotation/java/) Java 개발자가 몇 가지 간단한 단계를 구현하여 모든 Java 기반 애플리케이션 내의 JPG 파일에서 다양한 주석 속성을 쉽게 업데이트할 수 있습니다.
-        * ImportAnnotations = true로 인스턴스화된 LoadOptions가 있는 입력 문서 경로 또는 스트림으로 Annotator 개체를 인스턴스화합니다.
-        * 일부 AnnotationBase 구현을 만들고 기존 주석의 ID(해당 ID를 가진 주석을 찾을 수 없는 경우 아무 것도 변경되지 않음) 또는 주석의 경로 목록(기존의 모든 주석이 제거됨)을 설정합니다.
-        * 전달된 주석이 있는 Annotator 개체의 업데이트 메서드를 호출합니다.
-        * 결과 문서 경로 또는 스트림 및 SaveOptions 개체와 함께 저장 메서드를 호출합니다.
+        [GroupDocs.Annotation](/annotation/java/) Java 개발자가 몇 가지 간단한 단계를 구현하여 Java 기반 응용 프로그램 내의 JPG 파일에서 다양한 주석 속성을 쉽게 업데이트할 수 있습니다.
+        *   ImportAnnotations = true로 인스턴스화된 LoadOptions가 있는 입력 문서 경로 또는 스트림으로 Annotator 개체를 인스턴스화합니다.
+        *   일부 AnnotationBase 구현을 만들고 기존 주석의 ID(해당 ID를 가진 주석을 찾을 수 없는 경우 아무 것도 변경되지 않음) 또는 주석의 경로 목록(기존의 모든 주석이 제거됨)을 설정합니다.
+        *   전달된 주석으로 Annotator 객체의 업데이트 메서드를 호출합니다.
+        *   결과 문서 경로 또는 스트림과 SaveOptions 개체를 사용하여 저장 메서드를 호출합니다.
 
 ############################# Preview ############################
 preview_Edit:
     enable: true
-    
     code: |
-        ```자바
+        ```java
         String outputPath = "UpdateAnnotation.bmp";
 
-        // Annotator 클래스의 인스턴스 생성
+        // Create an instance of Annotator class
         Annotator annotator = new Annotator("input.bmp");
         
-        // 첫 번째 예제에 대한 Reply 클래스의 인스턴스를 생성하고 주석을 추가합니다.
+        // Create an instance of Reply class for first example and add comments
         Reply reply1 = new Reply();
-        reply1.setComment("원래 첫 댓글");
+        reply1.setComment("Original first comment");
         reply1.setRepliedOn(Calendar.getInstance().getTime());
         
         Reply reply2 = new Reply();
-        reply2.setComment("원래 두 번째 댓글");
+        reply2.setComment("Original second comment");
         reply2.setRepliedOn(Calendar.getInstance().getTime());
         
         java.util.List replies = new ArrayList();
         replies.add(reply1);
         replies.add(reply2);
         
-        // AreaAnnotation 클래스의 인스턴스 생성 및 옵션 설정
+        // Create an instance of AreaAnnotation class and set options
         AreaAnnotation original = new AreaAnnotation();
         original.setId(1);
         original.setBackgroundColor(65535);
         original.setBox(new Rectangle(100, 100, 100, 100));
         original.setCreatedOn(Calendar.getInstance().getTime());
-        original.setMessage("원본 주석입니다.");
+        original.setMessage("This is original annotation");
         original.setReplies(replies);
         
-        // 원래 주석 추가
+        // Add original annotation
         annotator.add(original);
         annotator.save(outputPath);
         annotator.dispose();
         
         LoadOptions loadOptions = new LoadOptions();
         
-        // 주석이 달린 문서 열기
+        // Open annotated document
         Annotator annotator1 = new Annotator(outputPath, loadOptions);
         
-        // 첫 번째 업데이트 예를 위한 Reply 클래스의 인스턴스 생성
+        // Create an instance of Reply class for update first example
         Reply reply3 = new Reply();
-        reply3.setComment("첫 댓글 업데이트");
+        reply3.setComment("Updated first comment");
         reply3.setRepliedOn(Calendar.getInstance().getTime());
         
         Reply reply4 = new Reply();
-        reply4.setComment("두 번째 댓글 업데이트");
+        reply4.setComment("Updated second comment");
         reply4.setRepliedOn(Calendar.getInstance().getTime());
         
         java.util.List replies1 = new ArrayList();
         replies1.add(reply3);
         replies1.add(reply4);
 
-        // 기존 주석의 일부 속성을 변경할 것을 제안합니다.
+        // Suggest we want change some properties of existed annotation
         AreaAnnotation updated = new AreaAnnotation();
         updated.setId(1);
         updated.setBackgroundColor(255);
         updated.setBox(new Rectangle(0, 0, 50, 200));
         updated.setCreatedOn(Calendar.getInstance().getTime());
-        updated.setMessage("업데이트된 주석입니다.");
+        updated.setMessage("This is updated annotation");
         updated.setReplies(replies1);
         
-        // 주석 업데이트 및 저장
+        // Update and save annotation
         annotator1.update(updated);
         annotator1.save(outputPath);
         annotator1.dispose();
@@ -245,24 +205,23 @@ preview_Edit:
 howTo_Extract:
 steps_Extract:
     enable: true
-    title_left: "Java에서 ~에서 JPG 주석을 추출하는 단계"
+    title_left: "Java의 JPG에서 주석을 추출하는 단계"
     content_left: |
-        [GroupDocs.Annotation](/annotation/java/) Java 개발자가 몇 가지 간단한 단계를 구현하여 Java 기반 애플리케이션 내의 JPG 파일에서 문서에 주석을 추가하고 주석 정보를 쉽게 추출할 수 있습니다.
-        * 댓글과 날짜가 포함된 회신 개체를 만듭니다.
-        * LoadOptions 개체를 인스턴스화하고 true 인수로 SetImportAnnotations를 호출합니다.
-        * 목록 유형으로 변수를 정의하십시오.
-        * get 메서드를 호출하고 결과를 위의 변수에 반환합니다.
+        [GroupDocs.Annotation](/annotation/java/) Java 개발자가 몇 가지 간단한 단계를 구현하여 Java 기반 애플리케이션 내의 JPG 파일에서 쉽게 문서에 주석을 달고 주석 정보를 추출할 수 있습니다.
+        *   댓글과 날짜가 포함된 Reply 객체를 생성합니다.
+        *   LoadOptions 개체를 인스턴스화하고 true 인수를 사용하여 SetImportAnnotations를 호출합니다.
+        *   목록 유형으로 변수를 정의하십시오.
+        *   get 메서드를 호출하고 결과를 위의 변수에 반환합니다.
 
 ############################# Preview ############################
 preview_Extract:
     enable: true
-    
     code: |
-        ```자바
-        // 이 예제를 사용하려면 입력 파일("annotated.bmp")에 주석이 있어야 합니다.
+        ```java
+        // For using this example input file ("annotated.bmp") must be with annotations
         LoadOptions loadOptions = new LoadOptions();
         
-        // Annotator 클래스의 인스턴스 생성 및 주석 가져오기
+        // Create an instance of Annotator class and get annotations
         final Annotator annotator = new Annotator("annotated.bmp", loadOptions);
         List annotations = annotator.get();
         ```
@@ -272,8 +231,8 @@ demos:
     enable: true
     title: "문서 및 이미지에 주석을 추가, 제거, 편집, 추출하는 라이브 데모"
     content: |
-        지금 바로 [GroupDocs.Annotation Live Demos](https://products.groupdocs.app/annotation/family) 웹사이트를 방문하여 JPG 파일에 주석을 추가, 제거, 편집 및 추출하세요.
-        라이브 데모에는 다음과 같은 이점이 있습니다
+        지금 바로 [GroupDocs.Annotation Live Demos](https://products.groupdocs.app/annotation/family) 웹사이트를 방문하여 주석을 JPG 파일에 추가, 제거, 편집 및 추출하세요.
+라이브 데모에는 다음과 같은 이점이 있습니다.
 
 ############################# About Formats ############################
 about_formats:
@@ -284,6 +243,7 @@ about_formats:
           title: "JPG 파일 형식 정보"
           content: |
             JPG는 손실 압축 방법을 사용하여 저장되는 이미지 형식의 한 유형입니다. 압축 결과 출력 이미지는 스토리지 크기와 이미지 품질 간의 절충안입니다. 사용자는 압축 수준을 조정하여 원하는 품질 수준을 달성하는 동시에 스토리지 크기를 줄일 수 있습니다. 10:1 압축이 이미지에 적용되는 경우 이미지 품질에 미치는 영향은 미미합니다. 압축 값이 높을수록 이미지 품질 저하가 커집니다.
+
           link: "https://docs.fileformat.com/image/jpg/"
 
 ############################# More Formats ############################

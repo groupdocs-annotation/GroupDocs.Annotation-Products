@@ -1,116 +1,78 @@
-
 ---
 ############################# Static ############################
 layout: "auto-gen-annotation"
-date: 07/05/2022 12:44:18
-draft: false
-
-###_DIMA_### link rel="canonical" href="https://products.groupdocs.com/annotation/java/dcm"/>
 
 ############################# Head ############################
-head_title: "Java DCM Anotasi API Anotasi dalam C#"
+head_title: "API Anotasi DCM Java Anotasi dalam C#"
 head_description: "Java API untuk membuat dan Menganotasi jenis anotasi populer dari DCM, gambar, gambar, dan format file dokumen."
 
 ############################# Header ############################
-title: "Beri anotasi DCM dari Java"
+title: "Anotasi DCM dari Java"
 description: ""
 bg_image: "https://cms.admin.containerize.com/templates/aspose/App_Themes/V3/images/bg/header1.png"
 bg_overlay: false
 button:
     enable: true
     icon: "fas fa-arrow-down"
-    label: "Download Free Trial"
+    label: "Unduh Uji Coba Gratis"
     link: "https://downloads.groupdocs.com/annotation/java"
-
-############################# SubMenu ############################
-submenu:
-    enable: true
-
-    left:
-        img_alt: "GroupDocs.Anotasi untuk Java"
-        image: "https://cms.admin.containerize.com/templates/groupdocs/images/product-logos/90x90-noborder/groupdocs-annotation-java.png"
-        product: "GroupDocs.Annotation"
-        platform: "Java"
-
-    middle:
-        button:
-            # button loop
-            - link: "https://apireference.groupdocs.com/annotation/java"
-              text: "API Reference"
-            # button loop
-            - link: "https://github.com/groupdocs-annotation"
-              text: "Code Examples"
-            # button loop
-            - link: "https://products.groupdocs.app/annotation/family"
-              text: "Live Demos"
-            # button loop
-            - link: "https://purchase.groupdocs.com/pricing/annotation/java"
-              text: "Pricing"
-
-    right:
-        link_download: "https://downloads.groupdocs.com/annotation"
-        link_learn: "https://docs.groupdocs.com/annotation/java"
-        link_buy: "https://purchase.groupdocs.com"
 
 ############################# About ############################
 about:
     enable: true
     title: "Tentang GroupDocs.Annotation untuk Java API"
     content: |
-        GroupDocs.Annotation for Java API adalah pustaka yang memungkinkan Anda menambahkan anotasi ke PDF, Word, dan dokumen lain di Mac, Windows, atau Ubuntu. [GroupDocs.Annotation for Java](/annotation/java) adalah API asli Java untuk mengelola anotasi dengan dukungan komprehensif untuk membuat, menambahkan, mengedit, menghapus, mengekstrak, dan mengekspor anotasi dari gambar dan berbagai dokumen lainnya. Daftar lengkap format dokumen yang didukung dapat Anda lihat di [halaman](https://docs.groupdocs.com/annotation/java/supported-document-formats/) ini.
-
-        Pustaka ini memungkinkan Anda bekerja tidak hanya dengan dokumen DCM tetapi juga dengan banyak jenis dokumen lainnya seperti Word, Excel, PowerPoint, email Outlook, Visio, Adobe, OpenDocument, OpenOffice, Photoshop, AutoCad, dan banyak lainnya.
-
-        GroupDocs.Annotation untuk Java API memungkinkan Anda membuat dan menambahkan catatan baru, mengedit anotasi, mengekstrak komentar, anotasi, dan menghapusnya dari dokumen. Perpustakaan mendukung 13 jenis anotasi yang berbeda, termasuk Teks, Polyline, Area, Garis Bawah, Titik, Tanda Air, Panah, Ellipse, Penggantian Teks, Jarak, Bidang Teks, Redaksi Sumber Daya dalam PDF, HTML, dokumen Microsoft Word, spreadsheet, diagram, presentasi, gambar, gambar dan banyak format file lainnya.
-
-        Contoh (silakan lihat di bawah) mendemonstrasikan bekerja dengan dokumen DCM, dalam contoh ini Anda dapat melihat langkah-langkah utama tentang cara bekerja dengan GroupDocs. Anotasi: Menyiapkan lisensi, membuka dokumen yang ingin Anda kerjakan, membuat anotasi, menambahkan objek data untuk mengatur properti anotasi sesuai dengan kebutuhan Anda dan menyimpan hasilnya ke tempat yang diperlukan. Anda juga dapat melihat lebih detail tentang fitur yang didukung di github kami [halaman](https://github.com/groupdocs-annotation/GroupDocs.Annotation-for-Java), atau di [dokumentasi produk kami ](https://docs.groupdocs.com/annotation/java/getting-started/).
+        GroupDocs.Annotation for Java API adalah pustaka yang memungkinkan Anda menambahkan anotasi ke PDF, Word, dan dokumen lain di Mac, Windows, atau Ubuntu. [GroupDocs.Annotation for Java](/annotation/java) adalah Java API asli untuk mengelola anotasi dengan dukungan komprehensif untuk membuat, menambahkan, mengedit, menghapus, mengekstrak, dan mengekspor anotasi dari gambar dan berbagai dokumen lainnya. Daftar lengkap format dokumen yang didukung dapat Anda lihat di [halaman](https://docs.groupdocs.com/annotation/java/supported-document-formats/) ini.
+        Pustaka ini memungkinkan Anda untuk bekerja tidak hanya dengan dokumen DCM tetapi juga dengan banyak jenis dokumen lainnya seperti Word, Excel, PowerPoint, email Outlook, Visio, Adobe, OpenDocument, OpenOffice, Photoshop, AutoCad, dan banyak lainnya.
+        GroupDocs.Annotation for Java API memungkinkan Anda membuat dan menambahkan catatan baru, mengedit anotasi, mengekstrak komentar, anotasi, dan menghapusnya dari dokumen. Perpustakaan mendukung 13 jenis anotasi yang berbeda, termasuk Teks, Polyline, Area, Garis Bawah, Titik, Tanda Air, Panah, Ellipse, Penggantian Teks, Jarak, Bidang Teks, Redaksi Sumber Daya dalam PDF, HTML, dokumen Microsoft Word, spreadsheet, diagram, presentasi, gambar, gambar dan banyak format file lainnya.
+        Contoh (silakan lihat di bawah) mendemonstrasikan bekerja dengan dokumen DCM, dalam contoh ini Anda dapat melihat langkah-langkah utama tentang cara bekerja dengan GroupDocs. Anotasi: Menyiapkan lisensi, membuka dokumen yang ingin Anda kerjakan, membuat anotasi, menambahkan objek data untuk mengatur properti anotasi sesuai dengan kebutuhan Anda dan menyimpan hasilnya ke tempat yang diperlukan. Anda juga dapat melihat lebih mendetail tentang fitur yang didukung di [halaman] github kami (https://github.com/groupdocs-annotation/GroupDocs.Annotation-for-Java), atau di [dokumentasi] produk kami (https: //docs.groupdocs.com/annotation/java/getting-started/).
 
 ############################# Steps ############################
 howTo_Add:
 steps_Add:
     enable: true
-    title_left: "Langkah-langkah untuk Menambahkan Anotasi dari DCM di Java"
+    title_left: "Langkah-langkah untuk Menambahkan Anotasi ke DCM di Java"
     content_left: |
-        [GroupDocs.Annotation](/annotation/java/) memudahkan pengembang Java untuk menambahkan berbagai jenis anotasi ke file DCM dalam aplikasi berbasis Java apa pun dengan menerapkan beberapa langkah mudah.
-        * Buat objek Balas dengan komentar dan tanggal.
-        * Buat objek AreaAnnotation, atur opsi area dan tambahkan balasan.
-        * Buat objek Annotator dan tambahkan anotasi area.
-        * Simpan file keluaran.
+        [GroupDocs.Annotation](/annotation/java/) memudahkan pengembang Java untuk menambahkan berbagai jenis anotasi ke file DCM dalam aplikasi berbasis Java dengan menerapkan beberapa langkah mudah.
+        *   Buat objek Balas dengan komentar dan tanggal.
+        *   Buat objek AreaAnnotation, setel opsi area, dan tambahkan balasan.
+        *   Buat objek Annotator dan tambahkan anotasi area.
+        *   Simpan file keluaran.
     title_right: "Persyaratan sistem"
     content_right: |
-        GroupDocs.Annotation untuk Java API didukung di semua platform dan sistem operasi utama. Sebelum menjalankan kode di bawah ini, harap pastikan bahwa Anda telah menginstal prasyarat berikut di sistem Anda.
-        * Sistem Operasi: Microsoft Windows, Linux, MacOS
-        * Lingkungan Pengembangan: NetBeans, Intellij IDEA, Eclipse dll
-        * Java Runtime Environment: Java 7 (1.7) dan yang lebih baru
-        * Dapatkan versi terbaru GroupDocs.Annotation untuk Java dari [GroupDocs Artifact Repository](https://repository.groupdocs.com/webapp/#/artifacts/browse/tree/General/repo/com/groupdocs/groupdocs-annotation)
+        GroupDocs.Anotasi untuk Java API didukung di semua platform utama dan sistem operasi. Sebelum menjalankan kode di bawah ini, harap pastikan bahwa Anda telah menginstal prasyarat berikut di sistem Anda.
+        *   Sistem Operasi: Microsoft Windows, Linux, MacOS
+        *   Lingkungan Pengembangan: NetBeans, Intellij IDEA, Eclipse dll
+        *   Java Runtime Environment: Java 7 (1.7) dan yang lebih baru
+        *   Dapatkan versi terbaru GroupDocs.Annotation untuk Java dari [GroupDocs Artifact Repository](https://repository.groupdocs.com/webapp/#/artifacts/browse/tree/General/repo/com/groupdocs/groupdocs-annotation)
 
 ############################# Preview ############################
 preview_Add:
     enable: true
-    title: "Pratinjau anotasi dan contoh kode"
+    title: Pratinjau anotasi dan contoh kode
     content: |
-        ![Gambar pratinjau anotasi](https://docs.groupdocs.com/annotation/java/images/add-area-annotation.png)
+        ![Annotation preview image](https://docs.groupdocs.com/annotation/java/images/add-area-annotation.png)
     code: |
-        ``` jawa
-        // Buat instance kelas Balas dan tambahkan komentar
+        ```java
+        // Create an instance of Reply class and add comments
         Reply firstReply = new Reply();
-        firstReply.setComment("Komentar pertama");
+        firstReply.setComment("First comment");
         firstReply.setRepliedOn(Calendar.getInstance().getTime());
         
         Reply secondReply = new Reply();
-        secondReply.setComment("Komentar kedua");
+        secondReply.setComment("Second comment");
         secondReply.setRepliedOn(Calendar.getInstance().getTime());
         
         List<Reply> replies = new ArrayList<Reply>();
         replies.add(firstReply);
         replies.add(secondReply);
         
-        // Buat instance kelas AreaAnnotation dan setel opsi
+        // Create an instance of AreaAnnotation class and set options
         AreaAnnotation area = new AreaAnnotation();
         area.setBackgroundColor(65535);
-        area.setBox(new Rectangle baru(100, 100, 100, 100));
+        area.setBox(new Rectangle(100, 100, 100, 100));
         area.setCreatedOn(Calendar.getInstance().getTime());
-        area.setMessage("Ini adalah anotasi area");
+        area.setMessage("This is area annotation");
         area.setOpacity(0.7);
         area.setPageNumber(0);
         area.setPenColor(65535);
@@ -118,13 +80,13 @@ preview_Add:
         area.setPenWidth((byte) 3);
         area.setReplies(replies);
         
-        // Buat instance kelas Annotator
+        // Create an instance of Annotator class
         Annotator annotator = new Annotator("input.bmp");
         
-        // Tambahkan anotasi
-        anotator.add(area);
+        // Add annotation
+        annotator.add(area);
         
-        // Simpan ke file
+        // Save to file
         annotator.save("output.bmp");
         annotator.dispose();
         ```
@@ -135,25 +97,24 @@ steps_Remove:
     enable: true
     title_left: "Langkah-langkah untuk Menghapus Anotasi dari DCM di Java"
     content_left: |
-        [GroupDocs.Annotation](/annotation/java/) mempermudah pengembang Java untuk menghapus detail anotasi dari file DCM dalam aplikasi berbasis Java apa pun dengan menerapkan beberapa langkah mudah.
-        * Buat objek Balas dengan komentar dan tanggal.
-        * Instansiasi objek SaveOptions dan atur AnnotationTypes = AnnotationType.None.
-        * Panggil metode penyimpanan dengan jalur atau aliran dokumen yang dihasilkan dan objek SaveOptions.
+        [GroupDocs.Annotation](/annotation/java/) mempermudah pengembang Java untuk menghapus detail anotasi dari file DCM dalam aplikasi berbasis Java dengan menerapkan beberapa langkah mudah.
+        *   Buat objek Balas dengan komentar dan tanggal.
+        *   Instansiasi objek SaveOptions dan atur AnnotationTypes = AnnotationType.None.
+        *   Panggil metode penyimpanan dengan jalur atau aliran dokumen yang dihasilkan dan objek SaveOptions.
 
 ############################# Preview ############################
 preview_Remove:
     enable: true
-    
     code: |
-        ``` jawa
-        // Buat instance kelas Annotator
+        ```java
+        // Create an instance of Annotator class 
         Annotator annotator = new Annotator("C://input.bmp");
 
-        // Hapus anotasi berdasarkan tipe yang ditetapkan Tidak ada
+        // Remove annotation by set type None 
         SaveOptions saveOptions = new SaveOptions();
         saveOptions.setAnnotationTypes(AnnotationType.None);
 
-        // Simpan anotasi ke file keluaran
+        // Save annotation to output file
         annotator.save("C://output.bmp", saveOptions);
         annotator.dispose();
         ```
@@ -164,78 +125,77 @@ steps_Edit:
     enable: true
     title_left: "Langkah-langkah untuk Mengedit Anotasi dari DCM di Java"
     content_left: |
-        [GroupDocs.Annotation](/annotation/java/) mempermudah pengembang Java untuk memperbarui berbagai properti anotasi dari file DCM dalam aplikasi berbasis Java apa pun dengan menerapkan beberapa langkah mudah.
-        * Instansiasi objek Annotator dengan jalur atau aliran dokumen masukan dengan LoadOptions yang dibuat dengan ImportAnnotations = true.
-        * Buat beberapa implementasi AnnotationBase dan tetapkan Id dari anotasi yang ada (jika anotasi dengan Id tersebut tidak ditemukan, tidak ada yang akan diubah) atau daftar jalur anotasi (semua anotasi yang ada akan dihapus).
-        * Panggil metode pembaruan objek Annotator dengan anotasi yang diteruskan.
-        * Panggil metode penyimpanan dengan jalur atau aliran dokumen yang dihasilkan dan objek SaveOptions.
+        [GroupDocs.Annotation](/annotation/java/) memudahkan pengembang Java untuk memperbarui berbagai properti anotasi dari file DCM dalam aplikasi berbasis Java dengan menerapkan beberapa langkah mudah.
+        *   Instansiasi objek Annotator dengan jalur atau aliran dokumen masukan dengan LoadOptions yang dibuat instance dengan ImportAnnotations = true.
+        *   Buat beberapa implementasi AnnotationBase dan tetapkan Id anotasi yang ada (jika anotasi dengan Id tersebut tidak ditemukan, tidak ada yang akan diubah) atau daftar jalur anotasi (semua anotasi yang ada akan dihapus).
+        *   Panggil metode pembaruan objek Annotator dengan anotasi yang diteruskan.
+        *   Panggil metode penyimpanan dengan jalur atau aliran dokumen yang dihasilkan dan objek SaveOptions.
 
 ############################# Preview ############################
 preview_Edit:
     enable: true
-    
     code: |
-        ``` jawa
+        ```java
         String outputPath = "UpdateAnnotation.bmp";
 
-        // Buat instance kelas Annotator
+        // Create an instance of Annotator class
         Annotator annotator = new Annotator("input.bmp");
         
-        // Buat instance kelas Balas untuk contoh pertama dan tambahkan komentar
+        // Create an instance of Reply class for first example and add comments
         Reply reply1 = new Reply();
-        reply1.setComment("Komentar pertama asli");
+        reply1.setComment("Original first comment");
         reply1.setRepliedOn(Calendar.getInstance().getTime());
         
         Reply reply2 = new Reply();
-        reply2.setComment("Komentar kedua asli");
+        reply2.setComment("Original second comment");
         reply2.setRepliedOn(Calendar.getInstance().getTime());
         
         java.util.List replies = new ArrayList();
         replies.add(reply1);
         replies.add(reply2);
         
-        // Buat instance kelas AreaAnnotation dan setel opsi
+        // Create an instance of AreaAnnotation class and set options
         AreaAnnotation original = new AreaAnnotation();
         original.setId(1);
         original.setBackgroundColor(65535);
         original.setBox(new Rectangle(100, 100, 100, 100));
         original.setCreatedOn(Calendar.getInstance().getTime());
-        original.setMessage("Ini adalah anotasi asli");
+        original.setMessage("This is original annotation");
         original.setReplies(replies);
         
-        // Tambahkan anotasi asli
+        // Add original annotation
         annotator.add(original);
         annotator.save(outputPath);
         annotator.dispose();
         
-        LoadOptions loadOptions = LoadOptions baru();
+        LoadOptions loadOptions = new LoadOptions();
         
-        // Buka dokumen beranotasi
+        // Open annotated document
         Annotator annotator1 = new Annotator(outputPath, loadOptions);
         
-        // Buat instance kelas Balas untuk memperbarui contoh pertama
+        // Create an instance of Reply class for update first example
         Reply reply3 = new Reply();
-        reply3.setComment("Komentar pertama diperbarui");
+        reply3.setComment("Updated first comment");
         reply3.setRepliedOn(Calendar.getInstance().getTime());
         
         Reply reply4 = new Reply();
-        reply4.setComment("Komentar kedua diperbarui");
+        reply4.setComment("Updated second comment");
         reply4.setRepliedOn(Calendar.getInstance().getTime());
         
         java.util.List replies1 = new ArrayList();
         replies1.add(reply3);
         replies1.add(reply4);
 
-        // Sarankan kami ingin mengubah beberapa properti dari anotasi yang ada
+        // Suggest we want change some properties of existed annotation
         AreaAnnotation updated = new AreaAnnotation();
         updated.setId(1);
         updated.setBackgroundColor(255);
-        updated.setBox(new Rectangle baru(0, 0, 50, 200));
+        updated.setBox(new Rectangle(0, 0, 50, 200));
         updated.setCreatedOn(Calendar.getInstance().getTime());
-        updated.setMessage("Ini adalah anotasi yang diperbarui");
+        updated.setMessage("This is updated annotation");
         updated.setReplies(replies1);
         
-        // Perbarui dan simpan anotasi
+        // Update and save annotation
         annotator1.update(updated);
         annotator1.save(outputPath);
         annotator1.dispose();
@@ -247,22 +207,21 @@ steps_Extract:
     enable: true
     title_left: "Langkah-langkah untuk Mengekstrak Anotasi dari DCM di Java"
     content_left: |
-        [GroupDocs.Annotation](/annotation/java/) memudahkan pengembang Java untuk menganotasi dokumen dan mengekstrak informasi anotasi dari file DCM dalam aplikasi berbasis Java apa pun dengan menerapkan beberapa langkah mudah.
-        * Buat objek Balas dengan komentar dan tanggal.
-        * Instansiasi objek LoadOptions dan panggil SetImportAnnotations dengan argumen yang benar.
-        * Tentukan variabel dengan jenis Daftar.
-        * Panggil metode dapatkan dan kembalikan hasilnya ke variabel di atas.
+        [GroupDocs.Annotation](/annotation/java/) memudahkan pengembang Java untuk membuat anotasi dokumen dan mengekstrak informasi anotasi dari file DCM dalam aplikasi berbasis Java dengan menerapkan beberapa langkah mudah.
+        *   Buat objek Balas dengan komentar dan tanggal.
+        *   Instansiasi objek LoadOptions dan panggil SetImportAnnotations dengan argumen yang benar.
+        *   Tentukan variabel dengan tipe Daftar.
+        *   Panggil metode dapatkan dan kembalikan hasil ke variabel di atas.
 
 ############################# Preview ############################
 preview_Extract:
     enable: true
-    
     code: |
-        ``` jawa
-        // Untuk menggunakan file input contoh ini ("annotated.bmp") harus dengan anotasi
-        LoadOptions loadOptions = LoadOptions baru();
+        ```java
+        // For using this example input file ("annotated.bmp") must be with annotations
+        LoadOptions loadOptions = new LoadOptions();
         
-        // Buat instance kelas Annotator dan dapatkan anotasi
+        // Create an instance of Annotator class and get annotations
         final Annotator annotator = new Annotator("annotated.bmp", loadOptions);
         List annotations = annotator.get();
         ```
@@ -273,7 +232,7 @@ demos:
     title: "Demo Langsung untuk Menambah, Menghapus, Mengedit, Mengekstrak Anotasi ke Dokumen dan Gambar"
     content: |
         Tambahkan, hapus, edit, dan ekstrak anotasi ke file DCM sekarang juga dengan mengunjungi situs web [GroupDocs.Annotation Live Demos](https://products.groupdocs.app/annotation/family).
-        Demo langsung memiliki manfaat berikut
+Demo langsung memiliki manfaat berikut
 
 ############################# About Formats ############################
 about_formats:
@@ -281,9 +240,10 @@ about_formats:
     format:
         # format loop
         - icon: "far fa-file-dcm"
-          title: "Tentang DCM Format Berkas"
+          title: "Tentang DCM Format File"
           content: |
-            DICOM adalah singkatan dari Digital Imaging and Communications in Medicine dan berkaitan dengan bidang Informatika Medis. DICOM adalah kombinasi dari definisi format file dan protokol komunikasi jaringan. DICOM menggunakan ekstensi .DCM. .DCM ada dalam dua format berbeda yaitu format 1.x dan format 2.x. DCM Format 1.x selanjutnya tersedia dalam dua versi normal dan diperpanjang. DICOM digunakan untuk integrasi perangkat pencitraan medis seperti printer, server, pemindai dll dari berbagai vendor dan juga berisi data identifikasi setiap pasien untuk keunikannya. File DICOM dapat dibagi antara dua pihak jika mereka mampu menerima data gambar dalam format DICOM. Bagian komunikasi DICOM adalah protokol lapisan aplikasi dan menggunakan TCP/IP untuk berkomunikasi antar entitas. Protokol HTTP dan HTTPS digunakan untuk layanan web DICOM. Versi yang didukung oleh layanan web adalah 1.0, 1.1, 2 atau lebih baru.
+            File dengan ekstensi .DCM mewakili citra digital yang menyimpan informasi medis pasien seperti MRI, CT scan, dan citra ultrasound. Ini dikembangkan oleh National Electrical Manufacturers Association (NEMA) dan dimaksudkan untuk membakukan format file pencitraan untuk distribusi dan tampilan gambar medis. Ini mirip dengan format file DICOM dan dapat menyertakan informasi pasien untuk referensi.
+
           link: "https://docs.fileformat.com/image/dcm/"
 
 ############################# More Formats ############################

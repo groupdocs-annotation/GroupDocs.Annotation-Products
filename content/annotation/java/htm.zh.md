@@ -1,279 +1,238 @@
-
 ---
 ############################# Static ############################
 layout: "auto-gen-annotation"
-date: 07/05/2022 12:44:18
-draft: false
-
-###_DIMA_### link rel="canonical" href="https://products.groupdocs.com/annotation/java/htm"/>
 
 ############################# Head ############################
-head_title: "Java HTM C#中的注解API注解"
-head_description: "用于创建 Java API 和 注释 流行注释类型 从 HTM、图像、绘图和文档文件格式。"
+head_title: "Java HTM Annotation API C# 中的注释"
+head_description: "Java API 用于从 HTM、图像、绘图和文档文件格式创建和注释流行的注释类型。"
 
 ############################# Header ############################
-title: "注释 HTM 从 Java"
+title: "从 Java 注释 HTM"
 description: ""
 bg_image: "https://cms.admin.containerize.com/templates/aspose/App_Themes/V3/images/bg/header1.png"
 bg_overlay: false
 button:
     enable: true
     icon: "fas fa-arrow-down"
-    label: "Download Free Trial"
+    label: "下载免费试用版"
     link: "https://downloads.groupdocs.com/annotation/java"
-
-############################# SubMenu ############################
-submenu:
-    enable: true
-
-    left:
-        img_alt: "Java 的 GroupDocs.Annotation"
-        image: "https://cms.admin.containerize.com/templates/groupdocs/images/product-logos/90x90-noborder/groupdocs-annotation-java.png"
-        product: "GroupDocs.Annotation"
-        platform: "Java"
-
-    middle:
-        button:
-            # button loop
-            - link: "https://apireference.groupdocs.com/annotation/java"
-              text: "API Reference"
-            # button loop
-            - link: "https://github.com/groupdocs-annotation"
-              text: "Code Examples"
-            # button loop
-            - link: "https://products.groupdocs.app/annotation/family"
-              text: "Live Demos"
-            # button loop
-            - link: "https://purchase.groupdocs.com/pricing/annotation/java"
-              text: "Pricing"
-
-    right:
-        link_download: "https://downloads.groupdocs.com/annotation"
-        link_learn: "https://docs.groupdocs.com/annotation/java"
-        link_buy: "https://purchase.groupdocs.com"
 
 ############################# About ############################
 about:
     enable: true
     title: "关于 Java API 的 GroupDocs.Annotation"
     content: |
-        GroupDocs.Annotation for Java API 是一个库，允许您在 Mac、Windows 或 Ubuntu 上向 PDF、Word 和其他文档添加注释。 [GroupDocs.Annotation for Java](/annotation/java) 是用于管理注释的原生 Java API，全面支持创建、添加、编辑、删除、提取和导出注释图像和各种其他文档。您可以在此[页面](https://docs.groupdocs.com/annotation/java/supported-document-formats/)上看到支持的文档格式的完整列表。
-
+        GroupDocs.Annotation for Java API 是一个库，允许您在 Mac、Windows 或 Ubuntu 上向 PDF、Word 和其他文档添加注释。 [GroupDocs.Annotation for Java](/annotation/java) 是一个用于管理注释的原生 Java API，全面支持从图像和各种其他文档中创建、添加、编辑、删除、提取和导出注释。您可以在此[页面](https://docs.groupdocs.com/annotation/java/supported-document-formats/)上看到支持的文档格式的完整列表。
         该库不仅允许您处理 HTM 文档，还可以处理许多其他类型的文档，例如 Word、Excel、PowerPoint、Outlook 电子邮件、Visio、Adobe、OpenDocument、OpenOffice、Photoshop、AutoCad 等。
-
-        Java API 的 GroupDocs.Annotation 允许您创建和添加新注释、编辑 注释、提炼 注释、注释，并从文档中 删除 它们。该库支持 13 种不同的注释类型，包括文本、折线、区域、下划线、点、水印、箭头、椭圆、文本替换、距离、文本字段、PDF、HTML、Microsoft Word 文档、电子表格、图表、演示文稿中的资源编辑，绘图、图像和许多其他文件格式。
-
-        该示例（请参见下文）演示了如何使用 HTM 文档，在此示例中您可以看到如何使用 GroupDocs 的主要步骤。注释: 设置许可证、打开要使用的文档、创建注释，根据需要添加数据对象设置注释属性，并将结果保存到需要的地方。此外，您还可以在我们的 github [页面](https://github.com/groupdocs-annotation/GroupDocs.Annotation-for-Java) 或我们的产品 上查看更详细的支持功能 [文档](https://docs.groupdocs.com/annotation/java/getting-started/)。
+        GroupDocs.Annotation for Java API 允许您创建和添加新注释、编辑注释、提取注释、注释以及从文档中删除它们。该库支持 13 种不同的注释类型，包括文本、折线、区域、下划线、点、水印、箭头、椭圆、文本替换、距离、文本字段、PDF、HTML、Microsoft Word 文档、电子表格、图表、演示文稿中的资源编辑，绘图、图像和许多其他文件格式。
+        该示例（请参见下文）演示了如何使用 HTM 文档，在此示例中您可以看到如何使用 GroupDocs 的主要步骤。注释：设置许可证、打开要使用的文档、创建注释，根据需要添加数据对象设置注释属性，并将结果保存到需要的地方。您还可以在我们的 github [页面](https://github.com/groupdocs-annotation/GroupDocs.Annotation-for-Java) 或我们的产品 [文档](https: //docs.groupdocs.com/annotation/java/getting-started/)。
 
 ############################# Steps ############################
 howTo_Add:
 steps_Add:
     enable: true
-    title_left: "在 Java 中添加注释 从 HTM 的步骤"
+    title_left: "在 Java 中向 HTM 添加注释的步骤"
     content_left: |
         [GroupDocs.Annotation](/annotation/java/) 通过实施几个简单的步骤，Java 开发人员可以轻松地将各种注释类型添加到任何基于 Java 的应用程序中的 HTM 文件。
-        * 创建带有评论和日期的回复对象。
-        * 创建AreaAnnotation对象，设置区域选项并添加回复。
-        * 创建Annotator对象并添加区域注释。
-        * 保存输出文件。
+        *   创建带有评论和日期的 Reply 对象。
+        *   创建 AreaAnnotation 对象，设置区域选项并添加回复。
+        *   创建 Annotator 对象并添加区域注释。
+        *   保存输出文件。
     title_right: "系统要求"
     content_right: |
         所有主要平台和操作系统都支持 Java API 的 GroupDocs.Annotation。在执行下面的代码之前，请确保您的系统上安装了以下先决条件。
-        * 操作系统: Microsoft Windows、Linux、MacOS
-        * 开发环境: NetBeans、Intellij IDEA、Eclipse等
-        * Java运行时环境: Java 7 (1.7)及以上
-        * 从 [GroupDocs Artifact Repository](https://repository.groupdocs.com/webapp/#/artifacts/browse/tree/General/repo/com/groupdocs/groupdocs-annotation) 获取最新版本的 GroupDocs.Annotation for Java
+        *   操作系统：Microsoft Windows、Linux、MacOS
+        *   开发环境：NetBeans、Intellij IDEA、Eclipse等
+        *   Java 运行时环境：Java 7 (1.7) 及更高版本
+        *   从 [GroupDocs Artifact Repository](https://repository.groupdocs.com/webapp/#/artifacts/browse/tree/General/repo/com/groupdocs/groupdocs-annotation) 获取最新版本的 GroupDocs.Annotation for Java
 
 ############################# Preview ############################
 preview_Add:
     enable: true
-    title: "注解预览和代码示例"
+    title: 注释预览和代码示例
     content: |
         ![Annotation preview image](https://docs.groupdocs.com/annotation/java/images/add-area-annotation.png)
     code: |
-        ``java
-        // 创建Reply类的实例并添加注释
+        ```java
+        // Create an instance of Reply class and add comments
         Reply firstReply = new Reply();
-        firstReply.setComment("第一条评论");
+        firstReply.setComment("First comment");
         firstReply.setRepliedOn(Calendar.getInstance().getTime());
         
         Reply secondReply = new Reply();
-        secondaryreply.setComment("第二条评论");
-        SecondReply.setRepliedOn(Calendar.getInstance().getTime());
+        secondReply.setComment("Second comment");
+        secondReply.setRepliedOn(Calendar.getInstance().getTime());
         
         List<Reply> replies = new ArrayList<Reply>();
         replies.add(firstReply);
         replies.add(secondReply);
         
-        // 创建 AreaAnnotation 类的实例并设置选项
+        // Create an instance of AreaAnnotation class and set options
         AreaAnnotation area = new AreaAnnotation();
         area.setBackgroundColor(65535);
         area.setBox(new Rectangle(100, 100, 100, 100));
         area.setCreatedOn(Calendar.getInstance().getTime());
-        area.setMessage("这是区域注释");
+        area.setMessage("This is area annotation");
         area.setOpacity(0.7);
         area.setPageNumber(0);
         area.setPenColor(65535);
         area.setPenStyle(PenStyle.Dot);
-        area.setPenWidth((byte)3);
+        area.setPenWidth((byte) 3);
         area.setReplies(replies);
         
-        // 创建 Annotator 类的实例
+        // Create an instance of Annotator class
         Annotator annotator = new Annotator("input.bmp");
         
-        // 添加注释
+        // Add annotation
         annotator.add(area);
         
-        // 保存到文件
+        // Save to file
         annotator.save("output.bmp");
         annotator.dispose();
-        ````
+        ```
 
 ############################# Steps ############################
 howTo_Remove:
 steps_Remove:
     enable: true
-    title_left: "在 Java 中删除注释 从 HTM 的步骤"
+    title_left: "在 Java 中从 HTM 中删除注释的步骤"
     content_left: |
         [GroupDocs.Annotation](/annotation/java/) 通过实施几个简单的步骤，Java 开发人员可以更轻松地从任何基于 Java 的应用程序中的 HTM 文件中删除注释详细信息。
-        * 创建带有评论和日期的回复对象。
-        * 实例化 SaveOptions 对象并设置 AnnotationTypes = AnnotationType.None。
-        * 使用生成的文档路径或流以及 SaveOptions 对象调用保存方法。
+        *   创建带有评论和日期的 Reply 对象。
+        *   实例化 SaveOptions 对象并设置 AnnotationTypes = AnnotationType.None。
+        *   使用生成的文档路径或流以及 SaveOptions 对象调用 save 方法。
 
 ############################# Preview ############################
 preview_Remove:
     enable: true
-    
     code: |
-        ``java
-        // 创建 Annotator 类的实例
+        ```java
+        // Create an instance of Annotator class 
         Annotator annotator = new Annotator("C://input.bmp");
 
-        // 通过设置类型 None 移除注解
+        // Remove annotation by set type None 
         SaveOptions saveOptions = new SaveOptions();
         saveOptions.setAnnotationTypes(AnnotationType.None);
 
-        // 将注释保存到输出文件
+        // Save annotation to output file
         annotator.save("C://output.bmp", saveOptions);
         annotator.dispose();
-        ````
+        ```
 
 ############################# Steps ############################
 howTo_Edit:
 steps_Edit:
     enable: true
-    title_left: "在 Java 中编辑注释 从 HTM 的步骤"
+    title_left: "在 Java 中编辑 HTM 注释的步骤"
     content_left: |
-        [GroupDocs.Annotation](/annotation/java/) 通过实施几个简单的步骤，Java 开发人员可以更轻松地在任何基于 Java 的应用程序中更新来自 HTM 文件的各种注释属性。
-        * 使用输入文档路径或流实例化 Annotator 对象，并使用 ImportAnnotations = true 实例化 LoadOptions。
-        * 创建一些AnnotationBase实现并设置现有注释的Id（如果未找到具有该Id的注释，则不会更改任何内容）或注释的路径列表（所有现有注释将被删除）。
-        * 使用传递的注释调用 Annotator 对象的更新方法。
-        * 使用生成的文档路径或流以及 SaveOptions 对象调用保存方法。
+        [GroupDocs.Annotation](/annotation/java/) 通过实施几个简单的步骤，Java 开发人员可以更轻松地从任何基于 Java 的应用程序中的 HTM 文件更新各种注释属性。
+        *   使用输入文档路径或流实例化 Annotator 对象，并使用 ImportAnnotations = true 实例化 LoadOptions。
+        *   创建一些 AnnotationBase 实现并设置现有注释的 Id（如果未找到具有该 Id 的注释，则不会更改任何内容）或注释的路径列表（所有现有注释将被删除）。
+        *   使用传递的注释调用 Annotator 对象的更新方法。
+        *   使用生成的文档路径或流以及 SaveOptions 对象调用 save 方法。
 
 ############################# Preview ############################
 preview_Edit:
     enable: true
-    
     code: |
-        ``java
+        ```java
         String outputPath = "UpdateAnnotation.bmp";
 
-        // 创建 Annotator 类的实例
+        // Create an instance of Annotator class
         Annotator annotator = new Annotator("input.bmp");
         
-        // 为第一个示例创建 Reply 类的实例并添加注释
+        // Create an instance of Reply class for first example and add comments
         Reply reply1 = new Reply();
-        reply1.setComment("原第一条评论");
+        reply1.setComment("Original first comment");
         reply1.setRepliedOn(Calendar.getInstance().getTime());
         
         Reply reply2 = new Reply();
-        reply2.setComment("原第二条评论");
+        reply2.setComment("Original second comment");
         reply2.setRepliedOn(Calendar.getInstance().getTime());
         
         java.util.List replies = new ArrayList();
         replies.add(reply1);
         replies.add(reply2);
         
-        // 创建 AreaAnnotation 类的实例并设置选项
+        // Create an instance of AreaAnnotation class and set options
         AreaAnnotation original = new AreaAnnotation();
         original.setId(1);
         original.setBackgroundColor(65535);
         original.setBox(new Rectangle(100, 100, 100, 100));
-        Original.setCreatedOn(Calendar.getInstance().getTime());
-        Original.setMessage("这是原始注释");
+        original.setCreatedOn(Calendar.getInstance().getTime());
+        original.setMessage("This is original annotation");
         original.setReplies(replies);
         
-        // 添加原始注释
+        // Add original annotation
         annotator.add(original);
         annotator.save(outputPath);
         annotator.dispose();
         
         LoadOptions loadOptions = new LoadOptions();
         
-        // 打开带注释的文档
+        // Open annotated document
         Annotator annotator1 = new Annotator(outputPath, loadOptions);
         
-        // 创建 Reply 类的实例以用于更新第一个示例
+        // Create an instance of Reply class for update first example
         Reply reply3 = new Reply();
-        reply3.setComment("更新第一条评论");
+        reply3.setComment("Updated first comment");
         reply3.setRepliedOn(Calendar.getInstance().getTime());
         
         Reply reply4 = new Reply();
-        reply4.setComment("更新第二条评论");
+        reply4.setComment("Updated second comment");
         reply4.setRepliedOn(Calendar.getInstance().getTime());
         
         java.util.List replies1 = new ArrayList();
         replies1.add(reply3);
         replies1.add(reply4);
 
-        // 建议我们要更改现有注释的一些属性
+        // Suggest we want change some properties of existed annotation
         AreaAnnotation updated = new AreaAnnotation();
         updated.setId(1);
         updated.setBackgroundColor(255);
         updated.setBox(new Rectangle(0, 0, 50, 200));
         updated.setCreatedOn(Calendar.getInstance().getTime());
-        Updated.setMessage(“这是更新的注释”);
+        updated.setMessage("This is updated annotation");
         updated.setReplies(replies1);
         
-        // 更新并保存注释
+        // Update and save annotation
         annotator1.update(updated);
         annotator1.save(outputPath);
         annotator1.dispose();
-        ````
+        ```
 
 ############################# Steps ############################
 howTo_Extract:
 steps_Extract:
     enable: true
-    title_left: "在 Java 中提取注释 从 HTM 的步骤"
+    title_left: "在 Java 中从 HTM 提取注释的步骤"
     content_left: |
-        [GroupDocs.Annotation](/annotation/java/) 通过实施几个简单的步骤，Java 开发人员可以轻松地在任何基于 Java 的应用程序中对文档进行注释并从 HTM 文件中提取注释信息。
-        * 创建带有评论和日期的回复对象。
-        * 实例化 LoadOptions 对象并使用 true 参数调用 SetImportAnnotations。
-        * 定义List类型的变量。
-        * 调用get方法并将结果返回给上面的变量。
+        [GroupDocs.Annotation](/annotation/java/) 通过实施几个简单的步骤，Java 开发人员可以轻松地对文档进行注释并从任何基于 Java 的应用程序中的 HTM 文件中提取注释信息。
+        *   创建带有评论和日期的 Reply 对象。
+        *   实例化 LoadOptions 对象并使用 true 参数调用 SetImportAnnotations。
+        *   定义类型为 List 的变量。
+        *   调用 get 方法并将结果返回到上面的变量。
 
 ############################# Preview ############################
 preview_Extract:
     enable: true
-    
     code: |
-        ``java
-        // 要使用此示例，输入文件（“annotated.bmp”）必须带有注释
+        ```java
+        // For using this example input file ("annotated.bmp") must be with annotations
         LoadOptions loadOptions = new LoadOptions();
         
-        // 创建Annotator类的实例并获取注释
+        // Create an instance of Annotator class and get annotations
         final Annotator annotator = new Annotator("annotated.bmp", loadOptions);
         List annotations = annotator.get();
-        ````
+        ```
 
 ############################# Demos ############################
 demos:
     enable: true
-    title: "添加、删除、编辑、提取文档和图像的注释的实时演示"
+    title: "现场演示添加、删除、编辑、提取文档和图像的注释"
     content: |
-        现在就可以通过访问[GroupDocs.Annotation Live Demos](https://products.groupdocs.app/annotation/family)网站添加、删除、编辑和提取注释到HTM文件。
-        该实时演示有以下好处
+        立即访问 [GroupDocs.Annotation 现场演示](https://products.groupdocs.app/annotation/family) 网站，向 HTM 文件添加、删除、编辑和提取注释。
+现场演示有以下好处
 
 ############################# About Formats ############################
 about_formats:
@@ -284,6 +243,7 @@ about_formats:
           title: "关于 HTM 文件格式"
           content: |
             带有 HTM 扩展名的文件代表超文本标记语言，用于创建在 Google Chrome、Internet Explorer、Firefox 等网络浏览器中显示的网页。它定义了用于创建要在万维网 (WWW) 上发布以供其他人访问的静态页面的标记。这些标记告诉浏览器如何显示网页的内容。此类页面可以包含纯文本、图像、其他页面的超链接、视频和其他媒体信息。当网页发布时，您可以通过查看其页面源代码来查看其背后的标记代码。现代浏览器允许检查网页的每个部分，其中详细说明了 HTM 源中的每个细分或标记元素。
+
           link: "https://docs.fileformat.com/image/htm/"
 
 ############################# More Formats ############################

@@ -1,112 +1,73 @@
-
 ---
 ############################# Static ############################
 layout: "auto-gen-annotation"
-date: 2022-07-05T12:44:18+03:00
-draft: false
-
-###_DIMA_### link rel="canonical" href="https://products.groupdocs.com/annotation/java/cad"/>
 
 ############################# Head ############################
-head_title: "Java CAD API аннотаций Аннотировать в C#"
-head_description: "Java API для создания и Удаление популярных типов аннотаций с CAD, изображения, чертежи и форматы файлов документов."
+head_title: "Java CAD Annotation API Аннотации в C#"
+head_description: "Java API для создания и аннотирования популярных типов аннотаций из CAD, изображений, рисунков и форматов файлов документов."
 
 ############################# Header ############################
-title: "Удаление CAD файла с Java"
+title: "Аннотировать CAD из Java"
 description: ""
 bg_image: "https://cms.admin.containerize.com/templates/aspose/App_Themes/V3/images/bg/header1.png"
 bg_overlay: false
 button:
     enable: true
     icon: "fas fa-arrow-down"
-    label: "Download Free Trial"
+    label: "Скачать бесплатную пробную версию"
     link: "https://downloads.groupdocs.com/annotation/java"
-
-############################# SubMenu ############################
-submenu:
-    enable: true
-
-    left:
-        img_alt: "GroupDocs.Annotation для Java"
-        image: "https://cms.admin.containerize.com/templates/groupdocs/images/product-logos/90x90-noborder/groupdocs-annotation-java.png"
-        product: "GroupDocs.Annotation"
-        platform: "Java"
-
-    middle:
-        button:
-            # button loop
-            - link: "https://apireference.groupdocs.com/annotation/java"
-              text: "API Reference"
-            # button loop
-            - link: "https://github.com/groupdocs-annotation"
-              text: "Code Examples"
-            # button loop
-            - link: "https://products.groupdocs.app/annotation/family"
-              text: "Live Demos"
-            # button loop
-            - link: "https://purchase.groupdocs.com/pricing/annotation/java"
-              text: "Pricing"
-
-    right:
-        link_download: "https://downloads.groupdocs.com/annotation"
-        link_learn: "https://docs.groupdocs.com/annotation/java"
-        link_buy: "https://purchase.groupdocs.com"
 
 ############################# About ############################
 about:
     enable: true
     title: "О GroupDocs.Annotation для Java API"
     content: |
-        GroupDocs.Annotation for Java API это библиотека которая позволяет добавлять аннотации к файлам PDF, Word и другим документам на Mac, Windows или Ubuntu. [GroupDocs.Annotation для Java](/ru/annotation/java/) это собственный Java API для управления аннотациями с комплексной поддержкой для создания, добавления, редактирования, удаления, извлечения и экспорта аннотаций из изображений и других документов, весь список поддерживаемых документов вы можете посмотреть на [странице](https://docs.groupdocs.com/annotation/java/supported-document-formats/).
-
-        Эта библиотека позволяет работать не только с CAD но также и со многими другими форматами, такими как Word, Excel, PowerPoint, Outlook emails, Visio, Adobe, OpenDocument, OpenOffice, AutoCad и еще множеством других форматов.
-
-        GroupDocs.Annotation for Java API позволяет создавать и добавлять новые заметки, редактировать аннотации, извлекать комментарии, примечания и удалять их из документов. Библиотека поддерживает 13 различных типов аннотаций, включая Text, Polyline, Area, Underline, Point, Watermark, Arrow, Ellipse, Text Replacement, Distance, Text Field, Resource Redaction в документах PDF, HTML, Microsoft Word, электронных таблицах, диаграммах, презентациях, рисунках, изображениях и многих других форматах файлов.
-
-        В примере ниже продемонстрирована работа с CAD документом. В этом примере вы видите основные шаги в работе с GroupDocs.Annotation: установка лицензии, открытие файла для работы, создание аннотации, добавление объектов данных для настройки свойств аннотаций в соответствии с вашими требованиями и сохранение результата в нужное место. Более детально ознакомиться с возможностями библиотеки вы можете посмотрев наш [github](https://github.com/groupdocs-annotation/GroupDocs.Annotation-for-Java)-аккаунт, или в нашей [документации](https://docs.groupdocs.com/annotation/java/getting-started/) к продутку.
+        GroupDocs.Annotation for Java API — это библиотека, позволяющая добавлять аннотации в PDF, Word и другие документы на Mac, Windows или Ubuntu. [GroupDocs.Annotation for Java](/annotation/java) — это собственный Java API для управления аннотациями с комплексной поддержкой создания, добавления, редактирования, удаления, извлечения и экспорта аннотаций из изображений и различных других документов. Полный список поддерживаемых форматов документов вы можете увидеть на этой [странице](https://docs.groupdocs.com/annotation/java/supported-document-formats/).
+        Эта библиотека позволяет работать не только с документом CAD, но и со многими другими типами документов, такими как Word, Excel, PowerPoint, сообщения электронной почты Outlook, Visio, Adobe, OpenDocument, OpenOffice, Photoshop, AutoCad и многими другими.
+        API GroupDocs.Annotation for Java позволяет создавать и добавлять новые заметки, редактировать аннотации, извлекать комментарии, аннотации и удалять их из документов. Библиотека поддерживает 13 различных типов аннотаций, включая текст, полилинию, область, подчеркивание, точку, водяной знак, стрелку, эллипс, замену текста, расстояние, текстовое поле, редактирование ресурсов в PDF, HTML, документах Microsoft Word, электронных таблицах, диаграммах, презентациях, чертежи, изображения и многие другие форматы файлов.
+        Пример (см. ниже) демонстрирует работу с документом CAD, в этом примере вы можете увидеть основные шаги работы с GroupDocs. аннотацию, добавляя объекты данных для установки свойств аннотации в соответствии с вашими требованиями и сохраняя результат в нужном месте. Также вы можете более подробно ознакомиться с поддерживаемыми функциями на нашей [странице] github (https://github.com/groupdocs-annotation/GroupDocs.Annotation-for-Java) или в [документации] нашего продукта (https: //docs.groupdocs.com/annotation/java/getting-started/).
 
 ############################# Steps ############################
 howTo_Add:
 steps_Add:
     enable: true
-    title_left: ""
+    title_left: "Шаги по добавлению аннотаций в CAD в Java"
     content_left: |
-        [GroupDocs.Annotation](/annotation/java/) [GroupDocs.Annotation](/ru/annotation/java/) позволяет разработчикам Java легко добавлять различные типы аннотаций к файлам CAD в любом приложении на основе Java, выполняя несколько простых шагов.
-        
-        * Создание объектов ответа с комментарием и датой.
-        * Создайте экземпляр объекта SaveOptions и установите AnnotationTypes = AnnotationType.None.
-        * Вызовите метод сохранения с результирующим путем или потоком документа и объектом SaveOptions.
-    
+        [GroupDocs.Annotation](/annotation/java/) позволяет разработчикам Java легко добавлять различные типы аннотаций к файлам CAD в любом приложении на основе Java, выполняя несколько простых шагов.
+        *   Создайте объекты ответа с комментарием и датой.
+        *   Создайте объект AreaAnnotation, установите параметры области и добавьте ответы.
+        *   Создайте объект Annotator и добавьте аннотацию области.
+        *   Сохраните выходной файл.
     title_right: "Системные Требования"
     content_right: |
         API GroupDocs.Annotation для Java поддерживаются на всех основных платформах и операционных системах. Перед выполнением приведенного ниже кода убедитесь, что в вашей системе установлены следующие предварительные компоненты.
-        
-        * Операционные системы: Microsoft Windows, Linux, MacOS
-        * Среда разработки: NetBeans, Intellij IDEA, Eclipse и т. д.
-        * Среда выполнения Java: Java 7 (1.7) и выше
-        * Получите последнюю версию GroupDocs.Annotation для Java из [репозитория артефактов GroupDocs](https://repository.groupdocs.com/webapp/#/artifacts/browse/tree/General/repo/com/groupdocs/groupdocs-annotation)
-    
+        *   Операционные системы: Microsoft Windows, Linux, MacOS
+        *   Среда разработки: NetBeans, Intellij IDEA, Eclipse и т. д.
+        *   Среда выполнения Java: Java 7 (1.7) и выше
+        *   Получите последнюю версию GroupDocs.Annotation для Java из [репозитория артефактов GroupDocs] (https://repository.groupdocs.com/webapp/#/artifacts/browse/tree/General/repo/com/groupdocs/groupdocs-annotation)
 
 ############################# Preview ############################
 preview_Add:
     enable: true
-    title: "Предварительный просмотр аннотации и пример кода"
+    title: Предварительный просмотр аннотации и пример кода
     content: |
         ![Annotation preview image](https://docs.groupdocs.com/annotation/java/images/add-area-annotation.png)
     code: |
         ```java
-        // Создаем экземпляр класса Reply и добавляем комментарии
+        // Create an instance of Reply class and add comments
         Reply firstReply = new Reply();
         firstReply.setComment("First comment");
         firstReply.setRepliedOn(Calendar.getInstance().getTime());
+        
         Reply secondReply = new Reply();
         secondReply.setComment("Second comment");
         secondReply.setRepliedOn(Calendar.getInstance().getTime());
+        
         List<Reply> replies = new ArrayList<Reply>();
         replies.add(firstReply);
         replies.add(secondReply);
         
-        // Создаем экземпляр класса AreaAnnotation и устанавливаем параметры
+        // Create an instance of AreaAnnotation class and set options
         AreaAnnotation area = new AreaAnnotation();
         area.setBackgroundColor(65535);
         area.setBox(new Rectangle(100, 100, 100, 100));
@@ -119,13 +80,13 @@ preview_Add:
         area.setPenWidth((byte) 3);
         area.setReplies(replies);
         
-        // Создаем экземпляр класса Annotator
+        // Create an instance of Annotator class
         Annotator annotator = new Annotator("input.bmp");
         
-        // Добавляем аннотацию
+        // Add annotation
         annotator.add(area);
         
-        // Сохраняем в файл
+        // Save to file
         annotator.save("output.bmp");
         annotator.dispose();
         ```
@@ -134,29 +95,26 @@ preview_Add:
 howTo_Remove:
 steps_Remove:
     enable: true
-    title_left: ""
+    title_left: "Действия по удалению аннотаций из CAD в Java"
     content_left: |
-        [GroupDocs.Annotation](/annotation/java/) [GroupDocs.Annotation](/ru/annotation/java упрощает разработчикам Java удаление деталей аннотаций из файлов CAD в любом приложении на основе Java за счет выполнения нескольких простых шагов.
-        
-        * Создание объектов ответа с комментарием и датой.
-        * Создайте экземпляр объекта SaveOptions и установите AnnotationTypes = AnnotationType.None.
-        * Вызовите метод сохранения с результирующим путем или потоком документа и объектом SaveOptions.
-    
+        [GroupDocs.Annotation](/annotation/java/) упрощает разработчикам Java удаление деталей аннотаций из файлов CAD в любом приложении на основе Java за счет выполнения нескольких простых шагов.
+        *   Создайте объекты ответа с комментарием и датой.
+        *   Создайте экземпляр объекта SaveOptions и установите AnnotationTypes = AnnotationType.None.
+        *   Вызовите метод сохранения с результирующим путем или потоком документа и объектом SaveOptions.
 
 ############################# Preview ############################
 preview_Remove:
     enable: true
-    
     code: |
         ```java
-        // Создание экземпляра класса Annotator
+        // Create an instance of Annotator class 
         Annotator annotator = new Annotator("C://input.bmp");
-        
-        // Удаление аннотации по заданному типу None 
+
+        // Remove annotation by set type None 
         SaveOptions saveOptions = new SaveOptions();
         saveOptions.setAnnotationTypes(AnnotationType.None);
-        
-        // Сохранение аннотации в выходном файле
+
+        // Save annotation to output file
         annotator.save("C://output.bmp", saveOptions);
         annotator.dispose();
         ```
@@ -165,39 +123,38 @@ preview_Remove:
 howTo_Edit:
 steps_Edit:
     enable: true
-    title_left: ""
+    title_left: "Шаги по редактированию аннотаций из CAD в Java"
     content_left: |
-        [GroupDocs.Annotation](/annotation/java/) [GroupDocs.Annotation](/ru/annotation/java/) упрощает разработчикам Java обновление различных свойств аннотаций из файлов CAD в любом приложении на основе Java за счет выполнения нескольких простых шагов.
-        
-        * Создание экземпляра объекта Annotator с входным путем к документу или потоком с экземпляром LoadOptions с ImportAnnotations = true.
-        * Создайте некоторую реализацию AnnotationBase и установите идентификатор существующей аннотации (если аннотация с этим идентификатором не найдена, ничего не изменится) или список путей аннотаций (все существующие аннотации будут удалены).
-        * Вызвать метод обновления объекта Annotator с переданными аннотациями.
-        * Вызовите метод сохранения с результирующим путем или потоком документа и объектом SaveOptions.
-    
+        [GroupDocs.Annotation](/annotation/java/) упрощает разработчикам Java обновление различных свойств аннотаций из файлов CAD в любом приложении на основе Java за счет выполнения нескольких простых шагов.
+        *   Создайте экземпляр объекта Annotator с путем или потоком входного документа с созданным экземпляром LoadOptions с ImportAnnotations = true.
+        *   Создайте некоторую реализацию AnnotationBase и установите идентификатор существующей аннотации (если аннотация с этим идентификатором не найдена, ничего не изменится) или список путей аннотаций (все существующие аннотации будут удалены).
+        *   Вызвать метод обновления объекта Annotator с переданными аннотациями.
+        *   Вызовите метод сохранения с результирующим путем или потоком документа и объектом SaveOptions.
 
 ############################# Preview ############################
 preview_Edit:
     enable: true
-    
     code: |
         ```java
         String outputPath = "UpdateAnnotation.bmp";
-        
-        // Создание экземпляра класса Annotator
+
+        // Create an instance of Annotator class
         Annotator annotator = new Annotator("input.bmp");
         
-        // Создание экземпляра класса Reply для первого примера и добавляем комментарии
+        // Create an instance of Reply class for first example and add comments
         Reply reply1 = new Reply();
         reply1.setComment("Original first comment");
         reply1.setRepliedOn(Calendar.getInstance().getTime());
+        
         Reply reply2 = new Reply();
         reply2.setComment("Original second comment");
         reply2.setRepliedOn(Calendar.getInstance().getTime());
+        
         java.util.List replies = new ArrayList();
         replies.add(reply1);
         replies.add(reply2);
         
-        // Создание экземпляра класса AreaAnnotation и устанавка параметров
+        // Create an instance of AreaAnnotation class and set options
         AreaAnnotation original = new AreaAnnotation();
         original.setId(1);
         original.setBackgroundColor(65535);
@@ -206,27 +163,30 @@ preview_Edit:
         original.setMessage("This is original annotation");
         original.setReplies(replies);
         
-        // Добавление исходной аннотации
+        // Add original annotation
         annotator.add(original);
         annotator.save(outputPath);
         annotator.dispose();
+        
         LoadOptions loadOptions = new LoadOptions();
         
-        // Открытие аннотированного документа
+        // Open annotated document
         Annotator annotator1 = new Annotator(outputPath, loadOptions);
         
-        // Создание экземпляра класса Reply для обновления первого примера
+        // Create an instance of Reply class for update first example
         Reply reply3 = new Reply();
         reply3.setComment("Updated first comment");
         reply3.setRepliedOn(Calendar.getInstance().getTime());
+        
         Reply reply4 = new Reply();
         reply4.setComment("Updated second comment");
         reply4.setRepliedOn(Calendar.getInstance().getTime());
+        
         java.util.List replies1 = new ArrayList();
         replies1.add(reply3);
         replies1.add(reply4);
-        
-        // Изменяем некоторые свойства существующей аннотации
+
+        // Suggest we want change some properties of existed annotation
         AreaAnnotation updated = new AreaAnnotation();
         updated.setId(1);
         updated.setBackgroundColor(255);
@@ -235,7 +195,7 @@ preview_Edit:
         updated.setMessage("This is updated annotation");
         updated.setReplies(replies1);
         
-        // Обновляем аннотацию
+        // Update and save annotation
         annotator1.update(updated);
         annotator1.save(outputPath);
         annotator1.dispose();
@@ -245,26 +205,23 @@ preview_Edit:
 howTo_Extract:
 steps_Extract:
     enable: true
-    title_left: ""
+    title_left: "Действия по извлечению аннотаций из CAD в Java"
     content_left: |
-        [GroupDocs.Annotation](/annotation/java/) [GroupDocs.Annotation](/ru/annotation/java/) позволяет разработчикам Java легко аннотировать документы и извлекать аннотационную информацию из файлов CAD в любом приложении на основе Java, выполняя несколько простых шагов.
-        
-        * Создание объектов ответа с комментарием и датой.
-        * Создайте экземпляр объекта LoadOptions и вызовите SetImportAnnotations с аргументом true.
-        * Определите переменную с типом List.
-        * Вызвать метод get и вернуть результат в переменную выше.
-    
+        [GroupDocs.Annotation](/annotation/java/) позволяет разработчикам Java легко аннотировать документы и извлекать аннотационную информацию из файлов CAD в любом приложении на основе Java, выполнив несколько простых шагов.
+        *   Создайте объекты ответа с комментарием и датой.
+        *   Создайте экземпляр объекта LoadOptions и вызовите SetImportAnnotations с аргументом true.
+        *   Определите переменную с типом List.
+        *   Вызовите метод get и верните результат в переменную выше.
 
 ############################# Preview ############################
 preview_Extract:
     enable: true
-    
     code: |
         ```java
-        // Для использования этого примера входной файл ("annotated.bmp") должен быть с аннотациями
+        // For using this example input file ("annotated.bmp") must be with annotations
         LoadOptions loadOptions = new LoadOptions();
-
-        // Создание экземпляра класса Annotator и получиние аннотации
+        
+        // Create an instance of Annotator class and get annotations
         final Annotator annotator = new Annotator("annotated.bmp", loadOptions);
         List annotations = annotator.get();
         ```
@@ -274,8 +231,8 @@ demos:
     enable: true
     title: "Живые демонстрации для добавления, удаления, редактирования, извлечения аннотаций к документам и изображениям"
     content: |
-        Добавляйте, удаляйте, редактируйте и извлекайте аннотации из файла CAD прямо сейчас, посетив сайт [GroupDocs.Annotation Live Demos](https://products.groupdocs.app/annotation/family).
-        Живая демонстрация имеет следующие преимущества
+        Добавляйте, удаляйте, редактируйте и извлекайте аннотации к файлу CAD прямо сейчас, посетив веб-сайт [GroupDocs.Annotation Live Demos](https://products.groupdocs.app/annotation/family).
+Живая демонстрация имеет следующие преимущества
 
 ############################# About Formats ############################
 about_formats:
@@ -286,14 +243,15 @@ about_formats:
           title: "О формате файла CAD"
           content: |
             CAD означает автоматизированное проектирование. Также используется термин CADD (для автоматизированного проектирования и черчения). Он используется для формата файла 3D-графики и может содержать 2D- или 3D-дизайн. Файл САПР представляет собой цифровой формат файла объекта, созданного и используемого программным обеспечением САПР. Файл САПР содержит технический чертеж, план, схему или трехмерную визуализацию объекта. Могут быть другие инструменты САПР, которые можно использовать для создания, открытия, редактирования и экспорта этих файлов .cad в более широко используемые форматы файлов чертежей САПР.
+
           link: "https://docs.fileformat.com/image/cad/"
 
 ############################# More Formats ############################
 more_formats:
     enable: true
-    title: ""
+    title: "Работа с другими популярными форматами документов"
     content: |
-        Библиотека управления аннотациями Java для документов и форматов изображений. Добавьте свойства аннотации к некоторым популярным форматам файлов, как указано ниже.
+        Обновите свойства аннотаций из некоторых популярных форматов файлов, как указано ниже.
     format:
         # format loop
         - name: "Annotate PDF document"

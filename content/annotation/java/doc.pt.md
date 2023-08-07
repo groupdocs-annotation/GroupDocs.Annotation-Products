@@ -1,15 +1,10 @@
-
 ---
 ############################# Static ############################
 layout: "auto-gen-annotation"
-date: 07/05/2022 12:44:18
-draft: false
-
-###_DIMA_### link rel="canonical" href="https://products.groupdocs.com/annotation/java/doc"/>
 
 ############################# Head ############################
-head_title: "Java DOC API de anotação Anotar em C#"
-head_description: "Java API para criar e Anotar tipos de anotação populares de DOC, imagens, desenhos e formatos de arquivo de documento."
+head_title: "API de anotação Java DOC Anotação em C#"
+head_description: "API Java para criar e anotar tipos de anotação populares de DOC, imagens, desenhos e formatos de arquivo de documento."
 
 ############################# Header ############################
 title: "Anote DOC de Java"
@@ -19,98 +14,65 @@ bg_overlay: false
 button:
     enable: true
     icon: "fas fa-arrow-down"
-    label: "Download Free Trial"
+    label: "Baixar Teste Gratuito"
     link: "https://downloads.groupdocs.com/annotation/java"
-
-############################# SubMenu ############################
-submenu:
-    enable: true
-
-    left:
-        img_alt: "GroupDocs.Annotation para Java"
-        image: "https://cms.admin.containerize.com/templates/groupdocs/images/product-logos/90x90-noborder/groupdocs-annotation-java.png"
-        product: "GroupDocs.Annotation"
-        platform: "Java"
-
-    middle:
-        button:
-            # button loop
-            - link: "https://apireference.groupdocs.com/annotation/java"
-              text: "API Reference"
-            # button loop
-            - link: "https://github.com/groupdocs-annotation"
-              text: "Code Examples"
-            # button loop
-            - link: "https://products.groupdocs.app/annotation/family"
-              text: "Live Demos"
-            # button loop
-            - link: "https://purchase.groupdocs.com/pricing/annotation/java"
-              text: "Pricing"
-
-    right:
-        link_download: "https://downloads.groupdocs.com/annotation"
-        link_learn: "https://docs.groupdocs.com/annotation/java"
-        link_buy: "https://purchase.groupdocs.com"
 
 ############################# About ############################
 about:
     enable: true
-    title: "Sobre GroupDocs.Annotation para Java API"
+    title: "Sobre GroupDocs.Annotation para API Java"
     content: |
-        GroupDocs.Annotation for Java API é uma biblioteca que permite adicionar anotações a PDF, Word e outros documentos no Mac, Windows ou Ubuntu. [GroupDocs.Annotation for Java](/annotation/java) é uma API nativa da Java para gerenciar anotações com suporte abrangente para criar, adicionar, editar, excluir, extrair e exportar anotações de imagens e vários outros documentos. A lista completa de formatos de documento suportados pode ser vista nesta [page](https://docs.groupdocs.com/annotation/java/supported-document-formats/).
-
-        Esta biblioteca permite que você trabalhe não apenas com documentos DOC, mas também com muitos outros tipos de documentos, como Word, Excel, PowerPoint, e-mails do Outlook, Visio, Adobe, OpenDocument, OpenOffice, Photoshop, AutoCad e muitos outros.
-
-        A API GroupDocs.Annotation para Java permite que você crie e adicione novas notas, edit anotações, extract comentários, anotações e remove dos documentos. A biblioteca suporta 13 tipos diferentes de anotação, incluindo Texto, Polilinha, Área, Sublinhado, Ponto, Marca d'água, Seta, Elipse, Substituição de Texto, Distância, Campo de Texto, Redação de Recursos em PDF, HTML, documentos do Microsoft Word, planilhas, diagramas, apresentações, desenhos, imagens e muitos outros formatos de arquivo.
-
-        O exemplo (veja abaixo) demonstra como trabalhar com documento DOC, neste exemplo você pode ver as principais etapas de como trabalhar com GroupDocs.Annotation: Configurar uma licença, abrir um documento com o qual deseja trabalhar, criar um anotação, adicionando objetos de dados para definir as propriedades de anotação de acordo com seus requisitos e salvando o resultado no local necessário. Além disso, você pode dar uma olhada mais detalhada nos recursos suportados em nosso github [page](https://github.com/groupdocs-annotation/GroupDocs.Annotation-for-Java) ou em nosso produto [documentation](https://docs.groupdocs.com/annotation/java/getting-started/).
+        GroupDocs.Annotation for Java API é uma biblioteca que permite adicionar anotações a PDF, Word e outros documentos no Mac, Windows ou Ubuntu. [GroupDocs.Annotation for Java](/annotation/java) é uma API Java nativa para gerenciar anotações com suporte abrangente para criar, adicionar, editar, excluir, extrair e exportar anotações de imagens e vários outros documentos. A lista completa de formatos de documentos suportados pode ser vista nesta [página](https://docs.groupdocs.com/annotation/java/supported-document-formats/).
+        Esta biblioteca permite que você trabalhe não apenas com documento DOC, mas também com muitos outros tipos de documentos, como Word, Excel, PowerPoint, e-mails do Outlook, Visio, Adobe, OpenDocument, OpenOffice, Photoshop, AutoCad e muitos outros.
+        A API GroupDocs.Annotation for Java permite criar e adicionar novas notas, editar anotações, extrair comentários, anotações e removê-los de documentos. A biblioteca suporta 13 tipos diferentes de anotação, incluindo Texto, Polilinha, Área, Sublinhado, Ponto, Marca d'água, Seta, Elipse, Substituição de Texto, Distância, Campo de Texto, Redação de Recursos em PDF, HTML, documentos do Microsoft Word, planilhas, diagramas, apresentações, desenhos, imagens e muitos outros formatos de arquivo.
+        O exemplo (veja abaixo) demonstra como trabalhar com o documento DOC, neste exemplo você pode ver as principais etapas de como trabalhar com GroupDocs.Annotation: Configurar uma licença, abrir um documento com o qual deseja trabalhar, criar um anotação, adicionando objetos de dados para definir as propriedades de anotação de acordo com seus requisitos e salvando o resultado no local necessário. Além disso, você pode dar uma olhada mais detalhada nos recursos suportados em nossa [página] do github (https://github.com/groupdocs-annotation/GroupDocs.Annotation-for-Java) ou em nossa [documentação] do produto (https: //docs.groupdocs.com/annotation/java/getting-started/).
 
 ############################# Steps ############################
 howTo_Add:
 steps_Add:
     enable: true
-    title_left: "Etapas para adicionar anotações de DOC em Java"
+    title_left: "Etapas para adicionar anotações a DOC em Java"
     content_left: |
-        [GroupDocs.Annotation](/annotation/java/) facilita para os desenvolvedores Java adicionar vários tipos de anotação a arquivos DOC em qualquer aplicativo baseado em Java implementando algumas etapas fáceis.
-        * Crie objetos de resposta com comentário e data.
-        * Criar objeto AreaAnnotation, definir opções de área e adicionar respostas.
-        * Criar objeto Anotador e adicionar anotação de área.
-        * Salvar arquivo de saída.
+        [GroupDocs.Annotation](/annotation/java/) facilita para os desenvolvedores Java adicionar vários tipos de anotação a arquivos DOC em qualquer aplicativo baseado em Java, implementando algumas etapas fáceis.
+        *   Crie objetos Reply com comentário e data.
+        *   Crie um objeto AreaAnnotation, defina opções de área e adicione respostas.
+        *   Crie o objeto Anotador e adicione a anotação de área.
+        *   Salve o arquivo de saída.
     title_right: "Requisitos de sistema"
     content_right: |
-        As APIs GroupDocs.Annotation para Java são suportadas em todas as principais plataformas e sistemas operacionais. Antes de executar o código abaixo, certifique-se de ter os seguintes pré-requisitos instalados em seu sistema.
-        * Sistemas operacionais: Microsoft Windows, Linux, MacOS
-        * Ambiente de Desenvolvimento: NetBeans, Intellij IDEA, Eclipse etc
-        * Java Runtime Environment: Java 7 (1.7) e superior
-        * Obtenha a versão mais recente do GroupDocs.Annotation para Java no [GroupDocs Artifact Repository](https://repository.groupdocs.com/webapp/#/artifacts/browse/tree/General/repo/com/groupdocs/groupdocs-annotation)
+        GroupDocs.Annotation para APIs Java são suportados em todas as principais plataformas e sistemas operacionais. Antes de executar o código abaixo, certifique-se de ter os seguintes pré-requisitos instalados em seu sistema.
+        *   Sistemas Operacionais: Microsoft Windows, Linux, MacOS
+        *   Ambiente de Desenvolvimento: NetBeans, Intellij IDEA, Eclipse etc.
+        *   Java Runtime Environment: Java 7 (1.7) e superior
+        *   Obtenha a versão mais recente do GroupDocs.Annotation for Java no [GroupDocs Artifact Repository](https://repository.groupdocs.com/webapp/#/artifacts/browse/tree/General/repo/com/groupdocs/groupdocs-annotation)
 
 ############################# Preview ############################
 preview_Add:
     enable: true
-    title: "Visualização da anotação e amostra de código"
+    title: Visualização de anotação e amostra de código
     content: |
         ![Annotation preview image](https://docs.groupdocs.com/annotation/java/images/add-area-annotation.png)
     code: |
         ```java
-        // Cria uma instância da classe Reply e adiciona comentários
+        // Create an instance of Reply class and add comments
         Reply firstReply = new Reply();
-        firstReply.setComment("Primeiro comentário");
+        firstReply.setComment("First comment");
         firstReply.setRepliedOn(Calendar.getInstance().getTime());
         
         Reply secondReply = new Reply();
-        secondReply.setComment("Segundo comentário");
+        secondReply.setComment("Second comment");
         secondReply.setRepliedOn(Calendar.getInstance().getTime());
         
         List<Reply> replies = new ArrayList<Reply>();
         replies.add(firstReply);
         replies.add(secondReply);
         
-        // Cria uma instância da classe AreaAnnotation e define as opções
+        // Create an instance of AreaAnnotation class and set options
         AreaAnnotation area = new AreaAnnotation();
         area.setBackgroundColor(65535);
         area.setBox(new Rectangle(100, 100, 100, 100));
         area.setCreatedOn(Calendar.getInstance().getTime());
-        area.setMessage("Esta é uma anotação de área");
+        area.setMessage("This is area annotation");
         area.setOpacity(0.7);
         area.setPageNumber(0);
         area.setPenColor(65535);
@@ -118,13 +80,13 @@ preview_Add:
         area.setPenWidth((byte) 3);
         area.setReplies(replies);
         
-        // Cria uma instância da classe Annotator
+        // Create an instance of Annotator class
         Annotator annotator = new Annotator("input.bmp");
         
-        // Adicionar anotação
+        // Add annotation
         annotator.add(area);
         
-        // Salvar em arquivo
+        // Save to file
         annotator.save("output.bmp");
         annotator.dispose();
         ```
@@ -136,24 +98,23 @@ steps_Remove:
     title_left: "Etapas para remover anotações de DOC em Java"
     content_left: |
         [GroupDocs.Annotation](/annotation/java/) torna mais fácil para os desenvolvedores Java remover detalhes de anotação de arquivos DOC em qualquer aplicativo baseado em Java implementando algumas etapas fáceis.
-        * Crie objetos de resposta com comentário e data.
-        * Instancie o objeto SaveOptions e defina AnnotationTypes = AnnotationType.None.
-        * Chame o método save com o caminho ou fluxo do documento resultante e o objeto SaveOptions.
+        *   Crie objetos Reply com comentário e data.
+        *   Instancie o objeto SaveOptions e defina AnnotationTypes = AnnotationType.None.
+        *   Chame o método save com o caminho ou fluxo do documento resultante e o objeto SaveOptions.
 
 ############################# Preview ############################
 preview_Remove:
     enable: true
-    
     code: |
         ```java
-        // Cria uma instância da classe Annotator
+        // Create an instance of Annotator class 
         Annotator annotator = new Annotator("C://input.bmp");
 
-        // Remove a anotação pelo tipo de conjunto Nenhum
+        // Remove annotation by set type None 
         SaveOptions saveOptions = new SaveOptions();
         saveOptions.setAnnotationTypes(AnnotationType.None);
 
-        // Salva a anotação no arquivo de saída
+        // Save annotation to output file
         annotator.save("C://output.bmp", saveOptions);
         annotator.dispose();
         ```
@@ -164,78 +125,77 @@ steps_Edit:
     enable: true
     title_left: "Etapas para editar anotações de DOC em Java"
     content_left: |
-        [GroupDocs.Annotation](/annotation/java/) torna mais fácil para os desenvolvedores Java atualizar várias propriedades de anotação de arquivos DOC dentro de qualquer aplicativo baseado em Java implementando algumas etapas fáceis.
-        * Instanciar objeto Anotador com caminho de documento de entrada ou fluxo com LoadOptions instanciado com ImportAnnotations = true.
-        * Crie alguma implementação AnnotationBase e defina o Id da anotação existente (se a anotação com esse Id não for encontrada, nada será alterado) ou a lista de caminho das anotações (todas as anotações existentes serão removidas).
-        * Chame o método de atualização do objeto Anotador com as anotações passadas.
-        * Chame o método save com o caminho ou fluxo do documento resultante e o objeto SaveOptions.
+        [GroupDocs.Annotation](/annotation/java/) torna mais fácil para os desenvolvedores Java atualizar várias propriedades de anotação de arquivos DOC em qualquer aplicativo baseado em Java implementando algumas etapas fáceis.
+        *   Instanciar objeto Anotador com caminho de documento de entrada ou fluxo com LoadOptions instanciado com ImportAnnotations = true.
+        *   Crie alguma implementação AnnotationBase e defina o Id da anotação existente (se a anotação com esse Id não for encontrada, nada será alterado) ou a lista de caminhos das anotações (todas as anotações existentes serão removidas).
+        *   Chame o método de atualização do objeto Anotador com as anotações passadas.
+        *   Chame o método save com o caminho ou fluxo do documento resultante e o objeto SaveOptions.
 
 ############################# Preview ############################
 preview_Edit:
     enable: true
-    
     code: |
         ```java
         String outputPath = "UpdateAnnotation.bmp";
 
-        // Cria uma instância da classe Annotator
+        // Create an instance of Annotator class
         Annotator annotator = new Annotator("input.bmp");
         
-        // Cria uma instância da classe Reply para o primeiro exemplo e adiciona comentários
+        // Create an instance of Reply class for first example and add comments
         Reply reply1 = new Reply();
-        reply1.setComment("Primeiro comentário original");
+        reply1.setComment("Original first comment");
         reply1.setRepliedOn(Calendar.getInstance().getTime());
         
         Reply reply2 = new Reply();
-        reply2.setComment("Segundo comentário original");
+        reply2.setComment("Original second comment");
         reply2.setRepliedOn(Calendar.getInstance().getTime());
         
         java.util.List replies = new ArrayList();
         replies.add(reply1);
         replies.add(reply2);
         
-        // Cria uma instância da classe AreaAnnotation e define as opções
+        // Create an instance of AreaAnnotation class and set options
         AreaAnnotation original = new AreaAnnotation();
         original.setId(1);
         original.setBackgroundColor(65535);
-        original.setBox(novo Retângulo(100, 100, 100, 100));
+        original.setBox(new Rectangle(100, 100, 100, 100));
         original.setCreatedOn(Calendar.getInstance().getTime());
-        original.setMessage("Esta é a anotação original");
+        original.setMessage("This is original annotation");
         original.setReplies(replies);
         
-        // Adicionar anotação original
+        // Add original annotation
         annotator.add(original);
         annotator.save(outputPath);
         annotator.dispose();
         
         LoadOptions loadOptions = new LoadOptions();
         
-        // Abre o documento anotado
+        // Open annotated document
         Annotator annotator1 = new Annotator(outputPath, loadOptions);
         
-        // Cria uma instância da classe Reply para atualizar o primeiro exemplo
+        // Create an instance of Reply class for update first example
         Reply reply3 = new Reply();
-        reply3.setComment("Primeiro comentário atualizado");
+        reply3.setComment("Updated first comment");
         reply3.setRepliedOn(Calendar.getInstance().getTime());
         
         Reply reply4 = new Reply();
-        reply4.setComment("Segundo comentário atualizado");
+        reply4.setComment("Updated second comment");
         reply4.setRepliedOn(Calendar.getInstance().getTime());
         
-        java.util.List respostas1 = new ArrayList();
+        java.util.List replies1 = new ArrayList();
         replies1.add(reply3);
         replies1.add(reply4);
 
-        // Sugere que queremos alterar algumas propriedades da anotação existente
+        // Suggest we want change some properties of existed annotation
         AreaAnnotation updated = new AreaAnnotation();
         updated.setId(1);
         updated.setBackgroundColor(255);
-        updated.setBox(novo Retângulo(0, 0, 50, 200));
+        updated.setBox(new Rectangle(0, 0, 50, 200));
         updated.setCreatedOn(Calendar.getInstance().getTime());
-        updated.setMessage("Esta é uma anotação atualizada");
-        updated.setReplies(respostas1);
+        updated.setMessage("This is updated annotation");
+        updated.setReplies(replies1);
         
-        // Atualiza e salva anotação
+        // Update and save annotation
         annotator1.update(updated);
         annotator1.save(outputPath);
         annotator1.dispose();
@@ -247,22 +207,21 @@ steps_Extract:
     enable: true
     title_left: "Etapas para extrair anotações de DOC em Java"
     content_left: |
-        [GroupDocs.Annotation](/annotation/java/) facilita para os desenvolvedores Java anotar documentos e extrair informações de anotação de arquivos DOC em qualquer aplicativo baseado em Java implementando algumas etapas fáceis.
-        * Crie objetos de resposta com comentário e data.
-        * Instancie o objeto LoadOptions e chame SetImportAnnotations com o argumento verdadeiro.
-        * Definir variável com tipo Lista.
-        * Chame o método get e retorne o resultado para a variável acima.
+        [GroupDocs.Annotation](/annotation/java/) torna mais fácil para os desenvolvedores Java anotar documentos e extrair informações de anotação de arquivos DOC em qualquer aplicativo baseado em Java implementando algumas etapas fáceis.
+        *   Crie objetos Reply com comentário e data.
+        *   Instancie o objeto LoadOptions e chame SetImportAnnotations com o argumento true.
+        *   Defina a variável com o tipo Lista.
+        *   Chame o método get e retorne o resultado para a variável acima.
 
 ############################# Preview ############################
 preview_Extract:
     enable: true
-    
     code: |
         ```java
-        // Para usar este arquivo de entrada de exemplo ("annotated.bmp") deve estar com anotações
+        // For using this example input file ("annotated.bmp") must be with annotations
         LoadOptions loadOptions = new LoadOptions();
         
-        // Cria uma instância da classe Annotator e obtém as anotações
+        // Create an instance of Annotator class and get annotations
         final Annotator annotator = new Annotator("annotated.bmp", loadOptions);
         List annotations = annotator.get();
         ```
@@ -270,10 +229,10 @@ preview_Extract:
 ############################# Demos ############################
 demos:
     enable: true
-    title: "Demonstrações ao vivo para adicionar, remover, editar e extrair anotações de documentos e imagens"
+    title: "Demonstrações ao vivo para adicionar, remover, editar e extrair anotações em documentos e imagens"
     content: |
-        Adicione, remova, edite e extraia anotações para o arquivo DOC agora mesmo, visitando o site [GroupDocs.Annotation Live Demos] (https://products.groupdocs.app/annotation/family).
-        A demonstração ao vivo tem os seguintes benefícios
+        Adicione, remova, edite e extraia anotações para o arquivo DOC agora mesmo visitando o site [GroupDocs.Annotation Live Demos](https://products.groupdocs.app/annotation/family).
+A demonstração ao vivo tem os seguintes benefícios
 
 ############################# About Formats ############################
 about_formats:
@@ -284,6 +243,7 @@ about_formats:
           title: "Sobre o formato de arquivo DOC"
           content: |
             Arquivos com extensão .doc representam documentos gerados pelo Microsoft Word ou outros documentos de processamento de texto em formato de arquivo binário. A extensão foi inicialmente usada para documentação de texto simples em vários sistemas operacionais diferentes. Ele pode conter vários tipos diferentes de dados, como imagens, texto formatado e simples, gráficos, tabelas, objetos incorporados, links, páginas, formatação de página, configurações de impressão e muitos outros. O formato foi popular para todo tipo de documentação devido à variedade de opções que oferece aos usuários para escrever manuais, propostas, especificações, currículos, artigos ou quaisquer documentos semelhantes. A versão atualizada do DOC é DOCX, que é baseada no Office OpenXML cujas especificações estão disponíveis abertamente.
+
           link: "https://docs.fileformat.com/image/doc/"
 
 ############################# More Formats ############################

@@ -1,7 +1,7 @@
 ---
 ############################# Static ############################
 layout: "product"
-date: 2022-07-05T12:44:18+03:00
+date: 2022-02-23T12:00:00+02:00
 draft: false
 
 product: "Annotation"
@@ -11,10 +11,10 @@ platform_tag: "java"
 
 ############################# Head ############################
 head_title: "Java Document Annotation API | Anzeigen und Kommentieren von PDF-Word-Excel-PPTX-Bildern"
-head_description: "Java Document Annotation API. PDF Word DOCX, Excel XLSX, PPTX, EML EMLX, VSS VSD, OTP, CAD und Bilddateiformate anzeigen, taggen, kommentieren und kommentieren."
+head_description: "Java Document Annotation API. Anzeigen, Markieren, Kommentieren und Kommentieren der Dateiformate PDF Word DOCX, Excel XLSX, PPTX, EML EMLX, VSS VSD, OTP, CAD und Bild."
 
-############################# Header ############################
-title: "Dokumentannotation über Java-API"
+############################# Header ##########################
+title: "Dokumentanmerkung über Java API"
 description: "Erstellen Sie Java-Anwendungen mit Funktionen zum Anzeigen und Kommentieren von PDF-, HTML-, MS Office- und anderen Dokumentformaten, ohne externe Software installieren zu müssen."
 button:
     enable: true
@@ -22,7 +22,7 @@ button:
     label: "Download kostenlose Testversion"
     link: "https://downloads.groupdocs.com/annotation/java"
 
-############################# SubMenu ############################
+############################# SubMenu #########################
 submenu:
     enable: true
     
@@ -35,20 +35,12 @@ submenu:
     middle:
         button:
             # button loop
-            - link: "#overview"
-              text: "Überblick"
-
-            # button loop
             - link: "#features"
               text: "Merkmale"
 
             # button loop
-            - link: "#support"
-              text: "Support"
-
-            # button loop
             - link: "https://products.groupdocs.app/annotation"
-              text: "Live Demo"
+              text: "Live-Demos"
 
             # button loop
             - link: "https://purchase.groupdocs.com/pricing/annotation/java"
@@ -63,30 +55,30 @@ submenu:
 overview:
     enable: true
     content: |
-      GroupDocs.Annotation Java API is een product waarmee u kunt werken met annotaties in documenten op verschillende platforms en besturingssystemen, zoals Android, MacOS, Linux, Windows. GroupDocs.Annotation biedt een bibliotheek met een eenvoudige API die veel voordelen biedt: als u bijvoorbeeld de gegevens vertrouwelijk moet houden of wilt kiezen hoeveel kracht u nodig heeft om met de bibliotheek te werken, of het werk gedeeltelijk wilt wijzigen met annotaties, is de bibliotheek zeer lichtgewicht en flexibel.
+      GroupDocs.Annotation Java API ist ein Produkt, das Ihnen die Arbeit mit Anmerkungen in Dokumenten auf verschiedenen Plattformen und Betriebssystemen wie Android, MacOS, Linux, Windows ermöglicht. GroupDocs.Annotation bietet eine Bibliothek mit einer einfachen API, die viele Vorteile bietet: Wenn Sie beispielsweise die Vertraulichkeit der Daten wahren oder auswählen müssen, wie viel Leistung Sie für die Arbeit mit der Bibliothek benötigen oder die Arbeit teilweise mit Anmerkungen ändern möchten, ist die Bibliothek sehr hilfreich leicht und flexibel.
 
-        GroupDocs.Annotation for Java API stelt u in staat om met verschillende soorten annotaties te werken, waaronder: tekst, polylijn, gebied, onderstrepen, punt, watermerk, pijl, ellips, tekstvervanging, afstand, tekstveld, bronredactie enz. En ondersteunt de meest populaire documentformaten zoals: PDF, HTML, Microsoft Office Word, Excel-spreadsheets, PowerPoint-presentaties, Visio, Outlook-e-mails, afbeeldingen, metabestanden, CAD-tekeningen en verschillende andere formaten. De API biedt de mogelijkheid om miniaturen van documentpagina's te krijgen en ondersteunt het importeren en exporteren van annotaties van en naar PDF-bestanden.
+      GroupDocs.Annotation für Java API ermöglicht Ihnen die Arbeit mit verschiedenen Arten von Anmerkungen, darunter: Text, Polylinie, Fläche, Unterstreichung, Punkt, Wasserzeichen, Pfeil, Ellipse, Textersetzung, Abstand, Textfeld, Ressourcenschwärzung usw. Und unterstützt die meisten Beliebte Dokumentenformate wie: PDF, HTML, Microsoft Office Word, Excel-Tabellen, PowerPoint-Präsentationen, Visio, Outlook-E-Mails, Bilder, Metadateien, CAD-Zeichnungen und verschiedene andere Formate. Die API bietet die Möglichkeit, Miniaturansichten von Dokumentseiten abzurufen und unterstützt das Importieren und Exportieren von Anmerkungen in und aus PDF-Dateien.
 
-        Met de bibliotheek kunt u [toevoegen](/annotation/java/bmp/), [bewerk](/annotation/java/bmp/), [extract](/annotation/java/bmp/) en [verwijderen](/annotation/java/bmp/) annotaties van documenten, documenten roteren, thumbnails wijzigen oplossing en dit is geen volledige lijst van alle mogelijkheden . Het biedt ook een uitgebreide set gegevensobjecten om annotatie-eigenschappen aan te passen aan uw vereisten binnen alle ondersteunde documentindelingen.
+      Mithilfe der Bibliothek können Sie [hinzufügen](/annotation/java/bmp/), [bearbeiten](/annotation/java/bmp/), [extrahieren](/annotation/java/bmp/) und [löschen](/annotation /java/bmp/) Anmerkungen aus Dokumenten hinzufügen, Dokumente drehen, Miniaturansichten ändern. Dies ist keine vollständige Liste aller Möglichkeiten. Es bietet außerdem einen umfassenden Satz an Datenobjekten, mit denen Sie Anmerkungseigenschaften in allen unterstützten Dokumentformaten an Ihre Anforderungen anpassen können.
 
-        Werken met de GroupDocs.Annotation for Java API is heel eenvoudig en bestaat uit slechts een paar basisstappen. Eerst moet je een licentie instellen, dan het bestand selecteren waarmee je wilt werken, dan op de een of andere manier manipuleren met documentannotaties (verwijderen/bewerken/uitpakken/verwijderen) en het resultaat opslaan. Zie voor meer informatie product [documentatie](https://docs.groupdocs.com/annotation/java/getting-started/) of onze [voorbeelden](https://github.com/groupdocs-annotation /GroupDocs.Annotation-for-Java) ingesteld.
-
-        GroupDocs.Annotation wordt regelmatig bijgewerkt en biedt ondersteuning voor haar klanten, u bent altijd welkom om ons een vraag te stellen of uw ideeën te sturen of ons te vertellen over uw behoeften aan iets nieuws en we zullen het graag implementeren in onze nieuwe versies.
+      Die Arbeit mit der GroupDocs.Annotation for Java API ist sehr einfach und besteht aus nur wenigen Grundschritten. Zuerst müssen Sie eine Lizenz einrichten, dann die Datei auswählen, mit der Sie arbeiten möchten, dann irgendwie mit Dokumentanmerkungen manipulieren (löschen/bearbeiten/extrahieren/löschen) und das Ergebnis speichern. Weitere Informationen finden Sie in der Produktdokumentation (https://docs.groupdocs.com/annotation/java/getting-started/) oder in unseren Beispielen (https://github.com/groupdocs-annotation/GroupDocs.Annotation). -for-Java) festgelegt.
+      
+      GroupDocs.Annotation wird regelmäßig aktualisiert und unterstützt seine Kunden. Sie sind jederzeit willkommen, uns Fragen zu stellen, Ihre Ideen zu senden oder uns Ihren Bedarf an etwas Neuem mitzuteilen, und wir werden es gerne in unseren neuen Versionen umsetzen.
     tabs:
       enable: true
       
       ## TAB ONE ##
       tab_one:
         description: |
-          Nachfolgend finden Sie eine Übersicht über GroupDocs.Annotation für Java:
+          Im Folgenden finden Sie eine Übersicht über GroupDocs.Annotation für Java:
       
         right:
           enable: true
           icon: "fab fa-html5"
-          title: "Überblick"
+          title:  Überblick
           content: |
             * Anmerkungen hinzufügen
-            * Anmerkungen exportieren
+            * Anmerkungen exportieren 
             * Anmerkungen importieren
             * Antwortbasierte Kommentare
             * Anmerkungskompatibilität
@@ -95,6 +87,7 @@ overview:
       tab_two:
         description: |
           GroupDocs.Annotation für Java unterstützt alle gängigen [Dokumentdateiformate](https://docs.groupdocs.com/annotation/java/supported-document-formats/), einschließlich: Microsoft Office, PDF, Bilder und viele andere.
+
         left:
           enable: true
           table:
@@ -111,7 +104,7 @@ overview:
           enable: true
           table:
             # table loop
-            - title: "Andere Formate"
+            - title: "Other Formats"
               content: |
                 * **Portable**: [PDF](/annotation/java/pdf/) (PDF/A-1a, PDF/A-1b, PDF/A-2a)
                 * **OpenDocument**: [ODT](/annotation/java/odt/), [ODS](/annotation/java/ods/), [ODP](/annotation/java/odp/)
@@ -123,13 +116,13 @@ overview:
       tab_three:
         description: |
           GroupDocs.Annotation für Java unterstützt folgende Betriebssysteme, Frameworks und Paketmanager:
-      
+        
         left:
           enable: true
           table:
             # table loop
             - icon: "fab fa-windows"
-              title: "Betriebssysteme"
+              title:  Betriebssysteme
               content: |
                 * Microsoft Windows Desktop
                 * Microsoft Windows Server
@@ -138,156 +131,157 @@ overview:
 
             # table loop
             - icon: "fas fa-code"
-              title: "Unterstützte Frameworks"
+              title:  Unterstützte Frameworks
               content: |
-                * Java 7 (1.7) und höher
+                * Java 7 (1.7) and above
 
         right:
           enable: true
           table:
             # table loop
             - icon: "fas fa-cogs"
-              title: "Entwicklungsumgebungen"
+              title:  Entwicklungsumgebungen
               content: |
                 * NetBeans
                 * IntelliJ IDEA
                 * Eclipse
+
             # table loop
             - icon: "fas fa-tools"
-              title: "Build-Automatisierungstool"
+              title:  Build-Automatisierungstool
               content: |
                 * Maven
 
 ############################# Features ############################
 features:
     enable: true
-    title: "GroupDocs.Annotation für Java-Merkmale"
+    title: GroupDocs.Annotation für Java-Funktionen
 
     feature:
       # feature loop
       - icon: "fas fa-copy"
         link: "https://docs.groupdocs.com/annotation/java/add-area-annotation/"
-        content: "Fügen Sie Bereichsanmerkungen im Dokument hinzu und verknüpfen Sie einfache und verschachtelte Kommentare"
+        content: Fügen Sie Bereichsanmerkungen im Dokument hinzu und verknüpfen Sie einfache und verschachtelte Kommentare
 
       # feature loop
       - icon: "fas fa-eye"
         link: "https://docs.groupdocs.com/annotation/java/add-arrow-annotation/"
-        content: "Zeigen Sie mithilfe der Pfeilanmerkung auf einen bestimmten Inhalt"
+        content: Zeigen Sie mithilfe der Pfeilanmerkung auf einen bestimmten Inhalt
 
       # feature loop
       - icon: "fas fa-bolt"
         link: "https://docs.groupdocs.com/annotation/java/add-watermark-annotation/"
-        content: "Stellen Sie Textwasserzeichen auf PDF, Folien, Excel-Arbeitsblätter, Bilder und Diagramme in abgewinkelter Position ein"
+        content: Setzen Sie Textwasserzeichen auf PDF, Folien, Excel-Arbeitsblätter, Bilder und Diagramme in abgewinkelter Position
       
       # feature loop
       - icon: "fas fa-file-powerpoint"
         link: "https://docs.groupdocs.com/annotation/java/add-point-annotation/"
-        content: "Fügen Sie mithilfe von Punktanmerkungen Popup-Kommentare zu beliebigen Stellen im Dokument hinzu"
+        content: Fügen Sie mithilfe der Punktanmerkung Popup-Kommentare an jeder Stelle im Dokument hinzu
 
       # feature loop
       - icon: "fas fa-code"
         link: "https://docs.groupdocs.com/annotation/java/add-polyline-annotation/"
-        content: "Verwenden Sie die Polylinienbeschriftung, um eine Folge von Liniensegmenten, Bogensegmenten oder beidem zu verbinden"
+        content: Verwenden Sie Polylinienanmerkungen, um eine Folge von Liniensegmenten, Bogensegmenten oder beidem zu verbinden
 
       # feature loop
       - icon: "fas fa-cloud"
         link: "https://docs.groupdocs.com/annotation/java/add-ellipse-annotation/"
-        content: "Fügen Sie Ellipsenanmerkungen zu PDFs, Word-Dokumenten, Tabellenkalkulationen, Präsentationen, Diagrammen und Bildern hinzu"
+        content: Fügen Sie Ellipsenanmerkungen zu PDFs, Word-Dokumenten, Tabellenkalkulationen, Präsentationen, Diagrammen und Bildern hinzu
 
       # feature loop
       - icon: "fas fa-remove-format"
         link: "https://docs.groupdocs.com/annotation/java/add-watermark-annotation/"
-        content: "Fügen Sie abgewinkelte Wasserzeichen für PDF, PowerPoint, Excel, Bilder und Diagramme hinzu"
+        content: Fügen Sie abgewinkelte Wasserzeichen für PDF, PowerPoint, Excel, Bilder und Diagramme hinzu
 
       # feature loop
       - icon: "fas fa-comment-slash"
-        link: "https://docs.groupdocs.com/annotation/java/extract-annotations-from-document/"
-        content: "Abrufen von Koordinaten der Textanmerkung in der Bilddarstellung eines Dokuments"
+        link: "https://docs.groupdocs.com/annotation/java/add-underline-annotation/"
+        content: Rufen Sie die Koordinaten der Textanmerkung in der Bilddarstellung eines Dokuments ab
 
       # feature loop
       - icon: "fas fa-location-arrow"
         link: "https://docs.groupdocs.com/annotation/java/add-annotation-to-the-document/"
-        content: "Bestimmten Text in einem Dokument unterstreichen, durchstreichen oder ändern"
+        content: Unterstreichen, durchstreichen oder ändern Sie bestimmten Text in einem Dokument
 
       # feature loop
       - icon: "fas fa-border-all"
         link: "https://docs.groupdocs.com/annotation/java/add-annotation-to-the-document/"
-        content: "Textstempel oder Wasserzeichen & Textfeld in einem Dokument hinzufügen"
+        content: Fügen Sie einem Dokument einen Textstempel oder ein Wasserzeichen und ein Textfeld hinzu
 
       # feature loop
       - icon: "fas fa-wrench"
-        link: "https://docs.groupdocs.com/annotation/net/advanced-usage/"
-        content: "Import & Anmerkungen exportieren among Word Documents & PowerPoint Presentations"
+        link: "https://docs.groupdocs.com/annotation/java/add-point-annotation/"
+        content: Importieren und exportieren Sie Anmerkungen zwischen Word-Dokumenten und PowerPoint-Präsentationen
 
       # feature loop
       - icon: "fas fa-columns"
-        link: "https://docs.groupdocs.com/annotation/java/add-annotation-to-the-document/"
-        content: "Kommentieren Sie Excel-Tabellen mit Anmerkungstypen für Text, Textersetzung, Wasserzeichen und Ressourcenschwärzung"
+        link: "https://docs.groupdocs.com/annotation/java/add-strikeout-annotation/"
+        content: Kommentieren Sie Excel-Tabellen mit den Anmerkungstypen „Text“, „Textersetzung“, „Wasserzeichen“ und „Ressourcenschwärzung“.
 
       # feature loop
       - icon: "fas fa-file-word"
-        link: "https://docs.groupdocs.com/annotation/java/add-annotation-to-the-document/"
-        content: "Fügen Sie PowerPoint-Präsentationen und -Folien Polylinien, durchgestrichene, unterstrichene oder Textanmerkungen hinzu"
+        link: "https://docs.groupdocs.com/annotation/java/get-file-info/"
+        content: Fügen Sie PowerPoint-Präsentationen und -Folien Polylinien, Durchstreichungen, Unterstreichungen oder Textanmerkungen hinzu
 
       # feature loop
       - icon: "fas fa-envelope"
-        link: "https://docs.groupdocs.com/annotation/java/add-point-annotation/"
-        content: "Markieren Sie Punktanmerkungen in Präsentationen mit X-, Y-Koordinaten"
+        link: "https://docs.groupdocs.com/annotation/java/basic-usage/"
+        content: Markieren Sie Punktanmerkungen in Präsentationen mithilfe von X- und Y-Koordinaten
 
       # feature loop
       - icon: "fas fa-print"
-        link: "https://docs.groupdocs.com/annotation/java/add-point-annotation/"
-        content: "Fügen Sie Bildern durchgestrichene, Text-, Unterstreichungs- oder Polylinienanmerkungen hinzu"
+        link: "https://docs.groupdocs.com/annotation/java/add-strikeout-annotation/"
+        content: Fügen Sie Bildern durchgestrichene, Text-, Unterstreichungs- oder Polylinienanmerkungen hinzu
 
       # feature loop
       - icon: "fas fa-file-archive"
-        link: "https://docs.groupdocs.com/annotation/java/get-file-info/"
-        content: "Abrufen von Dokumentinformationen und Bildern für Visio-Diagramme wie VSS und VSD"
-
+        link: "https://docs.groupdocs.com/annotation/java/add-link-annotation/"
+        content: Rufen Sie Dokumentinformationen und Bilder für Visio-Diagramme wie VSS und VSD ab
+      
       # feature loop
       - icon: "fas fa-file-code"
         link: "https://docs.groupdocs.com/annotation/java/basic-usage/"
-        content: "Erhalten Sie Miniaturansichten der Dokumentseiten und arbeiten Sie mit mehrseitigen TIFF-Dateien"
-      
+        content: Erhalten Sie Miniaturansichten der Dokumentseiten und arbeiten Sie mit mehrseitigen TIFF-Dateien
+
       # feature loop
       - icon: "fas fa-file-excel"
         link: "https://docs.groupdocs.com/annotation/java/get-file-info/"
-        content: "Holen Sie sich alle Anmerkungen eines Dokuments mit einem einzigen Funktionsaufruf"
+        content: Rufen Sie alle Anmerkungen eines Dokuments mit einem einzigen Funktionsaufruf ab
 
       # feature loop
       - icon: "fas fa-heading"
         link: "https://docs.groupdocs.com/annotation/java/add-link-annotation/"
-        content: "Fügen Sie Link-Anmerkungen zu PDF-, Word- und PowerPoint-Präsentationen hinzu"
+        content: Fügen Sie Linkanmerkungen zu PDF-, Word- und PowerPoint-Präsentationen hinzu
 
       # feature loop
       - icon: "fas fa-project-diagram"
         link: "https://docs.groupdocs.com/annotation/java/add-point-annotation/"
-        content: "SVG-Pfad-Parsing-Unterstützung für PDF, Word, Diagramme, Folien und andere wichtige Dokumentformate"
+        content: SVG Path Parsing-Unterstützung für PDF, Word, Diagramme, Folien und andere wichtige Dokumentformate
 
       # feature loop
       - icon: "fas fa-cube"
         link: "https://docs.groupdocs.com/annotation/java/technical-support/"
-        content: "Unterstützung für das Hinzufügen von Wasserzeichenanmerkungen zu Word-Dokumenten und die Bereinigung für die Textersetzung"
+        content: Unterstützung für das Hinzufügen von Wasserzeichenanmerkungen zu Word-Dokumenten und die Bereinigung für Textersetzung
 
       # feature loop
       - icon: "fab fa-uncharted"
         link: "https://docs.groupdocs.com/annotation/java/technical-support/"
-        content: "Formverarbeitungsunterstützung in Diagrammen für Textanmerkungen"
-
+        content: Unterstützung der Formverarbeitung in Diagrammen für Textanmerkungen
+  
       # feature loop
       - icon: "fab fa-uncharted"
         link: "https://docs.groupdocs.com/annotation/java/advanced-usage/"
-        content: "Sparen Sie Zeit, indem Sie Seitenvorschauen von Dokumenten für eine schnellere Verarbeitung zwischenspeichern"
-
+        content: Sparen Sie Zeit, indem Sie Seitenvorschauen von Dokumenten für eine schnellere Verarbeitung zwischenspeichern
+  
       # feature loop
       - icon: "fab fa-uncharted"
         link: "https://docs.groupdocs.com/annotation/java/add-annotation-to-the-document/"
-        content: "Einfaches Kommentieren von Word-, Excel- und PowerPoint-Dokumenten auch in älteren Formaten"
+        content: Kommentieren Sie problemlos Word-, Excel- und PowerPoint-Dokumente, auch in älteren Formaten
 
       # feature loop
       - icon: "fab fa-uncharted"
         link: "https://docs.groupdocs.com/annotation/java/add-distance-annotation/"
-        content: "Zeigen Sie Beschriftungen für Entfernungsanmerkungen für Excel, PowerPoint und Diagramme an"
+        content: Zeigen Sie Beschriftungen für Entfernungsanmerkungen für Excel, PowerPoint und Diagramme an
 
 ############################# Support ############################
 support:
@@ -296,7 +290,7 @@ support:
 ############################# Solutions ############################
 solutions:
     enable: true
-    title: "GroupDocs.Annotation bietet APIs zum Anzeigen von Dokumenten für andere beliebte Entwicklungsumgebungen"
+    title: GroupDocs.Annotation bietet APIs zur Dokumentanzeige für andere gängige Entwicklungsumgebungen
 
     solution:
         # solution loop

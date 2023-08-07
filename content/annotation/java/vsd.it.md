@@ -1,15 +1,10 @@
-
 ---
 ############################# Static ############################
 layout: "auto-gen-annotation"
-date: 07/05/2022 12:44:18
-draft: false
-
-###_DIMA_### link rel="canonical" href="https://products.groupdocs.com/annotation/java/vsd"/>
 
 ############################# Head ############################
-head_title: "Java VSD API di annotazione Annotate in C#"
-head_description: "Java API per creare e Annotate tipi di annotazioni popolari da VSD, immagini, disegni e formati di file di documenti."
+head_title: "Java VSD API di annotazione Annota in C#"
+head_description: "API Java per creare e annotare tipi di annotazioni popolari da VSD, immagini, disegni e formati di file di documenti."
 
 ############################# Header ############################
 title: "Annota VSD da Java"
@@ -19,98 +14,65 @@ bg_overlay: false
 button:
     enable: true
     icon: "fas fa-arrow-down"
-    label: "Download Free Trial"
+    label: "Scarica la prova gratuita"
     link: "https://downloads.groupdocs.com/annotation/java"
-
-############################# SubMenu ############################
-submenu:
-    enable: true
-
-    left:
-        img_alt: "GroupDocs.Annotation per Java"
-        image: "https://cms.admin.containerize.com/templates/groupdocs/images/product-logos/90x90-noborder/groupdocs-annotation-java.png"
-        product: "GroupDocs.Annotation"
-        platform: "Java"
-
-    middle:
-        button:
-            # button loop
-            - link: "https://apireference.groupdocs.com/annotation/java"
-              text: "API Reference"
-            # button loop
-            - link: "https://github.com/groupdocs-annotation"
-              text: "Code Examples"
-            # button loop
-            - link: "https://products.groupdocs.app/annotation/family"
-              text: "Live Demos"
-            # button loop
-            - link: "https://purchase.groupdocs.com/pricing/annotation/java"
-              text: "Pricing"
-
-    right:
-        link_download: "https://downloads.groupdocs.com/annotation"
-        link_learn: "https://docs.groupdocs.com/annotation/java"
-        link_buy: "https://purchase.groupdocs.com"
 
 ############################# About ############################
 about:
     enable: true
-    title: "Informazioni su GroupDocs.Annotation per Java API"
+    title: "Informazioni su GroupDocs.Annotation per l'API Java"
     content: |
-        GroupDocs.Annotation for Java API è una libreria che ti consente di aggiungere annotazioni a PDF, Word e altri documenti su Mac, Windows o Ubuntu. [GroupDocs.Annotation for Java](/annotation/java) è un'API nativa di Java per la gestione delle annotazioni con supporto completo per la creazione, l'aggiunta, la modifica, l'eliminazione, l'estrazione e l'esportazione di annotazioni da immagini e vari altri documenti. L'elenco completo dei formati di documenti supportati è disponibile in questa [pagina](https://docs.groupdocs.com/annotation/java/supported-document-formats/).
-
-        Questa libreria ti consente di lavorare non solo con il documento VSD ma anche con molti altri tipi di documenti come Word, Excel, PowerPoint, email di Outlook, Visio, Adobe, OpenDocument, OpenOffice, Photoshop, AutoCad e molti altri.
-
-        L'API GroupDocs.Annotation per Java ti consente di creare e aggiungere nuove note, edit annotazioni, extract commenti, annotazioni e remove dai documenti. La libreria supporta 13 diversi tipi di annotazione, tra cui Testo, Polilinea, Area, Sottolineato, Punto, Filigrana, Freccia, Ellisse, Sostituzione testo, Distanza, Campo di testo, Redazione risorsa in PDF, HTML, documenti Microsoft Word, fogli di calcolo, diagrammi, presentazioni, disegni, immagini e molti altri formati di file.
-
-        L'esempio (vedi sotto) mostra come lavorare con il documento VSD, in questo esempio puoi vedere i passaggi principali di come lavorare con GroupDocs. Annotazione: imposta una licenza, apri un documento con cui vuoi lavorare, crea un annotazione, aggiunta di oggetti dati per impostare le proprietà di annotazione in base alle proprie esigenze e salvataggio del risultato nella posizione necessaria. Inoltre puoi dare uno sguardo più dettagliato alle funzionalità supportate sulla nostra github [pagina](https://github.com/groupdocs-annotation/GroupDocs.Annotation-for-Java), o nella nostra [documentazione](https://docs.groupdocs.com/annotation/java/getting-started/).
+        GroupDocs.Annotation for Java API è una libreria che ti consente di aggiungere annotazioni a PDF, Word e altri documenti su Mac, Windows o Ubuntu. [GroupDocs.Annotation for Java](/annotation/java) è un'API Java nativa per la gestione delle annotazioni con supporto completo per la creazione, l'aggiunta, la modifica, l'eliminazione, l'estrazione e l'esportazione di annotazioni da immagini e vari altri documenti. L'elenco completo dei formati di documenti supportati è disponibile in questa [pagina](https://docs.groupdocs.com/annotation/java/supported-document-formats/).
+        Questa libreria ti consente di lavorare non solo con il documento VSD ma anche con molti altri tipi di documenti come Word, Excel, PowerPoint, e-mail di Outlook, Visio, Adobe, OpenDocument, OpenOffice, Photoshop, AutoCad e molti altri.
+        L'API GroupDocs.Annotation per Java consente di creare e aggiungere nuove note, modificare annotazioni, estrarre commenti, annotazioni e rimuoverle dai documenti. La libreria supporta 13 diversi tipi di annotazione, tra cui Testo, Polilinea, Area, Sottolineato, Punto, Filigrana, Freccia, Ellisse, Sostituzione testo, Distanza, Campo di testo, Redazione risorsa in PDF, HTML, documenti Microsoft Word, fogli di calcolo, diagrammi, presentazioni, disegni, immagini e molti altri formati di file.
+        L'esempio (vedi sotto) mostra come lavorare con il documento VSD, in questo esempio puoi vedere i passaggi principali di come lavorare con GroupDocs. Annotazione: impostare una licenza, aprire un documento con cui vuoi lavorare, creare un annotazione, aggiunta di oggetti dati per impostare le proprietà di annotazione in base alle proprie esigenze e salvataggio del risultato nella posizione necessaria. Inoltre, puoi dare un'occhiata più dettagliata alle funzionalità supportate sulla nostra [pagina] github (https://github.com/groupdocs-annotation/GroupDocs.Annotation-for-Java) o nella [documentazione] del nostro prodotto (https: //docs.groupdocs.com/annotation/java/getting-started/).
 
 ############################# Steps ############################
 howTo_Add:
 steps_Add:
     enable: true
-    title_left: "Passaggi per aggiungere annotazioni da VSD in Java"
+    title_left: "Passaggi per aggiungere annotazioni a VSD in Java"
     content_left: |
         [GroupDocs.Annotation](/annotation/java/) rende facile per gli sviluppatori Java aggiungere vari tipi di annotazioni ai file VSD all'interno di qualsiasi applicazione basata su Java implementando pochi semplici passaggi.
-        * Crea oggetti di risposta con commento e data.
-        * Crea un oggetto AreaAnnotation, imposta le opzioni dell'area e aggiungi risposte.
-        * Crea un oggetto Annotator e aggiungi un'annotazione dell'area.
-        * Salva il file di output.
+        *   Crea oggetti Reply con commento e data.
+        *   Crea un oggetto AreaAnnotation, imposta le opzioni dell'area e aggiungi le risposte.
+        *   Crea un oggetto Annotator e aggiungi l'annotazione dell'area.
+        *   Salva il file di output.
     title_right: "Requisiti di sistema"
     content_right: |
         Le API GroupDocs.Annotation per Java sono supportate su tutte le principali piattaforme e sistemi operativi. Prima di eseguire il codice seguente, assicurati di avere i seguenti prerequisiti installati sul tuo sistema.
-        * Sistemi operativi: Microsoft Windows, Linux, MacOS
-        * Ambiente di sviluppo: NetBeans, Intellij IDEA, Eclipse ecc
-        * Java Runtime Environment: Java 7 (1.7) e versioni successive
-        * Ottieni l'ultima versione di GroupDocs.Annotation per Java da [GroupDocs Artifact Repository](https://repository.groupdocs.com/webapp/#/artifacts/browse/tree/General/repo/com/groupdocs/groupdocs-annotation)
+        *   Sistemi operativi: Microsoft Windows, Linux, MacOS
+        *   Ambiente di sviluppo: NetBeans, Intellij IDEA, Eclipse ecc
+        *   Java Runtime Environment: Java 7 (1.7) e versioni successive
+        *   Ottieni l'ultima versione di GroupDocs.Annotation per Java da [GroupDocs Artifact Repository](https://repository.groupdocs.com/webapp/#/artifacts/browse/tree/General/repo/com/groupdocs/groupdocs-annotation)
 
 ############################# Preview ############################
 preview_Add:
     enable: true
-    title: "Anteprima dell'annotazione ed esempio di codice"
+    title: Anteprima dell'annotazione ed esempio di codice
     content: |
         ![Annotation preview image](https://docs.groupdocs.com/annotation/java/images/add-area-annotation.png)
     code: |
         ```java
-        // Crea un'istanza della classe Reply e aggiungi commenti
+        // Create an instance of Reply class and add comments
         Reply firstReply = new Reply();
-        firstReply.setComment("Primo commento");
+        firstReply.setComment("First comment");
         firstReply.setRepliedOn(Calendar.getInstance().getTime());
         
         Reply secondReply = new Reply();
-        secondReply.setComment("Secondo commento");
+        secondReply.setComment("Second comment");
         secondReply.setRepliedOn(Calendar.getInstance().getTime());
         
         List<Reply> replies = new ArrayList<Reply>();
         replies.add(firstReply);
         replies.add(secondReply);
         
-        // Crea un'istanza della classe AreaAnnotation e imposta le opzioni
+        // Create an instance of AreaAnnotation class and set options
         AreaAnnotation area = new AreaAnnotation();
-        area.setColoreSfondo(65535);
-        area.setBox(new Rettangolo(100, 100, 100, 100));
+        area.setBackgroundColor(65535);
+        area.setBox(new Rectangle(100, 100, 100, 100));
         area.setCreatedOn(Calendar.getInstance().getTime());
-        area.setMessage("Questa è un'annotazione dell'area");
+        area.setMessage("This is area annotation");
         area.setOpacity(0.7);
         area.setPageNumber(0);
         area.setPenColor(65535);
@@ -118,13 +80,13 @@ preview_Add:
         area.setPenWidth((byte) 3);
         area.setReplies(replies);
         
-        // Crea un'istanza della classe Annotator
+        // Create an instance of Annotator class
         Annotator annotator = new Annotator("input.bmp");
         
-        // Aggiungi annotazione
+        // Add annotation
         annotator.add(area);
         
-        // Salva nel file
+        // Save to file
         annotator.save("output.bmp");
         annotator.dispose();
         ```
@@ -136,24 +98,23 @@ steps_Remove:
     title_left: "Passaggi per rimuovere le annotazioni da VSD in Java"
     content_left: |
         [GroupDocs.Annotation](/annotation/java/) rende più facile per gli sviluppatori Java rimuovere i dettagli delle annotazioni dai file VSD all'interno di qualsiasi applicazione basata su Java implementando alcuni semplici passaggi.
-        * Crea oggetti di risposta con commento e data.
-        * Crea un'istanza dell'oggetto SaveOptions e imposta AnnotationTypes = AnnotationType.None.
-        * Richiama il metodo di salvataggio con il percorso o il flusso del documento risultante e l'oggetto SaveOptions.
+        *   Crea oggetti Reply con commento e data.
+        *   Crea un'istanza dell'oggetto SaveOptions e imposta AnnotationTypes = AnnotationType.None.
+        *   Chiama il metodo di salvataggio con il percorso o il flusso del documento risultante e l'oggetto SaveOptions.
 
 ############################# Preview ############################
 preview_Remove:
     enable: true
-    
     code: |
         ```java
-        // Crea un'istanza della classe Annotator
+        // Create an instance of Annotator class 
         Annotator annotator = new Annotator("C://input.bmp");
 
-        // Rimuovi l'annotazione per tipo di set Nessuno
+        // Remove annotation by set type None 
         SaveOptions saveOptions = new SaveOptions();
         saveOptions.setAnnotationTypes(AnnotationType.None);
 
-        // Salva l'annotazione nel file di output
+        // Save annotation to output file
         annotator.save("C://output.bmp", saveOptions);
         annotator.dispose();
         ```
@@ -164,78 +125,77 @@ steps_Edit:
     enable: true
     title_left: "Passaggi per modificare le annotazioni da VSD in Java"
     content_left: |
-        [GroupDocs.Annotation](/annotation/java/) rende più facile per gli sviluppatori Java aggiornare varie proprietà di annotazione da file VSD all'interno di qualsiasi applicazione basata su Java implementando pochi semplici passaggi.
-        * Crea un'istanza dell'oggetto Annotator con il percorso o il flusso del documento di input con LoadOptions istanziato con ImportAnnotations = true.
-        * Crea un'implementazione AnnotationBase e imposta l'ID dell'annotazione esistente (se l'annotazione con quell'ID non viene trovata, non verrà modificato nulla) o l'elenco dei percorsi delle annotazioni (tutte le annotazioni esistenti verranno rimosse).
-        * Chiama il metodo di aggiornamento dell'oggetto Annotator con annotazioni passate.
-        * Richiama il metodo di salvataggio con il percorso o il flusso del documento risultante e l'oggetto SaveOptions.
+        [GroupDocs.Annotation](/annotation/java/) rende più facile per gli sviluppatori Java aggiornare varie proprietà di annotazione da file VSD all'interno di qualsiasi applicazione basata su Java implementando alcuni semplici passaggi.
+        *   Crea un'istanza dell'oggetto Annotator con il percorso o il flusso del documento di input con LoadOptions istanziato con ImportAnnotations = true.
+        *   Crea un'implementazione AnnotationBase e imposta l'ID dell'annotazione esistente (se l'annotazione con quell'ID non viene trovata, non verrà modificato nulla) o l'elenco dei percorsi delle annotazioni (tutte le annotazioni esistenti verranno rimosse).
+        *   Chiama il metodo di aggiornamento dell'oggetto Annotator con annotazioni passate.
+        *   Chiama il metodo di salvataggio con il percorso o il flusso del documento risultante e l'oggetto SaveOptions.
 
 ############################# Preview ############################
 preview_Edit:
     enable: true
-    
     code: |
         ```java
         String outputPath = "UpdateAnnotation.bmp";
 
-        // Crea un'istanza della classe Annotator
+        // Create an instance of Annotator class
         Annotator annotator = new Annotator("input.bmp");
         
-        // Crea un'istanza della classe Reply per il primo esempio e aggiungi commenti
+        // Create an instance of Reply class for first example and add comments
         Reply reply1 = new Reply();
-        reply1.setComment("Primo commento originale");
+        reply1.setComment("Original first comment");
         reply1.setRepliedOn(Calendar.getInstance().getTime());
         
         Reply reply2 = new Reply();
-        reply2.setComment("Secondo commento originale");
+        reply2.setComment("Original second comment");
         reply2.setRepliedOn(Calendar.getInstance().getTime());
         
         java.util.List replies = new ArrayList();
         replies.add(reply1);
         replies.add(reply2);
         
-        // Crea un'istanza della classe AreaAnnotation e imposta le opzioni
+        // Create an instance of AreaAnnotation class and set options
         AreaAnnotation original = new AreaAnnotation();
         original.setId(1);
         original.setBackgroundColor(65535);
         original.setBox(new Rectangle(100, 100, 100, 100));
         original.setCreatedOn(Calendar.getInstance().getTime());
-        original.setMessage("Questa è un'annotazione originale");
+        original.setMessage("This is original annotation");
         original.setReplies(replies);
         
-        // Aggiungi annotazione originale
-        annotator.add(originale);
+        // Add original annotation
+        annotator.add(original);
         annotator.save(outputPath);
         annotator.dispose();
         
         LoadOptions loadOptions = new LoadOptions();
         
-        // Apre il documento annotato
+        // Open annotated document
         Annotator annotator1 = new Annotator(outputPath, loadOptions);
         
-        // Crea un'istanza della classe Reply per aggiornare il primo esempio
+        // Create an instance of Reply class for update first example
         Reply reply3 = new Reply();
-        reply3.setComment("Primo commento aggiornato");
+        reply3.setComment("Updated first comment");
         reply3.setRepliedOn(Calendar.getInstance().getTime());
         
         Reply reply4 = new Reply();
-        reply4.setComment("Secondo commento aggiornato");
+        reply4.setComment("Updated second comment");
         reply4.setRepliedOn(Calendar.getInstance().getTime());
         
         java.util.List replies1 = new ArrayList();
         replies1.add(reply3);
         replies1.add(reply4);
 
-        // Suggerisce di voler modificare alcune proprietà dell'annotazione esistente
+        // Suggest we want change some properties of existed annotation
         AreaAnnotation updated = new AreaAnnotation();
         updated.setId(1);
         updated.setBackgroundColor(255);
         updated.setBox(new Rectangle(0, 0, 50, 200));
         updated.setCreatedOn(Calendar.getInstance().getTime());
-        updated.setMessage("Questa è un'annotazione aggiornata");
+        updated.setMessage("This is updated annotation");
         updated.setReplies(replies1);
         
-        // Aggiorna e salva l'annotazione
+        // Update and save annotation
         annotator1.update(updated);
         annotator1.save(outputPath);
         annotator1.dispose();
@@ -245,24 +205,23 @@ preview_Edit:
 howTo_Extract:
 steps_Extract:
     enable: true
-    title_left: "Passaggi per estrarre le annotazioni da VSD in Java"
+    title_left: "Passaggi per estrarre annotazioni da VSD in Java"
     content_left: |
         [GroupDocs.Annotation](/annotation/java/) rende facile per gli sviluppatori Java annotare documenti ed estrarre informazioni di annotazione da file VSD all'interno di qualsiasi applicazione basata su Java implementando pochi semplici passaggi.
-        * Crea oggetti di risposta con commento e data.
-        * Crea un'istanza dell'oggetto LoadOptions e chiama SetImportAnnotations con argomento vero.
-        * Definire variabile con tipo List.
-        * Chiama il metodo get e restituisci il risultato alla variabile sopra.
+        *   Crea oggetti Reply con commento e data.
+        *   Crea un'istanza dell'oggetto LoadOptions e chiama SetImportAnnotations con argomento vero.
+        *   Definisci variabile con tipo List.
+        *   Chiama il metodo get e restituisci il risultato alla variabile sopra.
 
 ############################# Preview ############################
 preview_Extract:
     enable: true
-    
     code: |
         ```java
-        // Per utilizzare questo esempio, il file di input ("annotated.bmp") deve contenere annotazioni
+        // For using this example input file ("annotated.bmp") must be with annotations
         LoadOptions loadOptions = new LoadOptions();
         
-        // Crea un'istanza della classe Annotator e ottieni le annotazioni
+        // Create an instance of Annotator class and get annotations
         final Annotator annotator = new Annotator("annotated.bmp", loadOptions);
         List annotations = annotator.get();
         ```
@@ -270,10 +229,10 @@ preview_Extract:
 ############################# Demos ############################
 demos:
     enable: true
-    title: "Dimostrazioni dal vivo per aggiungere, rimuovere, modificare ed estrarre annotazioni da documenti e immagini"
+    title: "Demo dal vivo per aggiungere, rimuovere, modificare ed estrarre annotazioni a documenti e immagini"
     content: |
-        Aggiungete, rimuovete, modificate ed estraete annotazioni al file VSD in questo momento visitando il sito web [GroupDocs.Annotation Live Demos](https://products.groupdocs.app/annotation/family).
-        La demo dal vivo offre i seguenti vantaggi
+        Aggiungi, rimuovi, modifica ed estrai subito le annotazioni dal file VSD visitando il sito web [GroupDocs.Annotation Live Demos](https://products.groupdocs.app/annotation/family).
+La demo dal vivo ha i seguenti vantaggi
 
 ############################# About Formats ############################
 about_formats:
@@ -283,7 +242,8 @@ about_formats:
         - icon: "far fa-file-vsd"
           title: "Informazioni sul formato file VSD"
           content: |
-            I file VSD sono disegni creati con l'applicazione Microsoft Visio per rappresentare una varietà di oggetti grafici e l'interconnessione tra questi. Tali disegni possono contenere oggetti visivi come oggetti visivi, diagrammi di flusso, diagramma UML, flusso di informazioni, organigrammi, diagrammi software, layout di rete, modelli di database, mappatura di oggetti e altre informazioni simili. Microsoft Visio offre la possibilità di convertire i file Visio in una serie di diversi formati di file tra cui PNG, BMP, PDF e altri.
+            I file VSD sono disegni creati con l'applicazione Microsoft Visio per rappresentare una varietà di oggetti grafici e l'interconnessione tra questi. Tali disegni possono contenere oggetti visivi come oggetti visivi, diagrammi di flusso, diagramma UML, flusso di informazioni, organigrammi, diagrammi software, layout di rete, modelli di database, mappatura di oggetti e altre informazioni simili. Microsoft Visio offre la possibilità di convertire i file Visio in numerosi formati di file diversi, tra cui PNG, BMP, PDF e altri.
+
           link: "https://docs.fileformat.com/image/vsd/"
 
 ############################# More Formats ############################

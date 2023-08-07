@@ -1,15 +1,10 @@
-
 ---
 ############################# Static ############################
 layout: "auto-gen-annotation"
-date: 07/05/2022 12:44:18
-draft: false
-
-###_DIMA_### link rel="canonical" href="https://products.groupdocs.com/annotation/java/pptm"/>
 
 ############################# Head ############################
-head_title: "Java PPTM Annotation API Annotate in C#"
-head_description: "Java API zum Erstellen und Kommentieren Sie beliebter Anmerkungstypen aus PPTM, Bilder, Zeichnungen und Dokumentdateiformate."
+head_title: "Java PPTM Annotation API Annotieren in C#"
+head_description: "Java-API zum Erstellen und Kommentieren beliebter Anmerkungstypen aus PPTM, Bildern, Zeichnungen und Dokumentdateiformaten."
 
 ############################# Header ############################
 title: "Kommentieren Sie PPTM aus Java"
@@ -19,98 +14,65 @@ bg_overlay: false
 button:
     enable: true
     icon: "fas fa-arrow-down"
-    label: "Download Free Trial"
+    label: "Download kostenlose Testversion"
     link: "https://downloads.groupdocs.com/annotation/java"
-
-############################# SubMenu ############################
-submenu:
-    enable: true
-
-    left:
-        img_alt: "GroupDocs.Annotation für Java"
-        image: "https://cms.admin.containerize.com/templates/groupdocs/images/product-logos/90x90-noborder/groupdocs-annotation-java.png"
-        product: "GroupDocs.Annotation"
-        platform: "Java"
-
-    middle:
-        button:
-            # button loop
-            - link: "https://apireference.groupdocs.com/annotation/java"
-              text: "API Reference"
-            # button loop
-            - link: "https://github.com/groupdocs-annotation"
-              text: "Code Examples"
-            # button loop
-            - link: "https://products.groupdocs.app/annotation/family"
-              text: "Live Demos"
-            # button loop
-            - link: "https://purchase.groupdocs.com/pricing/annotation/java"
-              text: "Pricing"
-
-    right:
-        link_download: "https://downloads.groupdocs.com/annotation"
-        link_learn: "https://docs.groupdocs.com/annotation/java"
-        link_buy: "https://purchase.groupdocs.com"
 
 ############################# About ############################
 about:
     enable: true
-    title: "Über GroupDocs.Annotation für die Java-API"
+    title: "Über GroupDocs.Annotation für Java API"
     content: |
-        GroupDocs.Annotation for Java API ist eine Bibliothek, mit der Sie Anmerkungen zu PDF-, Word- und anderen Dokumenten auf Mac, Windows oder Ubuntu hinzufügen können. [GroupDocs.Annotation für Java](/annotation/java) ist eine native Java-API zum Verwalten von Anmerkungen mit umfassender Unterstützung für das Erstellen, Hinzufügen, Bearbeiten, Löschen, Extrahieren und Exportieren von Anmerkungen Bilder und verschiedene andere Dokumente. Die vollständige Liste der unterstützten Dokumentformate finden Sie auf dieser [Seite](https://docs.groupdocs.com/annotation/java/supported-document-formats/).
-
+        GroupDocs.Annotation for Java API ist eine Bibliothek, mit der Sie Anmerkungen zu PDF-, Word- und anderen Dokumenten auf Mac, Windows oder Ubuntu hinzufügen können. [GroupDocs.Annotation for Java](/annotation/java) ist eine native Java-API zum Verwalten von Anmerkungen mit umfassender Unterstützung für das Erstellen, Hinzufügen, Bearbeiten, Löschen, Extrahieren und Exportieren von Anmerkungen aus Bildern und verschiedenen anderen Dokumenten. Die vollständige Liste der unterstützten Dokumentformate finden Sie auf dieser [Seite](https://docs.groupdocs.com/annotation/java/supported-document-formats/).
         Mit dieser Bibliothek können Sie nicht nur mit PPTM-Dokumenten arbeiten, sondern auch mit vielen anderen Dokumenttypen wie Word, Excel, PowerPoint, Outlook-E-Mails, Visio, Adobe, OpenDocument, OpenOffice, Photoshop, AutoCad und vielen anderen.
-
-        Mit der GroupDocs.Annotation for Java-API können Sie neue Notizen erstellen und hinzufügen, edit Annotationen, extract Kommentare und Anmerkungen und entfernen sie aus Dokumenten. Die Bibliothek unterstützt 13 verschiedene Anmerkungstypen, darunter Text, Polylinie, Fläche, Unterstreichung, Punkt, Wasserzeichen, Pfeil, Ellipse, Textersetzung, Abstand, Textfeld, Ressourcenschwärzung in PDF, HTML, Microsoft Word-Dokumenten, Tabellenkalkulationen, Diagrammen, Präsentationen, Zeichnungen, Bilder und viele andere Dateiformate.
-
-        Das Beispiel (siehe unten) zeigt die Arbeit mit einem PPTM-Dokument. In diesem Beispiel können Sie die Hauptschritte für die Arbeit mit GroupDocs sehen. Anmerkung: Richten Sie eine Lizenz ein, öffnen Sie ein Dokument, mit dem Sie arbeiten möchten, und erstellen Sie ein Annotation, Hinzufügen von Datenobjekten zum Festlegen von Annotationseigenschaften gemäß Ihren Anforderungen und Speichern des Ergebnisses am erforderlichen Ort. Außerdem können Sie einen detaillierteren Blick auf die unterstützten Funktionen auf unserer Github-[Seite](https://github.com/groupdocs-annotation/GroupDocs.Annotation-for-Java) oder in unserer Produkt [dokumentation](https://docs.groupdocs.com/annotation/java/getting-started/).
+        Mit der GroupDocs.Annotation für Java-API können Sie neue Notizen erstellen und hinzufügen, Anmerkungen bearbeiten, Kommentare und Anmerkungen extrahieren und sie aus Dokumenten entfernen. Die Bibliothek unterstützt 13 verschiedene Anmerkungstypen, darunter Text, Polylinie, Fläche, Unterstreichung, Punkt, Wasserzeichen, Pfeil, Ellipse, Textersetzung, Abstand, Textfeld, Ressourcenschwärzung in PDF, HTML, Microsoft Word-Dokumenten, Tabellenkalkulationen, Diagrammen, Präsentationen, Zeichnungen, Bilder und viele andere Dateiformate.
+        Das Beispiel (siehe unten) zeigt die Arbeit mit dem Dokument PPTM. In diesem Beispiel können Sie die Hauptschritte für die Arbeit mit GroupDocs.Annotation sehen: Richten Sie eine Lizenz ein, öffnen Sie ein Dokument, mit dem Sie arbeiten möchten, und erstellen Sie ein Annotation, Hinzufügen von Datenobjekten zum Festlegen von Annotationseigenschaften gemäß Ihren Anforderungen und Speichern des Ergebnisses am erforderlichen Ort. Außerdem können Sie einen detaillierteren Blick auf die unterstützten Funktionen auf unserer Github-[Seite](https://github.com/groupdocs-annotation/GroupDocs.Annotation-for-Java) oder in unserer Produkt-[Dokumentation](https: //docs.groupdocs.com/annotation/java/getting-started/).
 
 ############################# Steps ############################
 howTo_Add:
 steps_Add:
     enable: true
-    title_left: "Schritte zum Hinzufügen von Anmerkungen aus PPTM in Java"
+    title_left: "Schritte zum Hinzufügen von Anmerkungen zu PPTM in Java"
     content_left: |
-        [GroupDocs.Annotation](/annotation/java/) erleichtert Java-Entwicklern das Hinzufügen verschiedener Anmerkungstypen zu PPTM-Dateien in jeder Java-basierten Anwendung durch die Implementierung einiger einfacher Schritte.
-        * Antwortobjekte mit Kommentar und Datum erstellen.
-        * Erstellen Sie ein AreaAnnotation-Objekt, legen Sie Bereichsoptionen fest und fügen Sie Antworten hinzu.
-        * Erstellen Sie ein Annotator-Objekt und fügen Sie eine Bereichsanmerkung hinzu.
-        * Ausgabedatei speichern.
+        [GroupDocs.Annotation](/annotation/java/) erleichtert Java-Entwicklern das Hinzufügen verschiedener Annotationstypen zu PPTM-Dateien in jeder Java-basierten Anwendung durch die Implementierung einiger einfacher Schritte.
+        *   Erstellen Sie Antwortobjekte mit Kommentar und Datum.
+        *   Erstellen Sie ein AreaAnnotation-Objekt, legen Sie Bereichsoptionen fest und fügen Sie Antworten hinzu.
+        *   Erstellen Sie ein Annotator-Objekt und fügen Sie eine Bereichsanmerkung hinzu.
+        *   Ausgabedatei speichern.
     title_right: "System Anforderungen"
     content_right: |
         GroupDocs.Annotation für Java-APIs werden auf allen wichtigen Plattformen und Betriebssystemen unterstützt. Bevor Sie den folgenden Code ausführen, stellen Sie bitte sicher, dass die folgenden Voraussetzungen auf Ihrem System installiert sind.
-        * Betriebssysteme: Microsoft Windows, Linux, MacOS
-        * Entwicklungsumgebung: NetBeans, Intellij IDEA, Eclipse usw
-        * Java Runtime Environment: Java 7 (1.7) und höher
-        * Holen Sie sich die neueste Version von GroupDocs.Annotation für Java aus dem [GroupDocs Artifact Repository](https://repository.groupdocs.com/webapp/#/artifacts/browse/tree/General/repo/com/groupdocs/groupdocs-annotation)
+        *   Betriebssysteme: Microsoft Windows, Linux, MacOS
+        *   Entwicklungsumgebung: NetBeans, Intellij IDEA, Eclipse usw
+        *   Java-Laufzeitumgebung: Java 7 (1.7) und höher
+        *   Holen Sie sich die neueste Version von GroupDocs.Annotation für Java aus dem [GroupDocs Artifact Repository](https://repository.groupdocs.com/webapp/#/artifacts/browse/tree/General/repo/com/groupdocs/groupdocs-annotation)
 
 ############################# Preview ############################
 preview_Add:
     enable: true
-    Titel: „Anmerkungsvorschau und Codebeispiel“
+    title: Anmerkungsvorschau und Codebeispiel
     content: |
         ![Annotation preview image](https://docs.groupdocs.com/annotation/java/images/add-area-annotation.png)
     code: |
-        „Java
-        // Eine Instanz der Reply-Klasse erstellen und Kommentare hinzufügen
+        ```java
+        // Create an instance of Reply class and add comments
         Reply firstReply = new Reply();
-        firstReply.setComment("Erster Kommentar");
+        firstReply.setComment("First comment");
         firstReply.setRepliedOn(Calendar.getInstance().getTime());
         
         Reply secondReply = new Reply();
-        secondReply.setComment("Zweiter Kommentar");
+        secondReply.setComment("Second comment");
         secondReply.setRepliedOn(Calendar.getInstance().getTime());
         
         List<Reply> replies = new ArrayList<Reply>();
         replies.add(firstReply);
         replies.add(secondReply);
         
-        // Eine Instanz der AreaAnnotation-Klasse erstellen und Optionen festlegen
+        // Create an instance of AreaAnnotation class and set options
         AreaAnnotation area = new AreaAnnotation();
         area.setBackgroundColor(65535);
         area.setBox(new Rectangle(100, 100, 100, 100));
         area.setCreatedOn(Calendar.getInstance().getTime());
-        area.setMessage("Dies ist eine Bereichsanmerkung");
+        area.setMessage("This is area annotation");
         area.setOpacity(0.7);
         area.setPageNumber(0);
         area.setPenColor(65535);
@@ -118,16 +80,16 @@ preview_Add:
         area.setPenWidth((byte) 3);
         area.setReplies(replies);
         
-        // Eine Instanz der Annotator-Klasse erstellen
+        // Create an instance of Annotator class
         Annotator annotator = new Annotator("input.bmp");
         
-        // Anmerkung hinzufügen
+        // Add annotation
         annotator.add(area);
         
-        // Speichern unter
+        // Save to file
         annotator.save("output.bmp");
         annotator.dispose();
-        „
+        ```
 
 ############################# Steps ############################
 howTo_Remove:
@@ -136,27 +98,26 @@ steps_Remove:
     title_left: "Schritte zum Entfernen von Anmerkungen aus PPTM in Java"
     content_left: |
         [GroupDocs.Annotation](/annotation/java/) erleichtert Java-Entwicklern das Entfernen von Anmerkungsdetails aus PPTM-Dateien in jeder Java-basierten Anwendung durch die Implementierung einiger einfacher Schritte.
-        * Antwortobjekte mit Kommentar und Datum erstellen.
-        * Instanziieren Sie das SaveOptions-Objekt und legen Sie AnnotationTypes = AnnotationType.None fest.
-        * Rufen Sie die Speichermethode mit dem resultierenden Dokumentpfad oder -stream und dem SaveOptions-Objekt auf.
+        *   Erstellen Sie Antwortobjekte mit Kommentar und Datum.
+        *   Instanziieren Sie das SaveOptions-Objekt und legen Sie AnnotationTypes = AnnotationType.None fest.
+        *   Rufen Sie die Speichermethode mit dem resultierenden Dokumentpfad oder -stream und dem SaveOptions-Objekt auf.
 
 ############################# Preview ############################
 preview_Remove:
     enable: true
-    
     code: |
-        „Java
-        // Eine Instanz der Annotator-Klasse erstellen
+        ```java
+        // Create an instance of Annotator class 
         Annotator annotator = new Annotator("C://input.bmp");
 
-        // Annotation nach Set-Typ entfernen None
+        // Remove annotation by set type None 
         SaveOptions saveOptions = new SaveOptions();
         saveOptions.setAnnotationTypes(AnnotationType.None);
 
-        // Anmerkung in Ausgabedatei speichern
+        // Save annotation to output file
         annotator.save("C://output.bmp", saveOptions);
         annotator.dispose();
-        „
+        ```
 
 ############################# Steps ############################
 howTo_Edit:
@@ -164,82 +125,81 @@ steps_Edit:
     enable: true
     title_left: "Schritte zum Bearbeiten von Anmerkungen aus PPTM in Java"
     content_left: |
-        [GroupDocs.Annotation](/annotation/java/) erleichtert Java-Entwicklern das Aktualisieren verschiedener Anmerkungseigenschaften aus PPTM-Dateien in jeder Java-basierten Anwendung durch die Implementierung einiger einfacher Schritte.
-        * Instanziieren Sie das Annotator-Objekt mit dem Pfad oder Stream des Eingabedokuments mit instanziierten LoadOptions mit ImportAnnotations = true.
-        * Erstellen Sie eine AnnotationBase-Implementierung und legen Sie die ID der vorhandenen Anmerkung fest (wenn die Anmerkung mit dieser ID nicht gefunden wird, wird nichts geändert) oder die Pfadliste der Anmerkungen (alle vorhandenen Anmerkungen werden entfernt).
-        * Rufen Sie die Update-Methode des Annotator-Objekts mit übergebenen Annotationen auf.
-        * Rufen Sie die Speichermethode mit dem resultierenden Dokumentpfad oder -stream und dem SaveOptions-Objekt auf.
+        [GroupDocs.Annotation](/annotation/java/) erleichtert Java-Entwicklern das Aktualisieren verschiedener Annotationseigenschaften aus PPTM-Dateien in jeder Java-basierten Anwendung durch die Implementierung einiger einfacher Schritte.
+        *   Instanziieren Sie das Annotator-Objekt mit dem Pfad oder Stream des Eingabedokuments mit instanziierten LoadOptions mit ImportAnnotations = true.
+        *   Erstellen Sie eine AnnotationBase-Implementierung und legen Sie die ID der vorhandenen Anmerkung fest (wenn die Anmerkung mit dieser ID nicht gefunden wird, wird nichts geändert) oder die Pfadliste der Anmerkungen (alle vorhandenen Anmerkungen werden entfernt).
+        *   Rufen Sie die Update-Methode des Annotator-Objekts mit übergebenen Annotationen auf.
+        *   Rufen Sie die Speichermethode mit dem resultierenden Dokumentpfad oder -stream und dem SaveOptions-Objekt auf.
 
 ############################# Preview ############################
 preview_Edit:
     enable: true
-    
     code: |
-        „Java
-        String OutputPath = "UpdateAnnotation.bmp";
+        ```java
+        String outputPath = "UpdateAnnotation.bmp";
 
-        // Eine Instanz der Annotator-Klasse erstellen
+        // Create an instance of Annotator class
         Annotator annotator = new Annotator("input.bmp");
         
-        // Erstellen Sie eine Instanz der Reply-Klasse für das erste Beispiel und fügen Sie Kommentare hinzu
+        // Create an instance of Reply class for first example and add comments
         Reply reply1 = new Reply();
-        reply1.setComment("Ursprünglicher erster Kommentar");
-        Reply1.setRepliedOn(Calendar.getInstance().getTime());
+        reply1.setComment("Original first comment");
+        reply1.setRepliedOn(Calendar.getInstance().getTime());
         
         Reply reply2 = new Reply();
-        reply2.setComment("Ursprünglicher zweiter Kommentar");
-        Reply2.setRepliedOn(Calendar.getInstance().getTime());
+        reply2.setComment("Original second comment");
+        reply2.setRepliedOn(Calendar.getInstance().getTime());
         
         java.util.List replies = new ArrayList();
         replies.add(reply1);
         replies.add(reply2);
         
-        // Eine Instanz der AreaAnnotation-Klasse erstellen und Optionen festlegen
+        // Create an instance of AreaAnnotation class and set options
         AreaAnnotation original = new AreaAnnotation();
         original.setId(1);
         original.setBackgroundColor(65535);
-        original.setBox(neues Rechteck(100, 100, 100, 100));
+        original.setBox(new Rectangle(100, 100, 100, 100));
         original.setCreatedOn(Calendar.getInstance().getTime());
-        original.setMessage("Dies ist die Originalanmerkung");
+        original.setMessage("This is original annotation");
         original.setReplies(replies);
         
-        // Originalanmerkung hinzufügen
+        // Add original annotation
         annotator.add(original);
         annotator.save(outputPath);
         annotator.dispose();
         
         LoadOptions loadOptions = new LoadOptions();
         
-        // Kommentiertes Dokument öffnen
+        // Open annotated document
         Annotator annotator1 = new Annotator(outputPath, loadOptions);
         
-        // Erstellen Sie eine Instanz der Reply-Klasse für das erste Update-Beispiel
+        // Create an instance of Reply class for update first example
         Reply reply3 = new Reply();
-        reply3.setComment("Erster Kommentar aktualisiert");
-        Reply3.setRepliedOn(Calendar.getInstance().getTime());
+        reply3.setComment("Updated first comment");
+        reply3.setRepliedOn(Calendar.getInstance().getTime());
         
         Reply reply4 = new Reply();
-        reply4.setComment("Zweiter Kommentar aktualisiert");
-        Reply4.setRepliedOn(Calendar.getInstance().getTime());
+        reply4.setComment("Updated second comment");
+        reply4.setRepliedOn(Calendar.getInstance().getTime());
         
         java.util.List replies1 = new ArrayList();
         replies1.add(reply3);
         replies1.add(reply4);
 
-        // Schlagen Sie vor, dass wir einige Eigenschaften der vorhandenen Anmerkung ändern möchten
+        // Suggest we want change some properties of existed annotation
         AreaAnnotation updated = new AreaAnnotation();
         updated.setId(1);
         updated.setBackgroundColor(255);
-        updated.setBox(neues Rechteck(0, 0, 50, 200));
+        updated.setBox(new Rectangle(0, 0, 50, 200));
         updated.setCreatedOn(Calendar.getInstance().getTime());
-        updated.setMessage("Dies ist eine aktualisierte Anmerkung");
+        updated.setMessage("This is updated annotation");
         updated.setReplies(replies1);
         
-        // Anmerkung aktualisieren und speichern
+        // Update and save annotation
         annotator1.update(updated);
         annotator1.save(outputPath);
         annotator1.dispose();
-        „
+        ```
 
 ############################# Steps ############################
 howTo_Extract:
@@ -247,33 +207,32 @@ steps_Extract:
     enable: true
     title_left: "Schritte zum Extrahieren von Anmerkungen aus PPTM in Java"
     content_left: |
-        [GroupDocs.Annotation](/annotation/java/) macht es Java-Entwicklern einfach, Dokumente mit Anmerkungen zu versehen und Anmerkungsinformationen aus PPTM-Dateien in jeder Java-basierten Anwendung zu extrahieren, indem sie ein paar einfache Schritte implementieren.
-        * Antwortobjekte mit Kommentar und Datum erstellen.
-        * Instanziieren Sie das LoadOptions-Objekt und rufen Sie SetImportAnnotations mit dem Argument true auf.
-        * Definieren Sie eine Variable vom Typ Liste.
-        * Rufen Sie die get-Methode auf und geben Sie das Ergebnis an die obige Variable zurück.
+        [GroupDocs.Annotation](/annotation/java/) macht es Java-Entwicklern durch die Implementierung einiger einfacher Schritte leicht, Dokumente mit Anmerkungen zu versehen und Anmerkungsinformationen aus PPTM-Dateien in jeder Java-basierten Anwendung zu extrahieren.
+        *   Erstellen Sie Antwortobjekte mit Kommentar und Datum.
+        *   Instanziieren Sie das LoadOptions-Objekt und rufen Sie SetImportAnnotations mit dem Argument true auf.
+        *   Definieren Sie eine Variable vom Typ List.
+        *   Rufen Sie die get-Methode auf und geben Sie das Ergebnis an die obige Variable zurück.
 
 ############################# Preview ############################
 preview_Extract:
     enable: true
-    
     code: |
-        „Java
-        // Zur Verwendung dieses Beispiels muss die Eingabedatei („annotated.bmp“) Anmerkungen enthalten
+        ```java
+        // For using this example input file ("annotated.bmp") must be with annotations
         LoadOptions loadOptions = new LoadOptions();
         
-        // Eine Instanz der Annotator-Klasse erstellen und Anmerkungen abrufen
+        // Create an instance of Annotator class and get annotations
         final Annotator annotator = new Annotator("annotated.bmp", loadOptions);
         List annotations = annotator.get();
-        „
+        ```
 
 ############################# Demos ############################
 demos:
     enable: true
-    title: "Live-Demos zum Hinzufügen, Entfernen, Bearbeiten und Extrahieren von Kommentaren zu Dokumenten und Bildern"
+    title: "Live-Demos zum Hinzufügen, Entfernen, Bearbeiten und Extrahieren von Anmerkungen zu Dokumenten und Bildern"
     content: |
-        Fügen Sie jetzt Anmerkungen zu PPTM-Dateien hinzu, entfernen, bearbeiten und extrahieren Sie sie, indem Sie die [GroupDocs.Annotation Live Demos](https://products.groupdocs.app/annotation/family) Website besuchen.
-        Die Live-Demo hat die folgenden Vorteile
+        Fügen Sie jetzt Anmerkungen zur Datei PPTM hinzu, entfernen Sie sie, bearbeiten Sie sie und extrahieren Sie sie, indem Sie die Website [GroupDocs.Annotation Live Demos](https://products.groupdocs.app/annotation/family) besuchen.
+Die Live-Demo bietet folgende Vorteile
 
 ############################# About Formats ############################
 about_formats:
@@ -281,9 +240,10 @@ about_formats:
     format:
         # format loop
         - icon: "far fa-file-pptm"
-          title: "Informationen zum PPTM-Dateiformat"
+          title: "Informationen zum Dateiformat PPTM"
           content: |
             Dateien mit der Erweiterung PPTM sind makrofähige Präsentationsdateien, die mit Microsoft PowerPoint 2007 oder höheren Versionen erstellt wurden. Sie ähneln PPTX-Dateien mit dem Unterschied, dass die Seiten keine Makros ausführen können, obwohl sie Makros enthalten können. PPTM-Dateien können bearbeitet werden, indem Sie sie in Microsoft PowerPoint öffnen und den Inhalt aktualisieren. Ein weiteres ähnliches Format ist PPSM, das jedoch standardmäßig schreibgeschützt ist und beim Öffnen die Diashow startet. PPTM enthält wie PPTX Folien für verschiedene Präsentationselemente wie Text, Bilder, Videos, Grafiken und anderes verwandtes Material.
+
           link: "https://docs.fileformat.com/image/pptm/"
 
 ############################# More Formats ############################

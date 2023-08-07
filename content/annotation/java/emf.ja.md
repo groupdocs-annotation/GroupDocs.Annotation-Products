@@ -1,116 +1,78 @@
-
 ---
 ############################# Static ############################
 layout: "auto-gen-annotation"
-date: 07/05/2022 12:44:18
-draft: false
-
-###_DIMA_### link rel="canonical" href="https://products.groupdocs.com/annotation/java/emf"/>
 
 ############################# Head ############################
-head_title: "Java EMF アノテーションAPI C#でアノテートする"
-head_description: "Java API と 注釈 の一般的な注釈タイプ から EMF、画像、図面、ドキュメント ファイル形式を作成します。"
+head_title: "Java EMF 注釈 API C# で注釈を付ける"
+head_description: "EMF、画像、図面、ドキュメント ファイル形式から一般的な注釈タイプを作成して注釈を付けるための Java API。"
 
 ############################# Header ############################
-title: "注釈を付ける EMF から Java"
+title: "Java から EMF に注釈を付ける"
 description: ""
 bg_image: "https://cms.admin.containerize.com/templates/aspose/App_Themes/V3/images/bg/header1.png"
 bg_overlay: false
 button:
     enable: true
     icon: "fas fa-arrow-down"
-    label: "Download Free Trial"
+    label: "無料トライアルをダウンロード"
     link: "https://downloads.groupdocs.com/annotation/java"
-
-############################# SubMenu ############################
-submenu:
-    enable: true
-
-    left:
-        img_alt: "Java の GroupDocs.Annotation"
-        image: "https://cms.admin.containerize.com/templates/groupdocs/images/product-logos/90x90-noborder/groupdocs-annotation-java.png"
-        product: "GroupDocs.Annotation"
-        platform: "Java"
-
-    middle:
-        button:
-            # button loop
-            - link: "https://apireference.groupdocs.com/annotation/java"
-              text: "API Reference"
-            # button loop
-            - link: "https://github.com/groupdocs-annotation"
-              text: "Code Examples"
-            # button loop
-            - link: "https://products.groupdocs.app/annotation/family"
-              text: "Live Demos"
-            # button loop
-            - link: "https://purchase.groupdocs.com/pricing/annotation/java"
-              text: "Pricing"
-
-    right:
-        link_download: "https://downloads.groupdocs.com/annotation"
-        link_learn: "https://docs.groupdocs.com/annotation/java"
-        link_buy: "https://purchase.groupdocs.com"
 
 ############################# About ############################
 about:
     enable: true
     title: "Java API の GroupDocs.Annotation について"
     content: |
-        GroupDocs.Annotation for Java API は、Mac、Windows、または Ubuntu 上の PDF、Word、その他のドキュメントに注釈を追加できるライブラリです。 [GroupDocs.Annotation for Java](/annotation/java) は、注釈を管理するためのネイティブ Java API であり、注釈の作成、追加、編集、削除、抽出、エクスポートを包括的にサポートしています。画像やその他のさまざまなドキュメント。サポートされているドキュメント形式の完全なリストは、この [ページ](https://docs.groupdocs.com/annotation/java/supported-document-formats/) で確認できます。
-
+        GroupDocs.Annotation for Java API は、Mac、Windows、または Ubuntu 上の PDF、Word、およびその他のドキュメントに注釈を追加できるようにするライブラリです。 [GroupDocs.Annotation for Java](/annotation/java) は、画像やその他のさまざまなドキュメントからの注釈の作成、追加、編集、削除、抽出、エクスポートを包括的にサポートする注釈管理用のネイティブ Java API です。サポートされているドキュメント形式の完全なリストは、この [ページ](https://docs.groupdocs.com/annotation/java/supported-document-formats/) で確認できます。
         このライブラリを使用すると、EMF ドキュメントだけでなく、Word、Excel、PowerPoint、Outlook 電子メール、Visio、Adobe、OpenDocument、OpenOffice、Photoshop、AutoCad など、他の多くのタイプのドキュメントでも作業できます。
-
-        GroupDocs.Annotation for Java API を使用すると、新しいメモ、エディット 注釈、抜粋 を作成および追加できます。コメント、注釈をドキュメントから 削除 します。このライブラリは、テキスト、ポリライン、エリア、下線、点、透かし、矢印、楕円、テキスト置換、距離、テキスト フィールド、PDF、HTML、Microsoft Word ドキュメント、スプレッドシート、図、プレゼンテーション、図面、画像、その他多くのファイル形式。
-
-        例 (下記を参照) は、EMF ドキュメントの操作を示しています。この例では、GroupDocs.Annotation を使用する方法の主な手順を確認できます。ライセンスを設定し、操作したいドキュメントを開き、注釈を追加し、要件に従って注釈プロパティを設定し、結果を必要な場所に保存します。また、サポートされている機能の詳細については、github [ページ](https://github.com/groupdocs-annotation/GroupDocs.Annotation-for-Java) または製品  で確認できます。 [ドキュメント](https://docs.groupdocs.com/annotation/java/getting-started/)。
+        GroupDocs.Annotation for Java API を使用すると、新しいメモの作成と追加、注釈の編集、コメントや注釈の抽出、ドキュメントからの削除を行うことができます。このライブラリは、テキスト、ポリライン、エリア、下線、点、透かし、矢印、楕円、テキスト置換、距離、テキスト フィールド、PDF、HTML、Microsoft Word ドキュメント、スプレッドシート、図、プレゼンテーション、図面、画像、その他多くのファイル形式。
+        例 (以下を参照) は、EMF ドキュメントの操作を示しています。この例では、GroupDocs.Annotation を使用する方法の主な手順を確認できます。ライセンスを設定し、操作したいドキュメントを開き、注釈を追加し、要件に従って注釈プロパティを設定し、結果を必要な場所に保存します。また、サポートされている機能の詳細については、github [ページ](https://github.com/groupdocs-annotation/GroupDocs.Annotation-for-Java) または製品 [ドキュメント](https: //docs.groupdocs.com/annotation/java/getting-started/)。
 
 ############################# Steps ############################
 howTo_Add:
 steps_Add:
     enable: true
-    title_left: "Java に注釈 から EMF を追加する手順"
+    title_left: "Java で EMF に注釈を追加する手順"
     content_left: |
-        [GroupDocs.Annotation](/annotation/java/) これにより、Java 開発者は、いくつかの簡単な手順を実装することで、Java ベースのアプリケーション内の EMF ファイルにさまざまな注釈タイプを簡単に追加できます。
-        * コメントと日付を含む Reply オブジェクトを作成します。
-        * AreaAnnotation オブジェクトを作成し、エリア オプションを設定し、応答を追加します。
-        * Annotator オブジェクトを作成し、エリア アノテーションを追加します。
-        * 出力ファイルを保存します。
+        [GroupDocs.Annotation](/annotation/java/) Java 開発者は、いくつかの簡単な手順を実装することで、Java ベースのアプリケーション内の EMF ファイルにさまざまな注釈タイプを簡単に追加できます。
+        *   コメントと日付を含む Reply オブジェクトを作成します。
+        *   AreaAnnotation オブジェクトを作成し、エリア オプションを設定し、応答を追加します。
+        *   Annotator オブジェクトを作成し、領域の注釈を追加します。
+        *   出力ファイルを保存します。
     title_right: "システム要求"
     content_right: |
-        Java API の GroupDocs.Annotation は、すべての主要なプラットフォームとオペレーティング システムでサポートされています。以下のコードを実行する前に、次の前提条件がシステムにインストールされていることを確認してください。
-        * オペレーティング システム: Microsoft Windows、Linux、MacOS
-        * 開発環境: NetBeans、Intellij IDEA、Eclipse など
-        * Java 実行環境: Java 7 (1.7) 以降
-        * Java 用 GroupDocs.Annotation の最新バージョンを [GroupDocs Artifact Repository](https://repository.groupdocs.com/webapp/#/artifacts/browse/tree/General/repo/com/groupdocs/groupdocs-annotation) から入手します。
+        GroupDocs.Annotation for Java API は、すべての主要なプラットフォームとオペレーティング システムでサポートされています。以下のコードを実行する前に、次の前提条件がシステムにインストールされていることを確認してください。
+        *   オペレーティング システム: Microsoft Windows、Linux、MacOS
+        *   開発環境: NetBeans、Intellij IDEA、Eclipse など
+        *   Java ランタイム環境: Java 7 (1.7) 以降
+        *   Java 用 GroupDocs.Annotation の最新バージョンを [GroupDocs Artifact Repository](https://repository.groupdocs.com/webapp/#/artifacts/browse/tree/General/repo/com/groupdocs/groupdocs-annotation) から入手します。
 
 ############################# Preview ############################
 preview_Add:
     enable: true
-    タイトル: 「アノテーションのプレビューとコードサンプル」
+    title: 注釈のプレビューとコードサンプル
     content: |
         ![Annotation preview image](https://docs.groupdocs.com/annotation/java/images/add-area-annotation.png)
     code: |
         ```java
-        // クラスのインスタンスを作成し、コメントを追加します
+        // Create an instance of Reply class and add comments
         Reply firstReply = new Reply();
-        firstReply.setComment("最初のコメント");
+        firstReply.setComment("First comment");
         firstReply.setRepliedOn(Calendar.getInstance().getTime());
         
-        Reply SecondReply = new Reply();
-        SecondReply.setComment("2 番目のコメント");
-        SecondReply.setRepliedOn(Calendar.getInstance().getTime());
+        Reply secondReply = new Reply();
+        secondReply.setComment("Second comment");
+        secondReply.setRepliedOn(Calendar.getInstance().getTime());
         
         List<Reply> replies = new ArrayList<Reply>();
         replies.add(firstReply);
-        replies.add(2番目の返信);
+        replies.add(secondReply);
         
-        // AreaAnnotation クラスのインスタンスを作成し、オプションを設定します
+        // Create an instance of AreaAnnotation class and set options
         AreaAnnotation area = new AreaAnnotation();
         area.setBackgroundColor(65535);
         area.setBox(new Rectangle(100, 100, 100, 100));
         area.setCreatedOn(Calendar.getInstance().getTime());
-        area.setMessage("これはエリアの注釈です");
+        area.setMessage("This is area annotation");
         area.setOpacity(0.7);
         area.setPageNumber(0);
         area.setPenColor(65535);
@@ -118,13 +80,13 @@ preview_Add:
         area.setPenWidth((byte) 3);
         area.setReplies(replies);
         
-        // Annotator クラスのインスタンスを作成する
+        // Create an instance of Annotator class
         Annotator annotator = new Annotator("input.bmp");
         
-        // アノテーションを追加します
+        // Add annotation
         annotator.add(area);
         
-        // ファイルに保存
+        // Save to file
         annotator.save("output.bmp");
         annotator.dispose();
         ```
@@ -133,109 +95,107 @@ preview_Add:
 howTo_Remove:
 steps_Remove:
     enable: true
-    title_left: "Java の注釈 から EMF を削除する手順"
+    title_left: "Java で EMF から注釈を削除する手順"
     content_left: |
-        [GroupDocs.Annotation](/annotation/java/) これにより、Java 開発者は、いくつかの簡単な手順を実装することで、Java ベースのアプリケーション内の EMF ファイルから注釈の詳細を簡単に削除できるようになります。
-        * コメントと日付を含む Reply オブジェクトを作成します。
-        * SaveOptions オブジェクトをインスタンス化し、AnnotationTypes = AnnotationType.None を設定します。
-        * 結果のドキュメント パスまたはストリームと SaveOptions オブジェクトを使用して save メソッドを呼び出します。
+        [GroupDocs.Annotation](/annotation/java/) Java 開発者は、いくつかの簡単な手順を実装することで、Java ベースのアプリケーション内の EMF ファイルから注釈の詳細を簡単に削除できます。
+        *   コメントと日付を含む Reply オブジェクトを作成します。
+        *   SaveOptions オブジェクトをインスタンス化し、AnnotationTypes = AnnotationType.None を設定します。
+        *   結果のドキュメント パスまたはストリームと SaveOptions オブジェクトを使用して save メソッドを呼び出します。
 
 ############################# Preview ############################
 preview_Remove:
     enable: true
-    
     code: |
-        ```ジャバ
-        // Annotator クラスのインスタンスを作成する
+        ```java
+        // Create an instance of Annotator class 
         Annotator annotator = new Annotator("C://input.bmp");
 
-        // セットタイプによるアノテーションの削除 None
+        // Remove annotation by set type None 
         SaveOptions saveOptions = new SaveOptions();
         saveOptions.setAnnotationTypes(AnnotationType.None);
 
-        // アノテーションを出力ファイルに保存
+        // Save annotation to output file
         annotator.save("C://output.bmp", saveOptions);
-        annotator.dispose();;
+        annotator.dispose();
         ```
 
 ############################# Steps ############################
 howTo_Edit:
 steps_Edit:
     enable: true
-    title_left: "{{プラットフォーム}} で注釈 から EMF を編集する手順"
+    title_left: "Java で EMF から注釈を編集する手順"
     content_left: |
-        [GroupDocs.Annotation](/annotation/java/) これにより、Java 開発者は、いくつかの簡単な手順を実装することで、Java ベースのアプリケーション内の EMF ファイルからさまざまな注釈プロパティを簡単に更新できるようになります。
-        * ImportAnnotations = true でインスタンス化された LoadOptions を使用して、入力ドキュメント パスまたはストリームを使用して Annotator オブジェクトをインスタンス化します。
-        * AnnotationBase 実装を作成し、存在するアノテーションの ID (その ID を持つアノテーションが見つからない場合は何も変更されません) またはアノテーションのパス リスト (存在するすべてのアノテーションが削除されます) を設定します。
-        * 渡されたアノテーションを使用して Annotator オブジェクトの update メソッドを呼び出します。
-        * 結果のドキュメント パスまたはストリームと SaveOptions オブジェクトを使用して save メソッドを呼び出します。
+        [GroupDocs.Annotation](/annotation/java/) Java 開発者は、いくつかの簡単な手順を実装することで、Java ベースのアプリケーション内の EMF ファイルからさまざまな注釈プロパティを簡単に更新できるようになります。
+        *   ImportAnnotations = true でインスタンス化された LoadOptions を使用して、入力ドキュメント パスまたはストリームを使用して Annotator オブジェクトをインスタンス化します。
+        *   AnnotationBase 実装を作成し、存在するアノテーションの ID (その ID を持つアノテーションが見つからない場合は何も変更されません) またはアノテーションのパス リスト (存在するすべてのアノテーションが削除されます) を設定します。
+        *   渡されたアノテーションを使用して Annotator オブジェクトの update メソッドを呼び出します。
+        *   結果のドキュメント パスまたはストリームと SaveOptions オブジェクトを使用して save メソッドを呼び出します。
 
 ############################# Preview ############################
 preview_Edit:
     enable: true
-    
     code: |
-        ```ジャバ
+        ```java
         String outputPath = "UpdateAnnotation.bmp";
 
-        // Annotator クラスのインスタンスを作成する
+        // Create an instance of Annotator class
         Annotator annotator = new Annotator("input.bmp");
         
-        // 最初の例として Reply クラスのインスタンスを作成し、コメントを追加します
+        // Create an instance of Reply class for first example and add comments
         Reply reply1 = new Reply();
-        Reply1.setComment("元の最初のコメント");
-        Reply1.setRepliedOn(Calendar.getInstance().getTime());
+        reply1.setComment("Original first comment");
+        reply1.setRepliedOn(Calendar.getInstance().getTime());
         
-        Reply Reply2 = new Reply();;
-        Reply2.setComment("元の 2 番目のコメント");
-        Reply2.setRepliedOn(Calendar.getInstance().getTime());
+        Reply reply2 = new Reply();
+        reply2.setComment("Original second comment");
+        reply2.setRepliedOn(Calendar.getInstance().getTime());
         
         java.util.List replies = new ArrayList();
         replies.add(reply1);
-        replies.add(Reply2);
+        replies.add(reply2);
         
-        // AreaAnnotation クラスのインスタンスを作成し、オプションを設定します
+        // Create an instance of AreaAnnotation class and set options
         AreaAnnotation original = new AreaAnnotation();
         original.setId(1);
         original.setBackgroundColor(65535);
-        Original.setBox(new Rectangle(100, 100, 100, 100));
+        original.setBox(new Rectangle(100, 100, 100, 100));
         original.setCreatedOn(Calendar.getInstance().getTime());
-        original.setMessage("これはオリジナルのアノテーションです");
+        original.setMessage("This is original annotation");
         original.setReplies(replies);
         
-        // オリジナルのアノテーションを追加します
-        annotator.add(オリジナル);
+        // Add original annotation
+        annotator.add(original);
         annotator.save(outputPath);
         annotator.dispose();
         
-        LoadOptionsloadOptions = new LoadOptions();
+        LoadOptions loadOptions = new LoadOptions();
         
-        // 注釈付きドキュメントを開く
-         Annotator annotator1 = new Annotator(outputPath, loadOptions);
+        // Open annotated document
+        Annotator annotator1 = new Annotator(outputPath, loadOptions);
         
-        // 最初の例の更新用に Reply クラスのインスタンスを作成します
-        Reply Reply3 = new Reply();
-        Reply3.setComment("最初のコメントを更新しました");
-        Reply3.setRepliedOn(Calendar.getInstance().getTime());
+        // Create an instance of Reply class for update first example
+        Reply reply3 = new Reply();
+        reply3.setComment("Updated first comment");
+        reply3.setRepliedOn(Calendar.getInstance().getTime());
         
-        Reply Reply4 = new Reply();
-        Reply4.setComment("2 番目のコメントを更新しました");
-        Reply4.setRepliedOn(Calendar.getInstance().getTime());
+        Reply reply4 = new Reply();
+        reply4.setComment("Updated second comment");
+        reply4.setRepliedOn(Calendar.getInstance().getTime());
         
         java.util.List replies1 = new ArrayList();
-        replies1.add(Reply3);
-        replies1.add(Reply4);
+        replies1.add(reply3);
+        replies1.add(reply4);
 
-        // 既存のアノテーションのいくつかのプロパティを変更することを提案します
+        // Suggest we want change some properties of existed annotation
         AreaAnnotation updated = new AreaAnnotation();
         updated.setId(1);
         updated.setBackgroundColor(255);
         updated.setBox(new Rectangle(0, 0, 50, 200));
         updated.setCreatedOn(Calendar.getInstance().getTime());
-        updated.setMessage("これは更新されたアノテーションです");
+        updated.setMessage("This is updated annotation");
         updated.setReplies(replies1);
         
-        // アノテーションを更新して保存します
+        // Update and save annotation
         annotator1.update(updated);
         annotator1.save(outputPath);
         annotator1.dispose();
@@ -245,35 +205,34 @@ preview_Edit:
 howTo_Extract:
 steps_Extract:
     enable: true
-    title_left: "Java で注釈 から EMF を抽出する手順"
+    title_left: "Java で EMF から注釈を抽出する手順"
     content_left: |
-        [GroupDocs.Annotation](/annotation/java/) これにより、Java 開発者は、いくつかの簡単な手順を実装することで、Java ベースのアプリケーション内の EMF ファイルからドキュメントに注釈を付けたり、注釈情報を抽出したりすることが簡単になります。
-        * コメントと日付を含む Reply オブジェクトを作成します。
-        * LoadOptions オブジェクトをインスタンス化し、true 引数を指定して SetImportAnnotations を呼び出します。
-        * リスト型の変数を定義します。
-        * get メソッドを呼び出し、結果を上記の変数に返します。
+        [GroupDocs.Annotation](/annotation/java/) Java 開発者は、いくつかの簡単な手順を実装することで、Java ベースのアプリケーション内の EMF ファイルからドキュメントに注釈を付けたり、注釈情報を抽出したりすることが簡単になります。
+        *   コメントと日付を含む Reply オブジェクトを作成します。
+        *   LoadOptions オブジェクトをインスタンス化し、true 引数を指定して SetImportAnnotations を呼び出します。
+        *   List型の変数を定義します。
+        *   get メソッドを呼び出し、結果を上記の変数に返します。
 
 ############################# Preview ############################
 preview_Extract:
     enable: true
-    
     code: |
-        ```ジャバ
-        // このサンプルを使用するには、入力ファイル ("annotated.bmp") に注釈が必要です
-        LoadOptionsloadOptions = new LoadOptions();
+        ```java
+        // For using this example input file ("annotated.bmp") must be with annotations
+        LoadOptions loadOptions = new LoadOptions();
         
-        // Annotator クラスのインスタンスを作成し、アノテーションを取得します
-        Final Annotator annotator = new Annotator("annotated.bmp",loadOptions);
+        // Create an instance of Annotator class and get annotations
+        final Annotator annotator = new Annotator("annotated.bmp", loadOptions);
         List annotations = annotator.get();
         ```
 
 ############################# Demos ############################
 demos:
     enable: true
-    title: "ドキュメントや画像への注釈の追加、削除、編集、抽出のライブデモ"
+    title: "ドキュメントや画像に注釈を追加、削除、編集、抽出するライブデモ"
     content: |
-        [GroupDocs.Annotation Live Demos](https://products.groupdocs.app/annotation/family)サイトで、今すぐEMFファイルにアノテーションを追加、削除、編集、抽出できます。
-        ライブデモには以下の利点があります。
+        [GroupDocs.Annotation Live Demos](https://products.groupdocs.app/annotation/family) Web サイトにアクセスして、今すぐ EMF ファイルに注釈を追加、削除、編集、抽出します。
+ライブデモには次のようなメリットがあります
 
 ############################# About Formats ############################
 about_formats:
@@ -284,6 +243,7 @@ about_formats:
           title: "EMF ファイル形式について"
           content: |
             拡張メタファイル形式 (EMF) は、グラフィック イメージをデバイスに依存せずに保存します。 EMF のメタファイルは、時系列順の可変長レコードで構成されており、保存された画像を解析後に任意の出力デバイスでレンダリングできます。これらの可変長レコードは、囲まれたオブジェクト、描画用のコマンド、およびイメージを正確にレンダリングするために重要なグラフィックス プロパティの定義にすることができます。デバイスが独自のグラフィック環境を使用して EMF メタファイルを開くと、元の画像の比率、寸法、色、およびその他のグラフィック プロパティは、開いているデバイス プラットフォームに関係なく同じままになります。
+
           link: "https://docs.fileformat.com/image/emf/"
 
 ############################# More Formats ############################

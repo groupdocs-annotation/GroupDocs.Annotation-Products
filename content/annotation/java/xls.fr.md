@@ -1,116 +1,78 @@
-
 ---
 ############################# Static ############################
 layout: "auto-gen-annotation"
-date: 07/05/2022 12:44:18
-draft: false
-
-###_DIMA_### link rel="canonical" href="https://products.groupdocs.com/annotation/java/xls"/>
 
 ############################# Head ############################
-head_title: "Java XLS Annotation API Annoter en C#"
-head_description: "Java API pour créer et Annoter types d'annotations populaires depuis XLS, images, dessins et formats de fichiers de documents."
+head_title: "API d'annotation Java XLS Annoter en C#"
+head_description: "API Java pour créer et annoter des types d'annotations populaires à partir de XLS, des images, des dessins et des formats de fichiers de documents."
 
 ############################# Header ############################
-title: "Annotez XLS depuis Java"
+title: "Annoter XLS à partir de Java"
 description: ""
 bg_image: "https://cms.admin.containerize.com/templates/aspose/App_Themes/V3/images/bg/header1.png"
 bg_overlay: false
 button:
     enable: true
     icon: "fas fa-arrow-down"
-    label: "Download Free Trial"
+    label: "Télécharger la version d'essai gratuite"
     link: "https://downloads.groupdocs.com/annotation/java"
-
-############################# SubMenu ############################
-submenu:
-    enable: true
-
-    left:
-        img_alt: "GroupDocs.Annotation pour Java"
-        image: "https://cms.admin.containerize.com/templates/groupdocs/images/product-logos/90x90-noborder/groupdocs-annotation-java.png"
-        product: "GroupDocs.Annotation"
-        platform: "Java"
-
-    middle:
-        button:
-            # button loop
-            - link: "https://apireference.groupdocs.com/annotation/java"
-              text: "API Reference"
-            # button loop
-            - link: "https://github.com/groupdocs-annotation"
-              text: "Code Examples"
-            # button loop
-            - link: "https://products.groupdocs.app/annotation/family"
-              text: "Live Demos"
-            # button loop
-            - link: "https://purchase.groupdocs.com/pricing/annotation/java"
-              text: "Pricing"
-
-    right:
-        link_download: "https://downloads.groupdocs.com/annotation"
-        link_learn: "https://docs.groupdocs.com/annotation/java"
-        link_buy: "https://purchase.groupdocs.com"
 
 ############################# About ############################
 about:
     enable: true
-    title: "À propos de GroupDocs.Annotation pour l'API Java"
+    title: "À propos de l'API GroupDocs.Annotation pour Java"
     content: |
-        L'API GroupDocs.Annotation for Java est une bibliothèque qui vous permet d'ajouter des annotations aux documents PDF, Word et autres sur Mac, Windows ou Ubuntu. [GroupDocs.Annotation for Java](/annotation/java) est une API native Java pour la gestion des annotations avec une prise en charge complète pour la création, l'ajout, la modification, la suppression, l'extraction et l'exportation d'annotations à partir de images et divers autres documents. La liste complète des formats de documents pris en charge que vous pouvez voir sur cette [page](https://docs.groupdocs.com/annotation/java/supported-document-formats/).
-
+        L'API GroupDocs.Annotation for Java est une bibliothèque qui vous permet d'ajouter des annotations aux documents PDF, Word et autres sur Mac, Windows ou Ubuntu. [GroupDocs.Annotation for Java](/annotation/java) est une API Java native pour la gestion des annotations avec une prise en charge complète pour la création, l'ajout, la modification, la suppression, l'extraction et l'exportation d'annotations à partir d'images et de divers autres documents. La liste complète des formats de documents pris en charge que vous pouvez voir sur cette [page](https://docs.groupdocs.com/annotation/java/supported-document-formats/).
         Cette bibliothèque vous permet de travailler non seulement avec le document XLS mais également avec de nombreux autres types de documents tels que Word, Excel, PowerPoint, les e-mails Outlook, Visio, Adobe, OpenDocument, OpenOffice, Photoshop, AutoCad et bien d'autres.
-
-        L'API GroupDocs.Annotation pour Java vous permet de créer et d'ajouter de nouvelles notes, edit annotations, extract commentaires, annotations et remove les des documents. La bibliothèque prend en charge 13 types d'annotations différents, notamment Texte, Polyligne, Zone, Souligné, Point, Filigrane, Flèche, Ellipse, Remplacement de texte, Distance, Champ de texte, Rédaction de ressources en PDF, HTML, documents Microsoft Word, feuilles de calcul, diagrammes, présentations, dessins, images et de nombreux autres formats de fichiers.
-
-        L'exemple (voir ci-dessous) illustre l'utilisation du document XLS. Dans cet exemple, vous pouvez voir les principales étapes de l'utilisation de GroupDocs.Annotation : configurer une licence, ouvrir un document avec lequel vous souhaitez travailler, créer un annotation, en ajoutant des objets de données pour définir les propriétés d'annotation en fonction de vos besoins et en enregistrant le résultat à l'endroit nécessaire. Vous pouvez également consulter plus en détail les fonctionnalités prises en charge sur notre github [page](https://github.com/groupdocs-annotation/GroupDocs.Annotation-for-Java), ou dans notre produit [documentation ](https://docs.groupdocs.com/annotation/java/getting-started/).
+        L'API GroupDocs.Annotation pour Java vous permet de créer et d'ajouter de nouvelles notes, de modifier des annotations, d'extraire des commentaires, des annotations et de les supprimer des documents. La bibliothèque prend en charge 13 types d'annotations différents, notamment Texte, Polyligne, Zone, Souligné, Point, Filigrane, Flèche, Ellipse, Remplacement de texte, Distance, Champ de texte, Rédaction de ressources en PDF, HTML, documents Microsoft Word, feuilles de calcul, diagrammes, présentations, dessins, images et de nombreux autres formats de fichiers.
+        L'exemple (voir ci-dessous) montre comment travailler avec le document XLS, dans cet exemple, vous pouvez voir les principales étapes de la façon de travailler avec GroupDocs.Annotation : configurer une licence, ouvrir un document avec lequel vous souhaitez travailler, créer un annotation, en ajoutant des objets de données pour définir les propriétés d'annotation en fonction de vos besoins et en enregistrant le résultat à l'endroit requis. Vous pouvez également consulter plus en détail les fonctionnalités prises en charge sur notre [page] github(https://github.com/groupdocs-annotation/GroupDocs.Annotation-for-Java), ou dans notre produit [documentation](https: //docs.groupdocs.com/annotation/java/getting-started/).
 
 ############################# Steps ############################
 howTo_Add:
 steps_Add:
     enable: true
-    title_left: "Étapes pour ajouter des annotations depuis XLS dans Java"
+    title_left: "Étapes pour ajouter des annotations à XLS en Java"
     content_left: |
-        [GroupDocs.Annotation](/annotation/java/) permet aux développeurs de Java d'ajouter facilement divers types d'annotations aux fichiers XLS dans n'importe quelle application basée sur Java en mettant en œuvre quelques étapes simples.
-        * Créer des objets de réponse avec commentaire et date.
-        * Créez un objet AreaAnnotation, définissez les options de zone et ajoutez des réponses.
-        * Créer un objet Annotator et ajouter une annotation de zone.
-        * Enregistrer le fichier de sortie.
+        [GroupDocs.Annotation](/annotation/java/) permet aux développeurs Java d'ajouter facilement divers types d'annotations aux fichiers XLS dans n'importe quelle application Java en implémentant quelques étapes simples.
+        *   Créez des objets de réponse avec un commentaire et une date.
+        *   Créez un objet AreaAnnotation, définissez les options de zone et ajoutez des réponses.
+        *   Créez un objet Annotator et ajoutez une annotation de zone.
+        *   Enregistrez le fichier de sortie.
     title_right: "Configuration requise"
     content_right: |
         Les API GroupDocs.Annotation pour Java sont prises en charge sur toutes les principales plates-formes et systèmes d'exploitation. Avant d'exécuter le code ci-dessous, assurez-vous que les prérequis suivants sont installés sur votre système.
-        * Systèmes d'exploitation : Microsoft Windows, Linux, MacOS
-        * Environnement de développement : NetBeans, Intellij IDEA, Eclipse, etc.
-        * Environnement d'exécution Java : Java 7 (1.7) et supérieur
-        * Obtenez la dernière version de GroupDocs.Annotation pour Java à partir de [GroupDocs Artifact Repository](https://repository.groupdocs.com/webapp/#/artifacts/browse/tree/General/repo/com/groupdocs/groupdocs-annotation)
+        *   Systèmes d'exploitation : Microsoft Windows, Linux, MacOS
+        *   Environnement de développement : NetBeans, Intellij IDEA, Eclipse, etc.
+        *   Environnement d'exécution Java : Java 7 (1.7) et supérieur
+        *   Obtenez la dernière version de GroupDocs.Annotation pour Java à partir de [GroupDocs Artifact Repository](https://repository.groupdocs.com/webapp/#/artifacts/browse/tree/General/repo/com/groupdocs/groupdocs-annotation)
 
 ############################# Preview ############################
 preview_Add:
     enable: true
-    title : "Aperçu des annotations et exemple de code"
-    content : |
+    title: Aperçu des annotations et exemple de code
+    content: |
         ![Annotation preview image](https://docs.groupdocs.com/annotation/java/images/add-area-annotation.png)
     code: |
         ```java
-        // Crée une instance de la classe Reply et ajoute des commentaires
+        // Create an instance of Reply class and add comments
         Reply firstReply = new Reply();
-        firstReply.setComment("Premier commentaire");
+        firstReply.setComment("First comment");
         firstReply.setRepliedOn(Calendar.getInstance().getTime());
         
         Reply secondReply = new Reply();
-        secondReply.setComment("Deuxième commentaire");
+        secondReply.setComment("Second comment");
         secondReply.setRepliedOn(Calendar.getInstance().getTime());
         
         List<Reply> replies = new ArrayList<Reply>();
         replies.add(firstReply);
         replies.add(secondReply);
         
-        // Crée une instance de la classe AreaAnnotation et définit les options
+        // Create an instance of AreaAnnotation class and set options
         AreaAnnotation area = new AreaAnnotation();
         area.setBackgroundColor(65535);
         area.setBox(new Rectangle(100, 100, 100, 100));
         area.setCreatedOn(Calendar.getInstance().getTime());
-        area.setMessage("Ceci est une annotation de area");
+        area.setMessage("This is area annotation");
         area.setOpacity(0.7);
         area.setPageNumber(0);
         area.setPenColor(65535);
@@ -118,13 +80,13 @@ preview_Add:
         area.setPenWidth((byte) 3);
         area.setReplies(replies);
         
-        // Crée une instance de la classe Annotator
+        // Create an instance of Annotator class
         Annotator annotator = new Annotator("input.bmp");
         
-        // Ajouter une annotation
+        // Add annotation
         annotator.add(area);
         
-        // Enregistrer dans un fichier
+        // Save to file
         annotator.save("output.bmp");
         annotator.dispose();
         ```
@@ -133,27 +95,26 @@ preview_Add:
 howTo_Remove:
 steps_Remove:
     enable: true
-    title_left: "Étapes pour supprimer les annotations depuis XLS dans Java"
+    title_left: "Étapes pour supprimer les annotations de XLS en Java"
     content_left: |
-        [GroupDocs.Annotation](/annotation/java/) permet aux développeurs de Java de supprimer plus facilement les détails d'annotation des fichiers XLS dans n'importe quelle application basée sur Java en mettant en œuvre quelques étapes simples.
-        * Créer des objets de réponse avec commentaire et date.
-        * Instanciez l'objet SaveOptions et définissez AnnotationTypes = AnnotationType.None.
-        * Appelez la méthode save avec le chemin ou le flux de document résultant et l'objet SaveOptions.
+        [GroupDocs.Annotation](/annotation/java/) permet aux développeurs Java de supprimer plus facilement les détails d'annotation des fichiers XLS dans n'importe quelle application Java en implémentant quelques étapes simples.
+        *   Créez des objets de réponse avec un commentaire et une date.
+        *   Instanciez l'objet SaveOptions et définissez AnnotationTypes = AnnotationType.None.
+        *   Appelez la méthode save avec le chemin ou le flux de document résultant et l'objet SaveOptions.
 
 ############################# Preview ############################
 preview_Remove:
     enable: true
-    
     code: |
         ```java
-        // Crée une instance de la classe Annotator
+        // Create an instance of Annotator class 
         Annotator annotator = new Annotator("C://input.bmp");
 
-        // Supprimer l'annotation par type d'ensemble Aucun
+        // Remove annotation by set type None 
         SaveOptions saveOptions = new SaveOptions();
         saveOptions.setAnnotationTypes(AnnotationType.None);
 
-        // Enregistrer l'annotation dans le fichier de sortie
+        // Save annotation to output file
         annotator.save("C://output.bmp", saveOptions);
         annotator.dispose();
         ```
@@ -162,80 +123,79 @@ preview_Remove:
 howTo_Edit:
 steps_Edit:
     enable: true
-    title_left: "Étapes pour modifier les annotations depuis XLS dans Java"
+    title_left: "Étapes pour modifier les annotations de XLS en Java"
     content_left: |
-        [GroupDocs.Annotation](/annotation/java/) permet aux développeurs de Java de mettre à jour plus facilement diverses propriétés d'annotation à partir de fichiers XLS dans n'importe quelle application basée sur Java en mettant en œuvre quelques étapes simples.
-        * Instanciez l'objet Annotator avec le chemin d'accès au document d'entrée ou le flux avec LoadOptions instancié avec ImportAnnotations = true.
-        * Créez une implémentation AnnotationBase et définissez l'ID de l'annotation existante (si l'annotation avec cet ID n'est pas trouvée, rien ne sera changé) ou la liste des chemins d'annotations (toutes les annotations existantes seront supprimées).
-        * Appelez la méthode de mise à jour de l'objet Annotator avec les annotations passées.
-        * Appelez la méthode save avec le chemin ou le flux de document résultant et l'objet SaveOptions.
+        [GroupDocs.Annotation](/annotation/java/) permet aux développeurs Java de mettre à jour plus facilement diverses propriétés d'annotation à partir de fichiers XLS dans n'importe quelle application Java en implémentant quelques étapes simples.
+        *   Instanciez l'objet Annotator avec le chemin d'accès au document d'entrée ou le flux avec LoadOptions instancié avec ImportAnnotations = true.
+        *   Créez une implémentation AnnotationBase et définissez l'ID de l'annotation existante (si l'annotation avec cet ID n'est pas trouvée, rien ne sera modifié) ou la liste des chemins d'annotations (toutes les annotations existantes seront supprimées).
+        *   Appelez la méthode de mise à jour de l'objet Annotator avec les annotations transmises.
+        *   Appelez la méthode save avec le chemin ou le flux de document résultant et l'objet SaveOptions.
 
 ############################# Preview ############################
 preview_Edit:
     enable: true
-    
     code: |
         ```java
-        String outputPath = "UpdateAnnotation.bmp" ;
+        String outputPath = "UpdateAnnotation.bmp";
 
-        // Crée une instance de la classe Annotator
+        // Create an instance of Annotator class
         Annotator annotator = new Annotator("input.bmp");
         
-        // Crée une instance de la classe Reply pour le premier exemple et ajoute des commentaires
+        // Create an instance of Reply class for first example and add comments
         Reply reply1 = new Reply();
-        reply1.setComment("Premier commentaire d'origine");
+        reply1.setComment("Original first comment");
         reply1.setRepliedOn(Calendar.getInstance().getTime());
         
         Reply reply2 = new Reply();
-        reply2.setComment("Deuxième commentaire original");
+        reply2.setComment("Original second comment");
         reply2.setRepliedOn(Calendar.getInstance().getTime());
         
-        java.util.List replies1 = new ArrayList();
+        java.util.List replies = new ArrayList();
         replies.add(reply1);
         replies.add(reply2);
         
-        // Crée une instance de la classe AreaAnnotation et définit les options
+        // Create an instance of AreaAnnotation class and set options
         AreaAnnotation original = new AreaAnnotation();
         original.setId(1);
         original.setBackgroundColor(65535);
-        original.setBox(nouveau Rectangle(100, 100, 100, 100));
+        original.setBox(new Rectangle(100, 100, 100, 100));
         original.setCreatedOn(Calendar.getInstance().getTime());
-        original.setMessage("Ceci est l'annotation originale");
-        original.setReplies(replies1);
+        original.setMessage("This is original annotation");
+        original.setReplies(replies);
         
-        // Ajouter l'annotation d'origine
+        // Add original annotation
         annotator.add(original);
         annotator.save(outputPath);
         annotator.dispose();
         
         LoadOptions loadOptions = new LoadOptions();
         
-        // Ouvrir le document annoté
+        // Open annotated document
         Annotator annotator1 = new Annotator(outputPath, loadOptions);
         
-        // Crée une instance de la classe Reply pour mettre à jour le premier exemple
+        // Create an instance of Reply class for update first example
         Reply reply3 = new Reply();
-        reply3.setComment("Premier commentaire mis à jour");
+        reply3.setComment("Updated first comment");
         reply3.setRepliedOn(Calendar.getInstance().getTime());
         
         Reply reply4 = new Reply();
-        reply4.setComment("Deuxième commentaire mis à jour");
+        reply4.setComment("Updated second comment");
         reply4.setRepliedOn(Calendar.getInstance().getTime());
         
         java.util.List replies1 = new ArrayList();
         replies1.add(reply3);
         replies1.add(reply4);
 
-        // Suggère que nous voulons modifier certaines propriétés d'une annotation existante
+        // Suggest we want change some properties of existed annotation
         AreaAnnotation updated = new AreaAnnotation();
         updated.setId(1);
         updated.setBackgroundColor(255);
         updated.setBox(new Rectangle(0, 0, 50, 200));
         updated.setCreatedOn(Calendar.getInstance().getTime());
-        updated.setMessage("Ceci est une annotation mise à jour");
+        updated.setMessage("This is updated annotation");
         updated.setReplies(replies1);
         
-        // Mettre à jour et enregistrer l'annotation
+        // Update and save annotation
         annotator1.update(updated);
         annotator1.save(outputPath);
         annotator1.dispose();
@@ -245,24 +205,23 @@ preview_Edit:
 howTo_Extract:
 steps_Extract:
     enable: true
-    title_left: "Étapes pour extraire les annotations depuis XLS dans Java"
+    title_left: "Étapes pour extraire les annotations de XLS en Java"
     content_left: |
-        [GroupDocs.Annotation](/annotation/java/) permet aux développeurs de Java d'annoter facilement des documents et d'extraire des informations d'annotation à partir de fichiers XLS dans n'importe quelle application basée sur Java en mettant en œuvre quelques étapes simples.
-        * Créer des objets de réponse avec commentaire et date.
-        * Instanciez l'objet LoadOptions et appelez SetImportAnnotations avec l'argument true.
-        * Définir la variable avec le type Liste.
-        * Appelez la méthode get et renvoyez le résultat à la variable ci-dessus.
+        [GroupDocs.Annotation](/annotation/java/) permet aux développeurs Java d'annoter facilement des documents et d'extraire des informations d'annotation à partir de fichiers XLS dans n'importe quelle application Java en implémentant quelques étapes simples.
+        *   Créez des objets de réponse avec un commentaire et une date.
+        *   Instanciez l'objet LoadOptions et appelez SetImportAnnotations avec l'argument true.
+        *   Définissez une variable de type Liste.
+        *   Appelez la méthode get et renvoyez le résultat à la variable ci-dessus.
 
 ############################# Preview ############################
 preview_Extract:
     enable: true
-    
     code: |
         ```java
-        // Pour utiliser cet exemple, le fichier d'entrée ("annotated.bmp") doit être avec des annotations
+        // For using this example input file ("annotated.bmp") must be with annotations
         LoadOptions loadOptions = new LoadOptions();
         
-        // Crée une instance de la classe Annotator et récupère les annotations
+        // Create an instance of Annotator class and get annotations
         final Annotator annotator = new Annotator("annotated.bmp", loadOptions);
         List annotations = annotator.get();
         ```
@@ -270,10 +229,10 @@ preview_Extract:
 ############################# Demos ############################
 demos:
     enable: true
-    title: "Démonstrations en direct pour ajouter, supprimer, modifier et extraire des annotations dans des documents et des images"
+    title: "Démonstrations en direct pour ajouter, supprimer, modifier, extraire des annotations sur des documents et des images"
     content: |
-        Ajoutez, supprimez, modifiez et extrayez des annotations au fichier XLS dès maintenant en visitant le site Web [GroupDocs.Annotation Live Demos](https://products.groupdocs.app/annotation/family).
-        La démonstration en direct présente les avantages suivants
+        Ajoutez, supprimez, modifiez et extrayez des annotations dans le fichier XLS dès maintenant en visitant le site Web [GroupDocs.Annotation Live Demos](https://products.groupdocs.app/annotation/family).
+La démo en direct présente les avantages suivants
 
 ############################# About Formats ############################
 about_formats:
@@ -284,12 +243,13 @@ about_formats:
           title: "À propos du format de fichier XLS"
           content: |
             Les fichiers avec l'extension XLS représentent le format de fichier binaire Excel. Ces fichiers peuvent être créés par Microsoft Excel ainsi que par d'autres tableurs similaires tels que OpenOffice Calc ou Apple Numbers. Le fichier enregistré par Excel est connu sous le nom de classeur où chaque classeur peut avoir une ou plusieurs feuilles de calcul. Les données sont stockées et affichées aux utilisateurs sous forme de tableau dans une feuille de calcul et peuvent couvrir des valeurs numériques, des données textuelles, des formules, des connexions de données externes, des images et des graphiques. Des applications telles que Microsoft Excel vous permettent d'exporter des données de classeur vers plusieurs formats différents, notamment PDF, CSV, XLSX, TXT, HTML, XPS et plusieurs autres. Le format de fichier XLS a été remplacé par un format plus ouvert et structuré, XLSX, avec la sortie de Microsoft Excel 2007. Les dernières versions prennent toujours en charge la création et la lecture de fichiers XLS, bien que XLSX soit désormais le premier choix d'utilisation.
+
           link: "https://docs.fileformat.com/image/xls/"
 
 ############################# More Formats ############################
 more_formats:
     enable: true
-    title: "Travailler avec d'autres formats de documents populaires"
+    title: "Travailler avec d'autres formats de documents courants"
     content: |
         Mettez à jour les propriétés d'annotation de certains des formats de fichiers populaires, comme indiqué ci-dessous.
     format:

@@ -1,7 +1,7 @@
 ---
 ############################# Static ############################
 layout: "product"
-date: 2022-07-05T12:44:18+03:00
+date: 2022-02-23T12:00:00+02:00
 draft: false
 
 product: "Annotation"
@@ -13,7 +13,7 @@ platform_tag: "java"
 head_title: "API аннотации документов Java | Просмотр и комментирование изображений PDF Word Excel PPTX"
 head_description: "API аннотаций документов Java. Просмотр, теги, комментарии и аннотации PDF Word DOCX, Excel XLSX, PPTX, EML EMLX, VSS VSD, OTP, CAD и форматы файлов изображений."
 
-############################# Header ############################
+############################# Header ##########################
 title: "Аннотации документов через Java API"
 description: "Создавайте приложения Java с возможностями просмотра и комментирования документов PDF, HTML, MS Office и других форматов без установки какого-либо внешнего программного обеспечения."
 button:
@@ -22,12 +22,12 @@ button:
     label: "Скачать бесплатную пробную версию"
     link: "https://downloads.groupdocs.com/annotation/java"
 
-############################# SubMenu ############################
+############################# SubMenu #########################
 submenu:
     enable: true
     
     left:
-        img_alt: "GroupDocs.Annotation для Java"
+        img_alt: "GroupDocs.Annotation for Java"
         image: "https://www.groupdocs.cloud/templates/groupdocs/images/product-logos/groupdocs-annotation-java.png"
         product: "GroupDocs.Annotation"
         platform: "Java"
@@ -35,24 +35,16 @@ submenu:
     middle:
         button:
             # button loop
-            - link: "#overview"
-              text: "Обзор"
-
-            # button loop
             - link: "#features"
               text: "Функции"
 
             # button loop
-            - link: "#support"
-              text: "Поддержка"
-
-            # button loop
             - link: "https://products.groupdocs.app/annotation"
-              text: "Демонстрация"
+              text: "Живые демонстрации"
 
             # button loop
             - link: "https://purchase.groupdocs.com/pricing/annotation/java"
-              text: "Цена"
+              text: "Цены"
 
     right:
         link_download: "https://downloads.groupdocs.com/annotation"
@@ -63,15 +55,15 @@ submenu:
 overview:
     enable: true
     content: |
-      GroupDocs.Annotation Java API это продукт который дает возможность работать с аннотациями в документах на разных платформах и в разных операционных системах, таких как: Android, MacOS, Linux, Windows. GroupDocs.Annotation предоставляет библиотеку с простым и понятным API. Вы можете работать с защищенными паролем документами, генерировать графические представления документов разных разрешений, вращать документы, скрывать части документов, гибко манипулировать с параметрами аннотаций и многое другое.
+      GroupDocs.Annotation Java API — продукт, позволяющий работать с аннотациями в документах на разных платформах и операционных системах, таких как Android, MacOS, Linux, Windows. GroupDocs.Annotation предоставляет библиотеку с простым API, дающим множество преимуществ: например, если вам нужно сохранить конфиденциальность данных или выбрать мощность, необходимую для работы с библиотекой, или частично изменить работу с аннотациями, библиотека очень легкий и гибкий.
 
-        GroupDocs.Annotation for Java API повзовляет  работать с разными типами аннотаций такими как: Text, Polyline, Area, Underline, Point, Watermark, Arrow, Ellipse, Text Replacement, Distance, Text Field, Resource Redaction etc. Для таких наиболее популярных форматов документов как: PDF, HTML, Microsoft Office Word, Excel spreadsheets, PowerPoint presentations, Visio, Outlook emails, images, metafiles, CAD drawing and various other formats. API предоставляет возможность получать миниатюры страниц документа и поддерживает импорт и экспорт аннотаций в файлы PDF и из них.
+      GroupDocs.Annotation for Java API позволяет работать с различными типами аннотаций, включая: текст, полилинию, область, подчеркивание, точку, водяной знак, стрелку, эллипс, замену текста, расстояние, текстовое поле, редактирование ресурсов и т. д. И поддерживает большинство популярные форматы документов, такие как: PDF, HTML, Microsoft Office Word, электронные таблицы Excel, презентации PowerPoint, Visio, электронные письма Outlook, изображения, метафайлы, чертежи САПР и различные другие форматы. API предоставляет возможность получать эскизы страниц документа и поддерживает импорт и экспорт аннотаций в файлы PDF и из них.
 
-        С помощью библиотеки вы можете [добавлять](/annotation/java/bmp/) новые аннотации, [редактировать](/annotation/java/bmp/), [извлекать](/annotation/[PLATFORM_URL]/bmp/), [удалять](/annotation/java/bmp/) из документов - вот это далеко не полный список всех возможностей. Также библиотека предоставляет полный набор объектов данных для настройки свойств аннотаций в соответствии с вашими требованиями во всех поддерживаемых форматах документов. 
+      Используя библиотеку, вы можете [добавить](/annotation/java/bmp/), [редактировать](/annotation/java/bmp/), [извлечь](/annotation/java/bmp/) и [удалить](/annotation /java/bmp/) аннотации из документов, поворот документов, изменение эскизов и это далеко не полный список всех возможностей. Он также предлагает полный набор объектов данных для настройки свойств аннотаций в соответствии с вашими требованиями во всех поддерживаемых форматах документов.
 
-        Работа с GroupDocs.Annotation for Java API очень простая, и состоит всего из нескольких основных шагов. Для начала вам нужно установить лицензию, потом выбрать файл с которым вы хотите работать, дальше выбрать нужное действие с аннотацией (удалить/редактировать/извлечь/удалить) и сохранить в нужное место. Так же у нас есть [документация](https://docs.groupdocs.com/annotation/java/getting-started/) по продутку и много [примеров](https://github.com/groupdocs-annotation/GroupDocs.Annotation-for-Java) по работе с аннотациями.
-
-        GroupDocs.Annotation регулярно обновляется и предоставляет для своих клиентов поддержку, вы можете задавать нам вопросы или присылать свои идеи или рассказывать про свои потребновсть в чем то новом и мы с радостью это реализуем в наших новых версиях.
+      Работа с GroupDocs.Annotation for Java API очень проста и состоит всего из нескольких основных шагов. Сначала вам нужно настроить лицензию, затем выбрать файл, с которым вы хотите работать, затем как-то поработать с аннотациями документа (удалить/отредактировать/извлечь/удалить) и сохранить результат. Для получения дополнительной информации см. [документацию] продукта (https://docs.groupdocs.com/annotation/java/getting-started/) или наши [примеры] (https://github.com/groupdocs-annotation/GroupDocs.Annotation -для-Java).
+      
+      GroupDocs.Annotation регулярно обновляется и оказывает поддержку своим клиентам, вы всегда можете задать нам вопросы или прислать свои идеи или рассказать нам о своих потребностях в чем-то новом, и мы с радостью реализуем это в наших новых версиях.
     tabs:
       enable: true
       
@@ -83,10 +75,10 @@ overview:
         right:
           enable: true
           icon: "fab fa-html5"
-          title: "Обзор"
+          title:  Обзор
           content: |
             * Добавить аннотации
-            * Экспорт аннотаций
+            * Экспорт аннотаций 
             * Импорт аннотаций
             * Комментарии на основе ответов
             * Совместимость аннотаций
@@ -95,6 +87,7 @@ overview:
       tab_two:
         description: |
           GroupDocs.Annotation для Java поддерживает все популярные [форматы файлов документов](https://docs.groupdocs.com/annotation/java/supported-document-formats/), включая: Microsoft Office, PDF, изображения и многие другие.
+
         left:
           enable: true
           table:
@@ -111,7 +104,7 @@ overview:
           enable: true
           table:
             # table loop
-            - title: "Другие форматы"
+            - title: "Other Formats"
               content: |
                 * **Portable**: [PDF](/annotation/java/pdf/) (PDF/A-1a, PDF/A-1b, PDF/A-2a)
                 * **OpenDocument**: [ODT](/annotation/java/odt/), [ODS](/annotation/java/ods/), [ODP](/annotation/java/odp/)
@@ -123,171 +116,172 @@ overview:
       tab_three:
         description: |
           GroupDocs.Annotation для Java поддерживает следующие операционные системы, платформы и менеджеры пакетов:
-      
+        
         left:
           enable: true
           table:
             # table loop
             - icon: "fab fa-windows"
-              title: "Операционные системы"
+              title:  Операционные системы
               content: |
-                * Рабочий стол Microsoft Windows
-                * Сервер Microsoft Windows
-                * линукс
+                * Microsoft Windows Desktop
+                * Microsoft Windows Server
+                * Linux
                 * MacOS
 
             # table loop
             - icon: "fas fa-code"
-              title: "Поддерживаемые платформы"
+              title:  Поддерживаемые платформы
               content: |
-                * Java 7 (1.7) и выше
+                * Java 7 (1.7) and above
 
         right:
           enable: true
           table:
             # table loop
             - icon: "fas fa-cogs"
-              title: "Среды разработки"
+              title:  Среды разработки
               content: |
                 * NetBeans
-                * IntelliJ ИДЕЯ
-                * Затмение
+                * IntelliJ IDEA
+                * Eclipse
+
             # table loop
             - icon: "fas fa-tools"
-              title: "Инструмент автоматизации сборки"
+              title:  Инструмент автоматизации сборки
               content: |
-                * Мавен
+                * Maven
 
 ############################# Features ############################
 features:
     enable: true
-    title: "GroupDocs.Annotation для функций Java"
+    title: GroupDocs.Annotation для функций Java
 
     feature:
       # feature loop
       - icon: "fas fa-copy"
         link: "https://docs.groupdocs.com/annotation/java/add-area-annotation/"
-        content: "Добавить аннотацию области в документ и связать простые и вложенные комментарии"
+        content: Добавить аннотацию области в документ и связать простые и вложенные комментарии
 
       # feature loop
       - icon: "fas fa-eye"
         link: "https://docs.groupdocs.com/annotation/java/add-arrow-annotation/"
-        content: "Укажите на определенный контент с помощью аннотации со стрелкой"
+        content: Укажите на определенный контент с помощью аннотации со стрелкой
 
       # feature loop
       - icon: "fas fa-bolt"
         link: "https://docs.groupdocs.com/annotation/java/add-watermark-annotation/"
-        content: "Установите текстовые водяные знаки в PDF, слайды, рабочие листы Excel, изображения и диаграммы в угловом положении"
+        content: Установите текстовые водяные знаки в PDF, слайды, рабочие листы Excel, изображения и диаграммы в угловом положении
       
       # feature loop
       - icon: "fas fa-file-powerpoint"
         link: "https://docs.groupdocs.com/annotation/java/add-point-annotation/"
-        content: "Добавьте всплывающие комментарии в любое место в документе с помощью точечной аннотации"
+        content: Добавляйте всплывающие комментарии в любое место документа с помощью точечной аннотации
 
       # feature loop
       - icon: "fas fa-code"
         link: "https://docs.groupdocs.com/annotation/java/add-polyline-annotation/"
-        content: "Используйте аннотацию полилинии для соединения последовательности сегментов линии, сегментов дуги или того и другого"
+        content: Используйте аннотацию полилинии для соединения последовательности сегментов линии, сегментов дуги или того и другого
 
       # feature loop
       - icon: "fas fa-cloud"
         link: "https://docs.groupdocs.com/annotation/java/add-ellipse-annotation/"
-        content: "Добавить аннотацию эллипса в PDF, документы Word, электронные таблицы, презентации, диаграммы и изображения"
+        content: Добавить аннотацию эллипса в PDF, документы Word, электронные таблицы, презентации, диаграммы и изображения
 
       # feature loop
       - icon: "fas fa-remove-format"
         link: "https://docs.groupdocs.com/annotation/java/add-watermark-annotation/"
-        content: "Добавляйте угловые водяные знаки для PDF, PowerPoint, Excel, изображений и диаграмм"
+        content: Добавляйте угловые водяные знаки для PDF, PowerPoint, Excel, изображений и диаграмм
 
       # feature loop
       - icon: "fas fa-comment-slash"
-        link: "https://docs.groupdocs.com/annotation/java/extract-annotations-from-document/"
-        content: "Получить координаты текстовой аннотации в графическом представлении документа"
+        link: "https://docs.groupdocs.com/annotation/java/add-underline-annotation/"
+        content: Получить координаты текстовой аннотации в графическом представлении документа
 
       # feature loop
       - icon: "fas fa-location-arrow"
         link: "https://docs.groupdocs.com/annotation/java/add-annotation-to-the-document/"
-        content: "Подчеркивание, зачеркивание или изменение определенного текста в документе"
+        content: Подчеркивание, зачеркивание или изменение определенного текста в документе
 
       # feature loop
       - icon: "fas fa-border-all"
         link: "https://docs.groupdocs.com/annotation/java/add-annotation-to-the-document/"
-        content: "Добавить текстовую марку или водяной знак и текстовое поле в документ"
+        content: Добавить текстовую марку или водяной знак и текстовое поле в документ
 
       # feature loop
       - icon: "fas fa-wrench"
-        link: "https://docs.groupdocs.com/annotation/net/advanced-usage/"
-        content: "Экспорт аннотаций Word & PowerPoint"
+        link: "https://docs.groupdocs.com/annotation/java/add-point-annotation/"
+        content: Импорт и экспорт аннотаций из документов Word и презентаций PowerPoint
 
       # feature loop
       - icon: "fas fa-columns"
-        link: "https://docs.groupdocs.com/annotation/java/add-annotation-to-the-document/"
-        content: "Аннотируйте электронные таблицы Excel с помощью типов аннотаций Text, TextReplacement, Watermark и Resource Redaction."
+        link: "https://docs.groupdocs.com/annotation/java/add-strikeout-annotation/"
+        content: Аннотируйте электронные таблицы Excel с помощью типов аннотаций Text, TextReplacement, Watermark и Resource Redaction.
 
       # feature loop
       - icon: "fas fa-file-word"
-        link: "https://docs.groupdocs.com/annotation/java/add-annotation-to-the-document/"
-        content: "Добавляйте полилинию, зачеркивание, подчеркивание или текстовые аннотации к презентациям и слайдам PowerPoint."
+        link: "https://docs.groupdocs.com/annotation/java/get-file-info/"
+        content: Добавляйте полилинию, зачеркивание, подчеркивание или текстовые аннотации к презентациям и слайдам PowerPoint
 
       # feature loop
       - icon: "fas fa-envelope"
-        link: "https://docs.groupdocs.com/annotation/java/add-point-annotation/"
-        content: "Отметить аннотацию точки в презентациях с использованием координат X, Y"
+        link: "https://docs.groupdocs.com/annotation/java/basic-usage/"
+        content: Отметьте аннотацию точки в презентациях, используя координаты X, Y
 
       # feature loop
       - icon: "fas fa-print"
-        link: "https://docs.groupdocs.com/annotation/java/add-point-annotation/"
-        content: "Добавляйте зачеркнутые, текстовые, подчеркнутые или ломаные аннотации к изображениям"
+        link: "https://docs.groupdocs.com/annotation/java/add-strikeout-annotation/"
+        content: Добавляйте зачеркнутые, текстовые, подчеркнутые или ломаные аннотации к изображениям
 
       # feature loop
       - icon: "fas fa-file-archive"
-        link: "https://docs.groupdocs.com/annotation/java/get-file-info/"
-        content: "Получение сведений о документе и изображений для диаграмм Visio, таких как VSS и VSD"
-
+        link: "https://docs.groupdocs.com/annotation/java/add-link-annotation/"
+        content: Получение сведений о документе и изображений для диаграмм Visio, таких как VSS и VSD
+      
       # feature loop
       - icon: "fas fa-file-code"
         link: "https://docs.groupdocs.com/annotation/java/basic-usage/"
-        content: "Получите миниатюры страниц документа и работайте с многостраничными файлами TIFF"
-      
+        content: Получите миниатюры страниц документа и работайте с многостраничными файлами TIFF
+
       # feature loop
       - icon: "fas fa-file-excel"
         link: "https://docs.groupdocs.com/annotation/java/get-file-info/"
-        content: "Получить всю аннотацию документа с помощью одного вызова функции"
+        content: Получить всю аннотацию документа с помощью одного вызова функции
 
       # feature loop
       - icon: "fas fa-heading"
         link: "https://docs.groupdocs.com/annotation/java/add-link-annotation/"
-        content: "Добавление аннотаций ссылок в презентации PDF, Word и PowerPoint"
+        content: Добавление аннотаций ссылок в презентации PDF, Word и PowerPoint
 
       # feature loop
       - icon: "fas fa-project-diagram"
         link: "https://docs.groupdocs.com/annotation/java/add-point-annotation/"
-        content: "Поддержка анализа пути SVG для PDF, Word, диаграмм, слайдов и других основных форматов документов."
+        content: Поддержка анализа пути SVG для PDF, Word, диаграмм, слайдов и других основных форматов документов.
 
       # feature loop
       - icon: "fas fa-cube"
         link: "https://docs.groupdocs.com/annotation/java/technical-support/"
-        content: "Поддержка добавления аннотации водяного знака к документам Word и очистки для замены текста."
+        content: Поддержка добавления аннотации водяного знака к документам Word и очистки для замены текста.
 
       # feature loop
       - icon: "fab fa-uncharted"
         link: "https://docs.groupdocs.com/annotation/java/technical-support/"
-        content: "Поддержка обработки фигур в диаграммах для текстовых аннотаций"
-
+        content: Поддержка обработки фигур в диаграммах для текстовых аннотаций
+  
       # feature loop
       - icon: "fab fa-uncharted"
         link: "https://docs.groupdocs.com/annotation/java/advanced-usage/"
-        content: "Экономьте время за счет кэширования предварительных просмотров страниц документов для более быстрой обработки"
-
+        content: Экономьте время за счет кэширования предварительных просмотров страниц документов для более быстрой обработки
+  
       # feature loop
       - icon: "fab fa-uncharted"
         link: "https://docs.groupdocs.com/annotation/java/add-annotation-to-the-document/"
-        content: "Легко комментируйте документы Word, Excel и PowerPoint даже в старых форматах"
+        content: Легко комментируйте документы Word, Excel и PowerPoint даже в старых форматах
 
       # feature loop
       - icon: "fab fa-uncharted"
         link: "https://docs.groupdocs.com/annotation/java/add-distance-annotation/"
-        content: "Отображение заголовков аннотаций расстояния для Excel, PowerPoint и диаграмм"
+        content: Отображение заголовков аннотаций расстояния для Excel, PowerPoint и диаграмм
 
 ############################# Support ############################
 support:
@@ -296,7 +290,7 @@ support:
 ############################# Solutions ############################
 solutions:
     enable: true
-    title: "GroupDocs.Annotation offers document viewing APIs for other popular development environments"
+    title: GroupDocs.Annotation предлагает API для просмотра документов для других популярных сред разработки.
 
     solution:
         # solution loop

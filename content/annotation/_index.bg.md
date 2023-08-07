@@ -5,12 +5,12 @@ date: 2022-02-23T12:00:00+02:00
 draft: false
 
 ############################# Head ############################
-head_title: "API .NET, Java e Cloud per aggiungere e gestire le annotazioni dei documenti"
-head_description: "Ottieni una soluzione di annotazione di documenti all-in-one per applicazioni .NET, Java e Cloud per annotare formati di documenti e immagini comuni."
+head_title: ".NET, Java и облачни API за добавяне и управление на анотации на документи"
+head_description: "Вземете цялостно решение за анотиране на документи за .NET, Java и облачни приложения, за да анотирате общи формати на документи и изображения."
 
 ############################# Header ##########################
-title: "Soluzione per l'annotazione di documenti e immagini"
-description: "Annota i documenti con le nostre app o crea le tue applicazioni di annotazione personalizzate su piattaforme popolari utilizzando API on premise o cloud."
+title: "Решение за анотации на документи и изображения"
+description: "Анотирайте документи с нашите приложения или създайте свои собствени приложения за персонализирани анотации в популярни платформи, като използвате локални или облачни API."
 
 ############################# APIs ############################
 apis:
@@ -18,9 +18,9 @@ apis:
 
   api:
     # api loop
-    - title: "Le API GroupDocs.Annotation ad alto codice includono"
+    - title: "GroupDocs.Annotation High Code API включва"
       link: "/annotation/"
-      label: "Visualizza tutte le API High Code"
+      label: "Вижте всички API с висок код"
       api_product:
         # api_product loop
         - link: "/annotation/net/"
@@ -28,7 +28,7 @@ apis:
           image: "https://www.groupdocs.cloud/templates/groupdocs/images/product-logos/groupdocs-annotation-net.png"
           product: "GroupDocs.Annotation for"
           platform: ".NET"
-          content: "API .NET nativa per aggiungere, modificare o eliminare in modo efficiente annotazioni da documenti e immagini. Supporta il lavoro con tutti i tipi di annotazioni più diffusi."
+          content: "Вътрешен .NET API за ефективно добавяне, редактиране или изтриване на анотации от документи и изображения. Поддържа работа с всички популярни типове анотации."
 
         # api_product loop
         - link: "/annotation/java/"
@@ -36,12 +36,12 @@ apis:
           image: "https://www.groupdocs.cloud/templates/groupdocs/images/product-logos/groupdocs-annotation-java.png"
           product: "GroupDocs.Annotation for"
           platform: "Java"
-          content: "API di annotazione file Java per annotare in modo completo i formati di documenti e immagini più comuni su qualsiasi sistema operativo con JDK installato."
+          content: "API за анотации на Java файлове за цялостно анотиране на най-често срещаните файлови формати на документи и изображения във всяка операционна система с инсталиран JDK."
 
     # api loop
-    - title: "Le API GroupDocs.Annotation Low Code includono"
+    - title: "GroupDocs.Annotation Low Code API включва"
       link: "https://products.groupdocs.cloud/annotation"
-      label: "Visualizza tutte le API a basso codice"
+      label: "Вижте всички API с нисък код"
       api_product:
         # api_product loop
         - link: "https://products.groupdocs.cloud/annotation/curl"
@@ -49,7 +49,7 @@ apis:
           image: "https://www.groupdocs.cloud/templates/groupdocscloud/images/sdk/272x272/groupdocs_annotation-for-curl.png"
           product: "GroupDocs.Annotation"
           platform: "Cloud for cURL"
-          content: "Lavora con l'API di annotazione del documento RESTful cURL per annotare rapidamente PDF, Word, Excel, PowerPoint, Visio, immagini e molti altri formati nelle tue applicazioni."
+          content: "Работете с cURL RESTful API за анотиране на документи, за да анотирате бързо PDF, Word, Excel, PowerPoint, Visio, изображения и много други формати във вашите приложения."
 
         # api_product loop
         - link: "https://products.groupdocs.cloud/annotation/net"
@@ -57,7 +57,7 @@ apis:
           image: "https://www.groupdocs.cloud/templates/groupdocscloud/images/sdk/272x272/groupdocs_annotation-for-net.png"
           product: "GroupDocs.Annotation"
           platform: "Cloud SDK for .NET"
-          content: "Utilizza facilmente l'API RESTful di annotazione con .NET SDK per aggiungere testo, filigrana, area, punto e vari altri tipi di annotazione a oltre 40 formati di file popolari."
+          content: "Използвайте лесно RESTful API за анотация с .NET SDK, за да добавите текст, воден знак, област, точка и различни други типове анотации към 40+ популярни файлови формата."
 
         # api_product loop
         - link: "https://products.groupdocs.cloud/annotation/java"
@@ -65,12 +65,12 @@ apis:
           image: "https://www.groupdocs.cloud/templates/groupdocscloud/images/sdk/272x272/groupdocs_annotation-for-java.png"
           product: "GroupDocs.Annotation"
           platform: "Cloud SDK for Java"
-          content: "Aggiungi funzionalità di annotazione di documenti di alta qualità a formati di documenti e immagini con SDK per annotazioni di documenti appositamente progettato per Java."
+          content: "Добавете висококачествени функции за анотации на документи към формати на документи и изображения със специално проектиран SDK за анотации на документи за Java."
 
     # api loop
-    - title: "GroupDocs.Annotation No Code Apps Include" 
+    - title: "GroupDocs.Annotation Без кодови приложения" 
       link: "https://products.groupdocs.app/annotation"
-      label: "Visualizza tutte le app senza codice"
+      label: "Вижте всички приложения без код"
       api_product:
         # api_product loop
         - link: "https://products.groupdocs.app/annotation/total"
@@ -78,7 +78,7 @@ apis:
           image: "https://www.aspose.cloud/templates/asposeapp/images/products/logo/aspose_annotation-app.png"
           product: "GroupDocs.Annotation"
           platform: "Total"
-          content: "Aggiungi o rimuovi documenti di annotazioni online gratuitamente."
+          content: "Добавяйте или премахвайте документи с анотации онлайн безплатно."
 
         # api_product loop
         - link: "https://products.groupdocs.app/annotation/docx"
@@ -86,7 +86,7 @@ apis:
           image: "https://www.aspose.cloud/templates/groupdocsapp/images/products/logo/groupdocs_words-app.png"
           product: "GroupDocs.Annotation"
           platform: "DOCX"
-          content: "App Web gratuita per annotare file Microsoft Word online da qualsiasi dispositivo."
+          content: "Безплатно уеб приложение за анотиране на файлове на Microsoft Word онлайн от всяко устройство."
 
         # api_product loop
         - link: "https://products.groupdocs.app/annotation/pdf"
@@ -94,7 +94,7 @@ apis:
           image: "https://www.aspose.cloud/templates/groupdocsapp/images/products/logo/groupdocs_pdf-app.png"
           product: "GroupDocs.Annotation"
           platform: "PDF"
-          content: "Annota PDF direttamente dal tuo browser web."
+          content: "Анотирайте PDF директно от вашия уеб браузър."
 
 ############################# Back to top ###############################
 back_to_top:

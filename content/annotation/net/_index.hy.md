@@ -267,7 +267,7 @@ features:
       # feature loop
       - icon: "fas fa-cube"
         link: "https://docs.groupdocs.com/annotation/net/generate-document-pages-preview/"
-        content: Ստացեք փաստաթղթի էջերի մանրապատկերներ: Կառավարեք մի շարք ծանոթագրված փաստաթղթեր պատկերների և դիագրամների համար
+        content: Ստացեք փաստաթղթի էջերի մանրապատկերներ - Կառավարեք մի շարք ծանոթագրված փաստաթղթեր պատկերների և դիագրամների համար
 
       # feature loop
       - icon: "fab fa-uncharted"

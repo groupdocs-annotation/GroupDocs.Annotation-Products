@@ -51,7 +51,7 @@ preview_Add:
     enable: true
     title: ટીકા પૂર્વાવલોકન અને કોડ નમૂના
     content: |
-        ![Annotation preview image]https://docs.groupdocs.com/annotation/java/images/add-text-field-annotation.png
+        ![Annotation preview image](https://docs.groupdocs.com/annotation/java/images/add-text-field-annotation.png)
     code: |
         ```cs
         //Add text field annotation to the document from local disk

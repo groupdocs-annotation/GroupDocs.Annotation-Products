@@ -1,11 +1,6 @@
-
 ---
 ############################# Static ############################
 layout: "auto-gen-annotation"
-date: 2022-07-05T12:44:18+03:00
-draft: false
-
-###_DIMA_### link rel="canonical" href="https://products.groupdocs.com/annotation/net/jpeg"/>
 
 ############################# Head ############################
 head_title: "Net JPEG Annotation API Annotate in C#"
@@ -22,76 +17,39 @@ button:
     label: "Download Free Trial"
     link: "https://downloads.groupdocs.com/annotation/net"
 
-############################# SubMenu ############################
-submenu:
-    enable: true
-
-    left:
-        img_alt: "GroupDocs.Annotation for Net"
-        image: "https://cms.admin.containerize.com/templates/groupdocs/images/product-logos/90x90-noborder/groupdocs-annotation-net.png"
-        product: "GroupDocs.Annotation"
-        platform: "Net"
-
-    middle:
-        button:
-            # button loop
-            - link: "https://apireference.groupdocs.com/annotation/net"
-              text: "API Reference"
-            # button loop
-            - link: "https://github.com/groupdocs-annotation"
-              text: "Code Examples"
-            # button loop
-            - link: "https://products.groupdocs.app/annotation/family"
-              text: "Live Demos"
-            # button loop
-            - link: "https://purchase.groupdocs.com/pricing/annotation/net"
-              text: "Pricing"
-
-    right:
-        link_download: "https://downloads.groupdocs.com/annotation"
-        link_learn: "https://docs.groupdocs.com/annotation/net"
-        link_buy: "https://purchase.groupdocs.com"
-
 ############################# About ############################
 about:
     enable: true
     title: "About GroupDocs.Annotation for Net API"
     content: |
         GroupDocs.Annotation for Net API is a library that allows you to add annotations to PDF, Word and other documents on Mac, Windows or Ubuntu. [GroupDocs.Annotation for Net](/annotation/net) is a native Net API for managing annotations with comprehensive support for creating, adding, editing, deleting, extracting and exporting annotations from images and various other documents. The full list of supported document formats you could see on this [page](https://docs.groupdocs.com/annotation/net/supported-document-formats/).
-
         This library allows you to work not only with JPEG document but also with many other types documents such as Word, Excel, PowerPoint, Outlook emails, Visio, Adobe, OpenDocument, OpenOffice, Photoshop, AutoCad and many others.
-
         The GroupDocs.Annotation for Net API allows you to create and add new notes, edit annotations, extract comments, annotations, and remove them from documents. The library supports 13 different annotation types, including Text, Polyline, Area, Underline, Point, Watermark, Arrow, Ellipse, Text Replacement, Distance, Text Field, Resource Redaction in PDF, HTML, Microsoft Word documents, spreadsheets, diagrams, presentations, drawings, images and many other file formats.
-
-        The example (please see below) demonstrates working with JPEG document, in this example you could see the main steps of how to work with GroupDocs.Annotation: Setup a license, open a document you want to work with, creating an annotation, adding data objects to set annotation properties according to your requirements and saving the result to the needed place. Also you could have a look more detailed on the supported features on our github [page](https://github.com/groupdocs-annotation/GroupDocs.Annotation-for-.Net), or in our product [documentation](https://docs.groupdocs.com/annotation/net/getting-started/).
+        The example (please see below) demonstrates working with JPEG document, in this example you could see the main steps of how to work with GroupDocs.Annotation: Setup a license, open a document you want to work with, creating an annotation, adding data objects to set annotation properties according to your requirements and saving the result to the needed place. Also you could have a look more detailed on the supported features on our github [page](https://github.com/groupdocs-annotation/GroupDocs.Annotation-for-.NET), or in our product [documentation](https://docs.groupdocs.com/annotation/net/getting-started/).
 
 ############################# Steps ############################
 howTo_Add:
 steps_Add:
     enable: true
-    title_left: "Steps to Add Annotations from JPEG in Net"
+    title_left: "Steps to Add Annotations to JPEG in Net"
     content_left: |
-        [GroupDocs.Annotation](/annotation/java/) makes it easy for Net developers to add various annotation types to JPEG files within any Net-based application by implementing a few easy steps.
-        
+        [GroupDocs.Annotation](/annotation/net/) makes it easy for Net developers to add various annotation types to JPEG files within any Net-based application by implementing a few easy steps.
         *   Create Reply objects with comment and date.
         *   Create AreaAnnotation object, set area options and add replies.
         *   Create Annotator object and add area annotation.
         *   Save output file.
-    
     title_right: "System Requirements"
     content_right: |
         GroupDocs.Annotation for Net APIs are supported on all major platforms and operating systems. Before executing the code below, please make sure that you have the following prerequisites installed on your system.
-        
         *   Operating Systems: Microsoft Windows, Linux, MacOS
         *   Development Environments: Visual Studio, Xamarin, MonoDevelop
         *   Frameworks: .NET Framework, .NET Standard, .NET Core, Mono
         *   Download the latest version of GroupDocs.Annotation for .NET from [NuGet](https://www.nuget.org/packages/groupdocs.annotation)
-    
 
 ############################# Preview ############################
 preview_Add:
     enable: true
-    title: "Annotation preview and code sample"
+    title: Annotation preview and code sample
     content: |
         ![Annotation preview image](https://docs.groupdocs.com/annotation/java/images/add-text-field-annotation.png)
     code: |
@@ -139,17 +97,14 @@ steps_Remove:
     enable: true
     title_left: "Steps to Remove Annotations from JPEG in Net"
     content_left: |
-        [GroupDocs.Annotation](/annotation/java/) makes it easier for Net developers to remove annotation details from JPEG files within any Net-based application by implementing a few easy steps.
-        
+        [GroupDocs.Annotation](/annotation/net/) makes it easier for Net developers to remove annotation details from JPEG files within any Net-based application by implementing a few easy steps.
         *   Create Reply objects with comment and date.
         *   Instantiate SaveOptions object and set AnnotationTypes = AnnotationType.None.
         *   Call save method with resultant document path or stream and SaveOptions object.
-    
 
 ############################# Preview ############################
 preview_Remove:
     enable: true
-    
     code: |
         ```cs
         // 1- How to remove annotation from document using annotation index
@@ -194,18 +149,15 @@ steps_Edit:
     enable: true
     title_left: "Steps to Edit Annotations from JPEG in Net"
     content_left: |
-        [GroupDocs.Annotation](/annotation/java/) makes it easier for Net developers to update various annotation properties from JPEG files within any Net-based application by implementing a few easy steps.
-        
+        [GroupDocs.Annotation](/annotation/net/) makes it easier for Net developers to update various annotation properties from JPEG files within any Net-based application by implementing a few easy steps.
         *   Instantiate Annotator object with input document path or stream with instantiated LoadOptions with ImportAnnotations = true.
         *   Create some AnnotationBase implementation and set Id of existed annotation (if annotation with that Id not found, nothing will be changed) or path list of annotations (all existed annotations will be removed).
         *   Call update method of Annotator object with passed annotations.
         *   Call save method with resultant document path or stream and SaveOptions object.
-    
 
 ############################# Preview ############################
 preview_Edit:
     enable: true
-    
     code: |
         ```cs
         // open annotated document
@@ -246,18 +198,15 @@ steps_Extract:
     enable: true
     title_left: "Steps to Extract Annotations from JPEG in Net"
     content_left: |
-        [GroupDocs.Annotation](/annotation/java/) makes it easy for Net developers to annotate documents and extract annotation information from JPEG files within any Net-based application by implementing a few easy steps.
-        
+        [GroupDocs.Annotation](/annotation/net/) makes it easy for Net developers to annotate documents and extract annotation information from JPEG files within any Net-based application by implementing a few easy steps.
         *   Create Reply objects with comment and date.
         *   Instantiate LoadOptions object and call SetImportAnnotations with true argument.
         *   Define variable with type List.
         *   Call get method and return result to variable above.
-    
 
 ############################# Preview ############################
 preview_Extract:
     enable: true
-    
     code: |
         ```cs
         // for using this example input file ("annotated.bmp") must be with annotations
@@ -278,8 +227,7 @@ demos:
     enable: true
     title: "Live Demos to Add, Remove, Edit, Extract Annotations to Documents and Images"
     content: |
-        Add, remove, edit and extract annotations to JPEG file right now by visiting [GroupDocs.Annotation Live Demos](https://products.groupdocs.app/annotation/family) website.
-        The live demo has the following benefits
+        Add, remove, edit and extract annotations to JPEG file right now by visiting [GroupDocs.Annotation Live Demos](https://products.groupdocs.app/annotation/family) website. The live demo has the following benefits
 
 ############################# About Formats ############################
 about_formats:
@@ -290,6 +238,7 @@ about_formats:
           title: "About JPEG File Format"
           content: |
             A JPEG is a type of image format that is saved using the method of lossy compression. The output image, as result of compression, is a trade-off between storage size and image quality. Users can adjust the compression level to achieve the desired quality level while at the same time reduce the storage size. Image quality is negligibly affected if 10:1 compression is applied to the image. The higher the compression value, the higher the degradation in image quality. JPEG image file format was standardized by the Joint Photographic Experts Group and, hence, the name JPEG. The format has been the choice of storing and transmitting photographic images on the web. Almost all Operating systems now have viewers that support visualization of JPEG images, which are often stored with JPG extension as well. Even the web browsers support visualization of JPEG images.
+
           link: "https://docs.fileformat.com/image/jpeg/"
 
 ############################# More Formats ############################

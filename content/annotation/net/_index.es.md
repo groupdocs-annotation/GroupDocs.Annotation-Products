@@ -202,7 +202,7 @@ features:
       # feature loop
       - icon: "fas fa-border-all"
         link: "https://docs.groupdocs.com/annotation/net/generate-document-pages-preview/"
-        content: Anote archivos PDF con precisión - obtenga una representación de imagen del documento PDF y vistas previas de la página de caché
+        content: Anote archivos PDF con precisión: obtenga una representación de imagen del documento PDF y vistas previas de la página de caché
 
       # feature loop
       - icon: "fas fa-wrench"

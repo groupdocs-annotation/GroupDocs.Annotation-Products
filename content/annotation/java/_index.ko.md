@@ -59,7 +59,7 @@ overview:
 
       GroupDocs.Annotation for Java API를 사용하면 텍스트, 폴리라인, 영역, 밑줄, 포인트, 워터마크, 화살표, 타원, 텍스트 교체, 거리, 텍스트 필드, 리소스 교정 등을 포함하는 다양한 유형의 주석으로 작업할 수 있습니다. PDF, HTML, Microsoft Office Word, Excel 스프레드시트, PowerPoint 프레젠테이션, Visio, Outlook 이메일, 이미지, 메타파일, CAD 도면 및 기타 다양한 형식과 같은 널리 사용되는 문서 형식. API는 문서 페이지의 축소판을 가져오는 기능을 제공하고 PDF 파일에서 주석 가져오기 및 내보내기를 지원합니다.
 
-      라이브러리를 사용하여 [추가](/annotation/java/bmp/), [편집](/annotation/java/bmp/), [추출](/annotation/java/bmp/) 및 [삭제](/annotation /java/bmp/) 문서의 주석, 문서 회전, 썸네일 솔루션 변경 및 이것이 모든 가능성의 전체 목록이 아닙니다. 또한 지원되는 모든 문서 형식 내에서 요구 사항에 따라 주석 속성을 사용자 정의할 수 있는 포괄적인 데이터 객체 세트를 제공합니다.
+      라이브러리를 사용하여 [추가](/annotation/java/bmp/), [편집](/annotation/java/bmp/), [추출](/annotation/java/bmp/) 및 [삭제](/annotation/java/bmp/) 문서의 주석, 문서 회전, 썸네일 솔루션 변경 및 이것이 모든 가능성의 전체 목록이 아닙니다. 또한 지원되는 모든 문서 형식 내에서 요구 사항에 따라 주석 속성을 사용자 정의할 수 있는 포괄적인 데이터 객체 세트를 제공합니다.
 
       GroupDocs.Annotation for Java API로 작업하는 것은 매우 간단하며 몇 가지 기본 단계로 구성됩니다. 먼저 라이센스를 설정한 다음 작업할 파일을 선택한 다음 문서 주석으로 조작(삭제/편집/추출/삭제)하고 결과를 저장해야 합니다. 자세한 내용은 제품 [문서](https://docs.groupdocs.com/annotation/java/getting-started/) 또는 [예제](https://github.com/groupdocs-annotation/GroupDocs.Annotation)를 참조하세요. -for-Java) 설정합니다.
       

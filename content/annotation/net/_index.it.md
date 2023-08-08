@@ -177,7 +177,7 @@ features:
       # feature loop
       - icon: "fas fa-bolt"
         link: "https://docs.groupdocs.com/annotation/net/evaluation-limitations-and-licensing-of-groupdocs-annotation/"
-        content: Licenza a consumo - fatturazione controllata pagando in base all'utilizzo dell'API
+        content: Licenza a consumo: fatturazione controllata pagando in base all'utilizzo dell'API
       
       # feature loop
       - icon: "fas fa-code"
@@ -202,7 +202,7 @@ features:
       # feature loop
       - icon: "fas fa-border-all"
         link: "https://docs.groupdocs.com/annotation/net/generate-document-pages-preview/"
-        content: Annota i file PDF con precisione - ottieni la rappresentazione dell'immagine del documento PDF e le anteprime delle pagine della cache
+        content: Annota i file PDF con precisione: ottieni la rappresentazione dell'immagine del documento PDF e le anteprime delle pagine della cache
 
       # feature loop
       - icon: "fas fa-wrench"

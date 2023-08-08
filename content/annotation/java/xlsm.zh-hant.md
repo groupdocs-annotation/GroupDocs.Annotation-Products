@@ -25,7 +25,7 @@ about:
         GroupDocs.Annotation for Java API 是一個庫，允許您在 Mac、Windows 或 Ubuntu 上向 PDF、Word 和其他文檔添加註釋。 [GroupDocs.Annotation for Java](/annotation/java) 是一個用於管理註釋的原生 Java API，全面支持從圖像和各種其他文檔中創建、添加、編輯、刪除、提取和導出註釋。您可以在此[頁面](https://docs.groupdocs.com/annotation/java/supported-document-formats/)上看到支持的文檔格式的完整列表。
         該庫不僅允許您處理 XLSM 文檔，還可以處理許多其他類型的文檔，例如 Word、Excel、PowerPoint、Outlook 電子郵件、Visio、Adobe、OpenDocument、OpenOffice、Photoshop、AutoCad 等。
         GroupDocs.Annotation for Java API 允許您創建和添加新註釋、編輯註釋、提取註釋、註釋以及從文檔中刪除它們。該庫支持13 種不同的註釋類型，包括文本、折線、區域、下劃線、點、水印、箭頭、橢圓、文本替換、距離、文本字段、PDF、HTML、Microsoft Word 文檔、電子表格、圖表、演示文稿中的資源編輯，繪圖、圖像和許多其他文件格式。
-        該示例（請參見下文）演示瞭如何使用 XLSM 文檔，在此示例中您可以看到如何使用 GroupDocs 的主要步驟。註釋：設置許可證、打開要使用的文檔、創建註釋，根據需要添加數據對象設置註釋屬性，並將結果保存到需要的地方。您還可以在我們的 github [頁面](https://github.com/groupdocs-annotation/GroupDocs.Annotation-for-Java) 或我們的產品 [文檔](https: //docs.groupdocs.com/annotation /java/getting-started/)。
+        該示例（請參見下文）演示瞭如何使用 XLSM 文檔，在此示例中您可以看到如何使用 GroupDocs 的主要步驟。註釋：設置許可證、打開要使用的文檔、創建註釋，根據需要添加數據對象設置註釋屬性，並將結果保存到需要的地方。您還可以在我們的 github [頁面](https://github.com/groupdocs-annotation/GroupDocs.Annotation-for-Java) 或我們的產品 [文檔](https://docs.groupdocs.com/annotation/java/getting-started/)。
 
 ############################# Steps ############################
 howTo_Add:

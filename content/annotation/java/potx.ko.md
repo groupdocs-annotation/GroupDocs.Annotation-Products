@@ -25,7 +25,7 @@ about:
         GroupDocs.Annotation for Java API는 Mac, Windows 또는 Ubuntu에서 PDF, Word 및 기타 문서에 주석을 추가할 수 있는 라이브러리입니다. [GroupDocs.Annotation for Java](/annotation/java)는 이미지 및 기타 다양한 문서에서 주석 생성, 추가, 편집, 삭제, 추출 및 내보내기를 포괄적으로 지원하는 주석 관리를 위한 기본 Java API입니다. 이 [페이지](https://docs.groupdocs.com/annotation/java/supported-document-formats/)에서 볼 수 있는 지원되는 문서 형식의 전체 목록입니다.
         이 라이브러리를 사용하면 POTX 문서뿐만 아니라 Word, Excel, PowerPoint, Outlook 이메일, Visio, Adobe, OpenDocument, OpenOffice, Photoshop, AutoCad 및 기타 여러 유형의 문서와 함께 작업할 수 있습니다.
         GroupDocs.Annotation for Java API를 사용하면 새 메모를 만들고 추가하고, 주석을 편집하고, 주석과 주석을 추출하고, 문서에서 제거할 수 있습니다. 라이브러리는 텍스트, 다중선, 영역, 밑줄, 포인트, 워터마크, 화살표, 타원, 텍스트 대체, 거리, 텍스트 필드, PDF, HTML, Microsoft Word 문서, 스프레드시트, 다이어그램, 프레젠테이션, 그림, 이미지 및 기타 여러 파일 형식.
-        예제(아래 참조)는 POTX 문서 작업을 보여줍니다. 이 예제에서는 GroupDocs 작업 방법의 주요 단계를 볼 수 있습니다. 주석: 라이선스 설정, 작업할 문서 열기, 주석, 데이터 개체를 추가하여 요구 사항에 따라 주석 속성을 설정하고 결과를 필요한 위치에 저장합니다. 또한 github [페이지](https://github.com/groupdocs-annotation/GroupDocs.Annotation-for-Java) 또는 제품 [문서](https: //docs.groupdocs.com/annotation/java/getting-started/).
+        예제(아래 참조)는 POTX 문서 작업을 보여줍니다. 이 예제에서는 GroupDocs 작업 방법의 주요 단계를 볼 수 있습니다. 주석: 라이선스 설정, 작업할 문서 열기, 주석, 데이터 개체를 추가하여 요구 사항에 따라 주석 속성을 설정하고 결과를 필요한 위치에 저장합니다. 또한 github [페이지](https://github.com/groupdocs-annotation/GroupDocs.Annotation-for-Java) 또는 제품 [문서](https://docs.groupdocs.com/annotation/java/getting-started/).
 
 ############################# Steps ############################
 howTo_Add:

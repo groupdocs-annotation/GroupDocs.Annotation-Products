@@ -59,7 +59,7 @@ overview:
 
       GroupDocs.Annotation for Java API 允許您使用不同類型的註釋，其中包括：文本、折線、區域、下劃線、點、水印、箭頭、橢圓、文本替換、距離、文本字段、資源編輯等。並支持大多數流行的文檔格式，例如：PDF、HTML、Microsoft Office Word、Excel 電子表格、PowerPoint 演示文稿、Visio、Outlook 電子郵件、圖像、元文件、CAD 繪圖和各種其他格式。該 API 提供獲取文檔頁面縮略圖的功能，並支持在 PDF 文件中導入和導出註釋。
 
-      使用庫，您可以[添加]（/annotation/java/bmp/），[編輯]（/annotation/java/bmp/），[提取]（/annotation/java/bmp/）和[刪除]（/annotation /java/bmp/) 來自文檔的註釋、旋轉文檔、更改縮略圖解決方案，這並不是所有可能性的完整列表。它還提供了一套全面的數據對象，可根據您的要求在所有支持的文檔格式中自定義註釋屬性。
+      使用庫，您可以[添加]（/annotation/java/bmp/），[編輯]（/annotation/java/bmp/），[提取]（/annotation/java/bmp/）和[刪除]（/annotation/java/bmp/) 來自文檔的註釋、旋轉文檔、更改縮略圖解決方案，這並不是所有可能性的完整列表。它還提供了一套全面的數據對象，可根據您的要求在所有支持的文檔格式中自定義註釋屬性。
 
       使用 GroupDocs.Annotation for Java API 非常簡單，僅包含幾個基本步驟。首先，您需要設置許可證，然後選擇要使用的文件，然後使用文檔註釋進行某種操作（刪除/編輯/提取/刪除）並保存結果。有關更多信息，請參閱產品[文檔](https://docs.groupdocs.com/annotation/java/getting-started/) 或我們的[示例](https://github.com/groupdocs-annotation/GroupDocs.Annotation -for-Java) 設置。
       

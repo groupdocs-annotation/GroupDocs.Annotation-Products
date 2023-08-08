@@ -25,7 +25,7 @@ about:
         GroupDocs.Annotation for Java API 是一个库，允许您在 Mac、Windows 或 Ubuntu 上向 PDF、Word 和其他文档添加注释。 [GroupDocs.Annotation for Java](/annotation/java) 是一个用于管理注释的原生 Java API，全面支持从图像和各种其他文档中创建、添加、编辑、删除、提取和导出注释。您可以在此[页面](https://docs.groupdocs.com/annotation/java/supported-document-formats/)上看到支持的文档格式的完整列表。
         该库不仅允许您处理 BMP 文档，还可以处理许多其他类型的文档，例如 Word、Excel、PowerPoint、Outlook 电子邮件、Visio、Adobe、OpenDocument、OpenOffice、Photoshop、AutoCad 等。
         GroupDocs.Annotation for Java API 允许您创建和添加新注释、编辑注释、提取注释、注释以及从文档中删除它们。该库支持 13 种不同的注释类型，包括文本、折线、区域、下划线、点、水印、箭头、椭圆、文本替换、距离、文本字段、PDF、HTML、Microsoft Word 文档、电子表格、图表、演示文稿中的资源编辑，绘图、图像和许多其他文件格式。
-        该示例（请参见下文）演示了如何使用 BMP 文档，在此示例中您可以看到如何使用 GroupDocs 的主要步骤。注释：设置许可证、打开要使用的文档、创建注释，根据需要添加数据对象设置注释属性，并将结果保存到需要的地方。您还可以在我们的 github [页面](https://github.com/groupdocs-annotation/GroupDocs.Annotation-for-Java) 或我们的产品 [文档](https: //docs.groupdocs.com/annotation/java/getting-started/)。
+        该示例（请参见下文）演示了如何使用 BMP 文档，在此示例中您可以看到如何使用 GroupDocs 的主要步骤。注释：设置许可证、打开要使用的文档、创建注释，根据需要添加数据对象设置注释属性，并将结果保存到需要的地方。您还可以在我们的 github [页面](https://github.com/groupdocs-annotation/GroupDocs.Annotation-for-Java) 或我们的产品 [文档](https://docs.groupdocs.com/annotation/java/getting-started/)。
 
 ############################# Steps ############################
 howTo_Add:

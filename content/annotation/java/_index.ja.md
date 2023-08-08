@@ -59,7 +59,7 @@ overview:
 
       GroupDocs.Annotation for Java API を使用すると、テキスト、ポリライン、面、下線、点、透かし、矢印、楕円、テキスト置換、距離、テキスト フィールド、リソースの墨消しなど、さまざまなタイプの注釈を操作できます。また、ほとんどの機能をサポートしています。 PDF、HTML、Microsoft Office Word、Excel スプレッドシート、PowerPoint プレゼンテーション、Visio、Outlook 電子メール、画像、メタファイル、CAD 図面、その他さまざまな形式などの一般的なドキュメント形式。この API は、ドキュメント ページのサムネイルを取得する機能を提供し、PDF ファイルへの注釈のインポートと PDF ファイルからの注釈のエクスポートをサポートします。
 
-      ライブラリを使用すると、[追加](/annotation/java/bmp/)、[編集](/annotation/java/bmp/)、[抽出](/annotation/java/bmp/)、[削除](/annotation) ことができます。 /java/bmp/) ドキュメントからの注釈、ドキュメントの回転、サムネイルの変更ソリューションですが、これはすべての可能性の完全なリストではありません。また、サポートされているすべてのドキュメント形式内で要件に応じて注釈プロパティをカスタマイズするためのデータ オブジェクトの包括的なセットも提供します。
+      ライブラリを使用すると、[追加](/annotation/java/bmp/)、[編集](/annotation/java/bmp/)、[抽出](/annotation/java/bmp/)、[削除](/annotation/java/bmp/) ドキュメントからの注釈、ドキュメントの回転、サムネイルの変更ソリューションですが、これはすべての可能性の完全なリストではありません。また、サポートされているすべてのドキュメント形式内で要件に応じて注釈プロパティをカスタマイズするためのデータ オブジェクトの包括的なセットも提供します。
 
       GroupDocs.Annotation for Java API の操作は非常に簡単で、いくつかの基本的な手順だけで構成されます。最初にライセンスを設定し、次に操作したいファイルを選択し、ドキュメントの注釈を使用して何らかの操作 (削除/編集/抽出/削除) を行い、結果を保存する必要があります。詳細については、製品の [ドキュメント](https://docs.groupdocs.com/annotation/java/getting-started/) または [例](https://github.com/groupdocs-annotation/GroupDocs.Annotation) を参照してください。 -for-Java) を設定します。
       

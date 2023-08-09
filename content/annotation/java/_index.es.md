@@ -61,7 +61,7 @@ overview:
 
       Con la biblioteca, puede [agregar](/annotation/java/bmp/), [editar](/annotation/java/bmp/), [extraer](/annotation/java/bmp/) y [eliminar](/annotation/java/bmp/) anotaciones de documentos, rotar documentos, cambiar la solución de miniaturas y esta no es una lista completa de todas las posibilidades. También ofrece un conjunto completo de objetos de datos para personalizar las propiedades de anotación según sus requisitos dentro de todos los formatos de documentos admitidos.
 
-      Trabajar con GroupDocs.Annotation for Java API es muy simple y consta de unos pocos pasos básicos. Al principio, debe configurar una licencia, luego seleccionar el archivo con el que desea trabajar, luego manipularlo de alguna manera con las anotaciones del documento (eliminar/editar/extraer/eliminar) y guardar el resultado. Para obtener más información, consulte la [documentación] del producto (https://docs.groupdocs.com/annotation/java/getting-started/) o nuestros [ejemplos] (https://github.com/groupdocs-annotation/GroupDocs.Annotation -para-Java) establecido.
+      Trabajar con GroupDocs.Annotation for Java API es muy simple y consta de unos pocos pasos básicos. Al principio, debe configurar una licencia, luego seleccionar el archivo con el que desea trabajar, luego manipularlo de alguna manera con las anotaciones del documento (eliminar/editar/extraer/eliminar) y guardar el resultado. Para obtener más información, consulte la [documentación del producto](https://docs.groupdocs.com/annotation/java/getting-started/) o nuestros [ejemplos](https://github.com/groupdocs-annotation/GroupDocs.Annotation-for-Java) establecido.
       
       GroupDocs.Annotation se actualiza regularmente y brinda soporte a sus clientes, siempre puede hacernos preguntas o enviarnos sus ideas o contarnos sobre sus necesidades de algo nuevo y con gusto lo implementaremos en nuestras nuevas versiones.
     tabs:
@@ -86,7 +86,7 @@ overview:
       ## TAB TWO ##
       tab_two:
         description: |
-          GroupDocs.Annotation para Java es compatible con todos los [formatos de archivo de documentos] populares (https://docs.groupdocs.com/annotation/java/supported-document-formats/), incluidos: Microsoft Office, PDF, imágenes y muchos otros.
+          GroupDocs.Annotation para Java es compatible con todos los [formatos de archivo de documentos populares](https://docs.groupdocs.com/annotation/java/supported-document-formats/), incluidos: Microsoft Office, PDF, imágenes y muchos otros.
 
         left:
           enable: true

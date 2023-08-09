@@ -86,7 +86,7 @@ overview:
       ## TAB TWO ##
       tab_two:
         description: |
-          GroupDocs.Annotation pentru Net acceptă toate [formatele de fișiere de documente] populare (https://docs.groupdocs.com/annotation/Net/supported-document-formats/), inclusiv: Microsoft Office, PDF, imagini și multe altele.
+          GroupDocs.Annotation pentru Net acceptă toate [formatele de fișiere de documente populare](https://docs.groupdocs.com/annotation/Net/supported-document-formats/), inclusiv: Microsoft Office, PDF, imagini și multe altele.
 
         left:
           enable: true

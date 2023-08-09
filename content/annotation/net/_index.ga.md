@@ -86,7 +86,7 @@ overview:
       ## TAB TWO ##
       tab_two:
         description: |
-          Tacaíonn GroupDocs.Annotation for Net le gach [formáid comhaid doiciméad] a bhfuil tóir orthu (https://docs.groupdocs.com/annotation/Net/supported-document-formats/) lena n-áirítear: Microsoft Office, PDF, íomhánna agus go leor eile.
+          Tacaíonn GroupDocs.Annotation for Net le gach [formáid comhaid doiciméad a bhfuil tóir orthu](https://docs.groupdocs.com/annotation/Net/supported-document-formats/) lena n-áirítear: Microsoft Office, PDF, íomhánna agus go leor eile.
 
         left:
           enable: true

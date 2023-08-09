@@ -61,7 +61,7 @@ overview:
 
       באמצעות ספרייה, אתה יכול [הוסף](/annotation/java/bmp/), [ערוך](/annotation/java/bmp/), [חלץ](/annotation/java/bmp/) ו-[מחק](/annotation/java/bmp/) הערות ממסמכים, סובב מסמכים, שינוי פתרון תמונות ממוזערות וזו אינה רשימה מלאה של כל האפשרויות. הוא גם מציע קבוצה מקיפה של אובייקטי נתונים כדי להתאים אישית את מאפייני ההערות בהתאם לדרישות שלך בכל פורמטי המסמכים הנתמכים.
 
-      העבודה עם GroupDocs.Annotation for Java API היא פשוטה מאוד ומורכבת מכמה שלבים בסיסיים בלבד. בהתחלה אתה צריך להגדיר רישיון, ואז לבחור את הקובץ שאתה רוצה לעבוד איתו, ואז לעשות מניפולציה איכשהו עם הערות למסמך (מחק/ערוך/חילוץ/מחיקה) ולשמור את התוצאה. למידע נוסף, עיין במוצר [תיעוד](https://docs.groupdocs.com/annotation/java/getting-started/) או ב[דוגמאות](https://github.com/groupdocs-annotation/GroupDocs.Annotation) -ל-Java) מוגדר.
+      העבודה עם GroupDocs.Annotation for Java API היא פשוטה מאוד ומורכבת מכמה שלבים בסיסיים בלבד. בהתחלה אתה צריך להגדיר רישיון, ואז לבחור את הקובץ שאתה רוצה לעבוד איתו, ואז לעשות מניפולציה איכשהו עם הערות למסמך (מחק/ערוך/חילוץ/מחיקה) ולשמור את התוצאה. למידע נוסף, עיין במוצר [תיעוד](https://docs.groupdocs.com/annotation/java/getting-started/) או ב[דוגמאות](https://github.com/groupdocs-annotation/GroupDocs.Annotation-for-Java) מוגדר.
       
       GroupDocs.Annotation מתעדכן באופן שוטף ומספק תמיכה ללקוחותיה, אתה תמיד מוזמן לשאול אותנו שאלות או לשלוח רעיונות או לספר לנו על הצרכים שלך למשהו חדש ואנו נשמח ליישם זאת בגרסאות החדשות שלנו.
     tabs:
@@ -86,7 +86,7 @@ overview:
       ## TAB TWO ##
       tab_two:
         description: |
-          GroupDocs.Annotation עבור Java תומך בכל [פורמטי קובץ המסמכים] הפופולריים (https://docs.groupdocs.com/annotation/java/supported-document-formats/) כולל: Microsoft Office, PDF, תמונות ועוד רבים אחרים.
+          GroupDocs.Annotation עבור Java תומך בכל פורמטי קובץ המסמכים] הפופולריים](https://docs.groupdocs.com/annotation/java/supported-document-formats/) כולל: Microsoft Office, PDF, תמונות ועוד רבים אחרים.
 
         left:
           enable: true

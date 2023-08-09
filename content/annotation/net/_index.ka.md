@@ -86,7 +86,7 @@ overview:
       ## TAB TWO ##
       tab_two:
         description: |
-          GroupDocs.Annotation for Net მხარს უჭერს ყველა პოპულარულ [დოკუმენტის ფაილის ფორმატს] (https://docs.groupdocs.com/annotation/Net/supported-document-formats/), მათ შორის: Microsoft Office, PDF, სურათები და მრავალი სხვა.
+          GroupDocs.Annotation for Net მხარს უჭერს ყველა პოპულარულ [დოკუმენტის ფაილის ფორმატს](https://docs.groupdocs.com/annotation/Net/supported-document-formats/), მათ შორის: Microsoft Office, PDF, სურათები და მრავალი სხვა.
 
         left:
           enable: true

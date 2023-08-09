@@ -61,7 +61,7 @@ overview:
 
       Bi karanîna pirtûkxaneyê, hûn dikarin [lê zêde bikin](/annotation/java/bmp/), [biguherîne](/annotation/java/bmp/), [derxistin](/annotation/java/bmp/) û [jêbirin](/annotation/java/bmp/) annotasyonên ji belgeyan, belgeyan bizivirînin, çareseriya piçûkan biguhezînin û ev ne navnîşek tevahî ya hemî îmkanan e. Di heman demê de ew komek berfireh a tiştên daneyê pêşkêşî dike da ku taybetmendiyên annotasyonê li gorî daxwazên we di nav hemî formatên belgeyên piştgirî de xweş bike.
 
-      Karkirina bi GroupDocs.Annotation ji bo Java API pir hêsan e û tenê ji çend gavên bingehîn pêk tê. Di destpêkê de hûn hewce ne ku destûrnameyek saz bikin, dûv re pelê ku hûn dixwazin pê re bixebitin hilbijêrin, dûv re bi rengek hûrguliyên belgeyê manîpule bikin ( jêbirin / biguherînin / derxin / jêbirin) û encamê hilînin. Ji bo bêtir agahdarî ji kerema xwe li hilberê [belge](https://docs.groupdocs.com/annotation/java/getting-started/) an [nimûneyên] (https://github.com/groupdocs-annotation/GroupDocs.Annotation) binêre -bo-Java) danîn.
+      Karkirina bi GroupDocs.Annotation ji bo Java API pir hêsan e û tenê ji çend gavên bingehîn pêk tê. Di destpêkê de hûn hewce ne ku destûrnameyek saz bikin, dûv re pelê ku hûn dixwazin pê re bixebitin hilbijêrin, dûv re bi rengek hûrguliyên belgeyê manîpule bikin ( jêbirin / biguherînin / derxin / jêbirin) û encamê hilînin. Ji bo bêtir agahdarî ji kerema xwe li hilberê [belge](https://docs.groupdocs.com/annotation/java/getting-started/) an [nimûneyên](https://github.com/groupdocs-annotation/GroupDocs.Annotation-for-Java) danîn.
       
       GroupDocs.Annotation bi rêkûpêk tê nûve kirin û ji xerîdarên xwe re piştgirî peyda dike, hûn her gav bi xêr hatin ku hûn pirsan ji me bikin an ramanên xwe bişînin an jî li ser hewcedariyên xwe yên ji bo tiştek nû ji me re vebêjin û em ê bi kêfxweşî wê di guhertoyên xwe yên nû de bicîh bikin.
     tabs:
@@ -86,7 +86,7 @@ overview:
       ## TAB TWO ##
       tab_two:
         description: |
-          GroupDocs.Annotation ji bo Java-yê hemî [formên pelên pelgeyê] yên populer piştgirî dike (https://docs.groupdocs.com/annotation/java/supported-document-formats/) di nav de: Microsoft Office, PDF, wêne û gelekên din.
+          GroupDocs.Annotation ji bo Java-yê hemî [formên pelên pelgeyê yên populer piştgirî dike](https://docs.groupdocs.com/annotation/java/supported-document-formats/) di nav de: Microsoft Office, PDF, wêne û gelekên din.
 
         left:
           enable: true

@@ -61,7 +61,7 @@ overview:
 
       Օգտագործելով գրադարանը՝ կարող եք [add](/annotation/java/bmp/), [edit](/annotation/java/bmp/), [extract](/annotation/java/bmp/) և [delete](/annotation/java/bmp/) ծանոթագրություններ փաստաթղթերից, պտտել փաստաթղթերը, փոխել մանրապատկերների լուծումը, և սա բոլոր հնարավորությունների ամբողջական ցանկը չէ: Այն նաև առաջարկում է տվյալների օբյեկտների համապարփակ փաթեթ՝ ծանոթագրության հատկությունները հարմարեցնելու համար՝ ըստ ձեր պահանջների, բոլոր աջակցվող փաստաթղթերի ձևաչափերում:
 
-      Java API-ի համար GroupDocs.Annotation-ի հետ աշխատելը շատ պարզ է և բաղկացած է ընդամենը մի քանի հիմնական քայլերից: Սկզբում դուք պետք է կարգավորեք լիցենզիա, այնուհետև ընտրեք այն ֆայլը, որի հետ ցանկանում եք աշխատել, այնուհետև ինչ-որ կերպ շահարկել փաստաթղթերի ծանոթագրությունները (ջնջել/խմբագրել/արտահանել/ջնջել) և պահպանել արդյունքը: Լրացուցիչ տեղեկությունների համար տես ապրանքի [documentation](https://docs.groupdocs.com/annotation/java/getting-started/) կամ մեր [օրինակներ](https://github.com/groupdocs-annotation/GroupDocs.Annotation -համար-Java) հավաքածու.
+      Java API-ի համար GroupDocs.Annotation-ի հետ աշխատելը շատ պարզ է և բաղկացած է ընդամենը մի քանի հիմնական քայլերից: Սկզբում դուք պետք է կարգավորեք լիցենզիա, այնուհետև ընտրեք այն ֆայլը, որի հետ ցանկանում եք աշխատել, այնուհետև ինչ-որ կերպ շահարկել փաստաթղթերի ծանոթագրությունները (ջնջել/խմբագրել/արտահանել/ջնջել) և պահպանել արդյունքը: Լրացուցիչ տեղեկությունների համար տես ապրանքի [documentation](https://docs.groupdocs.com/annotation/java/getting-started/) կամ մեր [օրինակներ](https://github.com/groupdocs-annotation/GroupDocs.Annotation-for-Java) հավաքածու.
       
       GroupDocs.Annotation-ը պարբերաբար թարմացվում է և աջակցություն է տրամադրում իր հաճախորդներին, դուք միշտ կարող եք մեզ հարցեր տալ կամ ուղարկել ձեր գաղափարները կամ պատմել մեզ ինչ-որ նոր բանի ձեր կարիքների մասին, և մենք սիրով կիրագործենք այն մեր նոր տարբերակներում:
     tabs:
@@ -86,7 +86,7 @@ overview:
       ## TAB TWO ##
       tab_two:
         description: |
-          GroupDocs.Annotation-ը Java-ի համար աջակցում է բոլոր հայտնի [փաստաթղթի ֆայլերի ձևաչափերը] (https://docs.groupdocs.com/annotation/java/supported-document-formats/), ներառյալ՝ Microsoft Office, PDF, պատկերներ և շատ ուրիշներ:
+          GroupDocs.Annotation-ը Java-ի համար աջակցում է բոլոր հայտնի [փաստաթղթի ֆայլերի ձևաչափերը](https://docs.groupdocs.com/annotation/java/supported-document-formats/), ներառյալ՝ Microsoft Office, PDF, պատկերներ և շատ ուրիշներ:
 
         left:
           enable: true

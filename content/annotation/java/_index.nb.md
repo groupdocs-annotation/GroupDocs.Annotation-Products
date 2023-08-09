@@ -61,7 +61,7 @@ overview:
 
       Ved å bruke biblioteket kan du [legge til](/annotation/java/bmp/), [edit](/annotation/java/bmp/), [pakke ut](/annotation/java/bmp/) og [delete](/annotation/java/bmp/) merknader fra dokumenter, roter dokumenter, endre thumbnails-løsning og dette er ikke en komplett liste over alle mulighetene. Den tilbyr også et omfattende sett med dataobjekter for å tilpasse merknadsegenskaper i henhold til dine krav innenfor alle støttede dokumentformater.
 
-      Å jobbe med GroupDocs.Annotation for Java API er veldig enkelt og består av bare noen få grunnleggende trinn. Først må du sette opp en lisens, deretter velge filen du vil jobbe med, deretter manipulere på en eller annen måte med dokumentanmerkninger (slett/rediger/trekk ut/slett) og lagre resultatet. For mer informasjon, se produktets [dokumentasjon](https://docs.groupdocs.com/annotation/java/getting-started/) eller våre [eksempler](https://github.com/groupdocs-annotation/GroupDocs.Annotation -for-Java) sett.
+      Å jobbe med GroupDocs.Annotation for Java API er veldig enkelt og består av bare noen få grunnleggende trinn. Først må du sette opp en lisens, deretter velge filen du vil jobbe med, deretter manipulere på en eller annen måte med dokumentanmerkninger (slett/rediger/trekk ut/slett) og lagre resultatet. For mer informasjon, se produktets [dokumentasjon](https://docs.groupdocs.com/annotation/java/getting-started/) eller våre [eksempler](https://github.com/groupdocs-annotation/GroupDocs.Annotation-for-Java) sett.
       
       GroupDocs.Annotation oppdateres jevnlig og gir støtte til sine kunder, du er alltid velkommen til å stille oss spørsmål eller sende dine ideer eller fortelle oss om dine behov for noe nytt og vi implementerer det gjerne i våre nye versjoner.
     tabs:

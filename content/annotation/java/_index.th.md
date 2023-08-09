@@ -61,7 +61,7 @@ overview:
 
       เมื่อใช้ไลบรารี คุณสามารถ [เพิ่ม](/annotation/java/bmp/), [แก้ไข](/annotation/java/bmp/), [extract](/annotation/java/bmp/) และ [ลบ](/annotation/java/bmp/) คำอธิบายประกอบจากเอกสาร หมุนเอกสาร เปลี่ยนภาพขนาดย่อ และนี่ไม่ใช่รายการที่สมบูรณ์ของความเป็นไปได้ทั้งหมด นอกจากนี้ยังมีชุดอ็อบเจ็กต์ข้อมูลที่ครอบคลุมเพื่อปรับแต่งคุณสมบัติคำอธิบายประกอบตามความต้องการของคุณภายในรูปแบบเอกสารที่รองรับทั้งหมด
 
-      การทำงานกับ GroupDocs.Annotation สำหรับ Java API นั้นง่ายมากและมีขั้นตอนพื้นฐานเพียงไม่กี่ขั้นตอน ในตอนแรก คุณต้องตั้งค่าใบอนุญาต จากนั้นเลือกไฟล์ที่คุณต้องการใช้งาน จากนั้นจัดการด้วยคำอธิบายประกอบเอกสาร (ลบ/แก้ไข/แยก/ลบ) และบันทึกผลลัพธ์ สำหรับข้อมูลเพิ่มเติม โปรดดูผลิตภัณฑ์[เอกสารประกอบ](https://docs.groupdocs.com/annotation/java/getting-started/) หรือ[ตัวอย่าง](https://github.com/groupdocs-annotation/GroupDocs.Annotation) -for-Java) ตั้ง
+      การทำงานกับ GroupDocs.Annotation สำหรับ Java API นั้นง่ายมากและมีขั้นตอนพื้นฐานเพียงไม่กี่ขั้นตอน ในตอนแรก คุณต้องตั้งค่าใบอนุญาต จากนั้นเลือกไฟล์ที่คุณต้องการใช้งาน จากนั้นจัดการด้วยคำอธิบายประกอบเอกสาร (ลบ/แก้ไข/แยก/ลบ) และบันทึกผลลัพธ์ สำหรับข้อมูลเพิ่มเติม โปรดดูผลิตภัณฑ์[เอกสารประกอบ](https://docs.groupdocs.com/annotation/java/getting-started/) หรือ[ตัวอย่าง](https://github.com/groupdocs-annotation/GroupDocs.Annotation-for-Java) ตั้ง
       
       GroupDocs.Annotation ได้รับการอัปเดตเป็นประจำและให้การสนับสนุนแก่ลูกค้า คุณสามารถถามคำถามหรือส่งแนวคิดของคุณหรือแจ้งให้เราทราบเกี่ยวกับความต้องการของคุณสำหรับสิ่งใหม่ ๆ และเรายินดีที่จะนำไปใช้ในเวอร์ชันใหม่ของเรา
     tabs:
@@ -86,7 +86,7 @@ overview:
       ## TAB TWO ##
       tab_two:
         description: |
-          GroupDocs คำอธิบายประกอบสำหรับ Java รองรับ [รูปแบบไฟล์เอกสาร] (https://docs.groupdocs.com/annotation/java/supported-document-formats/) ยอดนิยมทั้งหมด รวมถึง: Microsoft Office, PDF, รูปภาพ และอื่นๆ อีกมากมาย
+          GroupDocs คำอธิบายประกอบสำหรับ Java รองรับ [รูปแบบไฟล์เอกสาร](https://docs.groupdocs.com/annotation/java/supported-document-formats/) ยอดนิยมทั้งหมด รวมถึง: Microsoft Office, PDF, รูปภาพ และอื่นๆ อีกมากมาย
 
         left:
           enable: true

@@ -25,7 +25,7 @@ about:
         GroupDocs.Annotation for Net API は、Mac、Windows、または Ubuntu 上の PDF、Word、その他のドキュメントに注釈を追加できるライブラリです。 [GroupDocs.Annotation for Net](/annotation/net) は、画像やその他のさまざまなドキュメントからの注釈の作成、追加、編集、削除、抽出、エクスポートを包括的にサポートする注釈管理用のネイティブ Net API です。サポートされているドキュメント形式の完全なリストは、この[ページ](https://docs.groupdocs.com/annotation/net/supported-document-formats/)で確認できます。
         このライブラリを使用すると、DOT ドキュメントだけでなく、Word、Excel、PowerPoint、Outlook 電子メール、Visio、Adobe、OpenDocument、OpenOffice、Photoshop、AutoCad など、他の多くのタイプのドキュメントでも作業できます。
         GroupDocs.Annotation for Net API を使用すると、新しいメモの作成と追加、注釈の編集、コメントや注釈の抽出、ドキュメントからの削除が可能になります。このライブラリは、テキスト、ポリライン、エリア、下線、点、透かし、矢印、楕円、テキスト置換、距離、テキスト フィールド、PDF、HTML、Microsoft Word ドキュメント、スプレッドシート、図、プレゼンテーション、図面、画像、その他多くのファイル形式。
-        例 (以下を参照) は、DOT ドキュメントの操作を示しています。この例では、GroupDocs.Annotation を使用する方法の主な手順を確認できます。ライセンスを設定し、操作したいドキュメントを開き、注釈を追加し、要件に従って注釈プロパティを設定し、結果を必要な場所に保存します。また、サポートされている機能の詳細については、github [ページ](https://github.com/groupdocs-annotation/GroupDocs.Annotation-for-.NET) または製品 [ドキュメント](https ://docs.groupdocs.com/annotation/net/getting-started/)。
+        例 (以下を参照) は、DOT ドキュメントの操作を示しています。この例では、GroupDocs.Annotation を使用する方法の主な手順を確認できます。ライセンスを設定し、操作したいドキュメントを開き、注釈を追加し、要件に従って注釈プロパティを設定し、結果を必要な場所に保存します。また、サポートされている機能の詳細については、[github ページ](https://github.com/groupdocs-annotation/GroupDocs.Annotation-for-.NET) または製品 [ドキュメント](https://docs.groupdocs.com/annotation/net/getting-started/)。
 
 ############################# Steps ############################
 howTo_Add:

@@ -25,7 +25,7 @@ about:
         GroupDocs.Annotation for Java API は、Mac、Windows、または Ubuntu 上の PDF、Word、およびその他のドキュメントに注釈を追加できるようにするライブラリです。 [GroupDocs.Annotation for Java](/annotation/java) は、画像やその他のさまざまなドキュメントからの注釈の作成、追加、編集、削除、抽出、エクスポートを包括的にサポートする注釈管理用のネイティブ Java API です。サポートされているドキュメント形式の完全なリストは、この [ページ](https://docs.groupdocs.com/annotation/java/supported-document-formats/) で確認できます。
         このライブラリを使用すると、RTF ドキュメントだけでなく、Word、Excel、PowerPoint、Outlook 電子メール、Visio、Adobe、OpenDocument、OpenOffice、Photoshop、AutoCad など、他の多くのタイプのドキュメントでも作業できます。
         GroupDocs.Annotation for Java API を使用すると、新しいメモの作成と追加、注釈の編集、コメントや注釈の抽出、ドキュメントからの削除を行うことができます。このライブラリは、テキスト、ポリライン、エリア、下線、点、透かし、矢印、楕円、テキスト置換、距離、テキスト フィールド、PDF、HTML、Microsoft Word ドキュメント、スプレッドシート、図、プレゼンテーション、図面、画像、その他多くのファイル形式。
-        例 (以下を参照) は、RTF ドキュメントの操作を示しています。この例では、GroupDocs.Annotation を使用する方法の主な手順を確認できます。ライセンスを設定し、操作したいドキュメントを開き、注釈を追加し、要件に従って注釈プロパティを設定し、結果を必要な場所に保存します。また、サポートされている機能の詳細については、github [ページ](https://github.com/groupdocs-annotation/GroupDocs.Annotation-for-Java) または製品 [ドキュメント](https://docs.groupdocs.com/annotation/java/getting-started/)。
+        例 (以下を参照) は、RTF ドキュメントの操作を示しています。この例では、GroupDocs.Annotation を使用する方法の主な手順を確認できます。ライセンスを設定し、操作したいドキュメントを開き、注釈を追加し、要件に従って注釈プロパティを設定し、結果を必要な場所に保存します。また、サポートされている機能の詳細については、[github ページ](https://github.com/groupdocs-annotation/GroupDocs.Annotation-for-Java) または製品 [ドキュメント](https://docs.groupdocs.com/annotation/java/getting-started/)。
 
 ############################# Steps ############################
 howTo_Add:

@@ -25,7 +25,7 @@ about:
         GroupDocs.Annotation ji bo Java API pirtûkxaneyek e ku dihêle hûn li ser Mac, Windows an Ubuntu şîroveyan li PDF, Word û belgeyên din zêde bikin. [GroupDocs.Annotation for Java](/annotation/java) API-ya Java ya xwecihî ye ji bo birêvebirina annotasyonên bi piştgirîya berfireh ji bo afirandin, zêdekirin, sererastkirin, jêbirin, derxistin û hinartina annotationan ji wêne û belgeyên din ên cihêreng. Navnîşa tevahî ya formên belgeyên piştgirî yên ku hûn dikarin li ser vê [rûpelê] bibînin (https://docs.groupdocs.com/annotation/java/supported-document-formats/).
         Ev pirtûkxane dihêle hûn ne tenê bi belgeya GIF re lê her weha bi gelek celeb belgeyên din ên wekî Word, Excel, PowerPoint, e-nameyên Outlook, Visio, Adobe, OpenDocument, OpenOffice, Photoshop, AutoCad û gelekên din re bixebitin.
         GroupDocs.Annotation ji bo Java API destûrê dide te ku hûn notên nû biafirînin û lê zêde bikin, şîroveyan biguherînin, şîroveyan, şîroveyan derxînin û wan ji belgeyan derxin. Pirtûkxane 13 celebên annotasyonê yên cihêreng piştgirî dike, di nav de Nivîsar, Polyline, Herêm, Binxêz, Xal, Nîşan, Tîrek, Ellipse, Veguheztina Nivîsan, Dûrbûn, Qada Nivîsarê, Veguhastina Çavkaniyê di PDF, HTML, belgeyên Microsoft Word de, pelgeyên berbelav, diagram, pêşkêşî, xêzkirin, wêne û gelek formatên pelan ên din.
-        Nimûne (ji kerema xwe li jêr binêre) nîşan dide ku bi belgeya GIF re dixebite, di vê nimûneyê de hûn dikarin gavên sereke yên çawa bi GroupDocs re bixebitin bibînin.Annotation: Destûrnameyek saz bikin, belgeyek ku hûn dixwazin pê re bixebitin vekin, vekin annotation, lê zêdekirina tiştên daneyê da ku taybetmendiyên annotasyonê li gorî hewcedariyên we bicîh bikin û encamê li cîhê hewce hilînin. Di heman demê de hûn dikarin li ser taybetmendiyên piştgirîkirî yên li ser github me [rûpel](https://github.com/groupdocs-annotation/GroupDocs.Annotation-for-Java), an jî di hilberê me de [belgekirin] (https://docs.groupdocs.com/annotation/java/getting-started/).
+        Nimûne (ji kerema xwe li jêr binêre) nîşan dide ku bi belgeya GIF re dixebite, di vê nimûneyê de hûn dikarin gavên sereke yên çawa bi GroupDocs re bixebitin bibînin.Annotation: Destûrnameyek saz bikin, belgeyek ku hûn dixwazin pê re bixebitin vekin, vekin annotation, lê zêdekirina tiştên daneyê da ku taybetmendiyên annotasyonê li gorî hewcedariyên we bicîh bikin û encamê li cîhê hewce hilînin. Di heman demê de hûn dikarin li ser taybetmendiyên piştgirîkirî yên li ser github me [rûpel](https://github.com/groupdocs-annotation/GroupDocs.Annotation-for-Java), an jî di hilberê me de [belgekirin](https://docs.groupdocs.com/annotation/java/getting-started/).
 
 ############################# Steps ############################
 howTo_Add:
@@ -44,7 +44,7 @@ steps_Add:
         *   Pergalên Xebatê: Microsoft Windows, Linux, MacOS
         *   Jîngeha Pêşveçûnê: NetBeans, Intellij IDEA, Eclipse hwd
         *   Java Runtime Jîngeh: Java 7 (1.7) û jor
-        *   Guhertoya herî dawî ya GroupDocs.Annotation ji bo Java-yê ji [GroupDocs Artifact Repository] (https://repository.groupdocs.com/webapp/#/artifacts/browse/tree/General/repo/com/groupdocs/groupdocs-annotation) bistînin
+        *   Guhertoya herî dawî ya GroupDocs.Annotation ji bo Java-yê ji [GroupDocs Artifact Repository](https://repository.groupdocs.com/webapp/#/artifacts/browse/tree/General/repo/com/groupdocs/groupdocs-annotation) bistînin
 
 ############################# Preview ############################
 preview_Add:

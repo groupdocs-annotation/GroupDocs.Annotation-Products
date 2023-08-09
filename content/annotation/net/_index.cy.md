@@ -86,7 +86,7 @@ overview:
       ## TAB TWO ##
       tab_two:
         description: |
-          Mae GroupDocs.Annotation for Net yn cefnogi'r holl [fformatau ffeil dogfen] poblogaidd (https://docs.groupdocs.com/annotation/Net/supported-document-formats/) gan gynnwys: Microsoft Office, PDF, delweddau a llawer o rai eraill.
+          Mae GroupDocs.Annotation for Net yn cefnogi'r holl [fformatau ffeil dogfen poblogaidd](https://docs.groupdocs.com/annotation/Net/supported-document-formats/) gan gynnwys: Microsoft Office, PDF, delweddau a llawer o rai eraill.
 
         left:
           enable: true

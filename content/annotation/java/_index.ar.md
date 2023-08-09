@@ -61,7 +61,7 @@ overview:
 
       باستخدام المكتبة ، يمكنك [add] (/annotation/java/bmp/) و [تحرير] (/annotation/java/bmp/) و [extract] (/annotation/java/bmp/) و [حذف] (/annotation/java/bmp/) التعليقات التوضيحية من المستندات وتدوير المستندات وتغيير حل الصور المصغرة وهذه ليست قائمة كاملة بجميع الاحتمالات. كما يوفر مجموعة شاملة من كائنات البيانات لتخصيص خصائص التعليقات التوضيحية وفقًا لمتطلباتك في جميع تنسيقات المستندات المدعومة.
 
-      العمل مع GroupDocs.Annotation for Java API بسيط للغاية ويتكون من بضع خطوات أساسية. في البداية ، تحتاج إلى إعداد ترخيص ، ثم تحديد الملف الذي تريد العمل معه ، ثم التلاعب بطريقة ما مع التعليقات التوضيحية للمستند (حذف / تحرير / استخراج / حذف) وحفظ النتيجة. لمزيد من المعلومات ، يرجى الاطلاع على [وثائق] المنتج (https://docs.groupdocs.com/annotation/java/getting-started/) أو [أمثلة] (https://github.com/groupdocs-annotation/GroupDocs.Annotation -لجافا) مجموعة.
+      العمل مع GroupDocs.Annotation for Java API بسيط للغاية ويتكون من بضع خطوات أساسية. في البداية ، تحتاج إلى إعداد ترخيص ، ثم تحديد الملف الذي تريد العمل معه ، ثم التلاعب بطريقة ما مع التعليقات التوضيحية للمستند (حذف / تحرير / استخراج / حذف) وحفظ النتيجة. لمزيد من المعلومات ، يرجى الاطلاع على [وثائق] المنتج (https://docs.groupdocs.com/annotation/java/getting-started/) أو [أمثلة](https://github.com/groupdocs-annotation/GroupDocs.Annotation-for-Java) مجموعة.
       
       GroupDocs.Annotation يتم تحديثها بانتظام وتوفر الدعم لعملائها ، فنحن نرحب دائمًا بطرح أسئلة علينا أو إرسال أفكارك أو إخبارنا باحتياجاتك لشيء جديد وسنقوم بتنفيذها بكل سرور في إصداراتنا الجديدة.
     tabs:
@@ -86,7 +86,7 @@ overview:
       ## TAB TWO ##
       tab_two:
         description: |
-          GroupDocs.Annotation for Java يدعم جميع [تنسيقات ملفات المستندات] الشائعة (https://docs.groupdocs.com/annotation/java/supported-document-formats/) بما في ذلك: Microsoft Office و PDF والصور وغيرها الكثير.
+          GroupDocs.Annotation for Java يدعم جميع تنسيقات ملفات المستندات] الشائعة](https://docs.groupdocs.com/annotation/java/supported-document-formats/) بما في ذلك: Microsoft Office و PDF والصور وغيرها الكثير.
 
         left:
           enable: true

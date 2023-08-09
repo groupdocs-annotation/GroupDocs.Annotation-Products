@@ -86,7 +86,7 @@ overview:
       ## TAB TWO ##
       tab_two:
         description: |
-          नेट के लिए GroupDocs.Annotation सभी लोकप्रिय [दस्तावेज़ फ़ाइल स्वरूपों] (https://docs.groupdocs.com/annotation/Net/supported-document-formats/) का समर्थन करता है, जिनमें शामिल हैं: Microsoft Office, PDF, छवियाँ और कई अन्य।
+          नेट के लिए GroupDocs.Annotation सभी लोकप्रिय [दस्तावेज़ फ़ाइल स्वरूपों](https://docs.groupdocs.com/annotation/Net/supported-document-formats/) का समर्थन करता है, जिनमें शामिल हैं: Microsoft Office, PDF, छवियाँ और कई अन्य।
 
         left:
           enable: true

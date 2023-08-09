@@ -86,7 +86,7 @@ overview:
       ## TAB TWO ##
       tab_two:
         description: |
-          GroupDocs.Annotation برای Net از همه [فرمت‌های فایل سند] (https://docs.groupdocs.com/annotation/Net/supported-document-formats/) از جمله: Microsoft Office، PDF، تصاویر و بسیاری موارد دیگر پشتیبانی می‌کند.
+          GroupDocs.Annotation برای Net از همه [فرمت‌های فایل سند]](https://docs.groupdocs.com/annotation/Net/supported-document-formats/) از جمله: Microsoft Office، PDF، تصاویر و بسیاری موارد دیگر پشتیبانی می‌کند.
 
         left:
           enable: true

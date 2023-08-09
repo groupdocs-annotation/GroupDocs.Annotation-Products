@@ -86,7 +86,7 @@ overview:
       ## TAB TWO ##
       tab_two:
         description: |
-          GroupDocs.Annotation per a Net admet tots els [formats de fitxer de document] populars (https://docs.groupdocs.com/annotation/Net/supported-document-formats/), inclosos: Microsoft Office, PDF, imatges i molts altres.
+          GroupDocs.Annotation per a Net admet tots els [formats de fitxer de document populars](https://docs.groupdocs.com/annotation/Net/supported-document-formats/), inclosos: Microsoft Office, PDF, imatges i molts altres.
 
         left:
           enable: true
@@ -177,7 +177,7 @@ features:
       # feature loop
       - icon: "fas fa-bolt"
         link: "https://docs.groupdocs.com/annotation/net/evaluation-limitations-and-licensing-of-groupdocs-annotation/"
-        content: Llicència mesurada - facturació controlada mitjançant el pagament segons l'ús de l'API
+        content: Llicència mesurada facturació controlada mitjançant el pagament segons l'ús de l'API
       
       # feature loop
       - icon: "fas fa-code"
@@ -202,7 +202,7 @@ features:
       # feature loop
       - icon: "fas fa-border-all"
         link: "https://docs.groupdocs.com/annotation/net/generate-document-pages-preview/"
-        content: Anoteu fitxers PDF amb precisió - obteniu representació d'imatge de visualitzacions prèvies de pàgines de documents PDF i de memòria cau
+        content: Anoteu fitxers PDF amb precisió obteniu representació d'imatge de visualitzacions prèvies de pàgines de documents PDF i de memòria cau
 
       # feature loop
       - icon: "fas fa-wrench"

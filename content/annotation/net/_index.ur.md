@@ -86,7 +86,7 @@ overview:
       ## TAB TWO ##
       tab_two:
         description: |
-          GroupDocs.Annotation for Net تمام مقبول [دستاویزی فائل فارمیٹس](https://docs.groupdocs.com/annotation/Net/supported-document-formats/) کو سپورٹ کرتا ہے بشمول: Microsoft Office، PDF، تصاویر اور بہت سے دوسرے۔
+          GroupDocs.Annotation for Net [تمام مقبول دستاویزی فائل فارمیٹس](https://docs.groupdocs.com/annotation/Net/supported-document-formats/) کو سپورٹ کرتا ہے بشمول: Microsoft Office، PDF، تصاویر اور بہت سے دوسرے۔
 
         left:
           enable: true

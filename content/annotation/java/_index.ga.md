@@ -61,7 +61,7 @@ overview:
 
       Trí úsáid a bhaint as an leabharlann, is féidir leat [cuir](/annotation/java/bmp/), [eagar](/annotation/java/bmp/), [sliocht](/annotation/java/bmp/) agus [scrios](/annotation/java/bmp/) nótaí ó dhoiciméid, rothlaigh doiciméid, athraigh réiteach mionsamhlacha agus ní liosta iomlán é seo de na féidearthachtaí go léir. Tairgeann sé freisin sraith chuimsitheach réad sonraí chun airíonna anótála a shaincheapadh de réir do riachtanais laistigh de gach formáid doiciméad tacaithe.
 
-      Tá oibriú leis an GroupDocs.Annotation for Java API an-simplí agus níl ann ach roinnt céimeanna bunúsacha. Ar dtús ní mór duit ceadúnas a shocrú, ansin roghnaigh an comhad a bhfuil tú ag iarraidh oibriú leis, ansin ionramháil ar bhealach éigin le nótaí doiciméad (scrios / cuir in eagar / asbhaint / scrios) agus sábháil an toradh. Le haghaidh tuilleadh faisnéise féach le do thoil ar an táirge [doiciméadú](https://docs.groupdocs.com/annotation/java/getting-started/) nó ar ár [samplaí](https://github.com/groupdocs-annotation/GroupDocs.Annotation -do-Java) leagtha.
+      Tá oibriú leis an GroupDocs.Annotation for Java API an-simplí agus níl ann ach roinnt céimeanna bunúsacha. Ar dtús ní mór duit ceadúnas a shocrú, ansin roghnaigh an comhad a bhfuil tú ag iarraidh oibriú leis, ansin ionramháil ar bhealach éigin le nótaí doiciméad (scrios / cuir in eagar / asbhaint / scrios) agus sábháil an toradh. Le haghaidh tuilleadh faisnéise féach le do thoil ar an táirge [doiciméadú](https://docs.groupdocs.com/annotation/java/getting-started/) nó ar ár [samplaí](https://github.com/groupdocs-annotation/GroupDocs.Annotation-for-Java) leagtha.
       
       Déantar GroupDocs.Annotation a nuashonrú go rialta agus cuireann sé tacaíocht ar fáil dá chustaiméirí, tá fáilte romhat i gcónaí ceisteanna a chur chugainn nó do chuid smaointe a sheoladh nó a insint dúinn faoi do riachtanais le haghaidh rud éigin nua agus cuirfimid i bhfeidhm go sásta é inár leaganacha nua.
     tabs:
@@ -86,7 +86,7 @@ overview:
       ## TAB TWO ##
       tab_two:
         description: |
-          Tacaíonn GroupDocs.Annotation do Java le gach [formáid comhaid doiciméad] a bhfuil tóir orthu (https://docs.groupdocs.com/annotation/java/supported-document-formats/) lena n-áirítear: Microsoft Office, PDF, íomhánna agus go leor eile.
+          Tacaíonn GroupDocs.Annotation do Java le gach [formáid comhaid doiciméad a bhfuil tóir orthu](https://docs.groupdocs.com/annotation/java/supported-document-formats/) lena n-áirítear: Microsoft Office, PDF, íomhánna agus go leor eile.
 
         left:
           enable: true

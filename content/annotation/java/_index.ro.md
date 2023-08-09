@@ -61,7 +61,7 @@ overview:
 
       Folosind biblioteca, puteți să [adăugați](/annotation/java/bmp/), [editare](/annotation/java/bmp/), [extract](/annotation/java/bmp/) și [șterge](/annotation/java/bmp/) adnotări din documente, rotiți documente, schimbați soluția de miniaturi și aceasta nu este o listă completă a tuturor posibilităților. De asemenea, oferă un set cuprinzător de obiecte de date pentru a personaliza proprietățile adnotărilor conform cerințelor dvs. în toate formatele de document acceptate.
 
-      Lucrul cu API-ul GroupDocs.Annotation pentru Java este foarte simplu și constă doar din câțiva pași de bază. La început trebuie să configurați o licență, apoi să selectați fișierul cu care doriți să lucrați, apoi să manipulați cumva cu adnotările documentului (șterge/editați/extractați/ștergeți) și salvați rezultatul. Pentru mai multe informații, consultați produsul [documentația](https://docs.groupdocs.com/annotation/java/getting-started/) sau [exemplele](https://github.com/groupdocs-annotation/GroupDocs.Annotation) -pentru-Java) set.
+      Lucrul cu API-ul GroupDocs.Annotation pentru Java este foarte simplu și constă doar din câțiva pași de bază. La început trebuie să configurați o licență, apoi să selectați fișierul cu care doriți să lucrați, apoi să manipulați cumva cu adnotările documentului (șterge/editați/extractați/ștergeți) și salvați rezultatul. Pentru mai multe informații, consultați produsul [documentația](https://docs.groupdocs.com/annotation/java/getting-started/) sau [exemplele](https://github.com/groupdocs-annotation/GroupDocs.Annotation-for-Java) set.
       
       GroupDocs.Annotation este actualizat în mod regulat și oferă asistență clienților săi, sunteți întotdeauna bineveniți să ne puneți întrebări sau să ne trimiteți ideile sau să ne spuneți despre nevoile dvs. pentru ceva nou și îl vom implementa cu plăcere în noile noastre versiuni.
     tabs:
@@ -86,7 +86,7 @@ overview:
       ## TAB TWO ##
       tab_two:
         description: |
-          GroupDocs.Annotation pentru Java acceptă toate [formatele de fișiere de documente] populare (https://docs.groupdocs.com/annotation/java/supported-document-formats/), inclusiv: Microsoft Office, PDF, imagini și multe altele.
+          GroupDocs.Annotation pentru Java acceptă toate [formatele de fișiere de documente populare](https://docs.groupdocs.com/annotation/java/supported-document-formats/), inclusiv: Microsoft Office, PDF, imagini și multe altele.
 
         left:
           enable: true

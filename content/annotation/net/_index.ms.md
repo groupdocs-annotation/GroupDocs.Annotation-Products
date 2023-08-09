@@ -86,7 +86,7 @@ overview:
       ## TAB TWO ##
       tab_two:
         description: |
-          GroupDocs.Annotation for Net menyokong semua [format fail dokumen] (https://docs.groupdocs.com/annotation/Net/supported-document-formats/) termasuk: Microsoft Office, PDF, imej dan banyak lagi.
+          GroupDocs.Annotation for Net menyokong semua [format fail dokumen](https://docs.groupdocs.com/annotation/Net/supported-document-formats/) termasuk: Microsoft Office, PDF, imej dan banyak lagi.
 
         left:
           enable: true

@@ -86,7 +86,7 @@ overview:
       ## TAB TWO ##
       tab_two:
         description: |
-          GroupDocs.Annotation ji bo Net hemî [formatên pelgeya belgeyê] (https://docs.groupdocs.com/annotation/Net/supported-document-formats/) yên navdar piştgirî dike, di nav de: Microsoft Office, PDF, wêne û gelekên din.
+          GroupDocs.Annotation ji bo Net hemî [formatên pelgeya belgeyê](https://docs.groupdocs.com/annotation/Net/supported-document-formats/) yên navdar piştgirî dike, di nav de: Microsoft Office, PDF, wêne û gelekên din.
 
         left:
           enable: true

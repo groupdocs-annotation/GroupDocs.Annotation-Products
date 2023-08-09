@@ -61,7 +61,7 @@ overview:
 
       Pomocí knihovny můžete [add](/annotation/java/bmp/), [edit](/annotation/java/bmp/), [extrahovat](/annotation/java/bmp/) a [delete](/annotation/java/bmp/) anotace z dokumentů, otáčení dokumentů, řešení změn náhledů a to není úplný seznam všech možností. Nabízí také komplexní sadu datových objektů pro přizpůsobení vlastností anotací podle vašich požadavků ve všech podporovaných formátech dokumentů.
 
-      Práce s GroupDocs.Annotation for Java API je velmi jednoduchá a skládá se z několika základních kroků. Nejprve je potřeba nastavit licenci, pak vybrat soubor, se kterým chcete pracovat, pak nějak manipulovat s anotacemi dokumentu (smazat/upravit/rozbalit/smazat) a výsledek uložit. Další informace naleznete v [dokumentaci](https://docs.groupdocs.com/annotation/java/getting-started/) nebo v našich [příkladech](https://github.com/groupdocs-annotation/GroupDocs.Annotation -pro-Java) nastavit.
+      Práce s GroupDocs.Annotation for Java API je velmi jednoduchá a skládá se z několika základních kroků. Nejprve je potřeba nastavit licenci, pak vybrat soubor, se kterým chcete pracovat, pak nějak manipulovat s anotacemi dokumentu (smazat/upravit/rozbalit/smazat) a výsledek uložit. Další informace naleznete v [dokumentaci](https://docs.groupdocs.com/annotation/java/getting-started/) nebo v našich [příkladech](https://github.com/groupdocs-annotation/GroupDocs.Annotation-for-Java) nastavit.
       
       GroupDocs.Annotation je pravidelně aktualizována a poskytuje podporu svým zákazníkům, vždy se nás můžete na něco zeptat nebo poslat své nápady nebo nám sdělit své potřeby na něco nového a my to rádi implementujeme do našich nových verzí.
     tabs:

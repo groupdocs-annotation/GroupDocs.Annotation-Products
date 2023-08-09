@@ -86,7 +86,7 @@ overview:
       ## TAB TWO ##
       tab_two:
         description: |
-          GroupDocs.Annotation for Net suporta todos os [formatos de arquivo de documento] populares (https://docs.groupdocs.com/annotation/Net/supported-document-formats/), incluindo: Microsoft Office, PDF, imagens e muitos outros.
+          GroupDocs.Annotation for Net suporta todos os [formatos de arquivo de documento populares](https://docs.groupdocs.com/annotation/Net/supported-document-formats/), incluindo: Microsoft Office, PDF, imagens e muitos outros.
 
         left:
           enable: true

@@ -86,7 +86,7 @@ overview:
       ## TAB TWO ##
       tab_two:
         description: |
-          GroupDocs.Annotation สำหรับ Net รองรับ [รูปแบบไฟล์เอกสาร] (https://docs.groupdocs.com/annotation/Net/supported-document-formats/) ยอดนิยมทั้งหมด รวมถึง: Microsoft Office, PDF, รูปภาพ และอื่นๆ อีกมากมาย
+          GroupDocs.Annotation สำหรับ Net รองรับ [รูปแบบไฟล์เอกสาร](https://docs.groupdocs.com/annotation/Net/supported-document-formats/) ยอดนิยมทั้งหมด รวมถึง: Microsoft Office, PDF, รูปภาพ และอื่นๆ อีกมากมาย
 
         left:
           enable: true

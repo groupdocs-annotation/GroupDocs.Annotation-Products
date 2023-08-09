@@ -61,7 +61,7 @@ overview:
 
       با استفاده از کتابخانه، می توانید [add](/annotation/java/bmp/)، [edit](/annotation/java/bmp/)، [extract](/annotation/java/bmp/) و [حذف](/annotation/java/bmp/) حاشیه نویسی از اسناد، چرخش اسناد، تغییر راه حل ریز عکسها و این لیست کاملی از همه احتمالات نیست. همچنین مجموعه ای جامع از اشیاء داده را برای سفارشی کردن ویژگی های حاشیه نویسی مطابق با نیاز شما در تمام قالب های سند پشتیبانی شده ارائه می دهد.
 
-      کار با GroupDocs.Annotation برای Java API بسیار ساده است و فقط از چند مرحله اساسی تشکیل شده است. ابتدا باید یک مجوز راه اندازی کنید، سپس فایلی را که می خواهید با آن کار کنید انتخاب کنید، سپس به نحوی با حاشیه نویسی سند دستکاری کنید (حذف/ویرایش/استخراج/حذف) و نتیجه را ذخیره کنید. برای اطلاعات بیشتر لطفاً به محصول [documentation] (https://docs.groupdocs.com/annotation/java/getting-started/) یا [نمونه‌های] ما (https://github.com/groupdocs-annotation/GroupDocs.Annotation) مراجعه کنید. -برای-جاوا) مجموعه.
+      کار با GroupDocs.Annotation برای Java API بسیار ساده است و فقط از چند مرحله اساسی تشکیل شده است. ابتدا باید یک مجوز راه اندازی کنید، سپس فایلی را که می خواهید با آن کار کنید انتخاب کنید، سپس به نحوی با حاشیه نویسی سند دستکاری کنید (حذف/ویرایش/استخراج/حذف) و نتیجه را ذخیره کنید. برای اطلاعات بیشتر لطفاً به محصول [documentation](https://docs.groupdocs.com/annotation/java/getting-started/) یا [نمونه‌های] ما (https://github.com/groupdocs-annotation/GroupDocs.Annotation-for-Java) مجموعه.
       
       GroupDocs.Annotation به طور مرتب به روز می شود و برای مشتریان خود پشتیبانی می کند، همیشه می توانید از ما سؤال بپرسید یا ایده های خود را ارسال کنید یا در مورد نیازهای خود برای چیز جدیدی به ما بگویید و ما با کمال میل آن را در نسخه های جدید خود پیاده سازی خواهیم کرد.
     tabs:
@@ -86,7 +86,7 @@ overview:
       ## TAB TWO ##
       tab_two:
         description: |
-          GroupDocs.Annotation برای جاوا از همه [فرمت های فایل سند] محبوب (https://docs.groupdocs.com/annotation/java/supported-document-formats/) از جمله: Microsoft Office، PDF، تصاویر و بسیاری دیگر پشتیبانی می کند.
+          GroupDocs.Annotation برای جاوا از همه فرمت های فایل سند] محبوب](https://docs.groupdocs.com/annotation/java/supported-document-formats/) از جمله: Microsoft Office، PDF، تصاویر و بسیاری دیگر پشتیبانی می کند.
 
         left:
           enable: true

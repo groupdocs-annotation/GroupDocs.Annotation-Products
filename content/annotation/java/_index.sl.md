@@ -61,7 +61,7 @@ overview:
 
       Z uporabo knjižnice lahko [dodate](/annotation/java/bmp/), [uredite](/annotation/java/bmp/), [izvlečete](/annotation/java/bmp/) in [izbrišete](/annotation/java/bmp/) opombe iz dokumentov, zasukanje dokumentov, rešitev za spreminjanje sličic in to ni popoln seznam vseh možnosti. Ponuja tudi obsežen nabor podatkovnih objektov za prilagoditev lastnosti opomb glede na vaše zahteve znotraj vseh podprtih formatov dokumentov.
 
-      Delo z API-jem GroupDocs.Annotation for Java je zelo preprosto in je sestavljeno iz samo nekaj osnovnih korakov. Najprej morate nastaviti licenco, nato izbrati datoteko, s katero želite delati, nato pa nekako manipulirati z opombami dokumenta (brisanje/urejanje/ekstrahiranje/brisanje) in rezultat shraniti. Za več informacij glejte [dokumentacijo] izdelka (https://docs.groupdocs.com/annotation/java/getting-started/) ali naše [primere] (https://github.com/groupdocs-annotation/GroupDocs.Annotation -za-Javo).
+      Delo z API-jem GroupDocs.Annotation for Java je zelo preprosto in je sestavljeno iz samo nekaj osnovnih korakov. Najprej morate nastaviti licenco, nato izbrati datoteko, s katero želite delati, nato pa nekako manipulirati z opombami dokumenta (brisanje/urejanje/ekstrahiranje/brisanje) in rezultat shraniti. Za več informacij glejte [dokumentacijo izdelka](https://docs.groupdocs.com/annotation/java/getting-started/) ali naše [primere](https://github.com/groupdocs-annotation/GroupDocs.Annotation-for-Java).
       
       GroupDocs.Annotation se redno posodablja in nudi podporo svojim strankam, vedno ste dobrodošli, da nam postavite vprašanja ali pošljete svoje ideje ali nam poveste o svojih potrebah po nečem novem in z veseljem bomo to implementirali v naše nove različice.
     tabs:

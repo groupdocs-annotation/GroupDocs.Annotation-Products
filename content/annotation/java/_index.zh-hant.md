@@ -61,7 +61,7 @@ overview:
 
       使用庫，您可以[添加]（/annotation/java/bmp/），[編輯]（/annotation/java/bmp/），[提取]（/annotation/java/bmp/）和[刪除]（/annotation/java/bmp/) 來自文檔的註釋、旋轉文檔、更改縮略圖解決方案，這並不是所有可能性的完整列表。它還提供了一套全面的數據對象，可根據您的要求在所有支持的文檔格式中自定義註釋屬性。
 
-      使用 GroupDocs.Annotation for Java API 非常簡單，僅包含幾個基本步驟。首先，您需要設置許可證，然後選擇要使用的文件，然後使用文檔註釋進行某種操作（刪除/編輯/提取/刪除）並保存結果。有關更多信息，請參閱產品[文檔](https://docs.groupdocs.com/annotation/java/getting-started/) 或我們的[示例](https://github.com/groupdocs-annotation/GroupDocs.Annotation -for-Java) 設置。
+      使用 GroupDocs.Annotation for Java API 非常簡單，僅包含幾個基本步驟。首先，您需要設置許可證，然後選擇要使用的文件，然後使用文檔註釋進行某種操作（刪除/編輯/提取/刪除）並保存結果。有關更多信息，請參閱產品[文檔](https://docs.groupdocs.com/annotation/java/getting-started/) 或我們的[示例](https://github.com/groupdocs-annotation/GroupDocs.Annotation-for-Java) 設置。
       
       GroupDocs.Annotation 定期更新並為其客戶提供支持，隨時歡迎您向我們提問或發送您的想法或告訴我們您對新內容的需求，我們很樂意在新版本中實現它。
     tabs:

@@ -86,7 +86,7 @@ overview:
       ## TAB TWO ##
       tab_two:
         description: |
-          GroupDocs.Annotation for Net תומך בכל [פורמטי קובץ המסמכים] הפופולריים (https://docs.groupdocs.com/annotation/Net/supported-document-formats/) כולל: Microsoft Office, PDF, תמונות ועוד רבים אחרים.
+          GroupDocs.Annotation for Net תומך בכל פורמטי קובץ המסמכים] הפופולריים](https://docs.groupdocs.com/annotation/Net/supported-document-formats/) כולל: Microsoft Office, PDF, תמונות ועוד רבים אחרים.
 
         left:
           enable: true

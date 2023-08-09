@@ -25,7 +25,7 @@ about:
         Is leabharlann é GroupDocs.Annotation for Net API a ligeann duit nótaí a chur le PDF, Word agus doiciméid eile ar Mac, Windows nó Ubuntu. Is éard atá i [GroupDocs.Annotation for Net](/annotation/net) ná Net API dúchais chun nótaí a bhainistiú le tacaíocht chuimsitheach chun nótaí a chruthú, a chur leis, a chur in eagar, a scriosadh, a bhaint agus a easpórtáil ó íomhánna agus doiciméid éagsúla eile. An liosta iomlán de na formáidí doiciméad tacaithe a d’fhéadfá a fheiceáil ar an [leathanach] seo(https://docs.groupdocs.com/annotation/net/supported-document-formats/).
         Ligeann an leabharlann seo duit oibriú ní hamháin le doiciméad TIFF ach freisin le go leor cineálacha doiciméad eile ar nós Word, Excel, PowerPoint, ríomhphoist Outlook, Visio, Adobe, OpenDocument, OpenOffice, Photoshop, AutoCad agus go leor eile.
         Ligeann an GroupDocs.Annotation for Net API duit nótaí nua a chruthú agus a chur leis, nótaí a chur in eagar, nótaí tráchta a bhaint as, agus iad a bhaint de dhoiciméid. Tacaíonn an leabharlann le 13 chineál nótaí éagsúla, lena n-áirítear Téacs, Polalíne, Achar, Líne Folaigh, Pointe, Comhartha Uisce, Arrow, Éilips, Athsholáthar Téacs, Fad, Réimse Téacs, Athchóiriú Acmhainní i bhformáid PDF, HTML, doiciméid Microsoft Word, scarbhileoga, léaráidí, cur i láthair, líníochtaí, íomhánna agus go leor formáidí comhaid eile.
-        Léiríonn an sampla (féach thíos) oibriú le doiciméad TIFF, sa sampla seo d'fhéadfá na príomhchéimeanna a fheiceáil maidir le conas oibriú le GroupDocs.Annotation: Socraigh ceadúnas, oscail doiciméad a bhfuil tú ag iarraidh oibriú leis, cruthaigh doiciméad anótáil, rudaí sonraí a chur leis chun airíonna anótála a shocrú de réir do riachtanas agus an toradh a shábháil chuig an áit atá ag teastáil. Chomh maith leis sin d'fhéadfá breathnú níos mionsonraithe a bheith agat ar na gnéithe tacaithe ar ár leathanach github [] (https://github.com/groupdocs-annotation/GroupDocs.Annotation-for-.NET), nó inár dtáirge [doiciméadúchán] (https ://docs.groupdocs.com/annotation/net/getting-started/).
+        Léiríonn an sampla (féach thíos) oibriú le doiciméad TIFF, sa sampla seo d'fhéadfá na príomhchéimeanna a fheiceáil maidir le conas oibriú le GroupDocs.Annotation: Socraigh ceadúnas, oscail doiciméad a bhfuil tú ag iarraidh oibriú leis, cruthaigh doiciméad anótáil, rudaí sonraí a chur leis chun airíonna anótála a shocrú de réir do riachtanas agus an toradh a shábháil chuig an áit atá ag teastáil. Chomh maith leis sin d'fhéadfá breathnú níos mionsonraithe a bheith agat ar na gnéithe tacaithe ar ár leathanach [github](https://github.com/groupdocs-annotation/GroupDocs.Annotation-for-.NET), nó inár dtáirge [doiciméadúchán](https://docs.groupdocs.com/annotation/net/getting-started/).
 
 ############################# Steps ############################
 howTo_Add:
@@ -44,7 +44,7 @@ steps_Add:
         *   Córais Oibriúcháin: Microsoft Windows, Linux, MacOS
         *   Timpeallachtaí Forbartha: Visual Studio, Xamarin, MonoDevelop
         *   Creataí: .NET Framework, .NET Standard, .NET Core, Mona
-        *   Íoslódáil an leagan is déanaí de GroupDocs.Annotation le haghaidh .NET ó [NuGet] (https://www.nuget.org/packages/groupdocs.annotation)
+        *   Íoslódáil an leagan is déanaí de GroupDocs.Annotation le haghaidh .NET ó [NuGet](https://www.nuget.org/packages/groupdocs.annotation)
 
 ############################# Preview ############################
 preview_Add:

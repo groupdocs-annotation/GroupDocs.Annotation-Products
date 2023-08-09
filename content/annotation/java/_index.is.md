@@ -61,7 +61,7 @@ overview:
 
       Með því að nota bókasafn geturðu [bætt við](/annotation/java/bmp/), [breytt](/annotation/java/bmp/), [útdráttur](/annotation/java/bmp/) og [eyða](/annotation/java/bmp/) athugasemdir úr skjölum, snúa skjölum, breyta smámyndalausn og þetta er ekki tæmandi listi yfir alla möguleika. Það býður einnig upp á alhliða sett af gagnahlutum til að sérsníða skýringareiginleika í samræmi við kröfur þínar innan allra studdra skjalasniða.
 
-      Vinna með GroupDocs.Annotation for Java API er mjög einfalt og samanstendur af örfáum grunnskrefum. Fyrst þarftu að setja upp leyfi, velja síðan skrána sem þú vilt vinna með, vinna síðan einhvern veginn með skjalaskýringum (eyða/breyta/taka út/eyða) og vista niðurstöðuna. Fyrir frekari upplýsingar vinsamlegast skoðaðu vöru [skjöl](https://docs.groupdocs.com/annotation/java/getting-started/) eða [dæmi] okkar(https://github.com/groupdocs-annotation/GroupDocs.Annotation -fyrir-Java) sett.
+      Vinna með GroupDocs.Annotation for Java API er mjög einfalt og samanstendur af örfáum grunnskrefum. Fyrst þarftu að setja upp leyfi, velja síðan skrána sem þú vilt vinna með, vinna síðan einhvern veginn með skjalaskýringum (eyða/breyta/taka út/eyða) og vista niðurstöðuna. Fyrir frekari upplýsingar vinsamlegast skoðaðu vöru [skjöl](https://docs.groupdocs.com/annotation/java/getting-started/) eða [dæmi] okkar(https://github.com/groupdocs-annotation/GroupDocs.Annotation-for-Java) sett.
       
       GroupDocs.Annotation er uppfært reglulega og veitir viðskiptavinum sínum stuðning, þér er alltaf velkomið að spyrja okkur spurninga eða senda hugmyndir þínar eða segja okkur frá þörfum þínum fyrir eitthvað nýtt og við munum með ánægju útfæra það í nýju útgáfunum okkar.
     tabs:

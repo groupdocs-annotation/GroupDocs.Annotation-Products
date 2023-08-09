@@ -61,7 +61,7 @@ overview:
 
       라이브러리를 사용하여 [추가](/annotation/java/bmp/), [편집](/annotation/java/bmp/), [추출](/annotation/java/bmp/) 및 [삭제](/annotation/java/bmp/) 문서의 주석, 문서 회전, 썸네일 솔루션 변경 및 이것이 모든 가능성의 전체 목록이 아닙니다. 또한 지원되는 모든 문서 형식 내에서 요구 사항에 따라 주석 속성을 사용자 정의할 수 있는 포괄적인 데이터 객체 세트를 제공합니다.
 
-      GroupDocs.Annotation for Java API로 작업하는 것은 매우 간단하며 몇 가지 기본 단계로 구성됩니다. 먼저 라이센스를 설정한 다음 작업할 파일을 선택한 다음 문서 주석으로 조작(삭제/편집/추출/삭제)하고 결과를 저장해야 합니다. 자세한 내용은 제품 [문서](https://docs.groupdocs.com/annotation/java/getting-started/) 또는 [예제](https://github.com/groupdocs-annotation/GroupDocs.Annotation)를 참조하세요. -for-Java) 설정합니다.
+      GroupDocs.Annotation for Java API로 작업하는 것은 매우 간단하며 몇 가지 기본 단계로 구성됩니다. 먼저 라이센스를 설정한 다음 작업할 파일을 선택한 다음 문서 주석으로 조작(삭제/편집/추출/삭제)하고 결과를 저장해야 합니다. 자세한 내용은 제품 [문서](https://docs.groupdocs.com/annotation/java/getting-started/) 또는 [예제](https://github.com/groupdocs-annotation/GroupDocs.Annotation-for-Java) 설정합니다.
       
       GroupDocs.Annotation은 정기적으로 업데이트되며 고객을 위한 지원을 제공합니다. 언제든지 질문하거나 아이디어를 보내거나 새로운 것에 대한 요구 사항을 알려주시면 새 버전에서 기꺼이 구현할 것입니다.
     tabs:

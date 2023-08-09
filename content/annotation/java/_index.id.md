@@ -61,7 +61,7 @@ overview:
 
       Dengan menggunakan library, Anda dapat [menambahkan](/annotation/java/bmp/), [edit](/annotation/java/bmp/), [mengekstrak](/annotation/java/bmp/) dan [delete](/annotation/java/bmp/) anotasi dari dokumen, putar dokumen, ubah solusi thumbnail dan ini bukan daftar lengkap dari semua kemungkinan. Ini juga menawarkan kumpulan objek data yang komprehensif untuk menyesuaikan properti anotasi sesuai kebutuhan Anda dalam semua format dokumen yang didukung.
 
-      Bekerja dengan GroupDocs.Annotation untuk Java API sangat sederhana dan hanya terdiri dari beberapa langkah dasar. Pada awalnya Anda perlu menyiapkan lisensi, lalu pilih file yang ingin Anda kerjakan, lalu manipulasi entah bagaimana dengan anotasi dokumen (hapus/edit/ekstrak/hapus) dan simpan hasilnya. Untuk informasi selengkapnya, lihat [dokumentasi] produk (https://docs.groupdocs.com/annotation/java/getting-started/) atau [contoh](https://github.com/groupdocs-annotation/GroupDocs.Annotation) kami -untuk-Java) ditetapkan.
+      Bekerja dengan GroupDocs.Annotation untuk Java API sangat sederhana dan hanya terdiri dari beberapa langkah dasar. Pada awalnya Anda perlu menyiapkan lisensi, lalu pilih file yang ingin Anda kerjakan, lalu manipulasi entah bagaimana dengan anotasi dokumen (hapus/edit/ekstrak/hapus) dan simpan hasilnya. Untuk informasi selengkapnya, lihat [dokumentasi produk](https://docs.groupdocs.com/annotation/java/getting-started/) atau [contoh](https://github.com/groupdocs-annotation/GroupDocs.Annotation-for-Java) ditetapkan.
       
       GroupDocs.Annotation diperbarui secara berkala dan memberikan dukungan untuk pelanggannya, Anda selalu dapat mengajukan pertanyaan kepada kami atau mengirimkan ide Anda atau memberi tahu kami tentang kebutuhan Anda akan sesuatu yang baru dan kami akan dengan senang hati mengimplementasikannya dalam versi baru kami.
     tabs:
@@ -86,7 +86,7 @@ overview:
       ## TAB TWO ##
       tab_two:
         description: |
-          GroupDocs.Annotation untuk Java mendukung semua [format file dokumen] populer (https://docs.groupdocs.com/annotation/java/supported-document-formats/) termasuk: Microsoft Office, PDF, gambar, dan banyak lainnya.
+          GroupDocs.Annotation untuk Java mendukung semua [format file dokumen populer](https://docs.groupdocs.com/annotation/java/supported-document-formats/) termasuk: Microsoft Office, PDF, gambar, dan banyak lainnya.
 
         left:
           enable: true

@@ -22,10 +22,10 @@ about:
     enable: true
     title: "حول GroupDocs.Annotation for Net API"
     content: |
-        GroupDocs.Annotation for Net API مكتبة تسمح لك بإضافة التعليقات التوضيحية إلى PDF و Word والمستندات الأخرى على Mac أو Windows أو Ubuntu. [GroupDocs.Annotation for Net] (/annotation/net) هي واجهة برمجة تطبيقات Net أصلية لإدارة التعليقات التوضيحية مع دعم شامل لإنشاء التعليقات التوضيحية وإضافتها وتحريرها وحذفها واستخراجها وتصديرها من الصور ومستندات أخرى متنوعة. القائمة الكاملة لتنسيقات المستندات المدعومة التي يمكن أن تراها في هذه [الصفحة] (https://docs.groupdocs.com/annotation/net/supported-document-formats/).
+        GroupDocs.Annotation for Net API مكتبة تسمح لك بإضافة التعليقات التوضيحية إلى PDF و Word والمستندات الأخرى على Mac أو Windows أو Ubuntu. [GroupDocs.Annotation for Net] (/annotation/net) هي واجهة برمجة تطبيقات Net أصلية لإدارة التعليقات التوضيحية مع دعم شامل لإنشاء التعليقات التوضيحية وإضافتها وتحريرها وحذفها واستخراجها وتصديرها من الصور ومستندات أخرى متنوعة. القائمة الكاملة لتنسيقات المستندات المدعومة التي يمكن أن تراها في هذه [الصفحة](https://docs.groupdocs.com/annotation/net/supported-document-formats/).
         تتيح لك هذه المكتبة العمل ليس فقط مع مستند EMF ولكن أيضًا مع العديد من أنواع المستندات الأخرى مثل Word و Excel و PowerPoint ورسائل البريد الإلكتروني في Outlook و Visio و Adobe و OpenDocument و OpenOffice و Photoshop و AutoCad وغيرها الكثير.
         تسمح لك GroupDocs.Annotation for Net API بإنشاء وإضافة ملاحظات جديدة وتعديل التعليقات التوضيحية واستخراج التعليقات والتعليقات التوضيحية وإزالتها من المستندات. تدعم المكتبة 13 نوعًا مختلفًا من التعليقات التوضيحية ، بما في ذلك Text و Polyline و Area و Underline و Point و Watermark و Arrow و Ellipse واستبدال النص والمسافة وحقل النص وتحرير الموارد في PDF و HTML ومستندات Microsoft Word وجداول البيانات والمخططات والعروض التقديمية ، الرسومات والصور والعديد من تنسيقات الملفات الأخرى.
-        يوضح المثال (يرجى الاطلاع أدناه) العمل مع مستند EMF ، في هذا المثال يمكنك رؤية الخطوات الرئيسية لكيفية العمل مع GroupDocs.Annotation: إعداد ترخيص ، افتح المستند الذي تريد العمل معه ، وإنشاء التعليق التوضيحي وإضافة كائنات البيانات لتعيين خصائص التعليقات التوضيحية وفقًا لمتطلباتك وحفظ النتيجة في المكان المطلوب. يمكنك أيضًا إلقاء نظرة أكثر تفصيلاً على الميزات المدعومة على github [صفحة] (https://github.com/groupdocs-annotation/GroupDocs.Annotation-for-.NET) ، أو في منتجنا [التوثيق] (https://docs.groupdocs.com/annotation/net/getting-started/).
+        يوضح المثال (يرجى الاطلاع أدناه) العمل مع مستند EMF ، في هذا المثال يمكنك رؤية الخطوات الرئيسية لكيفية العمل مع GroupDocs.Annotation: إعداد ترخيص ، افتح المستند الذي تريد العمل معه ، وإنشاء التعليق التوضيحي وإضافة كائنات البيانات لتعيين خصائص التعليقات التوضيحية وفقًا لمتطلباتك وحفظ النتيجة في المكان المطلوب. يمكنك أيضًا إلقاء نظرة أكثر تفصيلاً على الميزات المدعومة على [github صفحة](https://github.com/groupdocs-annotation/GroupDocs.Annotation-for-.NET) ، أو في منتجنا [التوثيق](https://docs.groupdocs.com/annotation/net/getting-started/).
 
 ############################# Steps ############################
 howTo_Add:
@@ -44,7 +44,7 @@ steps_Add:
         *   أنظمة التشغيل: مايكروسوفت ويندوز ، لينوكس ، ماك
         *   بيئات التطوير: Visual Studio و Xamarin و MonoDevelop
         *   الأطر: .NET Framework و .NET Standard و .NET Core و Mono
-        *   قم بتنزيل أحدث إصدار من GroupDocs.Annotation for .NET من [NuGet] (https://www.nuget.org/packages/groupdocs.annotation)
+        *   قم بتنزيل أحدث إصدار من GroupDocs.Annotation for .NET من [NuGet](https://www.nuget.org/packages/groupdocs.annotation)
 
 ############################# Preview ############################
 preview_Add:
@@ -227,7 +227,7 @@ demos:
     enable: true
     title: "العروض التوضيحية الحية لإضافة التعليقات التوضيحية إلى المستندات والصور وإزالتها وتحريرها واستخراجها"
     content: |
-        قم بإضافة التعليقات التوضيحية وإزالتها وتعديلها واستخراجها إلى ملف EMF الآن من خلال زيارة موقع ويب [GroupDocs.Annotation Live Demos] (https://products.groupdocs.app/annotation/family). يحتوي العرض التوضيحي المباشر على الفوائد التالية
+        قم بإضافة التعليقات التوضيحية وإزالتها وتعديلها واستخراجها إلى ملف EMF الآن من خلال زيارة موقع ويب [GroupDocs.Annotation Live Demos](https://products.groupdocs.app/annotation/family). يحتوي العرض التوضيحي المباشر على الفوائد التالية
 
 ############################# About Formats ############################
 about_formats:

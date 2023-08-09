@@ -86,7 +86,7 @@ overview:
       ## TAB TWO ##
       tab_two:
         description: |
-          GroupDocs.Annotation-ը ցանցի համար աջակցում է բոլոր հայտնի [փաստաթղթի ֆայլերի ձևաչափերը] (https://docs.groupdocs.com/annotation/Net/supported-document-formats/), ներառյալ՝ Microsoft Office, PDF, պատկերներ և շատ ուրիշներ:
+          GroupDocs.Annotation-ը ցանցի համար աջակցում է բոլոր հայտնի [փաստաթղթի ֆայլերի ձևաչափերը](https://docs.groupdocs.com/annotation/Net/supported-document-formats/), ներառյալ՝ Microsoft Office, PDF, պատկերներ և շատ ուրիշներ:
 
         left:
           enable: true
@@ -267,7 +267,7 @@ features:
       # feature loop
       - icon: "fas fa-cube"
         link: "https://docs.groupdocs.com/annotation/net/generate-document-pages-preview/"
-        content: Ստացեք փաստաթղթի էջերի մանրապատկերներ - Կառավարեք մի շարք ծանոթագրված փաստաթղթեր պատկերների և դիագրամների համար
+        content: Ստացեք փաստաթղթի էջերի մանրապատկերներ Կառավարեք մի շարք ծանոթագրված փաստաթղթեր պատկերների և դիագրամների համար
 
       # feature loop
       - icon: "fab fa-uncharted"

@@ -61,7 +61,7 @@ overview:
 
       Amb la biblioteca, podeu [afegir](/annotation/java/bmp/), [editar](/annotation/java/bmp/), [extreure](/annotation/java/bmp/) i [suprimir](/annotation/java/bmp/) anotacions de documents, rotació de documents, solució de canvi de miniatures i aquesta no és una llista completa de totes les possibilitats. També ofereix un conjunt complet d'objectes de dades per personalitzar les propietats d'anotació segons els vostres requisits dins de tots els formats de document admesos.
 
-      Treballar amb l'API de GroupDocs.Annotation per a Java és molt senzill i només consta d'uns quants passos bàsics. Al principi, heu de configurar una llicència, després seleccionar el fitxer amb el qual voleu treballar, després manipular d'alguna manera amb les anotacions del document (suprimir/editar/extreure/suprimir) i desar el resultat. Per obtenir més informació, consulteu la [documentació] del producte (https://docs.groupdocs.com/annotation/java/getting-started/) o els nostres [exemples](https://github.com/groupdocs-annotation/GroupDocs.Annotation -per-Java).
+      Treballar amb l'API de GroupDocs.Annotation per a Java és molt senzill i només consta d'uns quants passos bàsics. Al principi, heu de configurar una llicència, després seleccionar el fitxer amb el qual voleu treballar, després manipular d'alguna manera amb les anotacions del document (suprimir/editar/extreure/suprimir) i desar el resultat. Per obtenir més informació, consulteu la [documentació del producte](https://docs.groupdocs.com/annotation/java/getting-started/) o els nostres [exemples](https://github.com/groupdocs-annotation/GroupDocs.Annotation-for-Java).
       
       GroupDocs.Annotation s'actualitza periòdicament i ofereix suport als seus clients, sempre podeu fer-nos preguntes o enviar-nos les vostres idees o explicar-nos les vostres necessitats per a alguna cosa nova i ho implementarem amb molt de gust a les nostres noves versions.
     tabs:
@@ -86,7 +86,7 @@ overview:
       ## TAB TWO ##
       tab_two:
         description: |
-          GroupDocs.Annotation per a Java admet tots els [formats de fitxers de documents] populars (https://docs.groupdocs.com/annotation/java/supported-document-formats/), inclosos: Microsoft Office, PDF, imatges i molts altres.
+          GroupDocs.Annotation per a Java admet tots els [formats de fitxers de documents populars](https://docs.groupdocs.com/annotation/java/supported-document-formats/), inclosos: Microsoft Office, PDF, imatges i molts altres.
 
         left:
           enable: true

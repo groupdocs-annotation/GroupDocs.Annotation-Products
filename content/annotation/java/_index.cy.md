@@ -61,7 +61,7 @@ overview:
 
       Gan ddefnyddio'r llyfrgell, gallwch [ychwanegu](/annotation/java/bmp/), [golygu](/annotation/java/bmp/), [dyfyniad](/annotation/java/bmp/) a [dileu](/annotation/java/bmp/) anodiadau o ddogfennau, cylchdroi dogfennau, newid datrysiad mân-luniau ac nid yw hon yn rhestr gyflawn o'r holl bosibiliadau. Mae hefyd yn cynnig set gynhwysfawr o wrthrychau data i addasu priodweddau anodi yn unol â'ch gofynion ym mhob fformat dogfen a gefnogir.
 
-      Mae gweithio gyda'r GroupDocs.Annotation ar gyfer Java API yn syml iawn ac mae'n cynnwys ychydig o gamau sylfaenol yn unig. Ar y dechrau mae angen i chi osod trwydded, yna dewiswch y ffeil rydych chi am weithio gyda hi, yna ei thrin rywsut gydag anodiadau dogfen (dileu / golygu / echdynnu / dileu) ac arbed y canlyniad. Am ragor o wybodaeth gweler y cynnyrch [dogfennaeth]( https://docs.groupdocs.com/annotation/java/getting-started/ ) neu ein [enghreifftiau]( https://github.com/groupdocs-annotation/GroupDocs.Annotation -for-Java) set.
+      Mae gweithio gyda'r GroupDocs.Annotation ar gyfer Java API yn syml iawn ac mae'n cynnwys ychydig o gamau sylfaenol yn unig. Ar y dechrau mae angen i chi osod trwydded, yna dewiswch y ffeil rydych chi am weithio gyda hi, yna ei thrin rywsut gydag anodiadau dogfen (dileu / golygu / echdynnu / dileu) ac arbed y canlyniad. Am ragor o wybodaeth gweler y cynnyrch [dogfennaeth](https://docs.groupdocs.com/annotation/java/getting-started/ ) neu ein [enghreifftiau]( https://github.com/groupdocs-annotation/GroupDocs.Annotation -for-Java) set.
       
       Mae GroupDocs.Annotation yn cael ei ddiweddaru'n rheolaidd ac yn darparu cefnogaeth i'w gwsmeriaid, mae croeso bob amser i chi ofyn cwestiynau i ni neu anfon eich syniadau neu ddweud wrthym am eich anghenion am rywbeth newydd a byddwn yn falch o'i weithredu yn ein fersiynau newydd.
     tabs:
@@ -86,7 +86,7 @@ overview:
       ## TAB TWO ##
       tab_two:
         description: |
-          Mae GroupDocs.Annotation for Java yn cefnogi'r holl [fformatau ffeil dogfen] poblogaidd (https://docs.groupdocs.com/annotation/java/supported-document-formats/) gan gynnwys: Microsoft Office, PDF, delweddau a llawer o rai eraill.
+          Mae GroupDocs.Annotation for Java yn cefnogi'r holl [fformatau ffeil dogfen poblogaidd](https://docs.groupdocs.com/annotation/java/supported-document-formats/) gan gynnwys: Microsoft Office, PDF, delweddau a llawer o rai eraill.
 
         left:
           enable: true

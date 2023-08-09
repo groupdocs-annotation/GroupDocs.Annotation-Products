@@ -25,7 +25,7 @@ about:
         GroupDocs.Annotation for Java API — это библиотека, позволяющая добавлять аннотации в PDF, Word и другие документы на Mac, Windows или Ubuntu. [GroupDocs.Annotation for Java](/annotation/java) — это собственный Java API для управления аннотациями с комплексной поддержкой создания, добавления, редактирования, удаления, извлечения и экспорта аннотаций из изображений и различных других документов. Полный список поддерживаемых форматов документов вы можете увидеть на этой [странице](https://docs.groupdocs.com/annotation/java/supported-document-formats/).
         Эта библиотека позволяет работать не только с документом DOCX, но и со многими другими типами документов, такими как Word, Excel, PowerPoint, сообщения электронной почты Outlook, Visio, Adobe, OpenDocument, OpenOffice, Photoshop, AutoCad и многими другими.
         API GroupDocs.Annotation for Java позволяет создавать и добавлять новые заметки, редактировать аннотации, извлекать комментарии, аннотации и удалять их из документов. Библиотека поддерживает 13 различных типов аннотаций, включая текст, полилинию, область, подчеркивание, точку, водяной знак, стрелку, эллипс, замену текста, расстояние, текстовое поле, редактирование ресурсов в PDF, HTML, документах Microsoft Word, электронных таблицах, диаграммах, презентациях, чертежи, изображения и многие другие форматы файлов.
-        Пример (см. ниже) демонстрирует работу с документом DOCX, в этом примере вы можете увидеть основные шаги работы с GroupDocs. аннотацию, добавляя объекты данных для установки свойств аннотации в соответствии с вашими требованиями и сохраняя результат в нужном месте. Также вы можете более подробно ознакомиться с поддерживаемыми функциями на нашей [странице] github (https://github.com/groupdocs-annotation/GroupDocs.Annotation-for-Java) или в [документации] нашего продукта (https://docs.groupdocs.com/annotation/java/getting-started/).
+        Пример (см. ниже) демонстрирует работу с документом DOCX, в этом примере вы можете увидеть основные шаги работы с GroupDocs. аннотацию, добавляя объекты данных для установки свойств аннотации в соответствии с вашими требованиями и сохраняя результат в нужном месте. Также вы можете более подробно ознакомиться с поддерживаемыми функциями на нашей [странице github](https://github.com/groupdocs-annotation/GroupDocs.Annotation-for-Java) или в [документации нашего продукта](https://docs.groupdocs.com/annotation/java/getting-started/).
 
 ############################# Steps ############################
 howTo_Add:
@@ -44,7 +44,7 @@ steps_Add:
         *   Операционные системы: Microsoft Windows, Linux, MacOS
         *   Среда разработки: NetBeans, Intellij IDEA, Eclipse и т. д.
         *   Среда выполнения Java: Java 7 (1.7) и выше
-        *   Получите последнюю версию GroupDocs.Annotation для Java из [репозитория артефактов GroupDocs] (https://repository.groupdocs.com/webapp/#/artifacts/browse/tree/General/repo/com/groupdocs/groupdocs-annotation)
+        *   Получите последнюю версию GroupDocs.Annotation для Java из [репозитория артефактов GroupDocs](https://repository.groupdocs.com/webapp/#/artifacts/browse/tree/General/repo/com/groupdocs/groupdocs-annotation)
 
 ############################# Preview ############################
 preview_Add:

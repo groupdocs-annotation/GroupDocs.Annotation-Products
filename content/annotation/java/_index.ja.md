@@ -61,7 +61,7 @@ overview:
 
       ライブラリを使用すると、[追加](/annotation/java/bmp/)、[編集](/annotation/java/bmp/)、[抽出](/annotation/java/bmp/)、[削除](/annotation/java/bmp/) ドキュメントからの注釈、ドキュメントの回転、サムネイルの変更ソリューションですが、これはすべての可能性の完全なリストではありません。また、サポートされているすべてのドキュメント形式内で要件に応じて注釈プロパティをカスタマイズするためのデータ オブジェクトの包括的なセットも提供します。
 
-      GroupDocs.Annotation for Java API の操作は非常に簡単で、いくつかの基本的な手順だけで構成されます。最初にライセンスを設定し、次に操作したいファイルを選択し、ドキュメントの注釈を使用して何らかの操作 (削除/編集/抽出/削除) を行い、結果を保存する必要があります。詳細については、製品の [ドキュメント](https://docs.groupdocs.com/annotation/java/getting-started/) または [例](https://github.com/groupdocs-annotation/GroupDocs.Annotation) を参照してください。 -for-Java) を設定します。
+      GroupDocs.Annotation for Java API の操作は非常に簡単で、いくつかの基本的な手順だけで構成されます。最初にライセンスを設定し、次に操作したいファイルを選択し、ドキュメントの注釈を使用して何らかの操作 (削除/編集/抽出/削除) を行い、結果を保存する必要があります。詳細については、製品の [ドキュメント](https://docs.groupdocs.com/annotation/java/getting-started/) または [例](https://github.com/groupdocs-annotation/GroupDocs.Annotation-for-Java) を設定します。
       
       GroupDocs.Annotation は定期的に更新され、顧客にサポートを提供します。いつでも私たちに質問したり、アイデアを送ったり、何か新しいものに対するニーズを教えてください。喜んで新しいバージョンに実装します。
     tabs:

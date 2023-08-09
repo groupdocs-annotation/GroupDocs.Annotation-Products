@@ -86,7 +86,7 @@ overview:
       ## TAB TWO ##
       tab_two:
         description: |
-          GroupDocs.Annotation за Net ги поддржува сите популарни [формати на датотеки со документи] (https://docs.groupdocs.com/annotation/Net/supported-document-formats/) вклучувајќи: Microsoft Office, PDF, слики и многу други.
+          GroupDocs.Annotation за Net ги поддржува сите популарни [формати на датотеки со документи](https://docs.groupdocs.com/annotation/Net/supported-document-formats/) вклучувајќи: Microsoft Office, PDF, слики и многу други.
 
         left:
           enable: true

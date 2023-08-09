@@ -61,7 +61,7 @@ overview:
 
       لائبریری کا استعمال کرتے ہوئے، آپ [add](/annotation/java/bmp/)، [ترمیم](/annotation/java/bmp/)، [extract](/annotation/java/bmp/) اور [delete](/annotation/java/bmp/) دستاویزات سے تشریحات، دستاویزات کو گھمائیں، تھمب نیل حل تبدیل کریں اور یہ تمام امکانات کی مکمل فہرست نہیں ہے۔ یہ تمام معاون دستاویز فارمیٹس میں آپ کی ضروریات کے مطابق تشریحی خصوصیات کو اپنی مرضی کے مطابق بنانے کے لیے ڈیٹا آبجیکٹ کا ایک جامع سیٹ بھی پیش کرتا ہے۔
 
-      جاوا API کے لیے GroupDocs.Annotation کے ساتھ کام کرنا بہت آسان ہے اور صرف چند بنیادی مراحل پر مشتمل ہے۔ سب سے پہلے آپ کو ایک لائسنس ترتیب دینے کی ضرورت ہے، پھر اس فائل کو منتخب کریں جس کے ساتھ آپ کام کرنا چاہتے ہیں، پھر کسی طرح دستاویز کی تشریحات (ڈیلیٹ/ترمیم/ایکسٹریکٹ/ڈیلیٹ) کے ساتھ جوڑ توڑ کریں اور نتیجہ کو محفوظ کریں۔ مزید معلومات کے لیے براہ کرم پروڈکٹ دیکھیں [دستاویزات](https://docs.groupdocs.com/annotation/java/getting-started/) یا ہماری [مثالیں](https://github.com/groupdocs-annotation/GroupDocs.Annotation) -for-Java) سیٹ کریں۔
+      جاوا API کے لیے GroupDocs.Annotation کے ساتھ کام کرنا بہت آسان ہے اور صرف چند بنیادی مراحل پر مشتمل ہے۔ سب سے پہلے آپ کو ایک لائسنس ترتیب دینے کی ضرورت ہے، پھر اس فائل کو منتخب کریں جس کے ساتھ آپ کام کرنا چاہتے ہیں، پھر کسی طرح دستاویز کی تشریحات (ڈیلیٹ/ترمیم/ایکسٹریکٹ/ڈیلیٹ) کے ساتھ جوڑ توڑ کریں اور نتیجہ کو محفوظ کریں۔ مزید معلومات کے لیے براہ کرم پروڈکٹ دیکھیں [دستاویزات](https://docs.groupdocs.com/annotation/java/getting-started/) یا ہماری [مثالیں](https://github.com/groupdocs-annotation/GroupDocs.Annotation-for-Java) سیٹ کریں۔
       
       GroupDocs.Annotation کو باقاعدگی سے اپ ڈیٹ کیا جاتا ہے اور اپنے صارفین کو مدد فراہم کرتا ہے، آپ ہمیشہ ہم سے کوئی سوال پوچھنے یا اپنے خیالات بھیجنے یا کسی نئی چیز کے لیے اپنی ضروریات کے بارے میں ہمیں بتانے کا خیرمقدم کرتے ہیں اور ہم اسے اپنے نئے ورژن میں بخوشی نافذ کریں گے۔
     tabs:
@@ -86,7 +86,7 @@ overview:
       ## TAB TWO ##
       tab_two:
         description: |
-          GroupDocs.Annotation for Java تمام مقبول [دستاویز فائل فارمیٹس](https://docs.groupdocs.com/annotation/java/supported-document-formats/) کو سپورٹ کرتا ہے بشمول: Microsoft Office، PDF، تصاویر اور بہت سے دوسرے۔
+          GroupDocs.Annotation for Java [تمام مقبول دستاویز فائل فارمیٹس](https://docs.groupdocs.com/annotation/java/supported-document-formats/) کو سپورٹ کرتا ہے بشمول: Microsoft Office، PDF، تصاویر اور بہت سے دوسرے۔
 
         left:
           enable: true

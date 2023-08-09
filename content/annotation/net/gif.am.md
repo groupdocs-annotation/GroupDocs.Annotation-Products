@@ -22,10 +22,10 @@ about:
     enable: true
     title: "ስለ GroupDocs ማብራሪያ ለኔት ኤፒአይ"
     content: |
-        GroupDocs. Annotation for Net API ማብራሪያዎችን ወደ ፒዲኤፍ፣ ዎርድ እና ሌሎች ሰነዶች በ Mac፣ Windows ወይም Ubuntu ላይ እንዲያክሉ የሚያስችልዎ ቤተ-መጽሐፍት ነው። [GroupDocs. Annotation for Net](/annotation/net) ማብራሪያዎችን ለመፍጠር፣ ለማከል፣ ለማረም፣ ለመሰረዝ፣ ለማውጣት እና ከምስል እና ከተለያዩ ሰነዶች ለመላክ አጠቃላይ ድጋፍ ያለው ኔትዎርክ ኤፒአይ ነው። በዚህ [ገጽ] (https://docs.groupdocs.com/annotation/net/supported-document-formats/) ላይ ሊያዩት የሚችሉት የሚደገፉ የሰነድ ቅርጸቶች ሙሉ ዝርዝር።
+        GroupDocs. Annotation for Net API ማብራሪያዎችን ወደ ፒዲኤፍ፣ ዎርድ እና ሌሎች ሰነዶች በ Mac፣ Windows ወይም Ubuntu ላይ እንዲያክሉ የሚያስችልዎ ቤተ-መጽሐፍት ነው። [GroupDocs. Annotation for Net](/annotation/net) ማብራሪያዎችን ለመፍጠር፣ ለማከል፣ ለማረም፣ ለመሰረዝ፣ ለማውጣት እና ከምስል እና ከተለያዩ ሰነዶች ለመላክ አጠቃላይ ድጋፍ ያለው ኔትዎርክ ኤፒአይ ነው። በዚህ [ገጽ](https://docs.groupdocs.com/annotation/net/supported-document-formats/) ላይ ሊያዩት የሚችሉት የሚደገፉ የሰነድ ቅርጸቶች ሙሉ ዝርዝር።
         ይህ ቤተ-መጽሐፍት በGIF ሰነድ ብቻ ሳይሆን እንደ Word፣ Excel፣ PowerPoint፣ Outlook ኢሜይሎች፣ Visio፣ Adobe፣ OpenDocument፣ OpenOffice፣ Photoshop፣ AutoCad እና ሌሎች ብዙ አይነት ሰነዶችን እንድትሰራ ይፈቅድልሃል።
         የቡድን ሰነዶች ማብራሪያ ለኔት ኤፒአይ አዲስ ማስታወሻዎችን እንዲፈጥሩ እና እንዲያክሉ፣ ማብራሪያዎችን እንዲያርትዑ፣ አስተያየቶችን ለማውጣት፣ ማብራሪያዎችን ለማውጣት እና ከሰነዶች እንዲያስወግዷቸው ይፈቅድልዎታል። ቤተ መፃህፍቱ ጽሑፍ፣ ፖሊላይን፣ አካባቢ፣ ከስር መስመር፣ ነጥብ፣ የውሃ ምልክት፣ ቀስት፣ ኤሊፕስ፣ የጽሑፍ መተኪያ፣ ርቀት፣ የጽሑፍ መስክ፣ የሀብት ማሻሻያ በፒዲኤፍ፣ ኤችቲኤምኤል፣ የማይክሮሶፍት ዎርድ ሰነዶች፣ የተመን ሉሆች፣ ሥዕላዊ መግለጫዎች፣ አቀራረቦችን ጨምሮ 13 የተለያዩ የማብራሪያ ዓይነቶችን ይደግፋል። ስዕሎች, ምስሎች እና ሌሎች ብዙ የፋይል ቅርጸቶች.
-        ምሳሌው (እባክዎ ከዚህ በታች ይመልከቱ) ከGIF ሰነድ ጋር አብሮ መስራትን ያሳያል፣ በዚህ ምሳሌ ውስጥ ከGroupDocs ጋር እንዴት እንደሚሰሩ ዋና ዋና ደረጃዎችን ማየት ይችላሉ። ማብራሪያ፡ ፍቃድ ማዘጋጀት፣ መስራት የሚፈልጉትን ሰነድ መክፈት፣ መፍጠር ማብራሪያ፣ እንደ ፍላጎቶችዎ የማብራሪያ ባህሪያትን ለማዘጋጀት የውሂብ እቃዎችን ማከል እና ውጤቱን ወደሚፈለገው ቦታ ማስቀመጥ። እንዲሁም በእኛ github [ገጽ] (https://github.com/groupdocs-annotation/GroupDocs.Annotation-for-.NET) ወይም በእኛ ምርት [ሰነድ](https://github.com/groupdocs-annotation/GroupDocs.Annotation-for-.NET) ላይ ስለሚደገፉት ባህሪያት የበለጠ ዝርዝር እይታ ሊኖርህ ይችላል። ://docs.groupdocs.com/annotation/net/getting-started/)።
+        ምሳሌው (እባክዎ ከዚህ በታች ይመልከቱ) ከGIF ሰነድ ጋር አብሮ መስራትን ያሳያል፣ በዚህ ምሳሌ ውስጥ ከGroupDocs ጋር እንዴት እንደሚሰሩ ዋና ዋና ደረጃዎችን ማየት ይችላሉ። ማብራሪያ፡ ፍቃድ ማዘጋጀት፣ መስራት የሚፈልጉትን ሰነድ መክፈት፣ መፍጠር ማብራሪያ፣ እንደ ፍላጎቶችዎ የማብራሪያ ባህሪያትን ለማዘጋጀት የውሂብ እቃዎችን ማከል እና ውጤቱን ወደሚፈለገው ቦታ ማስቀመጥ። እንዲሁም በእኛ github [ገጽ](https://github.com/groupdocs-annotation/GroupDocs.Annotation-for-.NET) ወይም በእኛ ምርት [ሰነድ](https://docs.groupdocs.com/annotation/net/getting-started/) ላይ ስለሚደገፉት ባህሪያት የበለጠ ዝርዝር እይታ ሊኖርህ ይችላል።
 
 ############################# Steps ############################
 howTo_Add:
